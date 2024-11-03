@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ae9c3762-bdf1-466e-bd67-b68afbaab40d</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>wielton</InternalName>
+  <VehicleAuthor>Schumi</VehicleAuthor>
+  <VehicleName>Wielton Curtain</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>x</Description>
+      <Image>wielton_trailers.jpg</Image>
+      <InternalName>body.curtain</InternalName>
+      <Name>Wielton Curtain</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>2301-19-146__curtain.png</XmlDefinitionAuthor>
+</Variable>

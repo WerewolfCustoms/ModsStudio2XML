@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+	<ChildVariables />
+	<Id>e00a5b1a-659c-4591-aefa-808635cf573a</Id>
+	<IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2020</Major>
+	 <Minor>7</Minor>
+	</MS2LibraryVersion>
+	<InternalName>menci</InternalName>
+	<VehicleName>Menci Cistern Advanced</VehicleName>
+	<VehicleAuthor>MDModding</VehicleAuthor>
+	<VehicleImage />
+	<VehicleType>Trailers</VehicleType>
+	<Game>ETS2</Game>
+	<VehicleVariants>
+		<Variant>
+			<InternalName>body.body_1</InternalName>
+			<Name>FULL Paint WITH Line</Name>
+		</Variant>
+		<Variant>
+			<InternalName>body.body_2</InternalName>
+			<Name>FULL Paint NO Line</Name>
+		</Variant>
+		<Variant>
+			<InternalName>body.body_3</InternalName>
+			<Name>FULL Paint WITH Line</Name>
+		</Variant>
+		<Variant>
+			<InternalName>body.body_4</InternalName>
+			<Name>PAINT and CHROME NO Line</Name>
+		</Variant>
+		<Variant>
+			<InternalName>body.body_5</InternalName>
+			<Name>FULL CHROME WITH Line</Name>
+		</Variant>
+		<Variant>
+			<InternalName>body.body_6</InternalName>
+			<Name>FULL CHROME NO Line</Name>
+		</Variant>
+		<Variant>
+			<InternalName>body.body_7</InternalName>
+			<Name>CHROME and PAINT WITH Line</Name>
+		</Variant>
+		<Variant>
+			<InternalName>body.body_8</InternalName>
+			<Name>CHROME and PAINT NO Line</Name>
+		</Variant>
+	</VehicleVariants>
+
+  <AccessoryItems> 
+    <ListItem>	
+      <ChildVariables />
+      <Group>BUMPERS</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>r_bumper.paint1</Text>
+      <Value>r_bumper.paint1</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>BUMPERS</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>r_bumper.paint2</Text>
+      <Value>r_bumper.paint2</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>BUMPERS</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>r_bumper.paint3</Text>
+      <Value>r_bumper.paint3</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>BUMPERS</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>r_bumper.paint4</Text>
+      <Value>r_bumper.paint4</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+
+    <ListItem>	
+      <ChildVariables />
+      <Group>MUDFLAPS</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>r_mudflap.paint</Text>
+      <Value>r_mudflap.paint</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIPARTS BODY</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>f_body.paint</Text>
+      <Value>f_body.paint</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIPARTS BODY</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>r_body.paint</Text>
+      <Value>r_body.paint</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIPART BOX REAR</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>box_rear.paint1</Text>
+      <Value>box_rear.paint1</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIPART BOX REAR</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>box_rear.paint2</Text>
+      <Value>box_rear.paint2</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIPARTS LEFT SIDES</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chs_f_l.paint1</Text>
+      <Value>chs_f_l.paint1</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIPARTS LEFT SIDES</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chs_r_l.paint1</Text>
+      <Value>chs_r_l.paint1</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIPARTS LEFT SIDES</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chs_r_l.paint2</Text>
+      <Value>chs_r_l.paint2</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIPARTS LEFT SIDES</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chs_r_l.paint3</Text>
+      <Value>chs_r_l.paint3</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIPARTS RIGHT SIDES</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chs_f_r.paint1</Text>
+      <Value>chs_f_r.paint1</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIPARTS RIGHT SIDES</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chs_r_r.paint1</Text>
+      <Value>chs_r_r.paint1</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIPARTS RIGHT SIDES</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chs_r_r.paint2</Text>
+      <Value>chs_r_r.paint2</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIPARTS RIGHT SIDES</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chs_r_r.paint3</Text>
+      <Value>chs_r_r.paint3</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIPARTS FRAMES</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chassis.mdm_1</Text>
+      <Value>chassis.mdm_1</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIPARTS FRAMES</Group>
+      <Id>8de8b7ae-c19a-42f3-9103-1b67910d4903</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chassis.mdm_2</Text>
+      <Value>chassis.mdm_2</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+	
+  </AccessoryItems>
+</Variable>

@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>514858b7-377c-415c-b2d2-b5dbd7f5b4a8</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+  <ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>Globetrotter XL Deflectors 2</Text>
+      <Value>t_deflector.shape6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>Sleeper Deflectors</Text>
+      <Value>t_deflector.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>Deflectors</Text>
+      <Value>t_deflector.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>Globetrotter Deflectors 2</Text>
+      <Value>t_deflector.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>Globetrotter XL Deflectors</Text>
+      <Value>t_deflector.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>Sleeper Deflectors 2</Text>
+      <Value>t_deflector.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflector</Group>
+      <Text>Sleeper Deflectors</Text>
+      <Value>s_deflector.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflector</Group>
+      <Text>Sleeper Deflectors 2</Text>
+      <Value>s_deflector.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflector</Group>
+      <Text>Globetrotter Deflectors</Text>
+      <Value>s_deflector.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflector</Group>
+      <Text>Globetrotter Deflectors 2</Text>
+      <Value>s_deflector.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflector</Group>
+      <Text>Globetrotter XL Deflectors</Text>
+      <Value>s_deflector.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflector</Group>
+      <Text>Globetrotter XL Deflectors 2</Text>
+      <Value>s_deflector.shape6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>Sleeper Lightbox</Text>
+      <Value>r_grill.shape2_b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>Sleeper lightbox Orange</Text>
+      <Value>r_grill.shape3_b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>Globetrotter Lightbox</Text>
+      <Value>r_grill.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>Globetrotter lightbox Orange</Text>
+      <Value>r_grill.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>Globetrotter XL Lightbox</Text>
+      <Value>r_grill.shape2_t</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>Globetrotter XL lightbox Orange</Text>
+      <Value>r_grill.shape3_t</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Decal Frame</Group>
+      <Text>Globetrotter Paint</Text>
+      <Value>f_glob.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Decal Frame</Group>
+      <Text>Globetrotter XL Paint</Text>
+      <Value>f_glob.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Decal</Group>
+      <Text>Custom</Text>
+      <Value>f_sticker.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Decal</Group>
+      <Text>Paint</Text>
+      <Value>f_sticker.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Holland 1</Text>
+      <Value>f_sun.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Holland 2</Text>
+      <Value>f_sun.shape7</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Holland 3</Text>
+      <Value>f_sun.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Holland 4</Text>
+      <Value>f_sun.shape6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Paint</Text>
+      <Value>f_sun.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Semi Paint</Text>
+      <Value>f_sun.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front mirror</Group>
+      <Text>Paint</Text>
+      <Value>f_mirror.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Mirror</Group>
+      <Text>paint</Text>
+      <Value>s_mirror.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Paint</Text>
+      <Value>mirror.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Paint Full</Text>
+      <Value>mirror.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Window Frame</Group>
+      <Text>Paint</Text>
+      <Value>f_wiper.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Badge Plate</Group>
+      <Text>Paint</Text>
+      <Value>f_pass.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Badge Plate</Group>
+      <Text>Paint Clear</Text>
+      <Value>f_pass.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Badge</Group>
+      <Text>Paint 1</Text>
+      <Value>f_logo.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Badge</Group>
+      <Text>Paint 2</Text>
+      <Value>f_logo.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Badge</Group>
+      <Text>Paint 3</Text>
+      <Value>f_logo.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Corner Deflector</Group>
+      <Text>Paint</Text>
+      <Value>cor_def.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Grille</Group>
+      <Text>Paint</Text>
+      <Value>f_inlay_cab.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Grille Bottom</Group>
+      <Text>Paint</Text>
+      <Value>f_inlay_chs.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_cab.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Paint FH16</Text>
+      <Value>f_intake_cab.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask Bottom</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_chs.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask Bottom</Group>
+      <Text>Paint FH16</Text>
+      <Value>f_intake_chs.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask Infill</Group>
+      <Text>Paint</Text>
+      <Value>f_inside_d.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask Infill Ribs</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_d.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Eyebrow</Group>
+      <Text>Paint</Text>
+      <Value>f_light_cab.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Bullbar</Group>
+      <Text>Bullbar 1</Text>
+      <Value>f_grill.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Bullbar</Group>
+      <Text>Bullbar 2</Text>
+      <Value>f_grill.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Bullbar</Group>
+      <Text>Bullbar 3</Text>
+      <Value>f_grill.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Foglight</Group>
+      <Text>Paint</Text>
+      <Value>f_fog.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Paint Low</Text>
+      <Value>f_bumper.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Paint High</Text>
+      <Value>f_bumper.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Lower Grille Guard</Group>
+      <Text>Paint Low</Text>
+      <Value>b_grill.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Lower Grille Guard</Group>
+      <Text>Paint 2 Low</Text>
+      <Value>b_grill.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Lower Grille Guard</Group>
+      <Text>Paint 3 High</Text>
+      <Value>b_grill.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front fender</Group>
+      <Text>Paint Top</Text>
+      <Value>f_fender.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front fender</Group>
+      <Text>Paint Bottom</Text>
+      <Value>fender_chs.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Exhaust</Group>
+      <Text>Paint</Text>
+      <Value>r_rury.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Toolbox</Group>
+      <Text>Toolbox 1</Text>
+      <Value>r_toolbox.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Toolbox</Group>
+      <Text>Toolbox 2</Text>
+      <Value>r_toolbox.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Cover</Group>
+      <Text>Holland</Text>
+      <Value>t_plate.shape1h</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>4x Left Holland</Text>
+      <Value>baki_l.shape1h</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>4x Left Holland</Text>
+      <Value>baki_l.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>4x Left Holland</Text>
+      <Value>baki_l.shape3_l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>4x Right Holland</Text>
+      <Value>baki_r.shape1h</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>4x Right Holland</Text>
+      <Value>baki_r.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>4x Right Holland</Text>
+      <Value>baki_r.shape3_l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>6x Paint</Text>
+      <Value>bak_64.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Holland</Text>
+      <Value>sideskirt.shape1h</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Paint</Text>
+      <Value>sideskirt.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Paint Low</Text>
+      <Value>sideskirt.shape2_l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Holland</Text>
+      <Value>sideskirt.shape4h</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Paint</Text>
+      <Value>sideskirt.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Paint Low</Text>
+      <Value>sideskirt.shape4_l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Lightbar</Group>
+      <Text>Left Paint 1</Text>
+      <Value>exhaust_l.shape1_t</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Lightbar</Group>
+      <Text>Left Paint 2</Text>
+      <Value>exhaust_l.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Lightbar</Group>
+      <Text>Right Paint 1</Text>
+      <Value>exhaust_r.shape1_t</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Lightbar</Group>
+      <Text>Right Paint 2</Text>
+      <Value>exhaust_r.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>4x Paint</Text>
+      <Value>r_fender.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>4x Paint Open</Text>
+      <Value>r_fender.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Paint</Text>
+      <Value>r_fender.shape8</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Paint Open</Text>
+      <Value>r_fender.shape7</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>8x Paint</Text>
+      <Value>r_fender.shape12</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>8x Paint Open</Text>
+      <Value>r_fender.shape11</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Bumper 1</Text>
+      <Value>r_bumper.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Bumper 2</Text>
+      <Value>r_bumper.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Bumper 3</Text>
+      <Value>r_bumper.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Bumper 4</Text>
+      <Value>r_bumper.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Tandem Box</Group>
+      <Text>Paint</Text>
+      <Value>r_box.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Tandem Wielton</Group>
+      <Text>Close Left</Text>
+      <Value>wielton_l.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Tandem Wielton</Group>
+      <Text>Close Right</Text>
+      <Value>wielton_r.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Tandem Wielton</Group>
+      <Text>Open Left</Text>
+      <Value>wielton_l.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Tandem Wielton</Group>
+      <Text>Open Right</Text>
+      <Value>wielton_r.shape2</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.virtual.service.volvo.fh5.2021.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>volvofh5</InternalName>
+  <VehicleAuthor>Virtual Service</VehicleAuthor>
+  <VehicleName>Volvo FH5 2021</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>low.volvofh5.cabin</InternalName>
+      <Name>Sleeper</Name>
+    </Variant>
+	<Variant>
+      <InternalName>mid.volvofh5.cabin</InternalName>
+      <Name>Globetrotter</Name>
+    </Variant>
+    <Variant>
+      <InternalName>high.volvofh5.cabin</InternalName>
+      <Name>Globetrotter XL</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay</XmlDefinitionAuthor>
+</Variable>

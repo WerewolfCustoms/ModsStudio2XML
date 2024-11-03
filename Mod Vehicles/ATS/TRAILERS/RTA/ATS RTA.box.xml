@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ff10daf9-c74d-48fd-8489-cd0c09992a10</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description />
+      <Text>Painted Thermo Fridge</Text>
+      <Value>thermo.maxicube</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Wheel Arches</Text>
+      <Value>wings.maxicube2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Mudflaps</Text>
+      <Value>mudflaps.m_maxi4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Box Frame</Text>
+      <Value>framework.maxicube3</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.rta.box.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>rta.box</InternalName>
+  <VehicleAuthor>RTA</VehicleAuthor>
+  <VehicleName>Maxicube Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

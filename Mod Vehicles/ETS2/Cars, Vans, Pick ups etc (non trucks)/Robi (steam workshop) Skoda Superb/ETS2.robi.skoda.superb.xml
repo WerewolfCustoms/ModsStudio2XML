@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>708436c6-8c69-4212-a0dd-96a194950ceb</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Default Mirrors - Paint</Text>
+      <Value>mirror.shape1</Value>
+	  <Description>Use a 4x4 pixel square colour for this accessory.</Description>
+    </ListItem>
+	<ListItem>
+      <Text>Caravan Mirrors</Text>
+      <Value>c_mirror.default</Value>
+	  <Description>Use a 4x4 pixel square colour for this accessory.</Description>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>skoda.superb</InternalName>
+  <VehicleAuthor>Robi</VehicleAuthor>
+  <VehicleName>Škoda Superb</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>standard.skoda.superb.cabin</InternalName>
+      <Name>Standard</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

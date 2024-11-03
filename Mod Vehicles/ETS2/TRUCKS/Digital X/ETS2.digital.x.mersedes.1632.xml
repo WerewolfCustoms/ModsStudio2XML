@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>9ee9a8e7-0a1a-4844-94ac-d4f4ef030db0</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Dwutlenek węgla</Text>
+      <Value>adr_plate.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paliwo lotnicze</Text>
+      <Value>adr_plate.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Węglowodory</Text>
+      <Value>adr_plate.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Inne Materiały niebezpieczne</Text>
+      <Value>adr_plate.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chlor</Text>
+      <Value>adr_plate.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Odpady</Text>
+      <Value>adr_plate.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Spirytus</Text>
+      <Value>adr_plate.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Żywica</Text>
+      <Value>adr_plate.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Materiał silnie trujący</Text>
+      <Value>adr_plate.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Benzyna</Text>
+      <Value>adr_plate.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Izopropanol</Text>
+      <Value>adr_plate.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ksyleny</Text>
+      <Value>adr_plate.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plasikowy</Text>
+      <Value>atrapa.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Malowany</Text>
+      <Value>atrapa.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Drabinki - chrom</Text>
+      <Value>back_cab.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Drabinki - malowane</Text>
+      <Value>back_cab.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Filtr powietrza@@</Text>
+      <Value>b_filtr.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@wciągarka@@</Text>
+      <Value>b_filtr.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dodatkowe lampy dolne 1</Text>
+      <Value>b_grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dodatkowe lampy dolne 2</Text>
+      <Value>b_grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Światła obrysowe</Text>
+      <Value>b_grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Światła obrysowe chromowe</Text>
+      <Value>b_grill.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dodatkowe lampy dolne 2 + obrysy</Text>
+      <Value>b_grill.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dodatkowe lampy dolne 2 + obrysy chrom</Text>
+      <Value>b_grill.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>codrv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Spoiler dachowy - chromowy</Text>
+      <Value>coz.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Spoiler dachowy - malowany</Text>
+      <Value>coz.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Spoiler dachowy 2 gen - malowany</Text>
+      <Value>coz.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>c_badge.16</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>c_badge.20</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>c_badge.22</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>c_badge.26</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ekualizer Garage</Text>
+      <Value>decals.reklama1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kaarfor</Text>
+      <Value>decals.reklama2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>WGCC</Text>
+      <Value>decals.reklama3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>FCP</Text>
+      <Value>decals.reklama4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tree - ET</Text>
+      <Value>decals.reklama5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ITCC</Text>
+      <Value>decals.reklama6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Posped</Text>
+      <Value>decals.reklama7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Euro Goodies</Text>
+      <Value>decals.reklama8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Twoja Reklama</Text>
+      <Value>decals.reklama9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>drv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Dym@@</Text>
+      <Value>dym.dym</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Filtr powietrza@@</Text>
+      <Value>filtr.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>f_badge.intercooler</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>f_badge.turbo</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Champion - chromowy</Text>
+      <Value>f_grill.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Champion - malowany</Text>
+      <Value>f_grill.shape13p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slim - chromowy</Text>
+      <Value>f_grill.shape13s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slim - malowany</Text>
+      <Value>f_grill.shape13sp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom - 1</Text>
+      <Value>f_grill.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom - 2</Text>
+      <Value>f_grill.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>f_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>GPS</Text>
+      <Value>gps_1.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>GPS</Text>
+      <Value>gps_2.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tone</Text>
+      <Value>horn_l.horn1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Thunder</Text>
+      <Value>horn_l.horn2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roar</Text>
+      <Value>horn_l.horn3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tone</Text>
+      <Value>horn_r.horn1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Thunder</Text>
+      <Value>horn_r.horn2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roar</Text>
+      <Value>horn_r.horn3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Metalowe@@</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Metalowe rozszerzone@@</Text>
+      <Value>mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mercedes 1632 - Dash</Text>
+      <Value>set_dashbrd.mersedes1632</Value>
+    </ListItem>
+    <ListItem>
+      <Text>IMercedes 1632 - set</Text>
+      <Value>set_glass.mersedes1632</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Osłona przeciw słoneczna</Text>
+      <Value>sp.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Osłona przeciw słoneczna + obrysy</Text>
+      <Value>sp.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Osłona przeciw słoneczna - malowana</Text>
+      <Value>sp.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Osłona przeciw słoneczna - malowana + obrysy</Text>
+      <Value>sp.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>steering_w.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>s_badge.32</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>s_badge.33</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>s_badge.34</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>s_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Zestaw 1</Text>
+      <Value>tunel_1.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Zestaw 2</Text>
+      <Value>tunel_1.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>CB - President</Text>
+      <Value>wneka.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>CB + Seiko</Text>
+      <Value>wneka.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Czarny</Text>
+      <Value>zderzak.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Malowany</Text>
+      <Value>zderzak.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chromowy</Text>
+      <Value>zderzak.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>exceptionnel</Text>
+      <Value>zderzak.shape4</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ETS2.mersedes.1632.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>mersedes.1632</InternalName>
+  <VehicleAuthor>Ekualizer, Digital X and more</VehicleAuthor>
+  <VehicleName>Mercedes 1632 NG by Digital X</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>high.mersedes.1632.cabin</InternalName>
+      <Name>high</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h3.mersedes.1632.cabin</InternalName>
+      <Name>Standart</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

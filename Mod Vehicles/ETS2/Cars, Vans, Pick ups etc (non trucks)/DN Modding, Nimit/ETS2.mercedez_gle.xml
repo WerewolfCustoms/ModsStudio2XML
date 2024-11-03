@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>df32cd6c-dbad-4efb-b7ca-ccdaa941b1a7</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>mirror.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>steering_w.default</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\salon\Documents\Mods Studio 2\UserVehicles\ETS2.mercedez_gle.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>mercedez_gle</InternalName>
+  <VehicleAuthor>DN Modding, Nimit</VehicleAuthor>
+  <VehicleName>Mercedes-Benz W167 GLE-Class</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>w167_gle450.mercedez_gle.cabin</InternalName>
+      <Name>GLE 450</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>MohSkinner</XmlDefinitionAuthor>
+</Variable>

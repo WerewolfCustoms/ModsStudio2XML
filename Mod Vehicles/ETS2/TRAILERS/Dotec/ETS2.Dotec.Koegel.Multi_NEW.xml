@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>3f520c33-61e1-4cc5-a0b6-6a6f3dcb755f</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>koegel.multi</InternalName>
+  <VehicleAuthor>Dotec</VehicleAuthor>
+  <VehicleName>Kögel MULTI</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>x</Description>
+      <Image>x</Image>
+      <InternalName>body.body_01</InternalName>
+      <Name>Kögel MULTI</Name>
+    </Variant>
+  </VehicleVariants>
+  <AccessoryItems>
+    <ListItem>
+      <Description>13.7m Lenght</Description>
+      <Group>CHASSIS</Group>
+      <Image>x</Image>
+      <Text>Paintable Chassi</Text>
+      <Value>chassis_t.chs_137_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Mounted</Description>
+      <Group>CHASSI SIDEBOXES LEFT SIDE</Group>
+      <Image>x</Image>
+      <Text>Pallet Box Paintable</Text>
+      <Value>chs_f_l.pallet02</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI SIDEBOXES LEFT SIDE</Group>
+      <Image>x</Image>
+      <Text>Skirt Big + Store Box Paintable</Text>
+      <Value>chs_f_l.sp2_box_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI SIDEBOXES LEFT SIDE</Group>
+      <Image>x</Image>
+      <Text>Skirt Big + Store Box Paintable + Spare Tire</Text>
+      <Value>chs_f_l.sp2_boxtir_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI SIDEBOXES LEFT SIDE</Group>
+      <Image>x</Image>
+      <Text>Skirt Big Paintable</Text>
+      <Value>chs_f_l.sp2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI SIDEBOXES LEFT SIDE</Group>
+      <Image>x</Image>
+      <Text>Skirt Big Paintable + Spare Tire</Text>
+      <Value>chs_f_l.sp2_tire_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Mounted</Description>
+      <Group>CHASSI SIDEBOXES LEFT SIDE</Group>
+      <Image>x</Image>
+      <Text>Pallet Box Paintable</Text>
+      <Value>chs_r_l.pal_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI SIDEBOXES LEFT SIDE</Group>
+      <Image>x</Image>
+      <Text>Stow Box + Pallet Box Paintable</Text>
+      <Value>chs_r_l.storepal_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Mounted</Description>
+      <Group>CHASSI SIDEBOXES RIGHT SIDE</Group>
+      <Image>x</Image>
+      <Text>Pallet Box Paintable</Text>
+      <Value>chs_f_r.pallet02</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI SIDEBOXES RIGHT SIDE</Group>
+      <Image>x</Image>
+      <Text>Skirt Big + Store Box Paintable</Text>
+      <Value>chs_f_r.sp2_box_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI SIDEBOXES RIGHT SIDE</Group>
+      <Image>x</Image>
+      <Text>Skirt Big + Store Box Paintable + Spare Tire</Text>
+      <Value>chs_f_r.sp2_boxtir_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI SIDEBOXES RIGHT SIDE</Group>
+      <Image>x</Image>
+      <Text>Skirt Big Paintable</Text>
+      <Value>chs_f_r.sp2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI SIDEBOXES RIGHT SIDE</Group>
+      <Image>x</Image>
+      <Text>Skirt Big Paintable + Spare Tire</Text>
+      <Value>chs_f_r.sp2_tire_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Mounted</Description>
+      <Group>CHASSI SIDEBOXES RIGHT SIDE</Group>
+      <Image>x</Image>
+      <Text>Pallet Box Paintable</Text>
+      <Value>chs_r_r.pal_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI SIDEBOXES RIGHT SIDE</Group>
+      <Image>x</Image>
+      <Text>Stow Box + Pallet Box Paintable</Text>
+      <Value>chs_r_r.storepal_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Rear Bumper Paintable</Text>
+      <Value>r_bumper.rbumper2</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>

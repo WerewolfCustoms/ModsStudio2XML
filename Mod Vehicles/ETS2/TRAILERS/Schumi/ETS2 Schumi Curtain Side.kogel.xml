@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>80bafb91-b788-41d7-a784-add1edcfcb66</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Text>@@spare_tire@@</Text>
+      <Value>chs_r_r.spare_tire</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@fire_extinguisher@@</Text>
+      <Value>f_f_exting_l.f_exting</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@fire_extinguisher@@</Text>
+      <Value>f_f_exting_l.f_exting1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@fire_extinguisher@@</Text>
+      <Value>f_f_exting_l.f_extin_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@fire_extinguisher@@</Text>
+      <Value>f_f_exting_r.f_exting</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@fire_extinguisher@@</Text>
+      <Value>f_f_exting_r.f_exting1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@fire_extinguisher@@</Text>
+      <Value>f_f_exting_r.f_extin_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@sticker@@ @@Dead Angles@@</Text>
+      <Value>nal_2.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@sticker@@ @@Dead Angles@@</Text>
+      <Value>nal_2.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@sticker@@ @@Dead Angles@@</Text>
+      <Value>nal_2.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>r_light.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@ v2</Text>
+      <Value>r_light.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wielton</Text>
+      <Value>r_lplate.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Volvo</Text>
+      <Value>r_lplate.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Iveco</Text>
+      <Value>r_lplate.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mercedes-Benz</Text>
+      <Value>r_lplate.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Daf</Text>
+      <Value>r_lplate.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Daf</Text>
+      <Value>r_lplate.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Schwarzmuller</Text>
+      <Value>r_lplate.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wielton</Text>
+      <Value>r_lplate.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Empty</Text>
+      <Value>r_lplate.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Renault</Text>
+      <Value>r_lplate.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Man</Text>
+      <Value>r_lplate.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Scania</Text>
+      <Value>r_lplate.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Schmitz</Text>
+      <Value>r_lplate.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kogel</Text>
+      <Value>r_lplate.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Krone</Text>
+      <Value>r_lplate.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>r_mudflap.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>r_mudflap.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>r_mudflap.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>r_mudflap.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@ UK</Text>
+      <Value>r_mudflap.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@ UK</Text>
+      <Value>r_mudflap.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@ UK</Text>
+      <Value>r_mudflap.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>r_mudflap.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock_cage@@</Text>
+      <Value>sideskirt.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@basic_paint@@</Text>
+      <Value>sideskirt.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>COUNTRY COD, LKW, SPEED LIMIT</Text>
+      <Value>z_znak_0.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>COUNTRY COD, LKW, SPEED LIMIT</Text>
+      <Value>z_znak_1.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ADR, DANGEROUS HAZARD</Text>
+      <Value>z_znak_2.shape1</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\leadf\Documents\Mods Studio 2\UserVehicles\ETS2 Schumi Curtain Side.kogel.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>kogel</InternalName>
+  <VehicleAuthor>Schumi SCS Software</VehicleAuthor>
+  <VehicleName>Schumi Kogel Curtain Side</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.curtain</InternalName>
+      <Name>@@series_kogel_curtain@@</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

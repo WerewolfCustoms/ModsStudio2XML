@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>d42d2f26-ed53-4c70-9117-81a75dbf6f0d</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.pet379.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>pet379</InternalName>
+  <VehicleAuthor>BiggDogg</VehicleAuthor>
+  <VehicleName>Peterbilt 379 EXHD</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>at.pet379.cabin</InternalName>
+      <Name>36 Flattop</Name>
+    </Variant>
+    <Variant>
+      <InternalName>caba.pet379.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cabb.pet379.cabin</InternalName>
+      <Name>Day Cab Ultra</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cabd.pet379.cabin</InternalName>
+      <Name>48 Flattop</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cabe.pet379.cabin</InternalName>
+      <Name>63 Flattop</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cabf.pet379.cabin</InternalName>
+      <Name>Ultra 63 Midroof</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cabg.pet379.cabin</InternalName>
+      <Name>70 Midroof</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cabh.pet379.cabin</InternalName>
+      <Name>Double Eagle 96</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cabj.pet379.cabin</InternalName>
+      <Name>Custom 63 Midroof</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cabl.pet379.cabin</InternalName>
+      <Name>Leagacy</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cabi.pet379.cabin</InternalName>
+      <Name>Custom 70 Midroof</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_eno.pet379.cabin</InternalName>
+      <Name>63 Flattop OG</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_fno.pet379.cabin</InternalName>
+      <Name>Ultra 63 Midroof OG</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_cno.pet379.cabin</InternalName>
+      <Name>36 Flattop OG</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_dno.pet379.cabin</InternalName>
+      <Name>48 Flattop OG</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_jno.pet379.cabin</InternalName>
+      <Name>63 Midroof OG</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_c_05.pet379.cabin</InternalName>
+      <Name>2004 36 Flattop</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_d_05.pet379.cabin</InternalName>
+      <Name>2004 48 Flattop</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_e_05.pet379.cabin</InternalName>
+      <Name>2004 63 Flattop</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_f_05.pet379.cabin</InternalName>
+      <Name>2004 63 Mid</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_g_05.pet379.cabin</InternalName>
+      <Name>2004 72 Mid</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_i_05.pet379.cabin</InternalName>
+      <Name>Custom 2004 72 Mid</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_j_05.pet379.cabin</InternalName>
+      <Name>Custom 2004 63 Mid</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_a_05.pet379.cabin</InternalName>
+      <Name>2004 Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_b_05.pet379.cabin</InternalName>
+      <Name>2004 Day Cab Ultra</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cablno.pet379.cabin</InternalName>
+      <Name>63 Mercury</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cabgno.pet379.cabin</InternalName>
+      <Name>33 Mercury</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

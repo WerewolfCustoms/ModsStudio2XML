@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ae8390f5-d364-4245-b2f0-2b3ffe277fd9</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>schwmuller.dumper</InternalName>
+  <VehicleAuthor>Schumi</VehicleAuthor>
+  <VehicleName>Schwarzmuller Dumper</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>x</Description>
+      <Image>schwmuller.dumper__dumper_template.jpg</Image>
+      <InternalName>body.dumper</InternalName>
+      <Name>Schwarzmuller Dumper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>2301-16-146__dumper.png</XmlDefinitionAuthor>
+</Variable>

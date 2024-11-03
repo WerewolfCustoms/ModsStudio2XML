@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>68ba88a6-7191-44ec-b611-c5ac5fc68a0b</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.peterbilt.359.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>peterbilt.359</InternalName>
+  <VehicleAuthor>RTA</VehicleAuthor>
+  <VehicleName>Peterbilt 359</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>cab_a.peterbilt.359.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_s.peterbilt.359.cabin</InternalName>
+      <Name>36" Sleeper Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_63s.peterbilt.359.cabin</InternalName>
+      <Name>63" Sleeper Cab</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

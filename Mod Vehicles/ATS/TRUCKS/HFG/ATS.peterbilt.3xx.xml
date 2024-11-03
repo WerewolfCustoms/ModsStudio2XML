@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>4e43e7d9-cbe6-4a95-a39b-15c4a046d8b8</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.peterbilt.3xx.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>peterbilt.3xx</InternalName>
+  <VehicleAuthor>Guidot-HFG</VehicleAuthor>
+  <VehicleName>Peterbilt 3xx</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>day330.peterbilt.3xx.cabin</InternalName>
+      <Name>330 Day Cab</Name>
+    </Variant>
+	<Variant>
+      <InternalName>thirtysix330.peterbilt.3xx.cabin</InternalName>
+      <Name>330 36' Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>day357.peterbilt.3xx.cabin</InternalName>
+      <Name>357 Day Cab</Name>
+    </Variant>
+	<Variant>
+      <InternalName>thirtysix357.peterbilt.3xx.cabin</InternalName>
+      <Name>357 36' Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>duty357.peterbilt.3xx.cabin</InternalName>
+      <Name>357 48' Sleeper </Name>
+    </Variant>
+	<Variant>
+      <InternalName>sixty357.peterbilt.3xx.cabin</InternalName>
+      <Name>357 63' Flattop Sleeper</Name>
+    </Variant>
+	<Variant>
+      <InternalName>standard357.peterbilt.3xx.cabin</InternalName>
+      <Name>357 63' High Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>day367.peterbilt.3xx.cabin</InternalName>
+      <Name>367 Day Cab</Name>
+    </Variant>
+	<Variant>
+      <InternalName>thirtysix367.peterbilt.3xx.cabin</InternalName>
+      <Name>367 36' Sleeper</Name>
+    </Variant>
+	<Variant>
+      <InternalName>duty367.peterbilt.3xx.cabin</InternalName>
+      <Name>367 48' Sleeper</Name>
+    </Variant>
+	<Variant>
+      <InternalName>sixty367.peterbilt.3xx.cabin</InternalName>
+      <Name>367 63' Flattop Sleeper</Name>
+    </Variant>
+	<Variant>
+      <InternalName>standard367.peterbilt.3xx.cabin</InternalName>
+      <Name>367 63' High Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>day.peterbilt.3xx.cabin</InternalName>
+      <Name>377 Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>daysfa.peterbilt.3xx.cabin</InternalName>
+      <Name>377 SFFA Day Cab</Name>
+    </Variant>
+	<Variant>
+      <InternalName>thirtysix.peterbilt.3xx.cabin</InternalName>
+      <Name>377 36' Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>duty.peterbilt.3xx.cabin</InternalName>
+      <Name>377 48' Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>thirtysixsfa.peterbilt.3xx.cabin</InternalName>
+      <Name>377 SFFA 36' Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>dutysfa.peterbilt.3xx.cabin</InternalName>
+      <Name>377 SFFA 48' Sleeper</Name>
+    </Variant>
+	<Variant>
+      <InternalName>sixty.peterbilt.3xx.cabin</InternalName>
+      <Name>377 63' Flattop Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sixtysfa.peterbilt.3xx.cabin</InternalName>
+      <Name>377 SFFA 63' Flattop Sleeper</Name>
+    </Variant>
+	<Variant>
+      <InternalName>standard.peterbilt.3xx.cabin</InternalName>
+      <Name>377 63' High Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standardsfa.peterbilt.3xx.cabin</InternalName>
+      <Name>377 SFFA 63' High Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>day379.peterbilt.3xx.cabin</InternalName>
+      <Name>379 Day Cab</Name>
+    </Variant>
+	<Variant>
+      <InternalName>thirtysix379.peterbilt.3xx.cabin</InternalName>
+      <Name>379 36' Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>duty379.peterbilt.3xx.cabin</InternalName>
+      <Name>379 48' Sleeper</Name>
+    </Variant>
+	<Variant>
+      <InternalName>sixty379.peterbilt.3xx.cabin</InternalName>
+      <Name>379 63' Flattop Sleeper</Name>
+    </Variant>
+	<Variant>
+      <InternalName>standard379.peterbilt.3xx.cabin</InternalName>
+      <Name>379 63' High Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>day579.peterbilt.3xx.cabin</InternalName>
+      <Name>579 Day Cab</Name>
+    </Variant>
+	<Variant>
+      <InternalName>thirtysix579.peterbilt.3xx.cabin</InternalName>
+      <Name>579 36' Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>duty579.peterbilt.3xx.cabin</InternalName>
+      <Name>579 48' Sleeper</Name>
+    </Variant>
+	<Variant>
+      <InternalName>sixty579.peterbilt.3xx.cabin</InternalName>
+      <Name>579 63' Flattop Sleeper</Name>
+    </Variant>
+	<Variant>
+      <InternalName>standard579.peterbilt.3xx.cabin</InternalName>
+      <Name>579 63' High Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>daye.peterbilt.3xx.cabin</InternalName>
+      <Name>EXHD Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>thirtysixe.peterbilt.3xx.cabin</InternalName>
+      <Name>EXHD 36' Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>dutye.peterbilt.3xx.cabin</InternalName>
+      <Name>EXHD 48' Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sixtye.peterbilt.3xx.cabin</InternalName>
+      <Name>EXHD 63' Flattop Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standarde.peterbilt.3xx.cabin</InternalName>
+      <Name>EXHD 63' High Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

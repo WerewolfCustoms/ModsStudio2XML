@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>fa7f7eeb-16b9-4076-989f-2d7325309b15</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+  	<ListItem>
+      <Group>Lower Grille Guard</Group>
+      <Text>Paint</Text>
+      <Value>b_grill.bar4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>license plate</Group>
+      <Text>Custom Front</Text>
+      <Value>l_f.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>license plate</Group>
+      <Text>Cusotm Rear</Text>
+      <Value>l_r.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper</Group>
+      <Text>High Paint</Text>
+      <Value>f_bumper.full_paint2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper</Group>
+      <Text>High Stock</Text>
+      <Value>f_bumper.paint2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Paint</Text>
+      <Value>f_bumper.full_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Paint + Lip</Text>
+      <Value>f_bumper.full_paint3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Stock</Text>
+      <Value>f_bumper.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Head Light Protector</Group>
+      <Text>Paint</Text>
+      <Value>f_light_grd.grill_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Bull Bar</Group>
+      <Text>Paint</Text>
+      <Value>f_grill.barcal2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Bull Bar</Group>
+      <Text>Hypro</Text>
+      <Value>f_grill.hypro</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Bull Bar</Group>
+      <Text>Hypro Offroad</Text>
+      <Value>f_grill.offroad</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Bull Bar</Group>
+      <Text>Trux</Text>
+      <Value>f_grill.trux</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>FH3 Paint</Text>
+      <Value>f_intake_cab.fh3_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>FH3 Full Paint</Text>
+      <Value>f_intake_cab.fh3_fpaint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Full Paint</Text>
+      <Value>f_intake_cab.full_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Full Paint + Chrome Bar</Text>
+      <Value>f_intake_cab.painted</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Full Paint + Chrome Volvo Logo</Text>
+      <Value>f_intake_cab.full_paint2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Full Paint + Paint Volvo Logo</Text>
+      <Value>f_intake_cab.full_paint3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Intermediate Version</Text>
+      <Value>f_intake_cab.gris_ton</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Superior Version</Text>
+      <Value>f_intake_cab.griston</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Full Paint FH16</Text>
+      <Value>f_intake_cab.fh16_fp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Full Paint FH16 + Chrome Logo</Text>
+      <Value>f_intake_cab.fh16_fp2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Full Paint FH16 + Paint Logo</Text>
+      <Value>f_intake_cab.fh16_fp3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Badge Plate</Group>
+      <Text>Smooth</Text>
+      <Value>f_intake_bar.lisse</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Badge Plate</Group>
+      <Text>Solarguard FH4B</Text>
+      <Value>f_intake_bar.lisse2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Badge Plate</Group>
+      <Text></Text>
+      <Value>f_intake_bar.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Badge Plate</Group>
+      <Text>Full Paint</Text>
+      <Value>f_intake_bar.chrome</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Windshield Frame</Group>
+      <Text>Paint</Text>
+      <Value>f_wnd_frame.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Paint</Text>
+      <Value>sunshld.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Fox Parts</Text>
+      <Value>sunshld.fox</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Ful Paint</Text>
+      <Value>sunshld.full_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Full Paint Stock + Ledbar By WIST</Text>
+      <Value>sunshld.wist</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Grand Visors</Text>
+      <Value>sunshld.deap</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Paint Stock + Ledbar By WIST</Text>
+      <Value>sunshld.wist2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Stock Paint</Text>
+      <Value>sunshld.paint2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Decal</Group>
+      <Text>Globetrotter Paint</Text>
+      <Value>decals.glob2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Decal</Group>
+      <Text>Globetrotter Big Skylight Paint</Text>
+      <Value>decals.glob5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Decal</Group>
+      <Text>XL Paint</Text>
+      <Value>decals.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Decal</Group>
+      <Text>XL Paint Big Skylight</Text>
+      <Value>decals.xl2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Decal</Group>
+      <Text>XXL Paint</Text>
+      <Value>decals.xxl2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Decal</Group>
+      <Text>XXL Big Skyline Paint</Text>
+      <Value>decals.xxl5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Decal</Group>
+      <Text>XXL Big Skylight Orange Paint</Text>
+      <Value>decals.xxl7</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Logo</Group>
+      <Text>XL + XXL Your Own Decal</Text>
+      <Value>logo.temp_xxl</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Logo</Group>
+      <Text>Globetrotter Your Own Decal</Text>
+      <Value>logo.temp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>XL + XXL Trux Paint</Text>
+      <Value>r_grill.trux_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>Sleeper Paint</Text>
+      <Value>r_grill.sleep2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>Sleeper Full Paint</Text>
+      <Value>r_grill.sleep4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>XL + XXL Light Box</Text>
+      <Value>r_grill.enseigne</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>Globetrotter Light Box</Text>
+      <Value>r_grill.enseigne2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Corner Deflectors</Group>
+      <Text>Paint</Text>
+      <Value>cor_def.painted</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Stock Paint</Text>
+      <Value>mirror.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Full Paint</Text>
+      <Value>mirror.full_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Stock Paint</Text>
+      <Value>f_mirror.painted</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Long Stock Paint</Text>
+      <Value>f_mirror.paintedl</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Paint</Text>
+      <Value>f_mirror.f_painted</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Paint Long</Text>
+      <Value>f_mirror.f_paintedl</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Mirror</Group>
+      <Text>Stock Paint</Text>
+      <Value>s_mirror.painted</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Mirror</Group>
+      <Text>Paint</Text>
+      <Value>s_mirror.f_painted</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Door Handle</Group>
+      <Text>Paint</Text>
+      <Value>doorhndl.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint</Text>
+      <Value>f_fender_cab.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint Low</Text>
+      <Value>f_fender_cab.paint_low</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflectors</Group>
+      <Text>Sleeper Paint</Text>
+      <Value>s_deflector.sleeper</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflectors</Group>
+      <Text>Globetrotter Glob Paint</Text>
+      <Value>s_deflector.glob</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflectors</Group>
+      <Text>Globetrotter Glob Paint Court</Text>
+      <Value>s_deflector.glob2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflectors</Group>
+      <Text>XL Paint</Text>
+      <Value>s_deflector.stock</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflectors</Group>
+      <Text>XL Paint Court</Text>
+      <Value>s_deflector.court</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflectors</Group>
+      <Text>XXL Paint</Text>
+      <Value>s_deflector.xxl</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>Sleeper PAint</Text>
+      <Value>r_deflector.sleeper</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>Globetrotter Paint Plat</Text>
+      <Value>r_deflector.plat2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>Globetrotter Glob Paint</Text>
+      <Value>r_deflector.glob</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>XL Paint</Text>
+      <Value>r_deflector.stock</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>XL Paint Plat</Text>
+      <Value>r_deflector.plat</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>XXL Paint Plat</Text>
+      <Value>r_deflector.plat</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>XXL Paint</Text>
+      <Value>r_deflector.xxl</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Stock</Text>
+      <Value>sideskirt.paint2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Stock XXL</Text>
+      <Value>sideskirt.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Stock</Text>
+      <Value>sideskirt.6x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>4x Paint</Text>
+      <Value>r_fender.paint_4x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Paint</Text>
+      <Value>r_fender.paint_6x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>4x Paint</Text>
+      <Value>r_fendr_top.paint_4x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>4x Low Paint</Text>
+      <Value>r_fendr_top.paint_4xlow</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Rear Paint</Text>
+      <Value>r_fendr_top.paint_6x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Front Paint</Text>
+      <Value>r_fendr_top.paint_6x3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Double Paint</Text>
+      <Value>r_fendr_top.paint_6x</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.sanax.volvo.fh_2020.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>volvo.fh_2020</InternalName>
+  <VehicleAuthor>Sanax</VehicleAuthor>
+  <VehicleName>Volvo FH 2020</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>glob.volvo.fh_2020.cabin</InternalName>
+      <Name>Globetrotter</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>globxl.volvo.fh_2020.cabin</InternalName>
+      <Name>Globetrotter XL</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>glob_xxl.volvo.fh_2020.cabin</InternalName>
+      <Name>Globetrotter XXL</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>sleeper.volvo.fh_2020.cabin</InternalName>
+      <Name>Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay</XmlDefinitionAuthor>
+</Variable>

@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>af00ddac-3b88-4aa2-9ebb-596bf400b312</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    
+    <ListItem>
+	<Group>Air Vents</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>air_vent.shape03</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Air Vents</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>air_vent.shape04</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Air Vents</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>air_vent.shape05</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Air Vents</Group>
+      <Text>Paint</Text>
+      <Value>air_vent.shape06</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Air Vents</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>air_vent.shape09</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Air Vents</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>air_vent.shape12</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Air Vents</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>air_vent.shape13</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Air Vents</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>air_vent.shape14</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Air Vents</Group>
+      <Text>Paint</Text>
+      <Value>air_vent.shape15</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Air Vents</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>air_vent.shape18</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Deflector</Group>
+      <Text>Paint</Text>
+      <Value>deflector.shape1</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Air Filters</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>filters.shape03</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Air Filters</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>filters.shape04</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Air Filters</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>filters.shape05</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Air Filters</Group>
+      <Text>Paint</Text>
+      <Value>filters.shape06</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Air Filters</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>filters.shape09</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Air Filters</Group>
+      <Text>Paint</Text>
+      <Value>filter_cover.shape02</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Frame</Group>
+      <Text>Paint</Text>
+      <Value>frame.shape11</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Frame</Group>
+      <Text>Paint</Text>
+      <Value>frame.shape12</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Frame</Group>
+      <Text>Paint</Text>
+      <Value>frame.shape13</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Frame</Group>
+      <Text>Paint</Text>
+      <Value>frame.shape14</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Frame</Group>
+      <Text>Paint</Text>
+      <Value>frame.shape15</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Frame</Group>
+      <Text>Paint</Text>
+      <Value>frame.shape16</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Front Fenders</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>f_fender.shape03</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Front Fenders</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>f_fender.shape04</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Front Fenders</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>f_fender.shape05</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Front Fenders</Group>
+      <Text>Paint</Text>
+      <Value>f_fender.shape06</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Front Fenders</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>f_fender.shape09</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>grill.shape10</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Grill</Group>
+      <Text>Paint</Text>
+      <Value>grill.shape11</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Grill</Group>
+      <Text>Paint+Black</Text>
+      <Value>grill.shape12</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>grill.shape3</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>grill.shape7</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>grill.shape9</Value>
+    </ListItem>
+   
+    <ListItem>
+	<Group>Grill</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>grille.shape10</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Grill</Group>
+      <Text>Paint</Text>
+      <Value>grille.shape11</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Grill</Group>
+      <Text>Paint+Black</Text>
+      <Value>grille.shape12</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill</Group>
+      <Text>Black+Paint</Text>
+      <Value>grille.shape16</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>grille.shape3</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>grille.shape7</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>grille.shape9</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Air Filter Intake(Snorkel)</Group>
+      <Text>Paint</Text>
+      <Value>intake.shape04</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Air Filter Intake(Snorkel)</Group>
+      <Text>Paint</Text>
+      <Value>intake.shape08</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mack Grill Logo</Group>
+      <Text>Paint</Text>
+      <Value>logo.shape1</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Mirrors</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>mirror.shape03</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mirrors</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>mirror.shape04</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mirrors</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>mirror.shape05</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mirrors</Group>
+      <Text>Paint</Text>
+      <Value>mirror.shape06</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Mirrors</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>mirror.shape09</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Mud Guard</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>mudguard.shape04</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Mud Guard</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>mudguard.shape08</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mud Guard</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>mudguard.shape09</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mud Guard</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>mudguard.shape10</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mud Guard</Group>
+      <Text>Paint+Black</Text>
+      <Value>mudguard.shape11</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mud Guard</Group>
+      <Text>Paint</Text>
+      <Value>mudguard.shape12</Value>
+    </ListItem>
+   
+    <ListItem>
+	<Group>Mud Guard</Group>
+      <Text>Black+Paint</Text>
+      <Value>mudguard.shape16</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Mud Guard</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>mudguard.shape20</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Mud Guard</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>mudguard.shape24</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mud Guard</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>mudguard.shape25</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mud Guard</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>mudguard.shape26</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mud Guard</Group>
+      <Text>Paint+Black</Text>
+      <Value>mudguard.shape27</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mud Guard</Group>
+      <Text>Paint</Text>
+      <Value>mudguard.shape28</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Mud Guard</Group>
+      <Text>Black+Paint</Text>
+      <Value>mudguard.shape32</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Mud Guard Support</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>mud_support.shape04</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Mud Guard Support</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>mud_support.shape08</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mud Guard Support</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>mud_support.shape09</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mud Guard Support</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>mud_support.shape10</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mud Guard Support</Group>
+      <Text>Paint+Black</Text>
+      <Value>mud_support.shape11</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mud Guard Support</Group>
+      <Text>Paint</Text>
+      <Value>mud_support.shape12</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Mud Guard Support</Group>
+      <Text>Black+Paint</Text>
+      <Value>mud_support.shape16</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Mud Guard Support</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>mud_support.shape20</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Mud Guard Support</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>mud_support.shape24</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mud Guard Support</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>mud_support.shape25</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mud Guard Support</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>mud_support.shape26</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mud Guard Support</Group>
+      <Text>Paint+Black</Text>
+      <Value>mud_support.shape27</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Mud Guard Support</Group>
+      <Text>Paint</Text>
+      <Value>mud_support.shape28</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Mud Guard Support</Group>
+      <Text>Black+Paint</Text>
+      <Value>mud_support.shape32</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Rear Bumper</Group>
+      <Text>Paint</Text>
+      <Value>r_bumper.shape1</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Sideskirt</Group>
+      <Text>Paint</Text>
+      <Value>sideskirt.shape01</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Sideskirt</Group>
+      <Text>Paint</Text>
+      <Value>sideskirt.shape04</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Sideskirt</Group>
+      <Text>Paint</Text>
+      <Value>sideskirt.shape07</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Sideskirt</Group>
+      <Text>Paint</Text>
+      <Value>sideskirt.shape10</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Sideskirt</Group>
+      <Text>Paint</Text>
+      <Value>sideskirt.shape13</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Sideskirt</Group>
+      <Text>Paint</Text>
+      <Value>sideskirt.shape16</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Sideskirt</Group>
+      <Text>Paint</Text>
+      <Value>sideskirt.shape19</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Sideskirt</Group>
+      <Text>Paint</Text>
+      <Value>sideskirt.shape22</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill Fins(Stripes)</Group>
+      <Text>Paint</Text>
+      <Value>stripes.shape1</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Sunshield</Group>
+      <Text>Paint</Text>
+      <Value>sunshield.shape01</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Sunshield</Group>
+      <Text>Paint</Text>
+      <Value>sunshield.shape04</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>tanks.shape03</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>tanks.shape04</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>tanks.shape05</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Paint</Text>
+      <Value>tanks.shape06</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>tanks.shape09</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>tanks.shape12</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>tanks.shape13</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>tanks.shape14</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Paint</Text>
+      <Value>tanks.shape15</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>tanks.shape18</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>tanks.shape21</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>tanks.shape22</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>tanks.shape23</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Paint</Text>
+      <Value>tanks.shape24</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>tanks.shape27</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>tanks.shape30</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>tanks.shape31</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>tanks.shape32</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Paint</Text>
+      <Value>tanks.shape33</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>tanks.shape36</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>tanks.shape39</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>tanks.shape40</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>tanks.shape41</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Paint</Text>
+      <Value>tanks.shape42</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>tanks.shape45</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>tanks.shape48</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>tanks.shape49</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>tanks.shape50</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Paint</Text>
+      <Value>tanks.shape51</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tanks</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>tanks.shape54</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>t_support.shape03</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>t_support.shape04</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>t_support.shape05</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Paint</Text>
+      <Value>t_support.shape06</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>t_support.shape09</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>t_support.shape12</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>t_support.shape13</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>t_support.shape14</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Paint</Text>
+      <Value>t_support.shape15</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>t_support.shape18</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>t_support.shape21</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>t_support.shape22</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>t_support.shape23</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Paint</Text>
+      <Value>t_support.shape24</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>t_support.shape27</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>t_support.shape30</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>t_support.shape31</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>t_support.shape32</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Paint</Text>
+      <Value>t_support.shape33</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>t_support.shape36</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>t_support.shape39</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>t_support.shape40</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>t_support.shape41</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Paint</Text>
+      <Value>t_support.shape42</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>t_support.shape45</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Paint+Aluminium</Text>
+      <Value>t_support.shape48</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Aluminium+Paint</Text>
+      <Value>t_support.shape49</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Chrome+Paint</Text>
+      <Value>t_support.shape50</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Paint</Text>
+      <Value>t_support.shape51</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tank Supports</Group>
+      <Text>Paint+Chrome</Text>
+      <Value>t_support.shape54</Value>
+    </ListItem>
+    
+  </AccessoryItems>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\ATS KWS.superliner.ksw.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>superliner.ksw</InternalName>
+  <VehicleAuthor>Kishadowalkers</VehicleAuthor>
+  <VehicleName>Mack Superliner</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>cab_a.superliner.ksw.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_a_uk.superliner.ksw.cabin</InternalName>
+      <Name>Day Cab UK</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_b.superliner.ksw.cabin</InternalName>
+      <Name>40 highrise Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_b_uk.superliner.ksw.cabin</InternalName>
+      <Name>40 highrise Sleeper UK</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_c.superliner.ksw.cabin</InternalName>
+      <Name>30 highrise Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_c_uk.superliner.ksw.cabin</InternalName>
+      <Name>30 highrise Sleeper UK</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_d.superliner.ksw.cabin</InternalName>
+      <Name>50 higrise Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_d_uk.superliner.ksw.cabin</InternalName>
+      <Name>50 higrise Sleeper UK</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_e.superliner.ksw.cabin</InternalName>
+      <Name>60 highrise Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_e_uk.superliner.ksw.cabin</InternalName>
+      <Name>60 highrise Sleeper UK</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_f.superliner.ksw.cabin</InternalName>
+      <Name>50 Midrise Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_f_uk.superliner.ksw.cabin</InternalName>
+      <Name>50 Midrise Sleeper UK</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_g.superliner.ksw.cabin</InternalName>
+      <Name>30 Midrise Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_g_uk.superliner.ksw.cabin</InternalName>
+      <Name>30 Midrise Sleeper UK</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_h.superliner.ksw.cabin</InternalName>
+      <Name>40 Midrise Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_h_uk.superliner.ksw.cabin</InternalName>
+      <Name>40 Midrise Sleeper UK</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

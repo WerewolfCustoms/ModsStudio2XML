@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>c16be8d3-25d1-4145-9c54-7cef9c94f3b6</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Front Mudflaps</Group>
+      <Text>Scania Standard Paint</Text>
+      <Value>f_mudflap.lapsmgscania</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps</Group>
+      <Text>Scania V8 Power Paint</Text>
+      <Value>f_mudflap.mudflapsmgv8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps</Group>
+      <Text>Scania Griffin Paint</Text>
+      <Value>f_mudflap.psmgmgscania</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps</Group>
+      <Text>King Of The Road Paint</Text>
+      <Value>f_mudflap.dflapsmgkotr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Lower Grille Guard</Group>
+      <Text>Samurai Next-Gen Paint</Text>
+      <Value>b_grill.shape2_lowb</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Lower Grille Guard</Group>
+      <Text>Sting Paint</Text>
+      <Value>b_grill.shape1b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Lower Grille Guard</Group>
+      <Text>Kesla LoBar SL12 Paint</Text>
+      <Value>b_grill.shape10v8p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Lower Grille Guard</Group>
+      <Text>Kelsa LoBar SL9 Paint</Text>
+      <Value>b_grill.shape9v8p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Lower Grille Guard</Group>
+      <Text>Kelsa LoBar SL9+12 Paint</Text>
+      <Value>b_grill.shape11v8p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Model X</Text>
+      <Value>bumper.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Stock</Text>
+      <Value>bumper.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bull Bar</Group>
+      <Text>Challenger Paint</Text>
+      <Value>f_grill.shape102b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bull Bar</Group>
+      <Text>Kelsa Paint</Text>
+      <Value>f_grill.shape101b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bull Bar</Group>
+      <Text>Samurai Next-Gen Paint</Text>
+      <Value>f_grill.shape17b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bull Bar</Group>
+      <Text>Dragonfly Next-Gen Paint</Text>
+      <Value>f_grill.shape18b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bull Bar</Group>
+      <Text>Kelsa Multibar Paint</Text>
+      <Value>f_grill.shape100b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bull Bar</Group>
+      <Text>Sting Paint</Text>
+      <Value>f_grill.shape16b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bull Bar</Group>
+      <Text>Kelsa EuroBar Paint</Text>
+      <Value>f_grill.kelsa_2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bull Bar</Group>
+      <Text>Kelsa MultiBar XL Paint</Text>
+      <Value>f_grill.kelsa_3p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bull Bar</Group>
+      <Text>Goliath Next-Gen Paint</Text>
+      <Value>f_grill.shape4b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>Black Paint</Text>
+      <Value>f_light_chs.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>Original Paint</Text>
+      <Value>f_light_chs.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mask Top</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_cab.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mask Bottom</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_chs.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Grille Top</Group>
+      <Text>Streamline Paint</Text>
+      <Value>f_inlay_cab.shape4b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Grille Top</Group>
+      <Text>Steamline Semi-Paint</Text>
+      <Value>f_inlay_cab.shape4d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Grille Top</Group>
+      <Text>Paint</Text>
+      <Value>f_inlay_cab.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Grille Top</Group>
+      <Text>Streamline Full-Paint</Text>
+      <Value>f_inlay_cab.shape4c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Grille Bottom</Group>
+      <Text>Paint</Text>
+      <Value>f_inlay_chs.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Logo</Group>
+      <Text>Paint</Text>
+      <Value>logo.logo1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>(Number Represents Stoneguard Number In-Game)</Description>
+      <Group>Stoneguard</Group>
+      <Text>Full Paint (3)</Text>
+      <Value>s_guard.shape3</Value>
+    </ListItem>
+    <ListItem>
+	  <Description>(Number Represents Stoneguard Number In-Game)</Description>
+      <Group>Stoneguard</Group>
+      <Text>V8 (10)</Text>
+      <Value>s_guard.shape10</Value>
+    </ListItem>
+    <ListItem>
+	  <Description>(Number Represents Stoneguard Number In-Game)</Description>
+      <Group>Stoneguard</Group>
+      <Text>Frame + Mesh (11)</Text>
+      <Value>s_guard.shape11</Value>
+    </ListItem>
+    <ListItem>
+	  <Description>(Number Represents Stoneguard Number In-Game)</Description>
+      <Group>Stoneguard</Group>
+      <Text>Frame + V8 (12)</Text>
+      <Value>s_guard.shape12</Value>
+    </ListItem>
+    <ListItem>
+	  <Description>(Number Represents Stoneguard Number In-Game)</Description>
+      <Group>Stoneguard</Group>
+      <Text>Full Paint + V8 (4)</Text>
+      <Value>s_guard.shape4</Value>
+    </ListItem>
+    <ListItem>
+	  <Description>(Number Represents Stoneguard Number In-Game)</Description>
+      <Group>Stoneguard</Group>
+      <Text>Frame + V8 (5)</Text>
+      <Value>s_guard.shape5</Value>
+    </ListItem>
+    <ListItem>
+	  <Description>(Number Represents Stoneguard Number In-Game)</Description>
+      <Group>Stoneguard</Group>
+      <Text>Mesh(6)</Text>
+      <Value>s_guard.shape6</Value>
+    </ListItem>
+    <ListItem>
+	  <Description>(Number Represents Stoneguard Number In-Game)</Description>
+      <Group>Stoneguard</Group>
+      <Text>Frame (7)</Text>
+      <Value>s_guard.shape7</Value>
+    </ListItem>
+    <ListItem>
+	  <Description>(Number Represents Stoneguard Number In-Game)</Description>
+      <Group>Stoneguard</Group>
+      <Text>Mesh (8)</Text>
+      <Value>s_guard.shape8</Value>
+    </ListItem>
+    <ListItem>
+	  <Description>(Number Represents Stoneguard Number In-Game)</Description>
+      <Group>Stoneguard</Group>
+      <Text>Mesh + V8 (9)</Text>
+      <Value>s_guard.shape9</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>R700 Paint</Text>
+      <Value>sunshld.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>R-Series Paint</Text> **
+      <Value>sunshld.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group> **
+      <Text>Streamline Paint</Text>
+      <Value>sunshld.shape11</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Paint</Text>
+      <Value>sunshld.sunshldmg05</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Paint Luxury</Text>
+      <Value>sunshld.sunshldmg06</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group> **
+      <Text>Intake Paint</Text>
+      <Value>sunshld.shapegt10</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Intake Full Paint</Text>
+      <Value>sunshld.shapegt11</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group> **
+      <Text>R-Series+ Paint</Text>
+      <Value>sunshld.shapegt6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>R-Series+ Full Paint</Text>
+      <Value>sunshld.shapegt7</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group> **
+      <Text>Slipstream Paint</Text>
+      <Value>sunshld.shapegt8</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Slipstream Full Paint</Text>
+      <Value>sunshld.shapegt9</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group> **
+      <Text>Aerox Paint</Text>
+      <Value>sunshld.shapegt12</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Aerox Full Paint</Text>
+      <Value>sunshld.shapegt13</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Thanator Paint</Text>
+      <Value>sunshld.shapegt14</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Thanator+ Paint</Text>
+      <Value>sunshld.shapegt15</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Thanator Full Paint</Text>
+      <Value>sunshld.shapegt16</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group> **
+      <Text>Ranger Exclusive Paint</Text>
+      <Value>sunshld.shape100</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Singularity Paint</Text>
+      <Value>sunshld.shapegt5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Ranger Exclusive Full Paint</Text>
+      <Value>sunshld.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Octo</Text>
+      <Value>sunshld.shapegt1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Octo Full Paint</Text>
+      <Value>sunshld.shapegt2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Erradicator Paint</Text>
+      <Value>sunshld.shapegt3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Erradicator Full Paint</Text>
+      <Value>sunshld.shapegt4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Cab Side Trim</Group>
+      <Text>Paint</Text>
+      <Value>cab_side.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>Explorer Paint</Text>
+      <Value>r_grill.shape100b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>Kelsa Roofbar Pack + Beacon Paint</Text>
+      <Value>r_grill.shape90b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>Kelsa Roofbar Pack Paint</Text>
+      <Value>r_grill.shape90d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Paint</Text>
+      <Value>mirror.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Stock Paint</Text>
+      <Value>f_mirror.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Stock Long Paint</Text>
+      <Value>f_mirror.shape2l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Mirror</Group>
+      <Text>Paint</Text>
+      <Value>s_mirror.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Door Handles</Group>
+      <Text>Paint</Text>
+      <Value>doorhndl.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>Shogun Paint</Text>
+      <Value>r_deflector.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>Kaiser Paint</Text>
+      <Value>r_deflector.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Exhaust</Group>
+      <Text>Wing Master V8</Text>
+      <Value>exhaust_m.mg04</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trlr Cables</Group>
+      <Text>TruAir Paint</Text>
+      <Value>trlr_cables.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trlr Cables</Group>
+      <Text>TruAir 2 Paint</Text>
+      <Value>trlr_cables.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trlr Cables</Group>
+      <Text>V8 Power Paint</Text>
+      <Value>trlr_cables.shape6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trlr Cables</Group>
+      <Text>TruAir Full Paint</Text>
+      <Value>trlr_cables.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trlr Cables</Group>
+      <Text>TruAir 2 Full Paint</Text>
+      <Value>trlr_cables.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trlr Cables</Group>
+      <Text>V8 Power Full Paint</Text>
+      <Value>trlr_cables.shape7</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trlr Cables</Group>
+      <Text>Equipment Tower Normal Paint</Text>
+      <Value>trlr_cables.eqp_tower_2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trlr Cables</Group>
+      <Text>Equipment Tower Normal Full Paint</Text>
+      <Value>trlr_cables.eqp_tower_3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trlr Cables</Group>
+      <Text>Equipment Tower Flat Paint</Text>
+      <Value>trlr_cables.eqp_tower_5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trlr Cables</Group>
+      <Text>Equipment Tower Flat Full Paint</Text>
+      <Value>trlr_cables.eqp_tower_6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trlr Cables</Group>
+      <Text>Equipment Tower V8 Paint</Text>
+      <Value>trlr_cables.eqp_tower_8</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trlr Cables</Group>
+      <Text>Equipment Tower V8 Full Paint</Text>
+      <Value>trlr_cables.eqp_tower_9</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Cover</Group>
+      <Text>4x Delta Paint</Text>
+      <Value>r_chs_cover.shape1sl2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Cover</Group>
+      <Text>4x Delta Flat Paint</Text>
+      <Value>r_chs_cover.shape1sl1b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Cover</Group>
+      <Text>4x Delta Flat Paint Luxury</Text>
+      <Value>r_chs_cover.shape1sl2b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Cover</Group>
+      <Text>4x Diva</Text>
+      <Value>r_chs_cover.chscmg4x203b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Cover</Group>
+      <Text>6x Delta Paint</Text>
+      <Value>r_chs_cover.shape2sl2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Cover</Group>
+      <Text>6x Delta Flat Paint</Text>
+      <Value>r_chs_cover.shape2sl1b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Cover</Group>
+      <Text>6x Delta Flat Paint Luxury</Text>
+      <Value>r_chs_cover.shape2sl2b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Cover</Group>
+      <Text>6x Diva</Text>
+      <Value>r_chs_cover.chscmg6x203b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Paint</Text>
+      <Value>sideskirt.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Paint Luxury</Text>
+      <Value>sideskirt.shape1b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Paint</Text>
+      <Value>sideskirt.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Paint Luxury</Text>
+      <Value>sideskirt.shape3b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>4x Paint Half</Text>
+      <Value>r_fender.shape1e</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>4x R-Series Semi-Paint</Text>
+      <Value>r_fender.shape2c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>4x Streamline Semi-Paint</Text>
+      <Value>r_fender.shape1c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>4x R-Series Paint</Text>
+      <Value>r_fender.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>4x Streamline Paint</Text>
+      <Value>r_fender.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Paint Half</Text>
+      <Value>r_fender.shape4e</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x R-Series Semi-Paint</Text>
+      <Value>r_fender.shape3b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Streamline Semi-Paint</Text>
+      <Value>r_fender.shape4b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x R-Series Paint</Text>
+      <Value>r_fender.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Streamline Paint</Text>
+      <Value>r_fender.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>8x Paint Half</Text>
+      <Value>r_fender.shape6e</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>8x R-Series Semi-Paint</Text>
+      <Value>r_fender.shape5c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>8x Streamline Semi-Paint</Text>
+      <Value>r_fender.shape6b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>8x R-Series Paint</Text>
+      <Value>r_fender.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>8x Streamline Paint</Text>
+      <Value>r_fender.shape6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>10x Paint Half</Text>
+      <Value>r_fender.shape8e</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>10x R-Series Semi-Paint</Text>
+      <Value>r_fender.shape7c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>10x Streamline Semi-Paint</Text>
+      <Value>r_fender.shape8b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>10x R-Series Paint</Text>
+      <Value>r_fender.shape7</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>10x Streamline Paint</Text>
+      <Value>r_fender.shape8</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Duty</Text>
+      <Value>r_bumper.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Duty Paint</Text>
+      <Value>r_bumper.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Napoleon</Text>
+      <Value>r_bumper.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Napoleon Paint</Text>
+      <Value>r_bumper.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Ares</Text>
+      <Value>r_bumper.shape9</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Cronus</Text>
+      <Value>r_bumper.shape12</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Ares Semi-Chrome</Text>
+      <Value>r_bumper.shape10</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Cronus Semi-Chrome</Text>
+      <Value>r_bumper.shape13</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Ares Chrome</Text>
+      <Value>r_bumper.shape11</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Cronus Chrome</Text>
+      <Value>r_bumper.shape14</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Diva</Text>
+      <Value>r_bumper.grbumpermg01</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Thor</Text>
+      <Value>r_bumper.grbumpermg03</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.Kasuy.scania.r700.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>scania.r700.new</InternalName>
+  <VehicleAuthor>Kasuy</VehicleAuthor>
+  <VehicleName>Scania R700 Reworked</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>topline.scania.r700.new.cabin</InternalName>
+      <Name>Topline</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay</XmlDefinitionAuthor>
+</Variable>

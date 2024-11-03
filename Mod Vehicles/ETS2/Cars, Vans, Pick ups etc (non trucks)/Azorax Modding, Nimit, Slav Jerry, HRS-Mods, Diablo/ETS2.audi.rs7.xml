@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>f425851a-b12c-4c00-81f8-b7f3641b7880</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Antenna CB</Text>
+      <Value>cb.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Co-driver Plate</Text>
+      <Value>codrv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Driver Plate</Text>
+      <Value>drv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>f_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tow Hook</Text>
+      <Value>hak.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Police 1</Text>
+      <Value>r_grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Police 3</Text>
+      <Value>r_grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Police 2</Text>
+      <Value>r_grill.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Taxi 1</Text>
+      <Value>r_grill.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Police 4</Text>
+      <Value>r_grill.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Taxi 2</Text>
+      <Value>r_grill.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>steering_w.standard</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\salon\Documents\Mods Studio 2\UserVehicles\ETS2.audi.rs7.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>audi.rs7</InternalName>
+  <VehicleAuthor>Azorax Modding, Nimit, Slav Jerry, HRS-Mods, Diablo</VehicleAuthor>
+  <VehicleName>Audi RS7 Sportback</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>rs7_4g8.audi.rs7.cabin</InternalName>
+      <Name>2013 4G8</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>MohSKinner</XmlDefinitionAuthor>
+</Variable>

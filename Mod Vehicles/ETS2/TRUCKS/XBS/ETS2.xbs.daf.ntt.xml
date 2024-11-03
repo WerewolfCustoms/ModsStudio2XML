@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ad197943-7c23-4d99-b87f-062ad1797609</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Text>Cabin Maker LED light</Text>
+      <Value>cabflares.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roof Air Conditioning</Text>
+      <Value>coolair.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Doorhandles</Text>
+      <Value>doorhndl.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper</Text>
+      <Value>f_bumper.bumper_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grille with lights</Text>
+      <Value>f_intk_b_cab.painted1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grille, lights in bumper</Text>
+      <Value>f_intk_b_cab.painted2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors</Text>
+      <Value>mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic HR (Deflector)</Text>
+      <Value>r_deflector.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fuel Tank</Text>
+      <Value>sideskirt.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fuel Tank x2</Text>
+      <Value>sideskirt.shape7</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\werkh\Documents\Mods Studio 2\UserVehicles\ETS2.daf.ntt.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>daf.ntt</InternalName>
+  <VehicleAuthor>XBS</VehicleAuthor>
+  <VehicleName>DAF NTT</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>cab_a.daf.ntt.cabin</InternalName>
+      <Name>Duty</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>cab_b.daf.ntt.cabin</InternalName>
+      <Name>Cab Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>cab_c.daf.ntt.cabin</InternalName>
+      <Name>Custom Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>9ec6f518-f28c-44e6-a396-91f45a69f842</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.volvo.vnr.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>volvo.vnr</InternalName>
+  <VehicleAuthor>galimim,scs,franck_peru,yekkoyek</VehicleAuthor>
+  <VehicleName>Volvo VNR</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>vnr300.volvo.vnr.cabin</InternalName>
+      <Name>300 Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>vnr400.volvo.vnr.cabin</InternalName>
+      <Name>400 Flat-roof Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>vnr640.volvo.vnr.cabin</InternalName>
+      <Name>640 Mid-roof Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>d4b45a94-b063-49e4-bd7b-c57942b7b3f7</Id>
+  <IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2020</Major>
+	 <Minor>7</Minor>
+	</MS2LibraryVersion>
+  <Game>ETS2</Game>
+  <InternalName>schmitz.dumper</InternalName>
+  <VehicleAuthor>Schumi</VehicleAuthor>
+  <VehicleName>Schumi's Schmitz Dumper Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.dumper</InternalName>
+      <Name>Dumper</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>c607b25a-5583-40fd-8199-29a7b99ea432</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Bumper chrome kangaroo</Text>
+      <Value>bumper.shape1b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper chrome</Text>
+      <Value>bumper.shape1bk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper chrome kangaroo</Text>
+      <Value>bumper.shape2b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper chrome</Text>
+      <Value>bumper.shape2bk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>codrv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Dashboard panel@@</Text>
+      <Value>dach_panel.dach1s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Dashboard panel 1@@</Text>
+      <Value>dach_panel.dach2s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Dashboard panel 2@@</Text>
+      <Value>dach_panel.dach3s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Dashboard panel 3@@</Text>
+      <Value>dach_panel.dach4s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Dashboard panel 4@@</Text>
+      <Value>dach_panel.dach5s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Dashboard panel 5@@</Text>
+      <Value>dach_panel.dach6s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dials kilometer</Text>
+      <Value>dials.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dials miles</Text>
+      <Value>dials.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dials miles</Text>
+      <Value>dials.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dials kilometer</Text>
+      <Value>dials.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Smoke</Text>
+      <Value>dim.smoke</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Smoke</Text>
+      <Value>dim.smoke2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Heavy Smoke</Text>
+      <Value>dim.smoke3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>drv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>1</Text>
+      <Value>duck.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>2</Text>
+      <Value>duck.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Duck</Text>
+      <Value>duck.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Duck cowboy hat</Text>
+      <Value>duck.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Duck baseball cap</Text>
+      <Value>duck.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exhaust pipe</Text>
+      <Value>ex_pipes.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fairing 1</Text>
+      <Value>fairing.shape1f</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fairing 2</Text>
+      <Value>fairing.shape1fo</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fairing 3</Text>
+      <Value>fairing.shape1fo2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fairing 4</Text>
+      <Value>fairing.shape1r</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fairing 5</Text>
+      <Value>fairing.shape1r2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Floor@@</Text>
+      <Value>floor.floors</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Floor 1@@</Text>
+      <Value>floor.floors1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Floor 2@@</Text>
+      <Value>floor.floors2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Front grille</Text>
+      <Value>front_grille.front_grille</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Front grille 1</Text>
+      <Value>front_grille.f_grille</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper chrome</Text>
+      <Value>f_grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper chrome</Text>
+      <Value>f_grill.shape1light</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper chrome</Text>
+      <Value>f_grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper chrome</Text>
+      <Value>f_grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper chrome</Text>
+      <Value>f_grill.shape3_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Frontgrill chrome</Text>
+      <Value>f_grill.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Frontgrill color</Text>
+      <Value>f_grill.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headlight trim</Text>
+      <Value>headlight.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headlight trim</Text>
+      <Value>headlight.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headlight trim</Text>
+      <Value>headlight.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headlight trim</Text>
+      <Value>headlight.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headlight trim</Text>
+      <Value>headlight.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Box</Text>
+      <Value>kw_box.kw_box</Value>
+    </ListItem>
+    <ListItem>
+      <Text>KW Logo</Text>
+      <Value>kw_logo.kw_logo</Value>
+    </ListItem>
+    <ListItem>
+      <Text>KW Logo</Text>
+      <Value>kw_logo.kw_logo1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>KW Logo</Text>
+      <Value>kw_logo.kw_logo2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fuel tank chrom</Text>
+      <Value>kw_tanks.kw_tanks</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fuel tank chrom</Text>
+      <Value>kw_tanks.kw_tanks02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fuel tank chrom</Text>
+      <Value>kw_tanks.kw_tanks2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fuel tank s chrom</Text>
+      <Value>kw_tanks.kw_tanks_s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grid black</Text>
+      <Value>lighting.grid_black</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grid chrome</Text>
+      <Value>lighting.grid_chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lighting red</Text>
+      <Value>lighting.kw_lighting</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lighting white</Text>
+      <Value>lighting.kw_lighting1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lighting yellow</Text>
+      <Value>lighting.kw_lighting2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Stoneguard black@@</Text>
+      <Value>mesh.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Stoneguard@@</Text>
+      <Value>mesh.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chrome t609@@</Text>
+      <Value>mirror.t609ch</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chrome t609 + antenna @@</Text>
+      <Value>mirror.t609ch2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chrome t609 + antenna@@</Text>
+      <Value>mirror.t609ch3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chrome t609 + antenna@@</Text>
+      <Value>mirror.t609ch4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Paint t609@@</Text>
+      <Value>mirror.t609pl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Plastic t609@@</Text>
+      <Value>mirror.t609pl2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roof lights A</Text>
+      <Value>m_lights.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roof lights C</Text>
+      <Value>m_lights.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roof lights C</Text>
+      <Value>m_lights.shape5b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roof lights D</Text>
+      <Value>m_lights.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roof lights D</Text>
+      <Value>m_lights.shape6d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exhaust pipe</Text>
+      <Value>pipe.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exhaust pipe</Text>
+      <Value>pipe.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exhaust pipe</Text>
+      <Value>pipe.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exhaust pipe</Text>
+      <Value>pipe.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exhaust pipe</Text>
+      <Value>pipe.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ring dial</Text>
+      <Value>ring_dial.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ring dial</Text>
+      <Value>ring_dial.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ring dial</Text>
+      <Value>ring_dial.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear bumper air paint</Text>
+      <Value>r_bumper.air_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear bumper</Text>
+      <Value>r_bumper.shape1led</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear bumper</Text>
+      <Value>r_bumper.shape1led2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear bumper</Text>
+      <Value>r_bumper.shape1r</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear bumper</Text>
+      <Value>r_bumper.shape1ra</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear bumper air paint</Text>
+      <Value>r_bumper.shape2led</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear bumper air paint</Text>
+      <Value>r_bumper.shape3led</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear lamp's</Text>
+      <Value>r_lamps.r_lamps</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear lamp's</Text>
+      <Value>r_lamps.r_lamps2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dash</Text>
+      <Value>set_dashbrd.dashbrd_set1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Jewel</Text>
+      <Value>set_glass.glass_set1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>In-Line</Text>
+      <Value>set_glass.glass_set2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Arrow</Text>
+      <Value>set_glass.glass_set3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Terminus</Text>
+      <Value>set_glass.glass_set4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sideskirts</Text>
+      <Value>sideskirts.sideskirts</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sideskirts mini</Text>
+      <Value>sideskirts.sideskirts2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sideskirts mini</Text>
+      <Value>sideskirts.sideskirts3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Air horns 1</Text>
+      <Value>signal.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Air horns 2</Text>
+      <Value>signal.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Air horns 3</Text>
+      <Value>signal.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Color</Text>
+      <Value>spoler.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Color</Text>
+      <Value>spoler.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 3</Text>
+      <Value>steering_w.custom</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 1</Text>
+      <Value>steering_w.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 2</Text>
+      <Value>steering_w.exclusive</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Traveler Burl</Text>
+      <Value>steering_w.sci_burl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Traveler - Carbon Fiber</Text>
+      <Value>steering_w.sci_burl_c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Truck Color</Text>
+      <Value>steering_w.sci_cl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Green Carbon</Text>
+      <Value>steering_w.sci_cl_carb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Combo</Text>
+      <Value>steering_w.sci_cl_c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Leather</Text>
+      <Value>steering_w.sci_cl_l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Polyurethane</Text>
+      <Value>steering_w.sci_cl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Skulls White</Text>
+      <Value>steering_w.sci_cl_s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Colts</Text>
+      <Value>steering_w.sci_colts</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Excalibur</Text>
+      <Value>steering_w.sci_excal</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Flames</Text>
+      <Value>steering_w.sci_flames</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Flight</Text>
+      <Value>steering_w.sci_flight</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mud Flap Girl</Text>
+      <Value>steering_w.sci_girl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Milestone</Text>
+      <Value>steering_w.sci_milest</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Overland Sport 3</Text>
+      <Value>steering_w.sci_overlnd</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Truck Color</Text>
+      <Value>steering_w.sci_pin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Leather</Text>
+      <Value>steering_w.sci_pin_l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Mahogany</Text>
+      <Value>steering_w.sci_pin_m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Polyurethane</Text>
+      <Value>steering_w.sci_pin_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro</Text>
+      <Value>steering_w.sci_retro</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Step</Text>
+      <Value>step.step</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>sunshld.shape1s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>sunshld.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>sunshld.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Color</Text>
+      <Value>sunshld.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Color</Text>
+      <Value>sunshld.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sun visor</Text>
+      <Value>sun_visor.shape0</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sun visor 1</Text>
+      <Value>sun_visor.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sun visor 2</Text>
+      <Value>sun_visor.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sun visor 3</Text>
+      <Value>sun_visor.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sun visor 4</Text>
+      <Value>sun_visor.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>s_mirror.iveco_shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fuel tank 1 chrom</Text>
+      <Value>tanks.shape1t</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fuel tank 3 chrom</Text>
+      <Value>tanks.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fuel tank 3 paint</Text>
+      <Value>tanks.shape3k</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fuel tank color</Text>
+      <Value>tanks.tanks1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fuel tank color light</Text>
+      <Value>tanks.tanks1l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fuel tank chrome</Text>
+      <Value>tanks.tanks2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fuel tank chrome led</Text>
+      <Value>tanks.tanks2led</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fuel tank color led</Text>
+      <Value>tanks.tanks3led</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fuel tank color</Text>
+      <Value>tanks.tanks3p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fuel tank chrome</Text>
+      <Value>tanks.tanks4ch</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fuel tank chrome led</Text>
+      <Value>tanks.tanks4led</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tanks S</Text>
+      <Value>tanks_s.shape1t</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wings color</Text>
+      <Value>wings.wings</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wings 4 chrom</Text>
+      <Value>wings.wings04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wings 5 paint</Text>
+      <Value>wings.wings05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wings chrome</Text>
+      <Value>wings.wings1c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wings chrome</Text>
+      <Value>wings.wings1ch</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wings color</Text>
+      <Value>wings.wings1p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Air spoiler 1@@</Text>
+      <Value>winsl.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Air spoiler 2@@</Text>
+      <Value>winsl.shape2</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\My modded xml\All RTA.kw_t609.xml</FilePath>
+  <Game>All</Game>
+  <InternalName>kw_t609</InternalName>
+  <VehicleAuthor>RTA</VehicleAuthor>
+  <VehicleName>Kenworth T609</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants />
+  <XmlDefinitionAuthor>Lucasi_</XmlDefinitionAuthor>
+</Variable>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>41ab6573-b9d2-4aba-9209-7601895f570e</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Metal Box Bumper 03 Painted</Text>
+      <Value>f_bumper.box_bmp_3_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Metal Box Bumper 01 Painted</Text>
+      <Value>f_bumper.box_bmp_1_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Metal Box Bumper 02 Painted</Text>
+      <Value>f_bumper.box_bmp_2_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Streamline Bumper</Text>
+      <Value>f_bumper.bmpr_strml_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_cab.grll_brs_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Grille Mesh</Group>
+      <Text>Paint</Text>
+      <Value>grille_mesh.grll_msh_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>peilstabe</Group>
+      <Text>Paint</Text>
+      <Value>peilstabe.peilstabe_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Scania Badge</Group>
+      <Text>Paint</Text>
+      <Value>badge_lett.badg_let_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Badge Base</Group>
+      <Text>Paint</Text>
+      <Value>badge_base.badg_base_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Hood Latch</Group>
+      <Text>Paint</Text>
+      <Value>hood_latch.latch_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>peilstabe</Group>
+      <Text>Paint</Text>
+      <Value>peilstabe.peilstabe_p1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Paint</Text>
+      <Value>sunshield.snshld_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Cab Latch</Group>
+      <Text>Paint</Text>
+      <Value>cab_latch.cab_latch_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>With Painted Lightbox</Text>
+      <Value>r_grill.tpbr_box_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>With Plasic Lightbox</Text>
+      <Value>r_grill.tpbr_box_pl</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Spoiler</Group>
+      <Text>Paint</Text>
+      <Value>spoiler.dachgarten_3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Paint</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Cab Steps</Group>
+      <Text>Paint</Text>
+      <Value>stairs.stairs_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Cab Skirt</Group>
+      <Text>Paint</Text>
+      <Value>cab_skirts.cab_skirt_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>Paint</Text>
+      <Value>fuel_tank.fuel_tank_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Exhaust</Group>
+      <Text>Paint</Text>
+      <Value>exhaust.stack_1_p1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Cover</Group>
+      <Text>Chassis Deck Plate 2</Text>
+      <Value>chs_deck.chs_deck_2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Cover</Group>
+      <Text>4x Chassis Deck Plate 1</Text>
+      <Value>chs_deck.chs_deck_1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Cover</Group>
+      <Text>6x Chassis Deck Plate 3</Text>
+      <Value>chs_deck.chs_deck_3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Painted Toolbox Left</Text>
+      <Value>sideskirt.tbox_l_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Painted Toolbox Right</Text>
+      <Value>sideskirt.tbox_r_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Painted Toolbox Both Side</Text>
+      <Value>sideskirt.tbox_rl_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Custom Skirt 1</Text>
+      <Value>sideskirt.holl_skirt_1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Painted Toolbox Small Right</Text>
+      <Value>sideskirt.tbox_r_p2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Custom Skirt 3</Text>
+      <Value>sideskirt.holl_skirt_3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Custom Skirt 1</Text>
+      <Value>sideskirt.holl_skirt_2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Small Danish Bumper Paint</Text>
+      <Value>r_bumper.holl_bump_3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Custom Bumper 1</Text>
+      <Value>r_bumper.holl_bump_1</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.JZD_Fahrzeugbau_Scania.143M.Torpedo.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>scania_3_t</InternalName>
+  <VehicleAuthor>JZD Fahrzeugbau</VehicleAuthor>
+  <VehicleName>Scania 3 Series Torpedo</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>normal.scania_3_t.cabin</InternalName>
+      <Name>Stock</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay</XmlDefinitionAuthor>
+</Variable>

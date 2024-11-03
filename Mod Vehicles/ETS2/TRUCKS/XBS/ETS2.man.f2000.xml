@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>940aa303-5b3b-4290-9909-8d6332be6e1c</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Painted Custom Lightbox and Bar </Text>
+      <Value>r_grill.topbar02</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ETS2.man.f2000.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>man.f2000</InternalName>
+  <VehicleAuthor>XBS</VehicleAuthor>
+  <VehicleName>MAN F2000 Evolution</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>c_cab.man.f2000.cabin</InternalName>
+      <Name>Low Sleeper Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>d_cab.man.f2000.cabin</InternalName>
+      <Name>High Sleeper Cab</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

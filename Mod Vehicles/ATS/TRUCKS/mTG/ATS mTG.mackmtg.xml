@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>b327404e-a842-470b-a45c-a2d873f6a656</Id>
+  <IsEnabled>true</IsEnabled>
+  
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\All mTG.mackmtg.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>mackmtg</InternalName>
+  <VehicleAuthor>mTG</VehicleAuthor>
+  <VehicleName>Mack B61</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>a_cab.mackmtg.cabin</InternalName>
+      <Name>Big Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>b_cab.mackmtg.cabin</InternalName>
+      <Name>Small Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>c_cab.mackmtg.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

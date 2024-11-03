@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>8dcffc80-ec3c-4ce5-9a9c-3ca99aaf52e1</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>tbar (Cabin Light Bar)</Group>
+      <Text>Variant 3</Text>
+      <Value>tbar.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tbar (Cabin Light Bar)</Group>
+      <Text>Variant 4</Text>
+      <Value>tbar.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tbar (Cabin Light Bar)</Group>
+      <Text>Variant 6</Text>
+      <Value>tbar.shape6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tbar (Cabin Light Bar)</Group>
+      <Text>Variant 8</Text>
+      <Value>tbar.shape8</Value>
+    </ListItem>
+	<ListItem>
+      <Group>toplgh (Cabin Side Lights)</Group>
+      <Text>Variant Orange/Red</Text>
+      <Value>toplgh.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>toplgh (Cabin Side Lights)</Group>
+      <Text>Variant White/Red</Text>
+      <Value>toplgh.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>toplgh (Cabin Side Lights)</Group>
+      <Text>Variant White/White</Text>
+      <Value>toplgh.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tboxl (Light/Name Board)</Group>
+      <Text>AeroSign</Text>
+      <Value>tboxl.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tboxl (Light/Name Board)</Group>
+      <Text>AeroSign</Text>
+      <Value>tboxl.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tvisor (Sunvisor)</Group>
+      <Text>Variant 3-Series</Text>
+      <Value>tvisor.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tvisor (Sunvisor)</Group>
+      <Text>Variant Custom</Text>
+      <Value>tvisor.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tvisor (Sunvisor)</Group>
+      <Text>Variant Stock</Text>
+      <Value>tvisor.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tfront (Mask)</Group>
+      <Text>Paint</Text>
+      <Value>tfront.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tsign (Mask Name/Light Board)</Group>
+      <Text>Classic Sign Your Logo</Text>
+      <Value>tsign.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>teyelids (Eyelash)</Group>
+      <Text>Paint</Text>
+      <Value>teyelids.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tbulb (Bull Bar)</Group>
+      <Text>New Scania Bullbar</Text>
+      <Value>tbulb.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tbulb (Bull Bar)</Group>
+      <Text>Scania Bullbar</Text>
+      <Value>tbulb.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Headlights</Group>
+      <Text>Standard Halogen</Text>
+      <Value>headlight.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Headlights</Group>
+      <Text>LED</Text>
+      <Value>headlight.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tbumper (Front Bumper)</Group>
+      <Text>Front Bumper</Text>
+      <Value>tbumper.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tbumper (Front Bumper)</Group>
+      <Text>Front Bumper (For Lip)</Text>
+      <Value>tbumper.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tlip (Front Bumper Lip)</Group>
+      <Text>Lip Colour</Text>
+      <Value>tlip.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Paint</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Door Handle</Group>
+      <Text>Paint</Text>
+      <Value>thand.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>twall (Side Panel)</Group>
+      <Text>Variant 1</Text>
+      <Value>twall.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>twall (Side Panel)</Group>
+      <Text>Variant 4</Text>
+      <Value>twall.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>twall (Side Panel)</Group>
+      <Text>Variant 5</Text>
+      <Value>twall.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirt</Group>
+      <Text>4x Paint</Text>
+      <Value>tsed.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirt</Group>
+      <Text>6x Paint</Text>
+      <Value>6x2sed.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tcan (Sidebar)</Group>
+      <Text>4x Paint</Text>
+      <Value>tcan.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tcan (Sidebar)</Group>
+      <Text>6x Paint</Text>
+      <Value>botp.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tnast (Chassis Cover)</Group>
+      <Text>Paint</Text>
+      <Value>tnast.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tconnectors (Rear Cable Connectors)</Group>
+      <Text>Variant 1</Text>
+      <Value>tconnectors.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tconnectors (Rear Cable Connectors)</Group>
+      <Text>Variant 2</Text>
+      <Value>tconnectors.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>4x Paint</Text>
+      <Value>twing.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>6x Variant 1</Text>
+      <Value>6x2twing.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>6x Variant 2</Text>
+      <Value>6x2twing.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>6x Variant 3</Text>
+      <Value>6x2twing.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tback (Rear Bumper)</Group>
+      <Text>Colour Headl</Text>
+      <Value>tback.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>tback (Rear Bumper)</Group>
+      <Text>Colour LED</Text>
+      <Value>tback.shape2</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.Jon_Ruda.NextGen.Torpedo.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>tgenscania</InternalName>
+  <VehicleAuthor>jon-ruda</VehicleAuthor>
+  <VehicleName>NextGen Torpedo</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>highline.tgenscania.cabin</InternalName>
+      <Name>Topline</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay</XmlDefinitionAuthor>
+</Variable>

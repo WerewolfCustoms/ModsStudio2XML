@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>7456c859-cc6e-4a0f-94c0-9dcf207a428d</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Aerokit</Text>
+      <Value>aerokit.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear Aerokit</Text>
+      <Value>aerokit.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear Aerokit + Wing</Text>
+      <Value>aerokit.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic</Text>
+      <Value>aircleaners.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Paint</Text>
+      <Value>aircleaners.1p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Semi Paint</Text>
+      <Value>aircleaners.1sp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro Intakes</Text>
+      <Value>aircleaners.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro Intakes Paint</Text>
+      <Value>aircleaners.2p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro Intakes Semi Paint</Text>
+      <Value>aircleaners.2sp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Donaldson</Text>
+      <Value>aircleaners.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Donaldson paint</Text>
+      <Value>aircleaners.3p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>badge.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock - Full paint</Text>
+      <Value>badge.1p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock - Painted Hood Pull</Text>
+      <Value>badge.1sp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vintage Badge</Text>
+      <Value>badge.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vintage Badge - Painted Hood Pull</Text>
+      <Value>badge.2sp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Belmor Aeroshield III</Text>
+      <Value>bugshield.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern + Side Deflectors</Text>
+      <Value>bugshield.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern + Side Deflectors Paint</Text>
+      <Value>bugshield.2p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern</Text>
+      <Value>bugshield.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern Paint</Text>
+      <Value>bugshield.3p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Swan Ornament</Text>
+      <Value>bugshield.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Modern</Text>
+      <Value>bumper.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Heavy Duty</Text>
+      <Value>bumper.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Heavy Duty - Paint</Text>
+      <Value>bumper.3p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Thick Brick</Text>
+      <Value>bumper.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bull Bar</Text>
+      <Value>bumper.5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Straight Brick</Text>
+      <Value>bumper.6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Straight Brick Paint</Text>
+      <Value>bumper.6p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic</Text>
+      <Value>bumper.7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>A-Model Style</Text>
+      <Value>bumper.8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rolled End</Text>
+      <Value>bumper.9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Straight</Text>
+      <Value>cbantenna.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Angled</Text>
+      <Value>cbantenna.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Straight</Text>
+      <Value>cbantenna.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>None</Text>
+      <Value>cbradio.0</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cobra</Text>
+      <Value>cbradio.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Chops</Text>
+      <Value>chops.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Chops</Text>
+      <Value>chops.1p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Panel Chrome</Text>
+      <Value>cowlpanel.1n</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Panel Paint</Text>
+      <Value>cowlpanel.1np</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Panel Chrome - Double</Text>
+      <Value>cowlpanel.2n</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Panel Paint - Double</Text>
+      <Value>cowlpanel.2np</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Original Wood</Text>
+      <Value>dashtrim.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Carbon Fiber</Text>
+      <Value>dashtrim.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black Wood</Text>
+      <Value>dashtrim.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mahogany</Text>
+      <Value>dashtrim.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal</Text>
+      <Value>dashtrim.5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Truck Color</Text>
+      <Value>dashtrim.6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dark Wood</Text>
+      <Value>dashtrim.7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>deflectors.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>deflectors.1p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blue</Text>
+      <Value>domelight.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red</Text>
+      <Value>domelight.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic</Text>
+      <Value>doortrim.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Inserts</Text>
+      <Value>doortrim.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cat</Text>
+      <Value>enginelook.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cummins N-Series</Text>
+      <Value>enginelook.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cummins Modern</Text>
+      <Value>enginelook.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cummins Vintage</Text>
+      <Value>enginelook.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Detroit Diesel</Text>
+      <Value>enginelook.5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard - Basic Heatshield</Text>
+      <Value>exhaust.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>West Coast - 7 inch</Text>
+      <Value>exhaust.10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Curved - 7 inch</Text>
+      <Value>exhaust.11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bull Horns - 7 inch</Text>
+      <Value>exhaust.12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Straight - 8 inch</Text>
+      <Value>exhaust.13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mitered - 8 inch</Text>
+      <Value>exhaust.14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>West Coast - 8 inch</Text>
+      <Value>exhaust.15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Curved - 8 inch</Text>
+      <Value>exhaust.16</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bull Horns - 8 inch</Text>
+      <Value>exhaust.17</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard - Modern Heatshield</Text>
+      <Value>exhaust.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Straight - 6 inch</Text>
+      <Value>exhaust.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mitered - 6 inch</Text>
+      <Value>exhaust.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>West Coast - 6 inch</Text>
+      <Value>exhaust.5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Curved - 6 inch</Text>
+      <Value>exhaust.6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bull Horns - 6 inch</Text>
+      <Value>exhaust.7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Straight - 7 inch</Text>
+      <Value>exhaust.8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mitered - 7 inch</Text>
+      <Value>exhaust.9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>fairings.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic</Text>
+      <Value>fenderext.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED - Orange / Red</Text>
+      <Value>filterlights.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED - Clear</Text>
+      <Value>filterlights.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slots - Chrome Plate</Text>
+      <Value>filterlights.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slots - Inside mount</Text>
+      <Value>filterlights.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grey Logo</Text>
+      <Value>floormats.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Logo</Text>
+      <Value>floormats.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blue Logo</Text>
+      <Value>floormats.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dark Carpet</Text>
+      <Value>floor.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Laminate Wood</Text>
+      <Value>floor.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dark Mahogany</Text>
+      <Value>floor.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Checkered Vinyl Tile</Text>
+      <Value>floor.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Steps</Text>
+      <Value>framestep.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Merritt Saddle Box</Text>
+      <Value>framestep.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stainless</Text>
+      <Value>frontsteps.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Chrome</Text>
+      <Value>frontsteps.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Paint</Text>
+      <Value>frontsteps.2p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Semi Paint</Text>
+      <Value>frontsteps.2sp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roadworks A.C.E Retro Chrome</Text>
+      <Value>frontsteps.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roadworks A.C.E Retro Semi Paint</Text>
+      <Value>frontsteps.3sp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Basic Plastic</Text>
+      <Value>gauges.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Basic Chrome</Text>
+      <Value>gauges.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Chrome Red</Text>
+      <Value>gauges.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Chrome Blue</Text>
+      <Value>gauges.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black Leather Insert</Text>
+      <Value>glovebox.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Leather Insert</Text>
+      <Value>glovebox.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blue Leather Insert</Text>
+      <Value>glovebox.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stainless</Text>
+      <Value>glovebox.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7 bars black mesh</Text>
+      <Value>grill.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Single Bar Chrome</Text>
+      <Value>grill.10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Single Bar Semi Paint</Text>
+      <Value>grill.10p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>3 bars</Text>
+      <Value>grill.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>3 bars paint</Text>
+      <Value>grill.2p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Louvers</Text>
+      <Value>grill.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Louvers paint</Text>
+      <Value>grill.3p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vertical</Text>
+      <Value>grill.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Angled Louvers</Text>
+      <Value>grill.6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black Mesh</Text>
+      <Value>grill.7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Mesh</Text>
+      <Value>grill.8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>A-Model Style</Text>
+      <Value>grill.9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern Halogen</Text>
+      <Value>headlights.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Inserts</Text>
+      <Value>headlights.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Inserts - Dark</Text>
+      <Value>headlights.2d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic 90s</Text>
+      <Value>headlights.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aftermarket LED</Text>
+      <Value>headlights.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aftermarket LED - Dark</Text>
+      <Value>headlights.4d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>A-Model style Classic</Text>
+      <Value>headlights.5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>A-Model Style LED with Visors</Text>
+      <Value>headlights.6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Moon LEDs</Text>
+      <Value>headlights.7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern</Text>
+      <Value>hldeflector.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern Paint</Text>
+      <Value>hldeflector.1p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Full Chrome</Text>
+      <Value>hldeflector.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Half Chrome</Text>
+      <Value>hldeflector.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>A-Model Style Deflectors</Text>
+      <Value>hldeflector.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern</Text>
+      <Value>hoodemblem.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern Paint</Text>
+      <Value>hoodemblem.1p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern with Ornament</Text>
+      <Value>hoodemblem.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern Paint with Ornament</Text>
+      <Value>hoodemblem.2p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>50s Plaque</Text>
+      <Value>hoodemblem.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro</Text>
+      <Value>hoodemblem.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro Flame</Text>
+      <Value>hoodemblem.5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard W900L</Text>
+      <Value>hood.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>A-Model Style Fenders</Text>
+      <Value>hood.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stainless Merritt</Text>
+      <Value>hrack.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Trebor</Text>
+      <Value>hrack.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Trebor</Text>
+      <Value>hrack.2p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED</Text>
+      <Value>indicators.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Halogen</Text>
+      <Value>indicators.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Billet Style</Text>
+      <Value>indicators.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>A-Model Style Bullet</Text>
+      <Value>indicators.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>A-Model Style Bullet Double</Text>
+      <Value>indicators.5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED - Clear</Text>
+      <Value>indicators.6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Lollipop</Text>
+      <Value>lollipops.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern LED Indicators</Text>
+      <Value>lollipops.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Shift Products Watermelon - Front Facing</Text>
+      <Value>lollipops.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Shift Products Watermelon - Side Facing</Text>
+      <Value>lollipops.3b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Shift Products Watermelon - Front Facing</Text>
+      <Value>lollipops.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Shift Products Watermelon - Side Facing</Text>
+      <Value>lollipops.4b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern LED Indicators</Text>
+      <Value>lollipops.5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>mirrorleft.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>mirrorright.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Original</Text>
+      <Value>mirrors.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>West Coast Chrome</Text>
+      <Value>mirrors.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>West Coast Paint</Text>
+      <Value>mirrors.2p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oversize Banner</Text>
+      <Value>oversize.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oversize Banner</Text>
+      <Value>oversize.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oversize Banner</Text>
+      <Value>oversize.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Basic</Text>
+      <Value>rearbumper.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Chrome Red Lights</Text>
+      <Value>rearbumper.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Chrome Clear Lights</Text>
+      <Value>rearbumper.2c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Paint Red Lights</Text>
+      <Value>rearbumper.2p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Paint Clear Lights</Text>
+      <Value>rearbumper.2pc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Simple Chrome Red Lights</Text>
+      <Value>rearbumper.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Simple Paint Red Lights</Text>
+      <Value>rearbumper.3p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Fenders Plastic</Text>
+      <Value>rearfenders.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Single Chrome</Text>
+      <Value>rearfenders.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Single Chrome - Lift</Text>
+      <Value>rearfenders.3l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Single Paint - Lift</Text>
+      <Value>rearfenders.3lp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Single Paint</Text>
+      <Value>rearfenders.3p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Hogebuilt</Text>
+      <Value>rearfenders.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tandem - Chrome</Text>
+      <Value>rearfenders.5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tandem - Paint</Text>
+      <Value>rearfenders.5p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Single Chrome - Tri</Text>
+      <Value>rearfenders.6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Single Paint - Tri</Text>
+      <Value>rearfenders.6p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tandem Plastic</Text>
+      <Value>rearfenders.7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tandem Plastic - Tri</Text>
+      <Value>rearfenders.7l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Heavy Duty</Text>
+      <Value>rearfenders.8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Heavy Duty Long</Text>
+      <Value>rearfenders.8l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Chrome</Text>
+      <Value>rearfenders.9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Chrome Long</Text>
+      <Value>rearfenders.9l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Paint - Tri</Text>
+      <Value>rearfenders.9lp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Paint</Text>
+      <Value>rearfenders.9p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED - Red</Text>
+      <Value>rearslots.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED - Clear</Text>
+      <Value>rearslots.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slots</Text>
+      <Value>roofslots.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roof Slots + Sleeper Slots</Text>
+      <Value>roofslots.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black Leather</Text>
+      <Value>seats.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black/Red Leather</Text>
+      <Value>seats.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black/Blue Leather</Text>
+      <Value>seats.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Eaton</Text>
+      <Value>shifter.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern Eaton</Text>
+      <Value>shifter.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Blue Marble</Text>
+      <Value>shifter.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Red Marble</Text>
+      <Value>shifter.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern Eaton Chrome</Text>
+      <Value>shifter.5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Hurst Pistol Grip</Text>
+      <Value>shifter.6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Double Chrome Inserts</Text>
+      <Value>sidetrim.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Inserts</Text>
+      <Value>sidetrim.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Inserts</Text>
+      <Value>sidetrim.2p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Double Chrome Inserts</Text>
+      <Value>sidetrim.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Inserts</Text>
+      <Value>sidetrim.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Inserts</Text>
+      <Value>sidetrim.4p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Double Chrome Inserts</Text>
+      <Value>sidetrim.5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Inserts</Text>
+      <Value>sidetrim.6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Inserts</Text>
+      <Value>sidetrim.6p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Wood</Text>
+      <Value>steering_w.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Forever Sharp 4-Spoke Blue</Text>
+      <Value>steering_w.10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Leather</Text>
+      <Value>steering_w.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Pinion</Text>
+      <Value>steering_w.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Forever Sharp Chrome</Text>
+      <Value>steering_w.5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Forever Sharp Gloss Black</Text>
+      <Value>steering_w.6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Forever Sharp 4-Spoke Wood</Text>
+      <Value>steering_w.7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Forever Sharp 4-Spoke Black Wood</Text>
+      <Value>steering_w.8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Forever Sharp 4-Spoke Red</Text>
+      <Value>steering_w.9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>90s Smart Wheel</Text>
+      <Value>steering_w.vintage</Value>
+    </ListItem>
+    <ListItem>
+      <Text>90s Smart Exclusive</Text>
+      <Value>steering_w.vintage2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>None</Text>
+      <Value>stereo.0</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Jensen Heavy Duty</Text>
+      <Value>stereo.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>sunvisor.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Drop Visor - Chrome</Text>
+      <Value>sunvisor.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Drop Visor - Paint</Text>
+      <Value>sunvisor.2p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Original</Text>
+      <Value>sunvisor.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Bowtie</Text>
+      <Value>sunvisor.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome V-shape</Text>
+      <Value>sunvisor.5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Curved Drop</Text>
+      <Value>sunvisor.7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Curved Drop - Paint</Text>
+      <Value>sunvisor.7p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome - Red LEDs</Text>
+      <Value>tankpanel.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint - Red LEDs</Text>
+      <Value>tankpanel.1p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome - Clear LEDs</Text>
+      <Value>tankpanel.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint - Clear LEDs</Text>
+      <Value>tankpanel.2p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Chrome</Text>
+      <Value>tanks.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted</Text>
+      <Value>tanks.1p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Semi Paint</Text>
+      <Value>tanks.1sp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>winsurround.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>winsurround.2</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS.outlaw.w900.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>outlaw.w900</InternalName>
+  <VehicleAuthor>Outlaw Trucksim</VehicleAuthor>
+  <VehicleName>Outlaw Kenworth W900</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>1.outlaw.w900.cabin</InternalName>
+      <Name>Daycab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>2.outlaw.w900.cabin</InternalName>
+      <Name>Flat Top</Name>
+    </Variant>
+    <Variant>
+      <InternalName>aerodyne.outlaw.w900.cabin</InternalName>
+      <Name>Aerodyne</Name>
+    </Variant>
+    <Variant>
+      <InternalName>coffin.outlaw.w900.cabin</InternalName>
+      <Name>Retro Coffin</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Paulys Custom SKins</XmlDefinitionAuthor>
+</Variable>

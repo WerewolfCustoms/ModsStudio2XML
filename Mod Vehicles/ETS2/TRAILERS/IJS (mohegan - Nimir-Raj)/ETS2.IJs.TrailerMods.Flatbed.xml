@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+	<ChildVariables />
+	<Id>aee8ee1b-93f4-4dff-8b72-ae7cb18d01b5</Id>
+	<IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2020</Major>
+	 <Minor>7</Minor>
+	</MS2LibraryVersion>		
+	<InternalName>ijs.flatbed</InternalName>
+	<VehicleName>IJ's Mods FlatBed Trailers</VehicleName>
+	<VehicleAuthor>IJ's Mods</VehicleAuthor>
+	<VehicleType>Trailers</VehicleType>
+	<Game>ETS2</Game>	
+	<VehicleVariants>
+		<Variant>
+			<InternalName>body.flatbed_ijs</InternalName>
+			<Name>BS SCS Flatbed Brick Crane</Name>
+		</Variant>
+		<Variant>
+			<InternalName>body.nc_flat_ijs</InternalName>
+			<Name>BS SCS Flatbed Brick</Name>
+		</Variant>
+		<Variant>
+			<InternalName>body.flatbed2_ijs</InternalName>
+			<Name>BS SCS Flatbed Brick Crane Front</Name>
+		</Variant>
+		<Variant>
+			<InternalName>body.flatbed3_ijs</InternalName>
+			<Name>BS SCS Flatbed Brick Crane Rear</Name>
+		</Variant>
+	</VehicleVariants>
+	<XmlDefinitionAuthor>m1key, Danny Kay</XmlDefinitionAuthor>
+  <AccessoryItems>   
+    <ListItem>	
+      <ChildVariables />
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Simple Side Protection Paint</Text>  
+      <Value>chs_f_l.cage_136_ijs</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Sideskirt Aero</Text>  
+      <Value>chs_f_l.ijs_aero_l</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Sideskirt SDC</Text>  
+      <Value>chs_f_l.ijs_sdc_l</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Sideskirt SDC ALT</Text>  
+      <Value>chs_f_l.ijs_sdc_l2</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Sideskirt SDC ALT Full Paint</Text>  
+      <Value>chs_f_l.ijs_sdc_l2p</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Simple Side Protection + Painted Box</Text>  
+      <Value>chs_f_l.p_box_cage</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Painted Box, 2x</Text>  
+      <Value>chs_f_l.p_box_doubl</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Painted Box</Text>  
+      <Value>chs_f_l.paint_box</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Pallet Box</Text>  
+      <Value>chs_f_l.palletbox</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Full Protection Sideskirts</Text>  
+      <Value>chs_f_l.sideskirt_01</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Simple Side Protection Paint</Text>  
+      <Value>chs_f_r.cage_136_ijs</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Sideskirt Aero</Text>  
+      <Value>chs_f_r.ijs_aero_r</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Sideskirt SDC</Text>  
+      <Value>chs_f_r.ijs_sdc_r</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Sideskirt SDC ALT</Text>  
+      <Value>chs_f_r.ijs_sdc_r2</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Sideskirt SDC ALT Full Paint</Text>  
+      <Value>chs_f_r.ijs_sdc_r2p</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Simple Side Protection + Painted Box</Text>  
+      <Value>chs_f_r.p_box_cage</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Painted Box, 2x</Text>  
+      <Value>chs_f_r.p_box_doubl</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Painted Box</Text>  
+      <Value>chs_f_r.paint_box</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Pallet Box</Text>  
+      <Value>chs_f_r.palletbox</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Full Protection Sideskirts</Text>  
+      <Value>chs_f_r.sideskirt_01</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 				
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Left Rear SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Painted Box</Text>  
+      <Value>chs_r_l.paint_box</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Left Rear SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Full Protection Sideskirts</Text>  
+      <Value>chs_r_l.sideskirt_01</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 			
+
+    <ListItem>	
+      <ChildVariables />
+      <Group>Right Rear SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Painted Box</Text>  
+      <Value>chs_r_r.paint_box</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>Right Rear SIDESKIRTS - RAILS - BOXES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Full Protection Sideskirts</Text>  
+      <Value>chs_r_r.sideskirt_01</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 		
+
+    <ListItem>	
+      <ChildVariables />
+      <Group>BUMPERS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Standard eco Paint</Text>  
+      <Value>r_bumper.ijs_eco_2</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>BUMPERS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Standard Paint</Text>  
+      <Value>r_bumper.ijs_euro_3</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>BUMPERS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>DAF LED (Yellow)</Text>  
+      <Value>r_bumper.ijs_daf_led</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+	
+    <ListItem>	
+      <ChildVariables />
+      <Group>BUMPERS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>DAF LED (Orange)</Text>  
+      <Value>r_bumper.ijs_daf_ledo</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>BUMPERS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>SDC</Text>  
+      <Value>r_bumper.ijs_sdc</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>BUMPERS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>SDC New</Text>  
+      <Value>r_bumper.ijs_sdc2</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>BUMPERS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>SDC New Burger Lights</Text>  
+      <Value>r_bumper.ijs_sdc_b</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>BUMPERS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>SDC New Light Slots</Text>  
+      <Value>r_bumper.ijs_sdc_s</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>BUMPERS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Exclusive</Text>  
+      <Value>r_bumper.paint</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem>
+	
+	<ListItem>	
+      <ChildVariables />
+      <Group>CRANE - DROPSIDES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Drop Side</Text>  
+      <Value>dropsides.ijs_drop_p</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem>
+
+    <ListItem>	
+      <ChildVariables />
+      <Group>CRANE - DROPSIDES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Drop Side With Crane</Text>  
+      <Value>crane.ijs_crane_p</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CRANE - DROPSIDES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Drop Side With Crane Front</Text>  
+      <Value>crane.ijs_crane2_p</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CRANE - DROPSIDES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Drop Side With Crane Rear</Text>  
+      <Value>crane.ijs_crane3_p</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem>	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>MUDFLAPS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Paint</Text>  
+      <Value>r_mudflap.ijs_paint</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>MUDFLAPS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Paint SDC</Text>  
+      <Value>r_mudflap.ijs_p_sdc</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>MUDFLAPS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Paint (Flat Fenders)</Text>  
+      <Value>mudflap_s.ijs_paint</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem>  	
+		
+	<ListItem>	
+      <ChildVariables />
+      <Group>FENDERS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Painted (4 Axles)</Text>  
+      <Value>fenders.ijs_fend_4p</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>FENDERS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Painted (3 Axles)</Text>  
+      <Value>fenders.ijs_fend_p</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>FENDERS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>Painted (Flat Fenders)</Text>  
+      <Value>fenders.ijs_fend_sp</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem>
+	
+	<ListItem>	
+      <ChildVariables />
+      <Group>CHASSIS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chassis.ch_3_ijs</Text>  
+      <Value>chassis.ch_3_ijs</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chassis.ch_3_ijss</Text>  
+      <Value>chassis.ch_3_ijss</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chassis.ch_3_st_ax_r</Text>  
+      <Value>chassis.ch_3_st_ax_r</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chassis.ch_3_st_ax_rs</Text>  
+      <Value>chassis.ch_3_st_ax_rs</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chassis.ch_3_st_wh_r</Text>  
+      <Value>chassis.ch_3_st_wh_r</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chassis.ch_3_st_wh_rs</Text>  
+      <Value>chassis.ch_3_st_wh_rs</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chassis.ch_3_st_wh23</Text>  
+      <Value>chassis.ch_3_st_wh23</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chassis.ch_3_st_wh23s</Text>  
+      <Value>chassis.ch_3_st_wh23s</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chassis.ch_3b_ijs</Text>  
+      <Value>chassis.ch_3b_ijs</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chassis.ch_3b_ijss</Text>  
+      <Value>chassis.ch_3b_ijss</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chassis.ch_3s_ijs</Text>  
+      <Value>chassis.ch_3s_ijs</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chassis.ch_3s_ijss</Text>  
+      <Value>chassis.ch_3s_ijss</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chassis.ch_4</Text>  
+      <Value>chassis.ch_4</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 	
+		
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSIS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chassis.ch_4s</Text>  
+      <Value>chassis.ch_4s</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem>
+
+  </AccessoryItems>
+</Variable>

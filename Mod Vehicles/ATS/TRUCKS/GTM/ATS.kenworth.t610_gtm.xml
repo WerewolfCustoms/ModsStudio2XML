@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>a3d8cc2c-f12f-41ad-944c-8c1dd5d969f6</Id>
+  <IsEnabled>true</IsEnabled>
+  
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\xmls_new style\ATS.kenworth.t610_gtm.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>kenworth.t610_gtm</InternalName>
+  <VehicleAuthor>GTM Team</VehicleAuthor>
+  <VehicleName>Kenworth T610</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>duty.kenworth.t610_gtm.cabin</InternalName>
+      <Name>Duty Day Cabin</Name>
+    </Variant>
+    <Variant>
+      <InternalName>exclusive.kenworth.t610_gtm.cabin</InternalName>
+      <Name>Aero Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standard.kenworth.t610_gtm.cabin</InternalName>
+      <Name>Standard Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

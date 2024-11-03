@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>72284c18-0c4d-44c0-bfc1-b97aed6469ab</Id>
+  <IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2020</Major>
+	 <Minor>7</Minor>
+	</MS2LibraryVersion>
+  <Game>ETS2</Game>
+  <InternalName>schmitz.isotherm</InternalName>
+  <VehicleAuthor>Schumi</VehicleAuthor>
+  <VehicleName>Schumi's Schmitz Isotherm Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.isotherm</InternalName>
+      <Name>Isotherm</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

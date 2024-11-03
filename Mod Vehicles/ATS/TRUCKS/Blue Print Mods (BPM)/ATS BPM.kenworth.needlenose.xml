@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>c67e5377-bf72-45a7-8340-2056abe2c47b</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    
+    <ListItem>
+	<Group>Tanker Body</Group>
+      <Text>Tanker</Text>
+      <Value>bodys.tanker_pt</Value>
+    </ListItem>
+	
+	
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper hook</Text>
+      <Value>bumpaddon.hook_h_pt</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper hook</Text>
+      <Value>bumpaddon.hook_pt</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper hook</Text>
+      <Value>bumpaddon.hook_str_h_p</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper hook</Text>
+      <Value>bumpaddon.hook_str_pt</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper with bullbar</Text>
+      <Value>bumper.auss_pt</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper with bullbar</Text>
+      <Value>bumper.auss_pt_h</Value>
+    </ListItem>
+   
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper</Text>
+      <Value>bumper.fl_wide_pt</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper</Text>
+      <Value>bumper.fl_wide_pt_h</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper</Text>
+      <Value>bumper.kw_narr_pt</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper</Text>
+      <Value>bumper.kw_narr_pt_h</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper</Text>
+      <Value>bumper.kw_sthd_pt</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper</Text>
+      <Value>bumper.kw_wide_pt</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper</Text>
+      <Value>bumper.kw_wide_pt_h</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper Steel Standart</Text>
+      <Value>bumper.steel_p</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper Steel Standart</Text>
+      <Value>bumper.steel_p_h</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper</Text>
+      <Value>bumper.str_nr_pt</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper</Text>
+      <Value>bumper.str_nr_pt_h</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper</Text>
+      <Value>bumper.str_wd_pt</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Bumpers BullBar Hooks</Group>
+      <Text>Bumper</Text>
+      <Value>bumper.str_wd_pt_h</Value>
+    </ListItem>
+	
+	
+    <ListItem>
+	<Group>Other Accessories</Group>
+      <Text>Dashboard panel skin</Text>
+      <Value>dashb.paintable</Value>
+    </ListItem>
+    
+	
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille frame</Text>
+      <Value>framegrille.h_ch_ch_p</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille frame</Text>
+      <Value>framegrille.h_ch_p_p</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille frame</Text>
+      <Value>framegrille.h_p_ch_ch</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille frame</Text>
+      <Value>framegrille.h_p_p_ch</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille frame</Text>
+      <Value>framegrille.h_p_p_p</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille frame</Text>
+      <Value>framegrille.l_ch_ch_p</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille frame</Text>
+      <Value>framegrille.l_ch_p_p</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille frame</Text>
+      <Value>framegrille.l_p_ch_ch</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille frame</Text>
+      <Value>framegrille.l_p_p_ch</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille frame</Text>
+      <Value>framegrille.l_p_p_p</Value>
+    </ListItem>
+	
+	
+    
+    <ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>Fuel tank</Text>
+      <Value>fuel1left.tank_paint</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>Fuel tank</Text>
+      <Value>fuel1right.tank_paint</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>Fuel tank</Text>
+      <Value>fuel2left.tank_paint</Value>
+    </ListItem>
+       <ListItem>
+	   <Group>Fuel Tanks</Group>
+      <Text>Fuel tank</Text>
+      <Value>fuel2right.tank_paint</Value>
+    </ListItem>
+    
+	
+    <ListItem>
+	<Group>Rear Fenders</Group>
+      <Text>Full fender</Text>
+      <Value>full_fenders.full_flat_p</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Fenders</Group>
+      <Text>Full fender Ribbed</Text>
+      <Value>full_fenders.full_ribb_p</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Fenders</Group>
+      <Text>Half fender</Text>
+      <Value>full_fenders.half_flat_p</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Fenders</Group>
+      <Text>Half fender Ribbed</Text>
+      <Value>full_fenders.half_ribb_p</Value>
+    </ListItem>
+	
+	
+    
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille bar</Text>
+      <Value>grillbar.h_2_p</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille bar</Text>
+      <Value>grillbar.h_4_p</Value>
+    </ListItem>
+   
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille bar</Text>
+      <Value>grillbar.h_centr_pt</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille bar</Text>
+      <Value>grillbar.l_2_p</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille bar</Text>
+      <Value>grillbar.l_4_p</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille bar</Text>
+      <Value>grillbar.l_centr_pt</Value>
+    </ListItem>
+   
+    
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille</Text>
+      <Value>grille.h_grille1_p</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille</Text>
+      <Value>grille.h_grille2_p</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille</Text>
+      <Value>grille.l_grille1_p</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Grille</Text>
+      <Value>grille.l_grille2_p</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Louvers closed</Text>
+      <Value>louvers_gr.h_close_p</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Louvers open</Text>
+      <Value>louvers_gr.h_open_p</Value>
+    </ListItem>
+    
+    
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Louvers closed</Text>
+      <Value>louvers_gr.l_close_p</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Grill and Parts</Group>
+      <Text>Louvers open</Text>
+      <Value>louvers_gr.l_open_p</Value>
+    </ListItem>
+    
+	
+    
+    
+    <ListItem>
+	<Group>Other Accessories</Group>
+      <Text>Tanker Tubes Painted</Text>
+      <Value>hose_tube.hose_tube_pt</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Other Accessories</Group>
+      <Text>Interior Metal of Cab</Text>
+      <Value>intm.paintable</Value>
+    </ListItem>
+	
+    
+    <ListItem>
+	<Group>Headlights</Group>
+      <Text>Lights painted</Text>
+      <Value>lght_l_fb_hd.light_paint</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Headlights</Group>
+      <Text>Lights painted</Text>
+      <Value>lght_r_fb_hd.light_paint</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Headlights</Group>
+      <Text>Lights painted</Text>
+      <Value>lightl_fb_fn.light_paint</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Headlights</Group>
+      <Text>Lights painted</Text>
+      <Value>lightr_fb_fn.light_paint</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Headlights</Group>
+      <Text>Lights painted</Text>
+      <Value>light_st_fl.light_paint</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Headlights</Group>
+      <Text>Lights painted</Text>
+      <Value>light_st_fr.light_paint</Value>
+    </ListItem>
+	
+	
+    
+    
+    
+    
+    <ListItem>
+	<Group>Other Accessories</Group>
+      <Text>Painted Mudflaps</Text>
+      <Value>mudflaph.mudflaps2</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Other Accessories</Group>
+      <Text>Painted Mudflaps</Text>
+      <Value>mudflaph.mudflaps4</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Other Accessories</Group>
+      <Text>Painted Mudflaps</Text>
+      <Value>mudflaph.mudflaps5</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Other Accessories</Group>
+      <Text>Painted Mudflaps</Text>
+      <Value>mudflaps.tp</Value>
+    </ListItem>
+	
+    
+    
+    
+    
+    <ListItem>
+	<Group>Sleeper Bunks</Group>
+      <Text>60 Mercury sleeper</Text>
+      <Value>sleeper.merc_60_fl_p</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Sleeper Bunks</Group>
+      <Text>60 Mercury sleeper</Text>
+      <Value>sleeper.merc_60_ht_p</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Sleeper Bunks</Group>
+      <Text>60 Mercury sleeper</Text>
+      <Value>sleeper.merc_60_rb_p</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Sleeper Bunks</Group>
+      <Text>34 Mercury sleeper</Text>
+      <Value>sleeper.mrc_34_chr_p</Value>
+    </ListItem>
+
+    
+    <ListItem>
+	<Group>Other Accessories</Group>
+      <Text>Hood Latches Paint</Text>
+      <Value>st_locks.st_locks_trp</Value>
+    </ListItem>
+	
+	
+	
+	
+    
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 18"</Text>
+      <Value>toolboxl1.tool_18_tpr</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 24"</Text>
+      <Value>toolboxl1.tool_24_tpr</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 30"</Text>
+      <Value>toolboxl1.tool_30_tpr</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 36"</Text>
+      <Value>toolboxl1.tool_36_tpr</Value>
+    </ListItem>
+    
+    
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 18"</Text>
+      <Value>toolboxl2.tool_18_tp</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 18"</Text>
+      <Value>toolboxl2.tool_18_tpr</Value>
+    </ListItem>
+    
+  
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 24"</Text>
+      <Value>toolboxl2.tool_24_tp</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 24"</Text>
+      <Value>toolboxl2.tool_24_tpr</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 30"</Text>
+      <Value>toolboxl2.tool_30_tp</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 30"</Text>
+      <Value>toolboxl2.tool_30_tpr</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 36"</Text>
+      <Value>toolboxl2.tool_36_tp</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 36"</Text>
+      <Value>toolboxl2.tool_36_tpr</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 18"</Text>
+      <Value>toolboxl3.tool_18_tp</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 24"</Text>
+      <Value>toolboxl3.tool_24_tp</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 30"</Text>
+      <Value>toolboxl3.tool_30_tp</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 36"</Text>
+      <Value>toolboxl3.tool_36_tp</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 18"</Text>
+      <Value>toolboxl4.tool_18_tp</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 24"</Text>
+      <Value>toolboxl4.tool_24_tp</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 30"</Text>
+      <Value>toolboxl4.tool_30_tp</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Left</Group>
+      <Text>Tool box 36"</Text>
+      <Value>toolboxl4.tool_36_tp</Value>
+    </ListItem>
+    
+    
+    
+    
+    <ListItem>
+	<Group>Tool Boxes Right</Group>
+      <Text>Tool box 18"</Text>
+      <Value>toolboxr2.tool_18_tpr</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Right</Group>
+      <Text>Tool box 24"</Text>
+      <Value>toolboxr2.tool_24_tpr</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Right</Group>
+      <Text>Tool box 30"</Text>
+      <Value>toolboxr2.tool_30_tpr</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Right</Group>
+      <Text>Tool box 36"</Text>
+      <Value>toolboxr2.tool_36_tpr</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Right</Group>
+      <Text>Tool box 18"</Text>
+      <Value>toolboxr3.tool_18_tp</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Right</Group>
+      <Text>Tool box 24"</Text>
+      <Value>toolboxr3.tool_24_tp</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Right</Group>
+      <Text>Tool box 30"</Text>
+      <Value>toolboxr3.tool_30_tp</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Right</Group>
+      <Text>Tool box 36"</Text>
+      <Value>toolboxr3.tool_36_tp</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Right</Group>
+      <Text>Tool box 18"</Text>
+      <Value>toolboxr4.tool_18_tp</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Right</Group>
+      <Text>Tool box 24"</Text>
+      <Value>toolboxr4.tool_24_tp</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Right</Group>
+      <Text>Tool box 30"</Text>
+      <Value>toolboxr4.tool_30_tp</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Tool Boxes Right</Group>
+      <Text>Tool box 36"</Text>
+      <Value>toolboxr4.tool_36_tp</Value>
+    </ListItem>
+	
+	
+    
+    <ListItem>
+	<Group>Other Accessories</Group>
+      <Text>Sunshield</Text>
+      <Value>visor.visor1_pt</Value>
+    </ListItem>
+	
+  </AccessoryItems>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\xmls_new style\All BPM.kenworth.needlenose.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>kenworth.needlenose</InternalName>
+  <VehicleAuthor>Virat</VehicleAuthor>
+  <VehicleName>Kenworth 521 Needle Nose</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>cab_day.kenworth.needlenose.cabin</InternalName>
+      <Name>Daycab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_dayr.kenworth.needlenose.cabin</InternalName>
+      <Name>Daycab with rack</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_single.kenworth.needlenose.cabin</InternalName>
+      <Name>Daycab single</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_sl_34.kenworth.needlenose.cabin</InternalName>
+      <Name>Cab with 34'' sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_sl_34r.kenworth.needlenose.cabin</InternalName>
+      <Name>Cab 34'' sleeper with rack</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_sl_60.kenworth.needlenose.cabin</InternalName>
+      <Name>Cab with 60'' sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_sl_60r.kenworth.needlenose.cabin</InternalName>
+      <Name>Cab 60'' sleeper with rack</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

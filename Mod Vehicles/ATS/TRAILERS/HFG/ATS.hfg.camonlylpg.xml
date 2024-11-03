@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>47436dba-153d-4bcb-804b-4f00d052cacd</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Painted Rear Axle Plate</Text>
+      <Value>axleplate.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Front Fenders</Text>
+      <Value>f_body.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Rear Fenders</Text>
+      <Value>rear_body.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Rear Bumper/Lights</Text>
+      <Value>r_bumper.simple</Value>
+    </ListItem>
+	<ListItem>
+      <Text>Painted Chassis</Text>
+      <Value>chassis.ch_53_4a</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.hfg.camonlylpg.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>hfg.camonlylpg</InternalName>
+  <VehicleAuthor>HFG CaMOnly</VehicleAuthor>
+  <VehicleName>HFG LPG</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.alum_53</InternalName>
+      <Name>Aluminum Tank</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.chrom_53</InternalName>
+      <Name>Chromed Tank</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.paint_53</InternalName>
+      <Name>Paint Tank</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.tank_53</InternalName>
+      <Name>Plain Tank</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

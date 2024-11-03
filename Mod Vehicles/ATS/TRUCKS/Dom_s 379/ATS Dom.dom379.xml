@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>34bcb164-3c11-4f3e-bc96-8c126489b2e4</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Aero Wings</Text>
+      <Value>aero_wings.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Kit</Text>
+      <Value>aero_wings.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Antenna Slots</Text>
+      <Value>antenna.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slots No Box</Text>
+      <Value>backside.slots</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slots</Text>
+      <Value>backside.slots2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>bezel.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>bezel.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wood</Text>
+      <Value>bezel.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>bezel.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Carbon</Text>
+      <Value>bezel.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Swirl</Text>
+      <Value>bezel.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Damascus</Text>
+      <Value>bezel.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>bug_shield.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic</Text>
+      <Value>bug_shield.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Glass</Text>
+      <Value>bug_shield.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>stock</Text>
+      <Value>bumper.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>doms bumper paint</Text>
+      <Value>bumper.domsbumper1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>doms bumper</Text>
+      <Value>bumper.domsbumper2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>doms bumper 3</Text>
+      <Value>bumper.domsbumper3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cab Light Slots</Text>
+      <Value>cabflares.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>2 lights</Text>
+      <Value>cabflares.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>cabin_trim.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paisley</Text>
+      <Value>cabin_trim.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Burl</Text>
+      <Value>cabin_trim.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>wood</Text>
+      <Value>cabin_trim.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>stock</Text>
+      <Value>cabin_trim.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Marb</Text>
+      <Value>cabin_trim.shape08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Carbon</Text>
+      <Value>cabin_trim.shape09</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Demascus</Text>
+      <Value>cabin_trim.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Swirl</Text>
+      <Value>cabin_trim.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Leather</Text>
+      <Value>cabin_trim.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Blue</Text>
+      <Value>cab_light.bluedom</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Green</Text>
+      <Value>cab_light.greendom</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Orange</Text>
+      <Value>cab_light.orangedom</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Pink</Text>
+      <Value>cab_light.pinkdom</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Purple</Text>
+      <Value>cab_light.purpledom</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Red</Text>
+      <Value>cab_light.reddom</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Sea Blue</Text>
+      <Value>cab_light.turqdom</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Yellow</Text>
+      <Value>cab_light.yellowdom</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>codrv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>dash.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Burl</Text>
+      <Value>dash.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wood</Text>
+      <Value>dash.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>dash.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Swirl</Text>
+      <Value>dash.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Carbon</Text>
+      <Value>dash.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Damascus</Text>
+      <Value>dash.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>stock</Text>
+      <Value>dash.shape08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>paisley</Text>
+      <Value>dash_trim.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Burl</Text>
+      <Value>dash_trim.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wood</Text>
+      <Value>dash_trim.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>dash_trim.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Marb</Text>
+      <Value>dash_trim.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>dash_trim.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Carbon</Text>
+      <Value>dash_trim.shape08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Demascus</Text>
+      <Value>dash_trim.shape09</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Swirl</Text>
+      <Value>dash_trim.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Leather</Text>
+      <Value>dash_trim.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>swirl</Text>
+      <Value>deckplate.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>chrome</Text>
+      <Value>deckplate.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>paint</Text>
+      <Value>deckplate.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>drv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Peterbilt</Text>
+      <Value>emblem.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Factory Exhaust Straight Pipe Shield</Text>
+      <Value>exhaust.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Factory Shield</Text>
+      <Value>exhaust.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock 45's</Text>
+      <Value>exhaust.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock 45's Shield</Text>
+      <Value>exhaust.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Angle Cut</Text>
+      <Value>exhaust.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Angle Cut Shield</Text>
+      <Value>exhaust.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Factory Exhaust mitered</Text>
+      <Value>exhaust.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Factory Exhaust mitered shield</Text>
+      <Value>exhaust.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Factory Exhaust Straight Pipe</Text>
+      <Value>exhaust.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dom custom</Text>
+      <Value>fenders.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dom custom paint</Text>
+      <Value>fenders.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>TNT VTC Custom fenders</Text>
+      <Value>fenders.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Hogebuilt Fenders</Text>
+      <Value>fenders.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Quarter Fenders</Text>
+      <Value>fenders.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Fenders</Text>
+      <Value>fenders.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Fenders Paint</Text>
+      <Value>fenders.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>doms stock cleaners w/ lights</Text>
+      <Value>filters.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>doms stock cleaners</Text>
+      <Value>filters.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>doms 379 cleaners</Text>
+      <Value>filters.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ash</Text>
+      <Value>floor.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>oak</Text>
+      <Value>floor.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cherry</Text>
+      <Value>floor.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Marble</Text>
+      <Value>floor.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Carpet</Text>
+      <Value>floor.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>floor.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Slots</Text>
+      <Value>frame_lights.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Silver/Chrome</Text>
+      <Value>f_fender.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>f_fender.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>f_grill.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>black</Text>
+      <Value>f_grill.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>379 Projectors Paint</Text>
+      <Value>f_lights.domhlp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>379 Projectors</Text>
+      <Value>f_lights.domhl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>379 stock</Text>
+      <Value>f_lights.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>379 Stock W/ Eyelid</Text>
+      <Value>f_lights.stockl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Window Clear</Text>
+      <Value>glass.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Window Tint</Text>
+      <Value>glass.shape</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Carbon</Text>
+      <Value>glovebox.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Demascus</Text>
+      <Value>glovebox.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Swirl</Text>
+      <Value>glovebox.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>glovebox.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>glovebox.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Burl</Text>
+      <Value>glovebox.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wood</Text>
+      <Value>glovebox.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>glovebox.shape08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paisley</Text>
+      <Value>glovebox.shape09</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Leather</Text>
+      <Value>glovebox.shape010</Value>
+    </ListItem>
+    <ListItem>
+      <Text>gps</Text>
+      <Value>gps.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7 Bar Paint</Text>
+      <Value>grill_acc.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7 Bar</Text>
+      <Value>grill_acc.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>3 Bar</Text>
+      <Value>grill_acc.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>3 Bar Paint</Text>
+      <Value>grill_acc.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>5 Bar</Text>
+      <Value>grill_acc.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>5 Bar Paint</Text>
+      <Value>grill_acc.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Shroud &amp; Inner</Text>
+      <Value>grill_shroud.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Shroud &amp; Chrome Inner</Text>
+      <Value>grill_shroud.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Shroud &amp; Inner</Text>
+      <Value>grill_shroud.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Shroud &amp; Paint Inner</Text>
+      <Value>grill_shroud.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Shroud Paint Inner</Text>
+      <Value>grill_shroud.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Shroud</Text>
+      <Value>grill_shroud.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>grill_wing.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Paint</Text>
+      <Value>grill_wing.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>hood_skirt.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>paint</Text>
+      <Value>hood_skirt.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>hood_trm.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Paint</Text>
+      <Value>hood_trm.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Set</Text>
+      <Value>horns.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>2 Horns</Text>
+      <Value>horns.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>oldshool 379 Paint</Text>
+      <Value>mirror.mirror_70rp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>oldshool 379</Text>
+      <Value>mirror.mirror_70r</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wide</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>stock</Text>
+      <Value>ornament.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Paint</Text>
+      <Value>ornament.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>5150 Swan</Text>
+      <Value>ornament.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>5150 Swan &amp; Hood Pulls</Text>
+      <Value>ornament.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>doms rear panel paint</Text>
+      <Value>rbumper.domrbumper</Value>
+    </ListItem>
+    <ListItem>
+      <Text>doms rear panel</Text>
+      <Value>rbumper.domrbumperc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>CTTM Rear Bumper sweep</Text>
+      <Value>rbumper.classick2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Doms Rear Panel Swirl</Text>
+      <Value>rbumper.domrbumpers</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classick Drop</Text>
+      <Value>rbumper.classick2l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>seat.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Leather</Text>
+      <Value>seat.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Italian Leather</Text>
+      <Value>seat.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Italian Leather</Text>
+      <Value>seat_padding.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black Leather</Text>
+      <Value>seat_padding.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grey Leather</Text>
+      <Value>seat_padding.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>seat_padding.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Felt</Text>
+      <Value>seat_padding.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paisley</Text>
+      <Value>seat_padding.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Color Match</Text>
+      <Value>seat_padding.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Extended Eaton</Text>
+      <Value>shifter.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dom Custom</Text>
+      <Value>shifter.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>sideskirt</Text>
+      <Value>sideflares.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sideskirt Paint</Text>
+      <Value>sideflares.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Doms Custom Color</Text>
+      <Value>steering_w.dom_clc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Doms Custom Leather</Text>
+      <Value>steering_w.dom_cl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Doms Custom Wood</Text>
+      <Value>steering_w.dom_clw</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>steering_w.dom_cls</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Traveler Burl</Text>
+      <Value>steering_w.sci_burl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Traveler - Carbon Fiber</Text>
+      <Value>steering_w.sci_burl_c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Truck Color</Text>
+      <Value>steering_w.sci_cl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Green Carbon</Text>
+      <Value>steering_w.sci_cl_carb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Combo</Text>
+      <Value>steering_w.sci_cl_c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Leather</Text>
+      <Value>steering_w.sci_cl_l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Polyurethane</Text>
+      <Value>steering_w.sci_cl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Skulls White</Text>
+      <Value>steering_w.sci_cl_s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Colts</Text>
+      <Value>steering_w.sci_colts</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Excalibur</Text>
+      <Value>steering_w.sci_excal</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Flames</Text>
+      <Value>steering_w.sci_flames</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Flight</Text>
+      <Value>steering_w.sci_flight</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mud Flap Girl</Text>
+      <Value>steering_w.sci_girl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Milestone</Text>
+      <Value>steering_w.sci_milest</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Overland Sport 3</Text>
+      <Value>steering_w.sci_overlnd</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Truck Color</Text>
+      <Value>steering_w.sci_pin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Leather</Text>
+      <Value>steering_w.sci_pin_l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Mahogany</Text>
+      <Value>steering_w.sci_pin_m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Polyurethane</Text>
+      <Value>steering_w.sci_pin_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro</Text>
+      <Value>steering_w.sci_retro</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Box Stock</Text>
+      <Value>steps.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dom D3D Box</Text>
+      <Value>steps.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dom D3D Box Paint</Text>
+      <Value>steps.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dom D3D Box Logo Paint</Text>
+      <Value>steps.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dom D3D Box Logo</Text>
+      <Value>steps.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dom D3D Box Logo light</Text>
+      <Value>steps.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dom D3D Box paint Logo light</Text>
+      <Value>steps.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ultracab logo</Text>
+      <Value>sulogo.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>DOMs Drop Visor</Text>
+      <Value>sunshield.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>DOMs fancy Visor</Text>
+      <Value>sunshield.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>DOMs Drop Visor 2</Text>
+      <Value>sunshield.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>swag_plate.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>swag_plate.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>All Chrome</Text>
+      <Value>tanks.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome With Paint Straps</Text>
+      <Value>tanks.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome &amp; Paint With Paint Straps</Text>
+      <Value>tanks.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>All Paint</Text>
+      <Value>tanks.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint With Chrome Straps</Text>
+      <Value>tanks.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint &amp; Chrome With Chrome Straps</Text>
+      <Value>tanks.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint With Chrome Caps</Text>
+      <Value>tanks.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome With Paint Caps</Text>
+      <Value>tanks.shape08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>tank_skirt.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>tank_skirt.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom</Text>
+      <Value>tank_skirt.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stainless Steel Plain Sleeper Wrap</Text>
+      <Value>wrap.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>tail</Text>
+      <Value>wrap.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>tail and wrap</Text>
+      <Value>wrap.shape3</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\leadf\Documents\Mods Studio 2\UserVehicles\ATS.dom379.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>dom379</InternalName>
+  <VehicleAuthor>dom379</VehicleAuthor>
+  <VehicleName>Peterbilt dom379</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>at.dom379.cabin</InternalName>
+      <Name>72 Inch Ultracab</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

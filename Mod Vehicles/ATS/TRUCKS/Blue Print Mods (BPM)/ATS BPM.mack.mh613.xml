@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>e71c2e09-672b-4f3f-9b4b-900b802550a1</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+	<Group>BMP Bumpers</Group>
+      <Text>Bumper/Bullbar Painted</Text>
+      <Value>bumper.bmpr_au_pt</Value>
+    </ListItem>
+    <ListItem>
+	  <Group>BMP Bumpers</Group>
+      <Text>Bumper/Bullbar Painted w/Shadow</Text>
+      <Value>bumper.bmpr_au_pt_1</Value>
+    </ListItem>
+	
+	<ListItem>
+	  <Group>Roof Spoilers by Sirblackyaot</Group>
+      <Text>Big spoiler</Text>
+      <Value>spoiler.spoiler_01</Value>
+    </ListItem>
+	<ListItem>
+    <Group>Roof Spoilers by Sirblackyaot</Group>
+      <Text>Small spoiler</Text>
+      <Value>spoiler.spoiler_02</Value>
+    </ListItem>
+	
+	
+  </AccessoryItems>
+  <FilePath>C:\Users\My PC\Desktop\Mods Studio 2 v.2020.07\Data\ModData\SCS\Vehicles\xmls_new style\All BPM.mack.mh613.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>mack.mh613</InternalName>
+  <VehicleAuthor>BPM Virat8</VehicleAuthor>
+  <VehicleName>Mack MH613</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>sleeper.mack.mh613.cabin</InternalName>
+      <Name>Sleeper Cab</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

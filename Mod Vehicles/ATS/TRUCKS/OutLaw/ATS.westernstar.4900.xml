@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>a417b35c-a815-4a77-b349-82eacc816b33</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.westernstar.4900.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>westernstar.4900</InternalName>
+  <VehicleAuthor>Outlaw</VehicleAuthor>
+  <VehicleName>Western Star 4900EX</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>fltp.westernstar.4900.cabin</InternalName>
+      <Name>68'' Flat-Top</Name>
+    </Variant>
+    <Variant>
+      <InternalName>strato.westernstar.4900.cabin</InternalName>
+      <Name>82'' Stratosphere</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

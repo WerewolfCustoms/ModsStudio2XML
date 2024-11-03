@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>6161a6e2-8354-44e7-bb67-4cc6939bdbe8</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Double Radiant</Text>
+      <Value>beacon.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Chrome</Text>
+      <Value>bumper.bumper_ch_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Chrome</Text>
+      <Value>bumper.bumper_ch_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Chrome</Text>
+      <Value>bumper.bumper_ch_3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Paint</Text>
+      <Value>bumper.bumper_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Paint + Chrome</Text>
+      <Value>bumper.bumper_pa_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Paint + Plastic</Text>
+      <Value>bumper.bumper_pa_pl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Plastic</Text>
+      <Value>bumper.bumper_plast</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Daycab Roof Deflector</Text>
+      <Value>cabdefl.deflector</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Adapter</Text>
+      <Value>cabflares.cabflares</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome @@bumper@@ Decoration</Text>
+      <Value>chrom_1.chrome_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome @@bumper@@ Decoration</Text>
+      <Value>chrom_1.chrome_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome @@bumper@@ Decoration</Text>
+      <Value>chrom_1.chrome_3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Wheel Arch</Text>
+      <Value>chrom_2.chrome_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Wheel Arch</Text>
+      <Value>chrom_2.chrome_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>International Door Decoration</Text>
+      <Value>chrom_3.chrome_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Kickplate</Text>
+      <Value>chrom_4.chrome_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal Deflector</Text>
+      <Value>deflector.deflector</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Door Handle Standard</Text>
+      <Value>doorhndl.doorhndl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>SCR Exhaust</Text>
+      <Value>exhaust.scr_long</Value>
+    </ListItem>
+    <ListItem>
+      <Text>SCR Exhaust</Text>
+      <Value>exhaust.scr_short</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stack Exhaust</Text>
+      <Value>exhaust.stack</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Left Hood Mirror Chrome</Text>
+      <Value>fl_mirror.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Left Hood Mirror Paint</Text>
+      <Value>fl_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Left Hood Mirror Plastic</Text>
+      <Value>fl_mirror.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Right Hood Mirror Chrome</Text>
+      <Value>fr_mirror.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Right Hood Mirror Paint</Text>
+      <Value>fr_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Right Hood Mirror Plastic</Text>
+      <Value>fr_mirror.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@oversize_load@@</Text>
+      <Value>f_banner.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chrome@@</Text>
+      <Value>f_intake_chs.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>f_intake_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic</Text>
+      <Value>f_intake_chs.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Bars Chrome</Text>
+      <Value>grill_1.grill_chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Bars Paint</Text>
+      <Value>grill_1.grill_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Bars Plastic</Text>
+      <Value>grill_1.rill_plast</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Chrome</Text>
+      <Value>grill_2.grill_chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Paint</Text>
+      <Value>grill_2.grill_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Plastic</Text>
+      <Value>grill_2.grill_plast</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Hood Emblem</Text>
+      <Value>hood.hood</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Horn Adapter</Text>
+      <Value>horns.horns</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Double led</Text>
+      <Value>led.led</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal Fender Guards</Text>
+      <Value>lghfender.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Double luz</Text>
+      <Value>luz.luz</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Chrome</Text>
+      <Value>mirror.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Paint</Text>
+      <Value>mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Plastic</Text>
+      <Value>mirror.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Mudflaps</Text>
+      <Value>mudflaps.mudflaps_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Mudguards</Text>
+      <Value>mudguard.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Flow Below Chrome</Text>
+      <Value>mudguard.flow_chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Flow Below Paint</Text>
+      <Value>mudguard.flow_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Flow Below Plastic</Text>
+      <Value>mudguard.flow_plast</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Double Radiant</Text>
+      <Value>rotativa.rotativa</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sideflares</Text>
+      <Value>sideflares.chrome_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sideflares</Text>
+      <Value>sideflares.chrome_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sideflares</Text>
+      <Value>sideflares.chrome_3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Sideskirts</Text>
+      <Value>sideskirt.chrome_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Sideskirts</Text>
+      <Value>sideskirt.paint_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + Plastic Sideskirts</Text>
+      <Value>sideskirt.pa_pl_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic Sideskirts</Text>
+      <Value>sideskirt.plastic_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Sideskirts</Text>
+      <Value>sideskirt.chrome_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Sideskirts</Text>
+      <Value>sideskirt.paint_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + Plastic Sideskirts</Text>
+      <Value>sideskirt.pa_pl_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic Sideskirts</Text>
+      <Value>sideskirt.plastic_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Sideskirts</Text>
+      <Value>sideskirt.chrome_3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Sideskirts</Text>
+      <Value>sideskirt.paint_3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + Plastic Sideskirts</Text>
+      <Value>sideskirt.pa_pl_3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic Sideskirts</Text>
+      <Value>sideskirt.plastic_3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ground Effect</Text>
+      <Value>sideskrt_bar.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ground Effect</Text>
+      <Value>sideskrt_bar.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ground Effect</Text>
+      <Value>sideskrt_bar.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Wheel</Text>
+      <Value>steering_w.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive Wheel</Text>
+      <Value>steering_w.exclusive</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Cabin Lights</Text>
+      <Value>sunshield.sunshield_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sunshield Paint</Text>
+      <Value>sunshield.sunshield_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sunshield Chrome</Text>
+      <Value>sunshield.sunshield_3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sunshield Plastic</Text>
+      <Value>sunshield.sunshield_4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sunshield Custom Chrome</Text>
+      <Value>sunshield.sunshield_5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sunshield Custom Paint</Text>
+      <Value>sunshield.sunshield_6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Chrome With Slots</Text>
+      <Value>bumper.bumper_ch_4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Open Sideskirts</Text>
+      <Value>sideskirt.paint_0</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Realistic Pattern@@</Text>
+      <Value>headlight.real</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@halogen@@</Text>
+      <Value>headlight.std</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@xenon@@</Text>
+      <Value>headlight.xen</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black Doorsteps</Text>
+      <Value>doorsteps.black</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Doorsteps</Text>
+      <Value>doorsteps.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Window Decal</Text>
+      <Value>decal.window</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lonestar Steering Wheel</Text>
+      <Value>steering_w.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lonestar Steering Wheel Diamond</Text>
+      <Value>steering_w.exclusive</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\leadf\Documents\Mods Studio 2\UserVehicles\ATS Galimim.internationl.lt.2019.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>internationl.lt.2019</InternalName>
+  <VehicleAuthor>galimim,FRANK_PERU</VehicleAuthor>
+  <VehicleName>International LT 2019</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>56_hi_rise.internationl.lt.2019.cabin</InternalName>
+      <Name>56'' Hi-Rise Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>56_low_roof.internationl.lt.2019.cabin</InternalName>
+      <Name>56'' Low Roof Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>73_hi_rise.internationl.lt.2019.cabin</InternalName>
+      <Name>73'' Hi-Rise Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>73_sky_rise.internationl.lt.2019.cabin</InternalName>
+      <Name>73'' Sky-Rise Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>day.internationl.lt.2019.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

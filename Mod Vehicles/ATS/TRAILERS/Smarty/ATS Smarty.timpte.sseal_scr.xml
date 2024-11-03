@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>f4f68dab-3958-4759-a947-6cdcb388cffe</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+	<Group>Fridge Unit Standard Reefer</Group>
+      <Text>Thermo King Super NWD (Chrome) Painted Fridge unit only</Text>
+      <Value>f_body.chr_tks</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Fridge Unit Low Clearance Reefer</Group>
+      <Text>Thermo King Super NWD (Chrome),Fridge Unit Painted only</Text>
+      <Value>f_body.chr_tks_126</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Fridge Unit Standard Reefer</Group>
+      <Text>Thermo King Super NWD,Full Front Painted</Text>
+      <Value>f_body.std_tks</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Fridge Unit Standard Reefer</Group>
+      <Text>Thermo King Super II,Painted Trailer front only</Text>
+      <Value>f_body.std_tksii</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Fridge Unit Low Clearance Reefer</Group>
+      <Text>Thermo King Super NWD,Full Front Painted</Text>
+      <Value>f_body.std_tks_126</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Front Bottom panel front of trailer 42ft</Group>
+      <Text>Small panel underneath fridge unit</Text>
+      <Value>chassis.chs_42</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Front Bottom panel front of trailer 45ft</Group>
+      <Text>Small panel underneath fridge unit</Text>
+      <Value>chassis.chs_45_s</Value>
+    </ListItem>    
+    <ListItem>
+	<Group>Rear Doors Painted</Group>
+      <Text>Swing Door</Text>
+      <Value>rear_body.swing</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Doors Painted Low Clearance</Group>
+      <Text>Swing Door</Text>
+      <Value>rear_body.swing_126</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Doors Painted</Group>
+      <Text>Swing Door (4 Hinge)</Text>
+      <Value>rear_body.sw_4h</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Doors Painted</Group>
+      <Text>Swing Door, Full Painted (4 Hinge)</Text>
+      <Value>rear_body.sw_4hp</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Doors Painted</Group>
+      <Text>Swing Door, Full Painted</Text>
+      <Value>rear_body.swing_pnt</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Doors Painted Low Clearance Trailer</Group>
+      <Text>Swing Door Full Painted</Text>
+      <Value>rear_body.swing_p126</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Lights Painted Panel</Group>
+      <Text>Standard Lights</Text>
+      <Value>r_bumper.rect</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Lights Painted Panel</Group>
+      <Text>Round Lights</Text>
+      <Value>r_bumper.rnd2</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>timpte.sseal_scr</InternalName>
+  <VehicleAuthor>Smarty</VehicleAuthor>
+  <VehicleName>Timpte Super Seal</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>x</Description>
+      <Group>42FT Trailer</Group>
+      <Image>x</Image>
+      <InternalName>body.42</InternalName>
+      <Name>Reefer</Name>
+    </Variant>
+    <Variant>
+      <Description>x</Description>
+      <Group>42FT Trailer</Group>
+      <Image>x</Image>
+      <InternalName>body.42_pnt</InternalName>
+      <Name>Reefer</Name>
+    </Variant>
+    <Variant>
+      <Description>x</Description>
+      <Group>42FT Trailer</Group>
+      <Image>x</Image>
+      <InternalName>body.42_126</InternalName>
+      <Name>Reefer, Low Clearance</Name>
+    </Variant>
+    <Variant>
+      <Description>x</Description>
+      <Group>42FT Trailer</Group>
+      <Image>x</Image>
+      <InternalName>body.42_p126</InternalName>
+      <Name>Reefer, Low Clearance</Name>
+    </Variant>
+    <Variant>
+      <Description>x</Description>
+      <Group>42FT Trailer</Group>
+      <Image>x</Image>
+      <InternalName>body.42_s</InternalName>
+      <Name>Reefer, Side Door</Name>
+    </Variant>
+    <Variant>
+      <Description>x</Description>
+      <Group>42FT Trailer</Group>
+      <Image>x</Image>
+      <InternalName>body.42_spnt</InternalName>
+      <Name>Reefer, Side Door</Name>
+    </Variant>
+    <Variant>
+      <Description>x</Description>
+      <Group>42FT Trailer</Group>
+      <Image>x</Image>
+      <InternalName>body.42_s126</InternalName>
+      <Name>Reefer, Low Clearance, Side Door</Name>
+    </Variant>
+    <Variant>
+      <Description>x</Description>
+      <Group>42FT Trailer</Group>
+      <Image>x</Image>
+      <InternalName>body.42_sp126</InternalName>
+      <Name>Reefer, Low Clearance, Side Door</Name>
+    </Variant>
+    <Variant>
+      <Description>x</Description>
+      <Group>45FT Trailer</Group>
+      <Image>x</Image>
+      <InternalName>body.45</InternalName>
+      <Name>Reefer</Name>
+    </Variant>
+    <Variant>
+      <Description>x</Description>
+      <Group>45FT Trailer</Group>
+      <Image>x</Image>
+      <InternalName>body.45_pnt</InternalName>
+      <Name>Reefer</Name>
+    </Variant>
+    <Variant>
+      <Description>x</Description>
+      <Group>45FT Trailer</Group>
+      <Image>x</Image>
+      <InternalName>body.45_126</InternalName>
+      <Name>Reefer, Low Clearance</Name>
+    </Variant>
+    <Variant>
+      <Description>x</Description>
+      <Group>45FT Trailer</Group>
+      <Image>x</Image>
+      <InternalName>body.45_p126</InternalName>
+      <Name>Reefer, Low Clearance</Name>
+    </Variant>
+    <Variant>
+      <Description>x</Description>
+      <Group>45FT Trailer</Group>
+      <Image>x</Image>
+      <InternalName>body.45_s</InternalName>
+      <Name>Reefer, Side Door</Name>
+    </Variant>
+    <Variant>
+      <Description>x</Description>
+      <Group>45FT Trailer</Group>
+      <Image>x</Image>
+      <InternalName>body.45_spnt</InternalName>
+      <Name>Reefer, Side Door</Name>
+    </Variant>
+    <Variant>
+      <Description>x</Description>
+      <Group>45FT Trailer</Group>
+      <Image>x</Image>
+      <InternalName>body.45_s126</InternalName>
+      <Name>Reefer, Low Clearance, Side Door</Name>
+    </Variant>
+    <Variant>
+      <Description>x</Description>
+      <Group>45FT Trailer</Group>
+      <Image>x</Image>
+      <InternalName>body.45_sp126</InternalName>
+      <Name>Reefer, Low Clearance, Side Door</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

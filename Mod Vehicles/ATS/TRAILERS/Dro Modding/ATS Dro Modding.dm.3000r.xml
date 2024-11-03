@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>8a7a995b-2a79-49c6-a696-5b8134621cc7</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>3000r Label</Text>
+      <Value>3000rl.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Tandems</Text>
+      <Value>axles.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Tandems</Text>
+      <Value>axles.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Tandems</Text>
+      <Value>axles.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Tandems</Text>
+      <Value>axles.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Tandems</Text>
+      <Value>axles.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Tandems</Text>
+      <Value>axles.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Tandems</Text>
+      <Value>axles.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Tandems</Text>
+      <Value>axles.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Brake &amp; Blnker Lights</Text>
+      <Value>blink_l.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Brake &amp; Blnker Lights</Text>
+      <Value>blink_l.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Drain Pipe</Text>
+      <Value>drain.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fenders</Text>
+      <Value>fend.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fenders</Text>
+      <Value>fend.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Hodgebuilt Fenders</Text>
+      <Value>fend.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Hodgebuilt Fenders</Text>
+      <Value>fend.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fenders</Text>
+      <Value>fend.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Hodgebuilt Fenders</Text>
+      <Value>fend.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Utility Fenders</Text>
+      <Value>fend.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Utility Fenders</Text>
+      <Value>fend.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Utility Fenders</Text>
+      <Value>fend.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Diamond Plated</Text>
+      <Value>f_body.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>f_body.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Diamond Plated</Text>
+      <Value>f_body.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>f_body.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Skin Stock</Text>
+      <Value>f_body.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Skin Stock</Text>
+      <Value>f_body.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Skin Stock</Text>
+      <Value>f_body.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Skin Stock</Text>
+      <Value>f_body.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Skin Stock</Text>
+      <Value>f_body.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Skin Stock</Text>
+      <Value>f_body.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>f_body.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Diamond Plated</Text>
+      <Value>f_body.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>f_body.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Diamond Plated</Text>
+      <Value>f_body.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>f_body.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Diamond Plated</Text>
+      <Value>f_body.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>f_body.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Diamond Plated</Text>
+      <Value>f_body.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Metal Landing Gear A</Text>
+      <Value>landing_g.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Metal Landing Gear A</Text>
+      <Value>landing_g.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Plated Metal Landing Gear A</Text>
+      <Value>landing_g.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflaps</Text>
+      <Value>landing_m.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflaps w Weights</Text>
+      <Value>landing_m.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Marker Lights</Text>
+      <Value>mlights.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Marker Lights</Text>
+      <Value>mlights.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>2 Custom Hanger w 2 Flaps</Text>
+      <Value>mudflapss.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>1 Stock Mudflap Hanger</Text>
+      <Value>mudflapss.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>1 Stock Mudflap Hanger</Text>
+      <Value>mudflapss.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>1 Stock Mudflap Hanger</Text>
+      <Value>mudflapss.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>4 Custom Hanger w 2 Utility Flaps</Text>
+      <Value>mudflapss.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>4 Custom Hanger w 2 Utility Flaps</Text>
+      <Value>mudflapss.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>4 Custom Hanger w 2 Utility Flaps</Text>
+      <Value>mudflapss.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>4 Custom Hanger w 2 Utility</Text>
+      <Value>mudflapss.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Text>5 Custom Hanger w 4 Utility Flaps</Text>
+      <Value>mudflapss.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Text>5 Custom Hanger w 4 Utility Flaps</Text>
+      <Value>mudflapss.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Text>5 Custom Hanger w 4 Utility Flaps</Text>
+      <Value>mudflapss.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Text>3 Custom Hanger w 4 Flaps</Text>
+      <Value>mudflapss.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>5 Custom Hanger w 4 Utility</Text>
+      <Value>mudflapss.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Text>6 Custom Hanger</Text>
+      <Value>mudflapss.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7 Custom Hanger w Lights</Text>
+      <Value>mudflapss.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8 Custom Hanger w Utility Flaps</Text>
+      <Value>mudflapss.shape23</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9 Custom Hanger w Lights &amp; Utility Flaps</Text>
+      <Value>mudflapss.shape24</Value>
+    </ListItem>
+    <ListItem>
+      <Text>6 Custom Hanger</Text>
+      <Value>mudflapss.shape25</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7 Custom Hanger w Lights</Text>
+      <Value>mudflapss.shape26</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8 Custom Hanger w Utility Flaps</Text>
+      <Value>mudflapss.shape27</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9 Custom Hanger w Lights &amp; Utility Flaps</Text>
+      <Value>mudflapss.shape28</Value>
+    </ListItem>
+    <ListItem>
+      <Text>6 Custom Hanger</Text>
+      <Value>mudflapss.shape29</Value>
+    </ListItem>
+    <ListItem>
+      <Text>3 Custom Hanger w 4 Flaps</Text>
+      <Value>mudflapss.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7 Custom Hanger w Lights</Text>
+      <Value>mudflapss.shape30</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8 Custom Hanger w Utility Flaps</Text>
+      <Value>mudflapss.shape31</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9 Custom Hanger w Lights &amp; Utility Flaps</Text>
+      <Value>mudflapss.shape32</Value>
+    </ListItem>
+    <ListItem>
+      <Text>6 Custom Hanger</Text>
+      <Value>mudflapss.shape33</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7 Custom Hanger w Lights</Text>
+      <Value>mudflapss.shape34</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8 Custom Hanger w Utility Flaps</Text>
+      <Value>mudflapss.shape35</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9 Custom Hanger w Lights &amp; Utility Flaps</Text>
+      <Value>mudflapss.shape36</Value>
+    </ListItem>
+    <ListItem>
+      <Text>10 Custom Hanger w 2 Worn Flaps</Text>
+      <Value>mudflapss.shape37</Value>
+    </ListItem>
+    <ListItem>
+      <Text>11 Custom Hanger w 4 Worn Flaps</Text>
+      <Value>mudflapss.shape38</Value>
+    </ListItem>
+    <ListItem>
+      <Text>12 Custom Hanger w 2 Worn Flaps &amp; Weights</Text>
+      <Value>mudflapss.shape39</Value>
+    </ListItem>
+    <ListItem>
+      <Text>2 Custom Hanger w 2 Flaps</Text>
+      <Value>mudflapss.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>13 Custom Hanger w 4 Worn Flaps &amp; Weights</Text>
+      <Value>mudflapss.shape40</Value>
+    </ListItem>
+    <ListItem>
+      <Text>11 Custom Hanger w 4 Worn Flaps</Text>
+      <Value>mudflapss.shape41</Value>
+    </ListItem>
+    <ListItem>
+      <Text>10 Custom Hanger w 2 Worn Flaps</Text>
+      <Value>mudflapss.shape42</Value>
+    </ListItem>
+    <ListItem>
+      <Text>12 Custom Hanger w 2 Worn Flaps &amp; Weights</Text>
+      <Value>mudflapss.shape43</Value>
+    </ListItem>
+    <ListItem>
+      <Text>13 Custom Hanger w 4 Worn Flaps &amp; Weights</Text>
+      <Value>mudflapss.shape44</Value>
+    </ListItem>
+    <ListItem>
+      <Text>10 Custom Hanger w 2 Worn Flaps</Text>
+      <Value>mudflapss.shape45</Value>
+    </ListItem>
+    <ListItem>
+      <Text>11 Custom Hanger w 4 Worn Flaps</Text>
+      <Value>mudflapss.shape46</Value>
+    </ListItem>
+    <ListItem>
+      <Text>12 Custom Hanger w 2 Worn Flaps &amp; Weights</Text>
+      <Value>mudflapss.shape47</Value>
+    </ListItem>
+    <ListItem>
+      <Text>13 Custom Hanger w 4 Worn Flaps &amp; Weights</Text>
+      <Value>mudflapss.shape48</Value>
+    </ListItem>
+    <ListItem>
+      <Text>10 Custom Hanger w 2 Worn Flaps</Text>
+      <Value>mudflapss.shape49</Value>
+    </ListItem>
+    <ListItem>
+      <Text>2 Custom Hanger w 2 Flaps</Text>
+      <Value>mudflapss.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>11 Custom Hanger w 4 Worn Flaps</Text>
+      <Value>mudflapss.shape50</Value>
+    </ListItem>
+    <ListItem>
+      <Text>12 Custom Hanger w 2 Worn Flaps &amp; Weights</Text>
+      <Value>mudflapss.shape51</Value>
+    </ListItem>
+    <ListItem>
+      <Text>13 Custom Hanger w 4 Worn Flaps &amp; Weights</Text>
+      <Value>mudflapss.shape52</Value>
+    </ListItem>
+    <ListItem>
+      <Text>14 Custom Hanger</Text>
+      <Value>mudflapss.shape53</Value>
+    </ListItem>
+    <ListItem>
+      <Text>15 Custom Hanger w Lights</Text>
+      <Value>mudflapss.shape54</Value>
+    </ListItem>
+    <ListItem>
+      <Text>16 Custom Hanger w Weights</Text>
+      <Value>mudflapss.shape55</Value>
+    </ListItem>
+    <ListItem>
+      <Text>17 Custom Hanger w Lights &amp; Weights</Text>
+      <Value>mudflapss.shape56</Value>
+    </ListItem>
+    <ListItem>
+      <Text>14 Custom Hanger</Text>
+      <Value>mudflapss.shape57</Value>
+    </ListItem>
+    <ListItem>
+      <Text>15 Custom Hanger w Lights</Text>
+      <Value>mudflapss.shape58</Value>
+    </ListItem>
+    <ListItem>
+      <Text>16 Custom Hanger w Weights</Text>
+      <Value>mudflapss.shape59</Value>
+    </ListItem>
+    <ListItem>
+      <Text>3 Custom Hanger w 4 Flaps</Text>
+      <Value>mudflapss.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>17 Custom Hanger w Lights &amp; Weights</Text>
+      <Value>mudflapss.shape60</Value>
+    </ListItem>
+    <ListItem>
+      <Text>14 Custom Hanger</Text>
+      <Value>mudflapss.shape61</Value>
+    </ListItem>
+    <ListItem>
+      <Text>15 Custom Hanger w Lights</Text>
+      <Value>mudflapss.shape62</Value>
+    </ListItem>
+    <ListItem>
+      <Text>16 Custom Hanger w Weights</Text>
+      <Value>mudflapss.shape63</Value>
+    </ListItem>
+    <ListItem>
+      <Text>17 Custom Hanger w Lights &amp; Weights</Text>
+      <Value>mudflapss.shape64</Value>
+    </ListItem>
+    <ListItem>
+      <Text>14 Custom Hanger</Text>
+      <Value>mudflapss.shape65</Value>
+    </ListItem>
+    <ListItem>
+      <Text>15 Custom Hanger w Lights</Text>
+      <Value>mudflapss.shape66</Value>
+    </ListItem>
+    <ListItem>
+      <Text>16 Custom Hanger w Weights</Text>
+      <Value>mudflapss.shape67</Value>
+    </ListItem>
+    <ListItem>
+      <Text>17 Custom Hanger w Lights &amp; Weights</Text>
+      <Value>mudflapss.shape68</Value>
+    </ListItem>
+    <ListItem>
+      <Text>2 Custom Hanger w 2 Flaps</Text>
+      <Value>mudflapss.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>3 Custom Hanger w 4 Flaps</Text>
+      <Value>mudflapss.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>1 Stock Mudflap Hanger</Text>
+      <Value>mudflapss.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 1</Text>
+      <Value>mweights.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 1</Text>
+      <Value>mweights.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 1</Text>
+      <Value>mweights.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 1</Text>
+      <Value>mweights.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 2</Text>
+      <Value>mweights.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 2</Text>
+      <Value>mweights.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 2</Text>
+      <Value>mweights.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 2</Text>
+      <Value>mweights.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 2</Text>
+      <Value>mweights.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 2</Text>
+      <Value>mweights.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 2</Text>
+      <Value>mweights.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 1</Text>
+      <Value>mweights.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 2</Text>
+      <Value>mweights.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 2</Text>
+      <Value>mweights.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 2</Text>
+      <Value>mweights.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 2</Text>
+      <Value>mweights.shape23</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 2</Text>
+      <Value>mweights.shape24</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 1</Text>
+      <Value>mweights.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 1</Text>
+      <Value>mweights.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 1</Text>
+      <Value>mweights.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 1</Text>
+      <Value>mweights.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 1</Text>
+      <Value>mweights.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 1</Text>
+      <Value>mweights.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflap Weights 1</Text>
+      <Value>mweights.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Rails</Text>
+      <Value>rails.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Rails</Text>
+      <Value>rails.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Rails</Text>
+      <Value>rails.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Rails</Text>
+      <Value>rails.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Rails</Text>
+      <Value>rails.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Rails</Text>
+      <Value>rails.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Rails</Text>
+      <Value>rails.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Rails</Text>
+      <Value>rails.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 1</Text>
+      <Value>rbumper.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 2</Text>
+      <Value>rbumper.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate</Text>
+      <Value>rear_p.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate Western Star</Text>
+      <Value>rear_p.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate Star Car</Text>
+      <Value>rear_p.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate Large Car</Text>
+      <Value>rear_p.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 2</Text>
+      <Value>rear_p.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 2 Pete</Text>
+      <Value>rear_p.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 2 Peterbilt</Text>
+      <Value>rear_p.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 2 Class Pays</Text>
+      <Value>rear_p.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 2 Pride n Class</Text>
+      <Value>rear_p.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 2 K-Dub</Text>
+      <Value>rear_p.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 2 Kenworth</Text>
+      <Value>rear_p.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate Pete</Text>
+      <Value>rear_p.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 2 World's Best</Text>
+      <Value>rear_p.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 2 Freightliner</Text>
+      <Value>rear_p.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 2 Western Star</Text>
+      <Value>rear_p.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 2 Star Car</Text>
+      <Value>rear_p.shape23</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 2 Large Car</Text>
+      <Value>rear_p.shape24</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 3</Text>
+      <Value>rear_p.shape25</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 3 Pete</Text>
+      <Value>rear_p.shape26</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 3 Peterbilt</Text>
+      <Value>rear_p.shape27</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 3 Class Pays</Text>
+      <Value>rear_p.shape28</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 3 Pride n Class</Text>
+      <Value>rear_p.shape29</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate Peterbilt</Text>
+      <Value>rear_p.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 3 K-Dub</Text>
+      <Value>rear_p.shape30</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 3 Kenworth</Text>
+      <Value>rear_p.shape31</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 3 World's Best</Text>
+      <Value>rear_p.shape32</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 3 Freightliner</Text>
+      <Value>rear_p.shape33</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 3 Western Star</Text>
+      <Value>rear_p.shape34</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 3 Star Car</Text>
+      <Value>rear_p.shape35</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate 3 Large Car</Text>
+      <Value>rear_p.shape36</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate Class Pays</Text>
+      <Value>rear_p.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate Pride n Class</Text>
+      <Value>rear_p.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate K-Dub</Text>
+      <Value>rear_p.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate Kenworth</Text>
+      <Value>rear_p.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate World's Best</Text>
+      <Value>rear_p.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Plate Freightliner</Text>
+      <Value>rear_p.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Bumper Flaps</Text>
+      <Value>rmudflap.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Utility Bumper Flaps</Text>
+      <Value>rmudflap.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Bumper Flaps 2</Text>
+      <Value>rmudflap.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Utility Bumper Flaps 2</Text>
+      <Value>rmudflap.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Painted Fuel Tank 1</Text>
+      <Value>tank.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Polished Aluminum Fuel Tank 1</Text>
+      <Value>tank.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aluminum Fuel Tank 1</Text>
+      <Value>tank.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Painted Fuel Tank 2</Text>
+      <Value>tank.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Polished Aluminum Fuel Tank 2</Text>
+      <Value>tank.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aluminum Fuel Tank 2</Text>
+      <Value>tank.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Painted Fuel Tank 3</Text>
+      <Value>tank.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Polished Aluminum Fuel Tank 3</Text>
+      <Value>tank.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aluminum Fuel Tank 3</Text>
+      <Value>tank.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Left Side Tire Rack 2</Text>
+      <Value>tire_rack.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Right Side Tire Rack 2</Text>
+      <Value>tire_rack.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Left Side Tire Rack 1</Text>
+      <Value>tire_rack.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Right Side Tire Rack 1</Text>
+      <Value>tire_rack.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Toolbox 1</Text>
+      <Value>toolboxx.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Toolbox Left 3</Text>
+      <Value>toolboxx.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Toolbox Right 3</Text>
+      <Value>toolboxx.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Toolbox 3</Text>
+      <Value>toolboxx.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Toolbox Left 2</Text>
+      <Value>toolboxx.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Toolbox Right 2</Text>
+      <Value>toolboxx.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Toolbox 2</Text>
+      <Value>toolboxx.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Thermo King SB-400 Stock</Text>
+      <Value>unit.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Thermo King SB-400 Custom</Text>
+      <Value>unit.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Thermo King S-600</Text>
+      <Value>unit.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Thermo King S-600 Chrome</Text>
+      <Value>unit.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Thermo King Super II</Text>
+      <Value>unit.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Carrier X2500a</Text>
+      <Value>unit.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Carrier X2500a</Text>
+      <Value>unit.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Carrier Phoenix</Text>
+      <Value>unit.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Light Panel</Text>
+      <Value>upanel.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Light Panel 4</Text>
+      <Value>upanel.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Light Panel 4</Text>
+      <Value>upanel.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Light Panel 4</Text>
+      <Value>upanel.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Light Panel</Text>
+      <Value>upanel.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Light Panel 2</Text>
+      <Value>upanel.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Light Panel 3</Text>
+      <Value>upanel.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Light Panel 4</Text>
+      <Value>upanel.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Light Panel</Text>
+      <Value>upanel.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Light Panel</Text>
+      <Value>upanel.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Light Panel 2</Text>
+      <Value>upanel.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Light Panel 2</Text>
+      <Value>upanel.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Light Panel 2</Text>
+      <Value>upanel.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Light Panel 3</Text>
+      <Value>upanel.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Light Panel 3</Text>
+      <Value>upanel.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Light Panel 3</Text>
+      <Value>upanel.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Trailer Skirts</Text>
+      <Value>uskirts.shape1</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\leadf\Documents\Mods Studio 2\UserVehicles\ATS Dro Modding.dm.3000r.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>dm.3000r</InternalName>
+  <VehicleAuthor>Dro Modding</VehicleAuthor>
+  <VehicleName>Utility 3000r</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.dryvan</InternalName>
+      <Name>Stainless Dryvan Standard Connecters</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.dryvan_b</InternalName>
+      <Name>Stock Dryvan Standard Connecters</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.dryvan_c</InternalName>
+      <Name>Stainless Dryvan Custom Connecters</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.dryvan_d</InternalName>
+      <Name>Stock Dryvan Custom Connecters</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.dryvan_e</InternalName>
+      <Name>Skin Dryvan Standard Connecters</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.dryvan_f</InternalName>
+      <Name>Skin Dryvan Custom Connecters</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.reefer</InternalName>
+      <Name>Stainless Reefer Standard Connecters</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.reefer_b</InternalName>
+      <Name>Stock Reefer Standard Connecters</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.reefer_c</InternalName>
+      <Name>Stainless Reefer Custom Connecters</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.reefer_d</InternalName>
+      <Name>Stock Reefer Custom Connecters</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.reefer_e</InternalName>
+      <Name>Skin Reefer Standard Connecters</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.reefer_f</InternalName>
+      <Name>Skin Reefer Custom Connecters</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

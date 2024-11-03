@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>0c2da4b2-0c60-4e4d-8e27-cec7f3664fd0</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>@@chrome_wall@@</Text>
+      <Value>f_body.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrome_wall@@</Text>
+      <Value>f_body.chrome1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrome_wall@@</Text>
+      <Value>f_body.chrome2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint_wall@@</Text>
+      <Value>f_body.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@exclusive@@</Text>
+      <Value>markers.van_53</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slots</Text>
+      <Value>markers.van_slots</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>markers.van_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>r_bumper.simple</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slots</Text>
+      <Value>r_bumper.slots</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>r_mudflap.simple</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\PC\Documents\Mods Studio 2\UserVehicles\ATS.temisko.chipvan.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>temisko.chipvan</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>Temisko Chipvan</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.belly_van_53</InternalName>
+      <Name>@@bs_bellyvan@@</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.belly_van_5p</InternalName>
+      <Name>@@bs_bellyvan@@</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

@@ -1,0 +1,1670 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>e61c143d-9dbf-4f09-bdbe-07a28c8ac45f</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Roof Lights (front top)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_light_top.nrm_covered.jpg</Image>
+      <Text>No Lamps (Normal Cab)</Text>
+      <Value>f_light_top.nrm_covered</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Roof Lights (front top)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_light_top.covered.jpg</Image>
+      <Text>No Lamps (Highline Cab)</Text>
+      <Value>f_light_top.covered</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Roof Lights (front top)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_light_top.stk_nrm.jpg</Image>
+      <Text>Stock (Normal Cab)</Text>
+      <Value>f_light_top.stk_nrm_sg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Roof Lights (front top)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_light_top.stock.jpg</Image>
+      <Text>Stock (Highline Cab)</Text>
+      <Value>f_light_top.stock_spcgr</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Roof Lights (front top)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_light_top.stk_nrm.jpg</Image>
+      <Text>Exclusive (Normal Cab)</Text>
+      <Value>f_light_top.stk_nrm_bl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Roof Lights (front top)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_light_top.stock.jpg</Image>
+      <Text>Exclusive (Highline Cab)</Text>
+      <Value>f_light_top.stock_blk</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Roof Lights (front top)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_light_top.stk_nrm.jpg</Image>
+      <Text>Paint (Normal Cab)</Text>
+      <Value>f_light_top.stk_nrm_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Roof Lights (front top)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_light_top.stock.jpg</Image>
+      <Text>Paint (Highline Cab)</Text>
+      <Value>f_light_top.stock_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sunshld.stock.jpg</Image>
+      <Text>Stock I</Text>
+      <Value>sunshld.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sunshld.sunshld_01.jpg</Image>
+      <Text>Stock II</Text>
+      <Value>sunshld.sunshld_01</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sunshld.sunshld_04.jpg</Image>
+      <Text>Ranger * DLC *</Text>
+      <Value>sunshld.sunshld_04</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sunshld.sunshld_05.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>sunshld.sunshld_05</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sunshld.sunshld_06.jpg</Image>
+      <Text>Paint Luxury * DLC *</Text>
+      <Value>sunshld.sunshld_06</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_mirror.painted.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_mirror.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\mirror.painted.jpg</Image>
+      <Text>Paint</Text>
+      <Value>mirror.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\mirror.painted_f.jpg</Image>
+      <Text>Paint Luxury * DLC *</Text>
+      <Value>mirror.painted_f</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Window Frame</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_wnd_frame.painted.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_wnd_frame.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Additional Lights (front middle)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_light_mid.painted.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_light_mid.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Logo</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_logo.painted.jpg</Image>
+      <Text>Painted * DLC *</Text>
+      <Value>f_logo.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory overrides Front Mask (Chassis).\n\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Mask (Cabin)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_intake_cab.painted.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_intake_cab.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory overrides Front Mask (Chassis).\n\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Mask (Cabin)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_intake_cab.painted_v8.jpg</Image>
+      <Text>Paint and Chrome * DLC *</Text>
+      <Value>f_intake_cab.painted_v8</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory is overriden by Front Mask (Cabin) accessories.\n\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Mask (Chassis)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_intake_chs.painted.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_intake_chs.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory overrides Front Grille (Chassis).\n\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Grille (Cabin)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_inlay_cab.painted.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_inlay_cab.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory is overriden by Front Grille (Cabin).\n\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Grille (Chassis)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_inlay_chs.painted.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_inlay_chs.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory overrides Front Mask Ribs (Chassis).\n\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Mask Ribs (Cabin)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_intk_b_cab.painted.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_intk_b_cab.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory is overriden by Front Mask Ribs (Cabin).\n\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Mask Ribs (Chassis)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_intk_b_chs.painted.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_intk_b_chs.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Headlights (front bottom)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_light_chs.shape2_p.jpg</Image>
+      <Text>Stock Paint</Text>
+      <Value>f_light_chs.shape2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Headlights (front bottom)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_light_chs.shape1_p.jpg</Image>
+      <Text>Exclusive Paint</Text>
+      <Value>f_light_chs.shape1_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_bumper.hgh_p.jpg</Image>
+      <Text>High Paint, inc. Lights</Text>
+      <Value>f_bumper.hgh_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_bumper.hgh_p_nofog.jpg</Image>
+      <Text>High Paint, No Lights</Text>
+      <Value>f_bumper.hgh_p_nofog</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_bumper.mid_p.jpg</Image>
+      <Text>Paint, inc. Lights</Text>
+      <Value>f_bumper.mid_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_bumper.mid_p_nofog.jpg</Image>
+      <Text>Paint, No Lights</Text>
+      <Value>f_bumper.mid_p_nofog</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_bumper.low_p.jpg</Image>
+      <Text>Low Paint, inc. Lights</Text>
+      <Value>f_bumper.low_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_bumper.low_p_nofog.jpg</Image>
+      <Text>Low Paint, No Lights</Text>
+      <Value>f_bumper.low_p_nofog</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_mudflap.kotr.jpg</Image>
+      <Text>King of the Road Paint (mid) * DLC *</Text>
+      <Value>f_mudflap.kotr</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_mudflap.kotrh.jpg</Image>
+      <Text>King of the Road Paint (high) * DLC *</Text>
+      <Value>f_mudflap.kotrh</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_mudflap.kotrl.jpg</Image>
+      <Text>King of the Road Paint (low) * DLC *</Text>
+      <Value>f_mudflap.kotrl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_mudflap.scaniamg.jpg</Image>
+      <Text>Mighty Griffin Paint (mid) * DLC *</Text>
+      <Value>f_mudflap.scaniamg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_mudflap.scaniamgh.jpg</Image>
+      <Text>Mighty Griffin Paint (high) * DLC *</Text>
+      <Value>f_mudflap.scaniamgh</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_mudflap.scaniamgl.jpg</Image>
+      <Text>Mighty Griffin Paint (low) * DLC *</Text>
+      <Value>f_mudflap.scaniamgl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_mudflap.scania.jpg</Image>
+      <Text>Scania Paint (mid) * DLC *</Text>
+      <Value>f_mudflap.scania</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_mudflap.scaniah.jpg</Image>
+      <Text>Scania Paint (high) * DLC *</Text>
+      <Value>f_mudflap.scaniah</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_mudflap.scanial.jpg</Image>
+      <Text>Scania Paint (low) * DLC *</Text>
+      <Value>f_mudflap.scanial</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_mudflap.v8.jpg</Image>
+      <Text>Scania V8 Power Paint (mid) * DLC *</Text>
+      <Value>f_mudflap.v8</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_mudflap.v8h.jpg</Image>
+      <Text>Scania V8 Power Paint (high) * DLC *</Text>
+      <Value>f_mudflap.v8h</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_mudflap.v8l.jpg</Image>
+      <Text>Scania V8 Power Paint (low) * DLC *</Text>
+      <Value>f_mudflap.v8l</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\s_mirror.painted.jpg</Image>
+      <Text>Paint</Text>
+      <Value>s_mirror.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side Panel</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\s_panel.painted.jpg</Image>
+      <Text>Painted * DLC *</Text>
+      <Value>s_panel.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side Panel</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\s_panel.painted_f.jpg</Image>
+      <Text>Painted Luxury * DLC *</Text>
+      <Value>s_panel.painted_f</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Door Handle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\doorhndl.stock_p.jpg</Image>
+      <Text>Painted</Text>
+      <Value>doorhndl.stock_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_fender.hgh_blk_p.jpg</Image>
+      <Text>Paint and Plastic (high)</Text>
+      <Value>f_fender.hgh_blk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_fender.hgh_p.jpg</Image>
+      <Text>Paint (high)</Text>
+      <Value>f_fender.hgh_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_fender.hgh_sg_p.jpg</Image>
+      <Text>Paint and Grey Plastic (high) * DLC *</Text>
+      <Value>f_fender.hgh_sg_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_fender.stock_blk_p.jpg</Image>
+      <Text>Paint and Plastic (mid, low)</Text>
+      <Value>f_fender.stock_blk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_fender.stock_p.jpg</Image>
+      <Text>Paint (mid, low)</Text>
+      <Value>f_fender.stock_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_fender.stock_sg_p.jpg</Image>
+      <Text>Paint and Grey Plastic (mid, low) * DLC *</Text>
+      <Value>f_fender.stock_sg_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.4x2_p.jpg</Image>
+      <Text>Paint 4x2</Text>
+      <Value>sideskirt.4x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.4x2_p_1.jpg</Image>
+      <Text>Paint Stock I 4x2</Text>
+      <Value>sideskirt.4x2_p_1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.4x2_p_2.jpg</Image>
+      <Text>Paint Stock II 4x2</Text>
+      <Value>sideskirt.4x2_p_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.4x2_p_v8.jpg</Image>
+      <Text>Paint V8 4x2</Text>
+      <Value>sideskirt.4x2_p_v8</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.4x2_p_v8_1.jpg</Image>
+      <Text>Paint V8 Stock I 4x2</Text>
+      <Value>sideskirt.4x2_p_v8_1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.4x2_p_v8_2.jpg</Image>
+      <Text>Paint V8 Stock II 4x2</Text>
+      <Value>sideskirt.4x2_p_v8_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.6x2_p.jpg</Image>
+      <Text>Paint 6x2 6x2/4</Text>
+      <Value>sideskirt.6x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.6x2_p_1.jpg</Image>
+      <Text>Paint Stock I 6x2 6x2/4</Text>
+      <Value>sideskirt.6x2_p_1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.6x2_p_2.jpg</Image>
+      <Text>Paint Stock II 6x2 6x2/4</Text>
+      <Value>sideskirt.6x2_p_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.6x2_p_v8.jpg</Image>
+      <Text>Paint V8 6x2 6x2/4</Text>
+      <Value>sideskirt.6x2_p_v8</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.6x2_p_v8_1.jpg</Image>
+      <Text>Paint V8 Stock I 6x2 6x2/4</Text>
+      <Value>sideskirt.6x2_p_v8_1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.6x2_p_v8_2.jpg</Image>
+      <Text>Paint V8 Stock II 6x2 6x2/4</Text>
+      <Value>sideskirt.6x2_p_v8_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.6x2l_p.jpg</Image>
+      <Text>Paint 6x2 6x2/4 (long)</Text>
+      <Value>sideskirt.6x2l_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.6x2l_p_1.jpg</Image>
+      <Text>Paint Stock I 6x2 6x2/4 (long)</Text>
+      <Value>sideskirt.6x2l_p_1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.6x2l_p_2.jpg</Image>
+      <Text>Paint Stock II 6x2 6x2/4 (long)</Text>
+      <Value>sideskirt.6x2l_p_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.6x2l_p_v8.jpg</Image>
+      <Text>Paint V8 6x2 6x2/4 (long)</Text>
+      <Value>sideskirt.6x2l_p_v8</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.6x2l_p_v8_1.jpg</Image>
+      <Text>Paint V8 Stock I 6x2 6x2/4 (long)</Text>
+      <Value>sideskirt.6x2l_p_v8_1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.6x2l_p_v8_2.jpg</Image>
+      <Text>Paint V8 Stock II 6x2 6x2/4 (long)</Text>
+      <Value>sideskirt.6x2l_p_v8_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Side skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.8x4_p.jpg</Image>
+      <Text>Paint 8x4</Text>
+      <Value>sideskirt.8x4_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Rear Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\exhaust_m.mg01.jpg</Image>
+      <Text>Wing Master V8 * DLC *</Text>
+      <Value>exhaust_m.mg01</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Chassic Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_chs_cover.4x2_p.jpg</Image>
+      <Text>Diva 4x2 * DLC *</Text>
+      <Value>r_chs_cover.4x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Chassic Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_chs_cover.6xn_p.jpg</Image>
+      <Text>Diva 6x2 6x2/4 * DLC *</Text>
+      <Value>r_chs_cover.6xn_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Chassic Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_chs_cover.6xnl_p.jpg</Image>
+      <Text>Diva 6x2 6x2/4 (long) * DLC *</Text>
+      <Value>r_chs_cover.6xnl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_fender.4x2_blk_p.jpg</Image>
+      <Text>Paint and Plastic 4x2</Text>
+      <Value>r_fender.4x2_blk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_fender.4x2_p.jpg</Image>
+      <Text>Paint 4x2</Text>
+      <Value>r_fender.4x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_fender.4x2_spcgr_p.jpg</Image>
+      <Text>Paint and Plastic Grey 4x2 * DLC *</Text>
+      <Value>r_fender.4x2_spcgr_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_fender.6x2_blk_p.jpg</Image>
+      <Text>Paint and Plastic 6x2 6x2/4</Text>
+      <Value>r_fender.6x2_blk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_fender.6x2_p.jpg</Image>
+      <Text>Paint 6x2 6x2/4</Text>
+      <Value>r_fender.6x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_fender.6x2_spcgr_p.jpg</Image>
+      <Text>Paint and Plastic Grey 6x2 6x2/4 * DLC *</Text>
+      <Value>r_fender.6x2_spcgr_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_fender.6x2l_blk_p.jpg</Image>
+      <Text>Paint and Plastic 6x2 6x2/4 (long)</Text>
+      <Value>r_fender.6x2l_blk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_fender.6x2l_p.jpg</Image>
+      <Text>Paint 6x2 6x2/4 (long)</Text>
+      <Value>r_fender.6x2l_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_fender.6x2l_spcgr_p.jpg</Image>
+      <Text>Paint and Plastic Grey 6x2 6x2/4 (long) * DLC *</Text>
+      <Value>r_fender.6x2l_spcgr_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_fender.8x4_blk_p.jpg</Image>
+      <Text>Paint and Plastic 8x4</Text>
+      <Value>r_fender.8x4_blk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_fender.8x4_p.jpg</Image>
+      <Text>Paint 8x4</Text>
+      <Value>r_fender.8x4_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_fender.8x4_spcgr_p.jpg</Image>
+      <Text>Paint Plastic Grey 8x4 * DLC *</Text>
+      <Value>r_fender.8x4_spcgr_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_bumper.duty_p.jpg</Image>
+      <Text>Duty Paint</Text>
+      <Value>r_bumper.duty_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_bumper.mg01.jpg</Image>
+      <Text>Diva * DLC *</Text>
+      <Value>r_bumper.mg01</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_bumper.mg03.jpg</Image>
+      <Text>Thor</Text>
+      <Value>r_bumper.mg03</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_bumper.mg04.jpg</Image>
+      <Text>Chariot * DLC *</Text>
+      <Value>r_bumper.mg04</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\r_bumper.stock_p.jpg</Image>
+      <Text>Paint</Text>
+      <Value>r_bumper.stock_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS</Group>
+      <Text>Retro Scania Logo</Text>
+      <Value>f_logo.retro_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS</Group>
+      <Text>Scania Logo</Text>
+      <Value>f_logo.painted</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS</Group>
+      <Text>R770 logo paint</Text>
+      <Value>badge.ijs_r770</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Doorstep</Group>
+      <Text>Stock Painted</Text>
+      <Value>doorstep.ijs_paint1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Doorstep</Group>
+      <Text>Serpented Painted</Text>
+      <Value>doorstep.ijs_paint2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Doorstep</Group>
+      <Text>Ranger Painted</Text>
+      <Value>doorstep.ijs_paint3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Doorstep</Group>
+      <Text>Ninja Painted</Text>
+      <Value>doorstep.ijs_paint3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Doorstep</Group>
+      <Text>Wave Painted</Text>
+      <Value>doorstep.ijs_paint3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>TheNuvolari</Group>
+      <Text>Sunshield stock fp1</Text>
+      <Value>sunshld.stockfp1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>TheNuvolari</Group>
+      <Text>Sunshield stock fp2</Text>
+      <Value>sunshld.stockfp2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>TheNuvolari</Group>
+      <Text>Sunshield chrome p</Text>
+      <Value>sunshld.chromep</Value>
+	</ListItem>
+	<ListItem>
+      <Group>TheNuvolari</Group>
+      <Text>sideskirt.6x2f_p</Text>
+      <Value>sideskirt.6x2f_p</Value>
+	</ListItem>
+	<ListItem>
+      <Group>TheNuvolari</Group>
+      <Text>sideskirt.6x2f_pf</Text>
+      <Value>sideskirt.6x2f_pf</Value>
+	</ListItem>
+	<ListItem>
+      <Group>TheNuvolari</Group>
+      <Text>sideskirt.4x2s_p</Text>
+      <Value>sideskirt.4x2s_p</Value>
+	</ListItem>
+	<ListItem>
+      <Group>TheNuvolari</Group>
+      <Text>Roofrack Paint</Text>
+      <Value>beacon.rack_paint</Value>
+	</ListItem>
+	<ListItem>
+      <Group>TheNuvolari</Group>
+      <Text>Bullbar</Text>
+      <Value>f_grill.shape6p</Value>
+	</ListItem>
+	<ListItem>
+      <Group>StereoPhobic Deflectors</Group>
+      <Text>R small</Text>
+      <Value>c_grill.def_small</Value>
+	</ListItem>
+	<ListItem>
+      <Group>StereoPhobic Deflectors</Group>
+      <Text>R big</Text>
+      <Value>c_grill.def_big</Value>
+	</ListItem>
+	<ListItem>
+      <Group>MDmodding</Group>
+      <Text>4x2</Text>
+      <Value>sideskirt.cust_01</Value>
+	</ListItem>
+	<ListItem>
+      <Group>MDmodding</Group>
+      <Text>6 short</Text>
+      <Value>sideskirt.cust_02</Value>
+	</ListItem>
+	<ListItem>
+      <Group>MDmodding</Group>
+      <Text>6 long</Text>
+      <Value>sideskirt.cust_03</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Sunshields</Group>
+      <Text>sunshld.sunshld_19</Text>
+      <Value>sunshld.sunshld_19</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Sunshields</Group>
+      <Text>sunshld.sunshld_18</Text>
+      <Value>sunshld.sunshld_18</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Sunshields</Group>
+      <Text>sunshld.sunshld_17</Text>
+      <Value>sunshld.sunshld_17</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Sunshields</Group>
+      <Text>sunshld.sunshld_16</Text>
+      <Value>sunshld.sunshld_16</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Sunshields</Group>
+      <Text>sunshld.sunshld_15</Text>
+      <Value>sunshld.sunshld_15</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Sunshields</Group>
+      <Text>sunshld.sunshld_14</Text>
+      <Value>sunshld.sunshld_14</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Sunshields</Group>
+      <Text>sunshld.sunshld_13</Text>
+      <Value>sunshld.sunshld_13</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Sunshields</Group>
+      <Text>sunshld.sunshld_12</Text>
+      <Value>sunshld.sunshld_12</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Sunshields</Group>
+      <Text>sunshld.sunshld_11</Text>
+      <Value>sunshld.sunshld_11</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Sunshields</Group>
+      <Text>sunshld.sunshld_10</Text>
+      <Value>sunshld.sunshld_10</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Sunshields</Group>
+      <Text>sunshld.sunshld_09</Text>
+      <Value>sunshld.sunshld_09</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Sunshields</Group>
+      <Text>sunshld.sunshld_08</Text>
+      <Value>sunshld.sunshld_08</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Sunshields</Group>
+      <Text>sunshld.sunshld_07</Text>
+      <Value>sunshld.sunshld_07</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Sunshields</Group>
+      <Text>sunshld.sunshld_06</Text>
+      <Value>sunshld.sunshld_06</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Lightbox</Group>
+      <Text>f_light_top.nrm_covered1</Text>
+      <Value>f_light_top.nrm_covered1</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Lightbox</Group>
+      <Text>f_light_top.nrm_covered2</Text>
+      <Value>f_light_top.nrm_covered2</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Lightbox</Group>
+      <Text>f_light_top.nrm_covered3</Text>
+      <Value>f_light_top.nrm_covered3</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Lightbox</Group>
+      <Text>f_light_top.nrm_covered4</Text>
+      <Value>f_light_top.nrm_covered4</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Lightbox</Group>
+      <Text>f_light_top.nrm_covered5</Text>
+      <Value>f_light_top.nrm_covered5</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Lightbox</Group>
+      <Text>f_light_top.nrm_covered6</Text>
+      <Value>f_light_top.nrm_covered6</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Lightbox</Group>
+      <Text>f_light_top.nrm_covered7</Text>
+      <Value>f_light_top.nrm_covered7</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Lightbox</Group>
+      <Text>f_light_top.nrm_covered8</Text>
+      <Value>f_light_top.nrm_covered8</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Lightbox</Group>
+      <Text>f_light_top.nrm_covered9</Text>
+      <Value>f_light_top.nrm_covered9</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Lightbox</Group>
+      <Text>f_light_top.covered1</Text>
+      <Value>f_light_top.covered1</Value>
+	</ListItem>
+	<ListItem>
+      <Group>WC007 Lightbox</Group>
+      <Text>f_light_top.covered2</Text>
+      <Value>f_light_top.covered2</Value>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_chs_cover.4x2_v8_p</Value>
+      <Text>r_chs_cover.4x2_v8_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_chs_cover.4x2a_p</Value>
+      <Text>r_chs_cover.4x2a_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_chs_cover.6xna_p</Value>
+      <Text>r_chs_cover.6xna_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_chs_cover.6xnav8_p</Value>
+      <Text>r_chs_cover.6xnav8_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_chs_cover.6xnv8_p</Value>
+      <Text>r_chs_cover.6xnv8_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_chs_cover.6xnl_p</Value>
+      <Text>r_chs_cover.6xnla_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_chs_cover.6xnlav8_p</Value>
+      <Text>r_chs_cover.6xnlv8_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_bumper.man_bat_p</Value>
+      <Text>r_bumper.man_bat_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_bumper.sca_bat_p</Value>
+      <Text>r_bumper.sca_bat_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_bumper.stock_blk_p</Value>
+      <Text>r_bumper.scock_blk_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.4x2_p_h</Value>
+      <Text>r_fendr_top.4x2_p_h</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.4x2_p_l</Value>
+      <Text>r_fendr_top.4x2_p_l</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.4x2_p_m</Value>
+      <Text>r_fendr_top.4x2_p_m</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.6x2_p_h</Value>
+      <Text>r_fendr_top.6x2_p_h</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.6x2_p_h1</Value>
+      <Text>r_fendr_top.6x2_p_h1</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.6x2_p_hl</Value>
+      <Text>r_fendr_top.6x2_p_hl</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.6x2_p_l</Value>
+      <Text>r_fendr_top.6x2_p_l</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.6x2_p_l1</Value>
+      <Text>r_fendr_top.6x2_p_l1</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.6x2_p_m</Value>
+      <Text>r_fendr_top.6x2_p_m</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.6x2_p_m1</Value>
+      <Text>r_fendr_top.6x2_p_m1</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.6x2_p_ml</Value>
+      <Text>r_fendr_top.6x2_p_ml</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.6x2l_p_h</Value>
+      <Text>r_fendr_top.6x2l_p_h</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.6x2l_p_h1</Value>
+      <Text>r_fendr_top.6x2l_p_h1</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.6x2l_p_hl</Value>
+      <Text>r_fendr_top.6x2l_p_hl</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.6x2l_p_l</Value>
+      <Text>r_fendr_top.6x2l_p_l</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.6x2l_p_l1</Value>
+      <Text>r_fendr_top.6x2l_p_l1</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.6x2l_p_m</Value>
+      <Text>r_fendr_top.6x2l_p_m</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.6x2l_p_m1</Value>
+      <Text>r_fendr_top.6x2l_p_m1</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.6x2l_p_ml</Value>
+      <Text>r_fendr_top.6x2l_p_ml</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.8x4_p_h</Value>
+      <Text>r_fendr_top.8x4_p_h</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>r_fendr_top.8x4_p_h1</Value>
+      <Text>r_fendr_top.8x4_p_h1</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.l6_cg_4x2a_p</Value>
+      <Text>sideskirt.l6_cg_4x2a_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.l6_cg_4x2b_p</Value>
+      <Text>sideskirt.l6_cg_4x2b_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.4x2_p_a</Value>
+      <Text>sideskirt.4x2_p_a</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.4x2_p_a_1</Value>
+      <Text>sideskirt.4x2_p_a_1</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.4x2_p_a_2</Value>
+      <Text>sideskirt.4x2_p_a_2</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.l6_cg_6x1a_p</Value>
+      <Text>sideskirt.l6_cg_6x1a_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.l6_cg_6x1b_p</Value>
+      <Text>sideskirt.l6_cg_6x1b_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.l6_cg_6xsa_p</Value>
+      <Text>sideskirt.l6_cg_6xsa_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.l6_cg_6xsb_p</Value>
+      <Text>sideskirt.l6_cg_6xsb_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.lg_cvr_6xl_p</Value>
+      <Text>sideskirt.lg_cvr_6xl_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.lg_cvr_6xlap</Value>
+      <Text>sideskirt.lg_cvr_6xlap</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.lg_cvr_6xs_p</Value>
+      <Text>sideskirt.lg_cvr_6xs_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.lg_cvr_6xsap</Value>
+      <Text>sideskirt.lg_cvr_6xsap</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.lg_cvr_p</Value>
+      <Text>sideskirt.lg_cvr_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.lg_cvr_p_a</Value>
+      <Text>sideskirt.lg_cvr_p_a</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.sh_cvr_6xl_p</Value>
+      <Text>sideskirt.sh_cvr_6xl_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.sh_cvr_6xlap</Value>
+      <Text>sideskirt.sh_cvr_6xlap</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.sh_cvr_6xs_p</Value>
+      <Text>sideskirt.sh_cvr_6xs_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.sh_cvr_6xsap</Value>
+      <Text>sideskirt.sh_cvr_6xsap</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.sh_cvr_p</Value>
+      <Text>sideskirt.sh_cvr_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.sh_cvr_p_a</Value>
+      <Text>sideskirt.sh_cvr_p_a</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Eugene</Group>
+      <Value>sideskirt.v8_cg_4x2a_p</Value>
+      <Text>sideskirt.v8_cg_4x2a_p</Text>
+	</ListItem>
+	<ListItem>
+      <Group>Feldbinder RIGID</Group>
+      <Text>kuzov.ffb_kip8x</Text> 
+      <Value>kuzov.ffb_kip8x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Feldbinder RIGID</Group>
+      <Text>kuzov.ffb_kip6x</Text> 
+      <Value>kuzov.ffb_kip6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 SWAP BODY TOP LIFT</Group>
+      <Text>Swap Body/TopLift</Text>
+      <Value>kuzov.toplift_swap</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 EKERI BOXES</Group>
+      <Text>Ekeri 4m Box</Text>
+      <Value>kuzov.ekeri_box4</Value>
+    </ListItem>      
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 EKERI BOXES</Group>
+      <Text>Ekeri 4m Box  4500mm Chassis</Text>
+      <Value>kuzov.ekeri_box4s</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 EKERI BOXES</Group>
+      <Text>Ekeri 4.4m Box</Text>    
+      <Value>kuzov.ekeri_box4_4</Value>
+    </ListItem>  
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 EKERI BOXES</Group>
+      <Text>Ekeri 4.4m Box  4500mm Chassis</Text>    
+      <Value>kuzov.ekeri_box44s</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 EKERI BOXES</Group>
+      <Text>Ekeri 4.4m Box 10x4 Chassis</Text>    
+      <Value>kuzov.ekeri_box10m</Value>
+    </ListItem>   
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 NTM BOXES</Group>
+      <Text>NTM 4m Box</Text>
+      <Value>kuzov.ntm_box4</Value>
+    </ListItem>      
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 NTM BOXES</Group>
+      <Text>NTM 4m Box  4500mm Chassis</Text>
+      <Value>kuzov.ntm_box4s</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 NTM BOXES</Group>
+      <Text>NTM 4.4m Box</Text>    
+      <Value>kuzov.ntm_box4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 NTM BOXES</Group>
+      <Text>NTM 4.4m Box  4500mm Chassis</Text>    
+      <Value>kuzov.ntm_box44s</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 NTM BOXES</Group>
+      <Text>NTM 4.4m Box 10x4 Chassis</Text>    
+      <Value>kuzov.ntm_box10m</Value>
+    </ListItem>  
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 NTM BOXES</Group>
+      <Text>NTM Swap Body 4m</Text>
+      <Value>cargo.ntm_swap4</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 NTM BOXES</Group>
+      <Text>NTM Swap Body 4.4m</Text>
+      <Value>cargo.ntm_swap4_4</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK 4m Box</Text>
+      <Value>kuzov.vak_box4</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK 4m Box  4500mm Chassis</Text>
+      <Value>kuzov.vak_box4s</Value>
+    </ListItem>    
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK 4.4m Box</Text>    
+      <Value>kuzov.vak_box4_4</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK 4.4m Box  4500mm Chassis</Text>    
+      <Value>kuzov.vak_box44s</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK 4.5m Box</Text>    
+      <Value>kuzov.vak_box4_5</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK 4.4m Box 10x4 Chassis</Text>    
+      <Value>kuzov.vak_box10m</Value>
+    </ListItem>  
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK 4.5m Box 10x4 Chassis</Text>    
+      <Value>kuzov.vak_box10x45</Value>
+    </ListItem>  
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK Swap Body</Text>
+      <Value>kuzov.vak_swap</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK Swap Body 4m</Text>
+      <Value>cargo.vak_swap4</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK Swap Body 4.4m</Text>
+      <Value>cargo.vak_swap4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK 4.4m Curtain Box 8x chassis ONLY</Text>    
+      <Value>kuzov.vak_4_4_curt</Value>
+    </ListItem> 	
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 NÄRKO BOXES</Group>
+      <Text>NÄRKO 4m Box</Text>
+      <Value>kuzov.narko_box4</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 NÄRKO BOXES</Group>
+      <Text>NÄRKO 4m Box  4500mm Chassis</Text>
+      <Value>kuzov.narko_box4s</Value>
+    </ListItem>    
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 NÄRKO BOXES</Group>
+      <Text>NÄRKO 4.4m Box</Text>    
+      <Value>kuzov.narko_box4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 NÄRKO BOXES</Group>
+      <Text>NÄRKO 4.4m Box  4500mm Chassis</Text>    
+      <Value>kuzov.narko_box44s</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 NÄRKO BOXES</Group>
+      <Text>NÄRKO 4.4m Box 10x4 Chassis</Text>    
+      <Value>kuzov.narko_box10m</Value>
+    </ListItem>  
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 NÄRKO BOXES</Group>
+      <Text>NÄRKO Swap Body 4m Open Side</Text>
+      <Value>cargo.narko_swap_3</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 NÄRKO BOXES</Group>
+      <Text>NÄRKO Swap Body 4m Closed Side</Text>
+      <Value>cargo.narko_swap_4</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 NÄRKO BOXES</Group>
+      <Text>NÄRKO Swap Body 4.4m Open Side</Text>  
+      <Value>cargo.narko_swap_1</Value>
+    </ListItem>  
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 NÄRKO BOXES</Group>
+      <Text>NÄRKO Swap Body 4.4m Closed Side</Text>
+      <Value>cargo.narko_swap_2</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 KNAPEN BOXES</Group>
+      <Text>KNAPEN 4m Box</Text>
+      <Value>kuzov.knapen_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 KNAPEN BOXES</Group>
+      <Text>KNAPEN 4m Box  4500mm Chassis</Text>
+      <Value>kuzov.knapen_4s</Value>
+    </ListItem>     
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 KNAPEN BOXES</Group>
+      <Text>KNAPEN 4.2m Box</Text>    
+      <Value>kuzov.knapen_4_2</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 KNAPEN BOXES</Group>
+      <Text>KNAPEN 4.2m Box  4500mm Chassis</Text>    
+      <Value>kuzov.knapen_4_2s</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 KNAPEN BOXES</Group>
+      <Text>KNAPEN Extreme</Text>    
+      <Value>kuzov.knapen_ext</Value>
+    </ListItem>	
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 KRAKER BOXES</Group>
+      <Text>Kraker Box</Text> 
+      <Value>kuzov.kraker</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>RIGID PARTS 1 KRAKER BOXES</Group>
+      <Text>Kraker Box  4500mm Chassis</Text> 
+      <Value>kuzov.kraker_s</Value>
+    </ListItem>        
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 2</Group>
+      <Text>bdf_stuff_r.paint</Text> 
+      <Value>bdf_stuff_r.paint</Value>
+    </ListItem>    
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 2</Group>
+      <Text>rigid_f_l.paint</Text> 
+      <Value>rigid_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 2</Group>
+      <Text>rigid_f_r.paint</Text> 
+      <Value>rigid_f_r.paint</Value>
+    </ListItem>     
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 2</Group>
+      <Text>rigid_f_l.rail_p</Text> 
+      <Value>rigid_f_l.rail_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 2</Group>
+      <Text>rigid_f_r.rail_p</Text> 
+      <Value>rigid_f_r.rail_p</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 2</Group>
+      <Text>sideskirt.paint</Text> 
+      <Value>sideskirt.paint</Value>
+    </ListItem>     
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 2</Group>
+      <Text>f_plate_a.ekeri_p</Text> 
+      <Value>f_plate_a.ekeri_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 2</Group>
+      <Text>f_plate_a.ekeri_p2</Text> 
+      <Value>f_plate_a.ekeri_p2</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 2</Group>
+      <Text>f_plate_b.ekeri_p</Text> 
+      <Value>f_plate_b.ekeri_p</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 2</Group>
+      <Text>f_plate_b.ekeri_p2</Text> 
+      <Value>f_plate_b.ekeri_p2</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 2</Group>
+      <Text>sidecooler.paint</Text> 
+      <Value>sidecooler.paint</Value>
+    </ListItem>     
+    <ListItem>
+      <Description>Cooler and Heater Units on the front.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 3</Group>
+      <Text>cooler.ekeheat_p</Text> 
+      <Value>cooler.ekeheat_p</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>Cooler and Heater Units on the front.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 3</Group>
+      <Text>cooler.heater_p</Text> 
+      <Value>cooler.heater_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Cooler and Heater Units on the front.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 3</Group>
+      <Text>cooler_4.heater_p</Text> 
+      <Value>cooler_4.heater_p</Value>
+    </ListItem>      
+    <ListItem>
+      <Description>Body Frame on the Boxes.</Description>
+      <Group>RIGID PARTS 3</Group>
+      <Text>body_frame.paint</Text> 
+      <Value>body_frame.paint</Value>
+    </ListItem>     
+    <ListItem>
+      <Description>Body Frame on the 10x4 4.5m Boxes.</Description>
+      <Group>RIGID PARTS 3</Group>
+      <Text>body_frame.paint_10x4_5</Text> 
+      <Value>body_frame.paint_10x4_5</Value>
+    </ListItem>  
+    <ListItem>
+      <Description>These are the Chassis, Axles and Rear parts.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 4</Group>
+      <Text>r_lights.shape9</Text> 
+      <Value>r_lights.shape9</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Chassis, Axles and Rear parts.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 4</Group>
+      <Text>r_lights.paint</Text> 
+      <Value>r_lights.paint</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Chassis, Axles and Rear parts.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 4</Group>
+      <Text>chs.paint</Text> 
+      <Value>chs.paint</Value>
+    </ListItem>     
+    <ListItem>
+      <Description>These are the Chassis, Axles and Rear parts.</Description>
+      <Group>RIGID PARTS 4</Group>
+      <Text>Moffett Forklift Painted</Text> 
+      <Value>chs.moffett</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Chassis, Axles and Rear parts.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 4</Group>
+      <Text>axles.paint</Text> 
+      <Value>axles.paint</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Chassis, Axles and Rear parts.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 4</Group>
+      <Text>cab_susp.kast</Text> 
+      <Value>cab_susp.kast</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_b.parlok_l_np</Text> 
+      <Value>fenders_b.parlok_l_np</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_b.parlok</Text> 
+      <Value>fenders_b.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_b.parlok_np</Text> 
+      <Value>fenders_b.parlok_np</Value>
+    </ListItem>
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_b.parlok_cut</Text> 
+      <Value>fenders_b.parlok_cut</Value>
+    </ListItem>    
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_c.parlok_l_np</Text> 
+      <Value>fenders_c.parlok_l_np</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_c.parlok</Text> 
+      <Value>fenders_c.parlok</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_c.parlok_np</Text> 
+      <Value>fenders_c.parlok_np</Value>
+    </ListItem>
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_c.parlok_cut</Text> 
+      <Value>fenders_c.parlok_cut</Value>
+    </ListItem>     
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_d.parlok</Text> 
+      <Value>fenders_d.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_d.parlok_np</Text> 
+      <Value>fenders_d.parlok_np</Value>
+    </ListItem>
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_t.parlok_l_np</Text> 
+      <Value>fenders_t.parlok_l_np</Value>
+    </ListItem>
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_t.parlok</Text> 
+      <Value>fenders_t.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_t.parlok_np</Text> 
+      <Value>fenders_t.parlok_np</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_t.parlok_cut</Text> 
+      <Value>fenders_t.parlok_cut</Value>
+    </ListItem>
+    <ListItem>
+      <Description>This is the Rear Mudflap.</Description>
+      <Group>RIGID PARTS 6</Group>
+      <Text>Rear Mudflap</Text> 
+      <Value>r_porikad.r_mdflap</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>scania.r_2016</InternalName>
+  <VehicleAuthor>SCS Software plus loads more</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSScania\r16high.jpg</VehicleImage>
+  <VehicleName>Scania R NextGen MEGA</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSScania\r16normal.jpg</Image>
+      <InternalName>normal.scania.r_2016.cabin</InternalName>
+      <Name>Normal Roof</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSScania\r16high.jpg</Image>
+      <InternalName>highline.scania.r_2016.cabin</InternalName>
+      <Name>High Roof</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSScania\r16_8x4.jpg</Image>
+      <InternalName>highline_8x4.scania.r_2016.cabin</InternalName>
+      <Name>High Roof (8x4)</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy - oli4004 - M1keY - Russ469</XmlDefinitionAuthor>
+</Variable>

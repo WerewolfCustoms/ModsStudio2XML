@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>be342f3a-c80c-48ee-8faf-47086fc3894d</Id>
+  <IsEnabled>true</IsEnabled>
+  <!-- Last check on version 8, DO NOT REMOVE, ONLY AMEND THIS LINE -->
+  <AccessoryItems>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>Single 3 Axel Paint</Text>
+      <Value>chassis.ijs_ga</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>Single 3 Axel Lift Paint</Text>
+      <Value>chassis.ijs_ga_lp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Body</Group>
+      <Text>Victor Cooler Painted</Text>
+	  <Value>f_body.ijs_cool_1t</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Body</Group>
+      <Text>Victor Cooler Double Tank Painted</Text>
+	  <Value>f_body.ijs_cool_2t</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Body</Group>
+      <Text>Carrier Vector HE 19 Painted</Text>
+	  <Value>f_body.ijs_he19</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Body</Group>
+      <Text>Turbo King Cooler Painted</Text>
+	  <Value>f_body.ijs_tking_1t</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Body</Group>
+      <Text>Turbo King Cooler Double Tank Painted</Text>
+	  <Value>f_body.ijs_tking_2t</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Left</Group>
+      <Text>Simple Side Protection Paint</Text>
+	  <Value>chs_f_l.ijs_cage_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Left</Group>
+      <Text>Simple Side Protection Paint Panel</Text>
+	  <Value>chs_f_l.ijs_cage_s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Left</Group>
+      <Text>Full Side Protection Paint</Text>
+	  <Value>chs_f_l.ijs_sbar</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Left</Group>
+      <Text>Simple Side Protection and Painted Box</Text>
+	  <Value>chs_f_l.ijs_pbx_cage</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Left</Group>
+      <Text>Painted Cage and Box</Text>
+	  <Value>chs_f_l.ijs_pcb</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Left</Group>
+      <Text>Pallet Box Painted</Text>
+	  <Value>chs_f_l.ijs_palb</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Right</Group>
+      <Text>Simple Side Protection Paint</Text>
+	  <Value>chs_f_r.ijs_cage_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Right</Group>
+      <Text>Simple Side Protection Paint Panel</Text>
+	  <Value>chs_f_r.ijs_cage_s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Right</Group>
+      <Text>Full Side Protection Paint</Text>
+	  <Value>chs_f_r.ijs_sbar</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Right</Group>
+      <Text>Simple Side Protection and Painted Box</Text>
+	  <Value>chs_f_r.ijs_pbx_cage</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Right</Group>
+      <Text>Painted Cage and Box</Text>
+	  <Value>chs_f_r.ijs_pcb</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Right</Group>
+      <Text>Pallet Box Painted</Text>
+	  <Value>chs_f_r.ijs_palb</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Rear Left</Group>
+      <Text>Painted Box</Text>
+	  <Value>chs_r_l.ijs_paint_b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Rear Left</Group>
+      <Text>Painted Pallet Box</Text>
+	  <Value>chs_r_l.ijs_pallet</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Rear Right</Group>
+      <Text>Painted Box</Text>
+	  <Value>chs_r_r.ijs_paint_b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Rear Right</Group>
+      <Text>Painted Pallet Box</Text>
+	  <Value>chs_r_r.ijs_pallet</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint and Chrome</Text>
+	  <Value>r_bumper_ga.ijs_ga2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Full Paint</Text>
+	  <Value>r_bumper_ga.ijs_ga1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Mudflaps</Group>
+      <Text>Paint</Text>
+	  <Value>r_mudflap.ijs_paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>ijsga.ga</InternalName>
+  <VehicleAuthor>IJ's Mods</VehicleAuthor>
+  <VehicleName>IJ's Mods Gray and Adams Reefer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+	<Variant>
+		<InternalName>body.ijs_body_ga</InternalName>
+		<Name>Gray and Adams Reefer</Name>
+	</Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy, Danny Kay</XmlDefinitionAuthor>
+</Variable>

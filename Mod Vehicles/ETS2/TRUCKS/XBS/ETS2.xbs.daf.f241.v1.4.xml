@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>07b912e5-fade-4171-bcdf-5629c7da091e</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Air intake</Text>
+      <Value>air_intake.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Air intake</Text>
+      <Value>air_intake.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Heavy Duty Bumper</Text>
+      <Value>bumper.heavy</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@ steel</Text>
+      <Value>bumper.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@ paint</Text>
+      <Value>bumper.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Markus2000</Text>
+      <Value>b_grill.mark</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@ @@paint@@</Text>
+      <Value>b_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>b_grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>cab_decal.dec2800</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>cab_decal.dec3300</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>cab_decal.dec3600</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>cab_decal.ldec2800</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>cab_decal.ldec3300</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>cab_decal.ldec3600</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>codrv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Windabweiser rechts/links</Text>
+      <Value>deflector.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Windabweiser rechts/links</Text>
+      <Value>deflector.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plastic@@</Text>
+      <Value>doorhndl.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrom@@</Text>
+      <Value>doorhndl.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>doorhndl.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>doorstep.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>doorstep.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>drv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>exhaust_l.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>exhaust_l.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>DAF Old School Trucks</Text>
+      <Value>frntglss_mid.decals01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Eindhoven Holland</Text>
+      <Value>frntglss_mid.decals02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ATI 2800 Turbo Intercooling</Text>
+      <Value>f_badge.ati2800</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ATI 2800 Turbo Intercooling</Text>
+      <Value>f_badge.ati2800l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ATI 3300 Turbo Intercooling</Text>
+      <Value>f_badge.ati3300</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ATI 3300 Turbo Intercooling</Text>
+      <Value>f_badge.ati3300l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ATI 3600 Turbo Intercooling</Text>
+      <Value>f_badge.ati3600</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ATI 3600 Turbo Intercooling</Text>
+      <Value>f_badge.ati3600l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>f_fender.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>f_fender.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Heavy Duty Grill</Text>
+      <Value>f_grill.heavy1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mystery</Text>
+      <Value>f_grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mystery plus</Text>
+      <Value>f_grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Parsifal</Text>
+      <Value>f_grill.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>f_intake_cab.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>f_intake_cab.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>f_intake_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@ @@plastic@@</Text>
+      <Value>f_intake_chs.pl_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>f_intake_chs.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>New Logo</Text>
+      <Value>f_logo.new</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>f_logo.old</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plastic@@</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Webasto truck parking cooler</Text>
+      <Value>roof_equip.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Webasto truck parking cooler @@paint@@</Text>
+      <Value>roof_equip.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>r_chs_cover.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ISTOFLEX</Text>
+      <Value>r_fender.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ISTOFLEX</Text>
+      <Value>r_fender.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ISTOFLEX</Text>
+      <Value>r_fender.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ISTOFLEX</Text>
+      <Value>r_fender.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ISTOFLEX</Text>
+      <Value>r_fender.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirage</Text>
+      <Value>r_grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Attachment points</Text>
+      <Value>r_grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Attachment points</Text>
+      <Value>r_grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Attachment points</Text>
+      <Value>r_grill.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Attachment points</Text>
+      <Value>r_grill.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Attachment points</Text>
+      <Value>r_grill.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lightbox UK</Text>
+      <Value>r_grill.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>r_light.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Old Logo</Text>
+      <Value>r_mudflap.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>DAF</Text>
+      <Value>r_mudflap.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>SCS Software</Text>
+      <Value>r_mudflap.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>r_mudflap.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dash</Text>
+      <Value>set_dash.set1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>spoiler.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>spoiler.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Super XL</Text>
+      <Value>spoiler.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@ short</Text>
+      <Value>spoiler.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@ long</Text>
+      <Value>spoiler.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>F241 Brown</Text>
+      <Value>steering_w.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>F241 Dark</Text>
+      <Value>steering_w.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>steering_w.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>sunshld.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Transparent plastic- Red</Text>
+      <Value>sunshld.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Transparent plastic- Green</Text>
+      <Value>sunshld.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Transparent plastic- Blue</Text>
+      <Value>sunshld.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tannhäuser</Text>
+      <Value>sunshld.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>stoneguard</Text>
+      <Value>s_guard.s_guard1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>stoneguard</Text>
+      <Value>s_guard.s_guard2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>stoneguard</Text>
+      <Value>s_guard.s_guard3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>s_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Special</Text>
+      <Value>s_panel.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Special</Text>
+      <Value>s_panel.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@ black</Text>
+      <Value>tank.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@ steel</Text>
+      <Value>tank.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>tank.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Special</Text>
+      <Value>windowtrim.wdefl01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrom@@</Text>
+      <Value>windowtrim.wdefl02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plastic@@</Text>
+      <Value>windowtrim.wdefl03</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\My PC\Desktop\Mods_Studio_2_v.09.2020\Data\ModData\SCS\Vehicles\my_xmls\ETS2.daf.f241.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>daf.f241</InternalName>
+  <VehicleAuthor>XBS</VehicleAuthor>
+  <VehicleName>DaF 241 ATI</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>cab_a.daf.f241.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_b.daf.f241.cabin</InternalName>
+      <Name>Topsleeper Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_c.daf.f241.cabin</InternalName>
+      <Name>Sleeper Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_d.daf.f241.cabin</InternalName>
+      <Name>Space Cab</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

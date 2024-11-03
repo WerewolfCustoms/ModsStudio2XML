@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>b604f044-9eb0-40b6-8e64-52541b0a7727</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>@@Chrome Deck@@</Text>
+      <Value>deck.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Painted Deck@@</Text>
+      <Value>deck.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@No Doors@@</Text>
+      <Value>doors.ezitag</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@No Doors@@</Text>
+      <Value>doors.ezitug</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Doors@@</Text>
+      <Value>doors.tag</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Doors@@</Text>
+      <Value>doors.tug</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Fire Extinguisher@@</Text>
+      <Value>fire.fire01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Fire Extinguisher@@</Text>
+      <Value>fire.fire02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Fire Extinguisher@@</Text>
+      <Value>fire.fire03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@freighter Blue Mudflaps@@</Text>
+      <Value>flaps.freightertag</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Klos Mudflaps@@</Text>
+      <Value>flaps.kloslead</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Klos Mudflaps@@</Text>
+      <Value>flaps.klostag</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@freighter Blue Mudflaps@@</Text>
+      <Value>flaps.lead01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@freighter Red Mudflaps@@</Text>
+      <Value>flaps.lead02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@freighter Red Mudflaps@@</Text>
+      <Value>flaps.tag01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Rubber Guards@@</Text>
+      <Value>guards.guards1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Painted Guards@@</Text>
+      <Value>guards.guards2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chrome Guards@@</Text>
+      <Value>guards.guards3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Wings Chrome Trim@@</Text>
+      <Value>guards.guards4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Wings Smooth Chromed@@</Text>
+      <Value>guards.guards5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Horsehair Short@@</Text>
+      <Value>hair.hairtag01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Horsehair Long@@</Text>
+      <Value>hair.hairtag02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Horsehair Short@@</Text>
+      <Value>hair.lead01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Horsehair Long@@</Text>
+      <Value>hair.lead02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Do Not Overtake@@</Text>
+      <Value>overtake.over01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Do Not Overtake@@</Text>
+      <Value>overtake.over02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Do Not Overtake@@</Text>
+      <Value>overtake.over03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Plate@@</Text>
+      <Value>plate.plate01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Plate@@</Text>
+      <Value>plate.plate02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round Standard Round LED@@</Text>
+      <Value>rearlights.round01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round Double row LED@@</Text>
+      <Value>rearlights.round02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round Single line 5 LED@@</Text>
+      <Value>rearlights.round03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round Double line  5 LED@@</Text>
+      <Value>rearlights.round04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round Single Line 6 LED@@</Text>
+      <Value>rearlights.round05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round Double Line 6 LED@@</Text>
+      <Value>rearlights.round06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round Standard Round LED Chrome@@</Text>
+      <Value>rearlights.round07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round Double row LED Chrome@@</Text>
+      <Value>rearlights.round08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round Single line 5 LED Chrome@@</Text>
+      <Value>rearlights.round09</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round Double line  5 LED Chrome@@</Text>
+      <Value>rearlights.round10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round Single Line 6 LED Chrome@@</Text>
+      <Value>rearlights.round11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round Double Line 6 LED Chrome@@</Text>
+      <Value>rearlights.round12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round Double 5 LED@@</Text>
+      <Value>rearlights.round13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round Double 6 LED@@</Text>
+      <Value>rearlights.round14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round Double 5 LED Chrome@@</Text>
+      <Value>rearlights.round15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round Double 6 LED Chrome@@</Text>
+      <Value>rearlights.round16</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round Double row LED@@</Text>
+      <Value>rearlights.round17</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round Standard Round LED@@</Text>
+      <Value>rearlights.round18</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Round LED@@</Text>
+      <Value>rearlights.roundlead</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Square Standard LED@@</Text>
+      <Value>rearlights.square01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Square Double LED@@</Text>
+      <Value>rearlights.square02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Square Single line 6 LED@@</Text>
+      <Value>rearlights.square03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Square Double line 5 LED@@</Text>
+      <Value>rearlights.square04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Square Double 5 LED@@</Text>
+      <Value>rearlights.square05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Square Standard LED Chrome@@</Text>
+      <Value>rearlights.square06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Square Double LED Chrome@@</Text>
+      <Value>rearlights.square07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Standard Square LED@@</Text>
+      <Value>rearlights.square08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Square Double row LED@@</Text>
+      <Value>rearlights.square09</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Square LED@@</Text>
+      <Value>rearlights.squarelead</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Standard LED@@</Text>
+      <Value>rearlights.standard01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Standard Double Stack LED@@</Text>
+      <Value>rearlights.standard02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Standard Single row LED@@</Text>
+      <Value>rearlights.standard03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Standard Double Stack Centre LED@@</Text>
+      <Value>rearlights.standard04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Standard Double Rows LED@@</Text>
+      <Value>rearlights.standard05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Standard LED Chrome@@</Text>
+      <Value>rearlights.standard06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Standard Double Stack LED Chrome@@</Text>
+      <Value>rearlights.standard07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Standard Single row LED Chrome@@</Text>
+      <Value>rearlights.standard08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Standard Double Stack Centre LED Chrome@@</Text>
+      <Value>rearlights.standard09</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Standard Double Rows LED Chrome@@</Text>
+      <Value>rearlights.standard10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Standard LED@@</Text>
+      <Value>rearlights.standard11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Standard Double LED@@</Text>
+      <Value>rearlights.standard12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Standard LED@@</Text>
+      <Value>rearlights.standardlead</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Long Vehicle D03@@</Text>
+      <Value>signs.lvdoor</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Long Vehicle W02@@</Text>
+      <Value>signs.lvwall</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Long Vehicle W02@@</Text>
+      <Value>signs.lvwallezi</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@RoadTrain D03@@</Text>
+      <Value>signs.rtdoor</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@RoadTrain W02@@</Text>
+      <Value>signs.rtwall</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@RoadTrain W02@@</Text>
+      <Value>signs.rtwallezi</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Signs Down@@</Text>
+      <Value>signs.singns01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Signs Down@@</Text>
+      <Value>signs.singns01ezi</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Long Vehicle@@</Text>
+      <Value>signs.singns02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Long Vehicle@@</Text>
+      <Value>signs.singns02ezi</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@RoadTrain@@</Text>
+      <Value>signs.singns03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@RoadTrain@@</Text>
+      <Value>signs.singns03ezi</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Signs Down@@</Text>
+      <Value>signs.square01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Signs Down@@</Text>
+      <Value>signs.square01ezi</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Long Vehicle@@</Text>
+      <Value>signs.square02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Long Vehicle@@</Text>
+      <Value>signs.square02ezi</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@RoadTrain@@</Text>
+      <Value>signs.square03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@RoadTrain@@</Text>
+      <Value>signs.square03ezi</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Double ToolBox@@</Text>
+      <Value>toolbox.double</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Checker Double ToolBox@@</Text>
+      <Value>toolbox.double02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Double Chrome ToolBox@@</Text>
+      <Value>toolbox.double03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Single ToolBox@@</Text>
+      <Value>toolbox.single</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Checker Single ToolBox@@</Text>
+      <Value>toolbox.single02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Single Chrome ToolBox@@</Text>
+      <Value>toolbox.single03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Double ToolBox@@</Text>
+      <Value>toolbox.tag</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Checker Double ToolBox@@</Text>
+      <Value>toolbox.tag02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Double Chrome ToolBox@@</Text>
+      <Value>toolbox.tag03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Wings Smooth Chromed@@</Text>
+      <Value>wings.chromelead</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Wings Smooth Chromed@@</Text>
+      <Value>wings.chrometag</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Wings Skinned@@</Text>
+      <Value>wings.oldlead</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Wings Chrome Trim@@</Text>
+      <Value>wings.oldleadt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Wings Skinned@@</Text>
+      <Value>wings.oldtag</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Wings Chrome Trim@@</Text>
+      <Value>wings.oldtagt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Wings Skinned@@</Text>
+      <Value>wings.oldtug</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Wings Chrome Trim@@</Text>
+      <Value>wings.oldtugt</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\leadf\Documents\Mods Studio 2\UserVehicles\ATS CAM.freighter.flattaut.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>freighter.flattaut</InternalName>
+  <VehicleAuthor>Custom Aussie Mods</VehicleAuthor>
+  <VehicleName>TSA Flat Tautliners</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.curlead</InternalName>
+      <Name>@@Old Lead@@</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.curtag</InternalName>
+      <Name>@@Old Tag@@</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.curtug</InternalName>
+      <Name>@@Old Tug@@</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

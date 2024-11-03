@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>e7e0f910-c3c9-44dd-ba53-6701c7fa0d25</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>@@standard_door@@</Text>
+      <Value>rear_body.hauldoor</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard_door@@</Text>
+      <Value>rear_body.hauldoorb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrome door@@</Text>
+      <Value>rear_body.hauld_chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrome door@@</Text>
+      <Value>rear_body.hauldchromeb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrome roof@@</Text>
+      <Value>top_roof.roof_chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrome roof@@</Text>
+      <Value>top_roof.roof_chromeb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@toproof@@</Text>
+      <Value>top_roof.top_roof</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@toproof@@</Text>
+      <Value>top_roof.top_roofb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@lpframe1@@</Text>
+      <Value>lp_frame.lpframe1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@lpframe1@@</Text>
+      <Value>lp_frame.lpframe2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@lpframe1@@</Text>
+      <Value>lp_frame.lpframe3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@lpframe1@@</Text>
+      <Value>lp_frame.lpframe4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard_door c@@</Text>
+      <Value>rear_body.hauldoorc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@toproof c@@</Text>
+      <Value>top_roof.top_roofc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrome door c@@</Text>
+      <Value>rear_body.hauldchromec</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrome roof c@@</Text>
+      <Value>top_roof.roof_chromec</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal1@@</Text>
+      <Value>front_decal.decal1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal10@@</Text>
+      <Value>front_decal.decal10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal2@@</Text>
+      <Value>front_decal.decal2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal3@@</Text>
+      <Value>front_decal.decal3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal4@@</Text>
+      <Value>front_decal.decal4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal5@@</Text>
+      <Value>front_decal.decal5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal6@@</Text>
+      <Value>front_decal.decal6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal7@@</Text>
+      <Value>front_decal.decal7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal8@@</Text>
+      <Value>front_decal.decal8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal9@@</Text>
+      <Value>front_decal.decal9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal1@@</Text>
+      <Value>rear_decal.decal1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal10@@</Text>
+      <Value>rear_decal.decal10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal2@@</Text>
+      <Value>rear_decal.decal2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal3@@</Text>
+      <Value>rear_decal.decal3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal4@@</Text>
+      <Value>rear_decal.decal4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal5@@</Text>
+      <Value>rear_decal.decal5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal6@@</Text>
+      <Value>rear_decal.decal6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal7@@</Text>
+      <Value>rear_decal.decal7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal8@@</Text>
+      <Value>rear_decal.decal8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decal9@@</Text>
+      <Value>rear_decal.decal9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decals1@@</Text>
+      <Value>rear_decal.decals1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decals10@@</Text>
+      <Value>rear_decal.decals10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decals2@@</Text>
+      <Value>rear_decal.decals2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decals3@@</Text>
+      <Value>rear_decal.decals3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decals4@@</Text>
+      <Value>rear_decal.decals4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decals5@@</Text>
+      <Value>rear_decal.decals5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decals6@@</Text>
+      <Value>rear_decal.decals6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decals7@@</Text>
+      <Value>rear_decal.decals7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decals8@@</Text>
+      <Value>rear_decal.decals8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@decals9@@</Text>
+      <Value>rear_decal.decals9</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\kristian\Documents\Mods Studio 2\UserVehicles\All.carhauler.haul.xml</FilePath>
+  <Game>All</Game>
+  <InternalName>carhauler.haul</InternalName>
+  <VehicleAuthor>krizzy090 / scs software</VehicleAuthor>
+  <VehicleName>krizzy090 Car Hauler</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.haul</InternalName>
+      <Name>Car Hauler</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.haulb</InternalName>
+      <Name>Car Hauler</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.haulb2</InternalName>
+      <Name>Car Hauler</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.haulc2</InternalName>
+      <Name>Car Hauler</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.haulc</InternalName>
+      <Name>Car Hauler</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.haulc3</InternalName>
+      <Name>Car Hauler</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.haulc4</InternalName>
+      <Name>Car Hauler</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

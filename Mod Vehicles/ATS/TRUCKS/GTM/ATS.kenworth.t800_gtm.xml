@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>2450c7f5-f696-478e-87be-328c20a947d1</Id>
+  <IsEnabled>true</IsEnabled>
+  
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\xmls_new style\ATS.kenworth.t800_gtm.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>kenworth.t800_gtm</InternalName>
+  <VehicleAuthor>GTM Team</VehicleAuthor>
+  <VehicleName>Kenworth T800</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>duty.kenworth.t800_gtm.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>exclusive.kenworth.t800_gtm.cabin</InternalName>
+      <Name>AeroCab Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standard.kenworth.t800_gtm.cabin</InternalName>
+      <Name>Studio Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

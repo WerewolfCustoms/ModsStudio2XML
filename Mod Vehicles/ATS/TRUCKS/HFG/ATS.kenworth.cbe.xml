@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>b195f49f-c722-443c-bcd6-c8472a207586</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Drom Custom Skin</Text>
+      <Value>headache_r.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Fuel Tank</Text>
+      <Value>sideskirt.l100_paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.kenworth.cbe.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>kenworth.cbe</InternalName>
+  <VehicleAuthor>HFG</VehicleAuthor>
+  <VehicleName>Kenworth CBE</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>day.kenworth.cbe.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>drom.kenworth.cbe.cabin</InternalName>
+      <Name>Aluminum Drom</Name>
+    </Variant>
+    <Variant>
+      <InternalName>drom_oc.kenworth.cbe.cabin</InternalName>
+      <Name>Decal Over Drom</Name>
+    </Variant>
+    <Variant>
+      <InternalName>drom_p.kenworth.cbe.cabin</InternalName>
+      <Name>Paint Drom</Name>
+    </Variant>
+    <Variant>
+      <InternalName>drom_w.kenworth.cbe.cabin</InternalName>
+      <Name>Plain Drom</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

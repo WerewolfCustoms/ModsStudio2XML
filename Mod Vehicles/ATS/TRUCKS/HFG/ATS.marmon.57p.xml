@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>6cd1c279-f8b5-414a-b4cc-45d06dc82ecc</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.marmon.57p.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>marmon.57p</InternalName>
+  <VehicleAuthor>HFG</VehicleAuthor>
+  <VehicleName>Marmon 57p</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>standard.marmon.57p.cabin</InternalName>
+      <Name>Flat Top</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

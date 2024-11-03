@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>7c70ea17-9255-4891-8f2b-a07a902d79c1</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.gd53.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>gd53</InternalName>
+  <VehicleAuthor>jon-ruda</VehicleAuthor>
+  <VehicleName>Refrigerator Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.gd_48</InternalName>
+      <Name>48` bs_reefer Paint</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.gd_48chr</InternalName>
+      <Name>48` bs_reefer Chrome</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.gd_53</InternalName>
+      <Name>53` bs_reefer Paint</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.gd_chr</InternalName>
+      <Name>53` bs_reefer Chrome</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

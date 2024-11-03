@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>9fa0959a-ac9c-4449-8174-9d2ec6591f2b</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>kogel.b</InternalName>
+  <VehicleAuthor>Schumi</VehicleAuthor>
+  <VehicleName>Kögel Flatbed Semitrailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>x</Description>
+      <Image>kogel.b.jpg</Image>
+      <InternalName>body.bort</InternalName>
+      <Name>Kögel Bort</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>2301-19-145__bort.png</XmlDefinitionAuthor>
+</Variable>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>eba94f02-a744-4b0b-9306-d840a97e1ddb</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+  
+  <ListItem>
+	<Group>Exhaust Brackets</Group>
+      <Text>Exhaust Bracket Left</Text>
+      <Value>exhaust_l.left_paint</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Exhaust Brackets</Group>
+      <Text>Exhaust Bracket Right</Text>
+      <Value>exhaust_r.right_paint</Value>
+    </ListItem>
+  
+    <ListItem>
+	<Group>Chassis</Group>
+      <Text>222 Chassis Paint</Text>
+      <Value>chassis.222_tp_dc</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Chassis</Group>
+      <Text>226 Chassis Paint</Text>
+      <Value>chassis.246_tp_dc</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Chassis</Group>
+      <Text>258 Chassis Paint</Text>
+      <Value>chassis.258_tp_dc</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Chassis</Group>
+      <Text>8x4 Midlift 258</Text>
+      <Value>chassis.lft_tp_dc_b</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Chassis</Group>
+      <Text>8x6 Tri-Drive 258 5th wheel back</Text>
+      <Value>chassis.tri_tp_dc_b</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Chassis</Group>
+      <Text>8x6 Tri-Drive 258 5th wheel forward</Text>
+      <Value>chassis.tri_tp_dc_f</Value>
+    </ListItem>
+	
+	
+	
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>190gal w/Painted Chassis</Text>
+      <Value>tank.95_paint_p</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>240gal w/Painted Chassis</Text>
+      <Value>tank.120_paint_p</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>190gal w/Black Chassis</Text>
+      <Value>tank.95_paint_bl</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>240gal w/Black Chassis</Text>
+      <Value>tank.120_paint_bl</Value>
+    </ListItem>
+    
+    
+    <ListItem>
+	<Group>Fuel Tanks Step Straps</Group>
+      <Text>Aluminium Steps 120 Paint</Text>
+      <Value>doorstep.120_alu_p</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Fuel Tanks Step Straps</Group>
+      <Text>Polished Steps 120 Paint</Text>
+      <Value>doorstep.120_chr_p</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Fuel Tanks Step Straps</Group>
+      <Text>Aluminium Steps 95 Paint</Text>
+      <Value>doorstep.95_alu_p</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Fuel Tanks Step Straps</Group>
+      <Text>Polished Steps 95 Paint</Text>
+      <Value>doorstep.95_chr_p</Value>
+    </ListItem>
+
+    <ListItem>
+	<Group>Mudflaps</Group>
+      <Text>Front Fender Mudflap Paint</Text>
+      <Value>f_mudflap.ford_paint</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Mudflaps</Group>
+      <Text>Rear Mudflaps Paint</Text>
+      <Value>mudflaps.coiled_paint</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Rear Fenders</Group>
+      <Text>Qarter Fender Mudflap Paint</Text>
+      <Value>mudguard.ford_paint</Value>
+    </ListItem>
+    
+    
+  </AccessoryItems>
+  <FilePath>C:\Users\leadf\Documents\Mods Studio 2\UserVehicles\ATS BPM.bpm_ford.ltl_9000.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>bpm_ford.ltl_9000</InternalName>
+  <VehicleAuthor>BPM-Blue Print Mods</VehicleAuthor>
+  <VehicleName>Ford LTL 9000</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>cab_34.bpm_ford.ltl_9000.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_42.bpm_ford.ltl_9000.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_60.bpm_ford.ltl_9000.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_day.bpm_ford.ltl_9000.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Lucasi</XmlDefinitionAuthor>
+</Variable>

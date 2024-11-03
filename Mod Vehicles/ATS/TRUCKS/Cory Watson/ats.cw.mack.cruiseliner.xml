@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>3a3cadda-aecf-441d-a529-e942cd33edf2</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS.cruise.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>cruise</InternalName>
+  <VehicleAuthor>Cory Watson</VehicleAuthor>
+  <VehicleName>Mack Cruiseliner</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabins</Group>
+      <InternalName>daycab.cruise.cabin</InternalName>
+      <Name>DayCab 54" 1978</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabins</Group>
+      <InternalName>daycab.cruise.cabin</InternalName>
+      <Name>DayCab 54" 1983</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabins</Group>
+      <InternalName>daycabold.cruise.cabin</InternalName>
+      <Name>DayCab 54" 1983 old grill</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabins</Group>
+      <InternalName>cab76.cruise.cabin</InternalName>
+      <Name>Cab 76" 1978</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabins</Group>
+      <InternalName>cab76old.cruise.cabin</InternalName>
+      <Name>Cab 76" 1983</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabins</Group>
+      <InternalName>cab76new.cruise.cabin</InternalName>
+      <Name>Cab 76" 1983 old grill</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabins</Group>
+      <InternalName>standard.cruise.cabin</InternalName>
+      <Name>Studio Sleeper 90" 1978</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabins</Group>
+      <InternalName>cab90old.cruise.cabin</InternalName>
+      <Name>Studio Sleeper 90" 1983</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabins</Group>
+      <InternalName>cab90new.cruise.cabin</InternalName>
+      <Name>Studio Sleeper 90" 1983 old grill</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabins</Group>
+      <InternalName>sleeper.cruise.cabin</InternalName>
+      <Name>Studio Sleeper 90" + Sleeper 1978</Name>
+    </Variant>
+    <Variant>
+	<AccessoryDependencies />
+      <Group>Cabins</Group>
+      <InternalName>sleeperold.cruise.cabin</InternalName>
+      <Name>Studio Sleeper 90" + Sleeper 1983</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

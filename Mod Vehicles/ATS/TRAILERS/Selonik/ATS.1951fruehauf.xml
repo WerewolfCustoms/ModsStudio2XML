@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>5c057f60-f079-41bb-a6ff-bfd17ec4bcc3</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>standard</Text>
+      <Value>markers.box</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.1951fruehauf.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>1951fruehauf</InternalName>
+  <VehicleAuthor>BlackAce, selonik</VehicleAuthor>
+  <VehicleName>1951 Fruehauf</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.body</InternalName>
+      <Name>1951 Fruehauf</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.body01</InternalName>
+      <Name>1951 Fruehauf</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

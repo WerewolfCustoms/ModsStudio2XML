@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>cc27078d-52a3-4b99-96e5-61d9bef618ed</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>s21.95xf</InternalName>
+  <VehicleAuthor>soundwave2142</VehicleAuthor>
+  <VehicleName>Soundwave DAF 95XF</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>sleeper_cab.s21.95xf.cabin</InternalName>
+      <Name>Sleeper Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>space_cab.s21.95xf.cabin</InternalName>
+      <Name>Space Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>super_s_cab.s21.95xf.cabin</InternalName>
+      <Name>Super Space Cab</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Taede</XmlDefinitionAuthor>
+</Variable>

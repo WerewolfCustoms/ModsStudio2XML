@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>2088b108-04fe-49ce-9bec-45243495a404</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>schmitz.reefer</InternalName>
+  <VehicleAuthor>Schumi</VehicleAuthor>
+  <VehicleName>Schmitz Reefer 3 variants</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>No Doors Either Sides</Description>
+      <Image>reefer_1.jpg</Image>
+      <InternalName>body.reefer</InternalName>
+      <Name>Schmitz Reefer V1</Name>
+    </Variant>
+    <Variant>
+      <Description>Small Doors Both Sides</Description>
+      <Image>reefer_2.jpg</Image>
+      <InternalName>body.reefer2</InternalName>
+      <Name>Schmitz Reefer V2</Name>
+    </Variant>
+    <Variant>
+      <Description>Big Doors Both Sides</Description>
+      <Image>reefer_3.jpg</Image>
+      <InternalName>body.reefer3</InternalName>
+      <Name>Schmitz Reefer V3</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>2301-19-145__reefer.png</XmlDefinitionAuthor>
+</Variable>

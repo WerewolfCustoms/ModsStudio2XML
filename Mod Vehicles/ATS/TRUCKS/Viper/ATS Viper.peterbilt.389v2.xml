@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>fe64dfe8-f591-4007-81a3-bf756ffd1507</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\xmls_new style\All Viper.peterbilt.389v2.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>peterbilt.389v2</InternalName>
+  <VehicleAuthor>Viper2</VehicleAuthor>
+  <VehicleName>Peterbilt Custom 379/389</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>dcfr.peterbilt.389v2.cabin</InternalName>
+      <Name>Daycab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>dchr.peterbilt.389v2.cabin</InternalName>
+      <Name>DayCab Ultra Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sfrbg.peterbilt.389v2.cabin</InternalName>
+      <Name>63 Inch Stand Up Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sfrlg.peterbilt.389v2.cabin</InternalName>
+      <Name>63 Inch Flat top Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sfrsh.peterbilt.389v2.cabin</InternalName>
+      <Name>36 Inch Flat top Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>shrbg.peterbilt.389v2.cabin</InternalName>
+      <Name>63 Inch Stand Up Sleeper Ultra Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sucub.peterbilt.389v2.cabin</InternalName>
+      <Name>72 Inch Ultracab Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>b05fd585-63df-4e5e-ad1d-3472cd76edff</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    
+   <ListItem>
+	<Description>Ticking this box is optional. If not ticked it will be colored same a truck base color</Description>
+      <Text>Standard Visor (Paint)</Text>
+      <Value>sunshield.default_col</Value>
+    </ListItem>
+    
+    
+    <ListItem>
+	<Description>Ticking this box is optional. If not ticked it will be colored same a truck base color</Description>
+      <Text>Stock Grill (Paint)</Text>
+      <Value>grill.stock_col</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Description>Must be ticked and image assigned</Description>
+      <Text>V2 Hood</Text>
+      <Value>hood.std</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Description>Ticking this box is optional. If not ticked it will be colored same a truck base color</Description>
+      <Text>Kysor KA300 Roof Air (Paint)</Text>
+      <Value>r_deflector.kysor_col</Value>
+    </ListItem>
+	
+    <ListItem>
+	<Description>Ticking this box is optional. If not ticked it will be colored same a truck base color</Description>
+      <Text>Roof Deflector (Down)</Text>
+      <Value>r_deflector.vara_day_dn</Value>
+    </ListItem>
+    <ListItem>
+	<Description>Ticking this box is optional. If not ticked it will be colored same a truck base color</Description>
+      <Text>Roof Deflector (Mid)</Text>
+      <Value>r_deflector.vara_day_md</Value>
+    </ListItem>
+    <ListItem>
+	<Description>Ticking this box is optional. If not ticked it will be colored same a truck base color</Description>
+      <Text>Roof Deflector (Up)</Text>
+      <Value>r_deflector.vara_day_up</Value>
+    </ListItem>
+    
+    
+  </AccessoryItems>
+  <FilePath>C:\Program Files\ModStudio2\Data\ModData\SCS\Vehicles\my_xmls\All Scots V2.scota2hd.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>scot.a2hd</InternalName>
+  <VehicleAuthor>Smarty</VehicleAuthor>
+  <VehicleName>Scot A2HD V2</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>daycab.scot.a2hd.cabin</InternalName>
+      <Name>Daycab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>integral.scot.a2hd.cabin</InternalName>
+      <Name>Sleeper Cab</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

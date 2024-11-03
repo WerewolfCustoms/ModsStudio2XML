@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>144c34cc-d2ff-4f25-b745-a2be13d5b27d</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Police Beacon</Text>
+      <Value>beacon.police</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>mirror.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>smirror.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>steering_w.default</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\salon\Documents\Mods Studio 2\UserVehicles\ETS2.hellcat.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>hellcat</InternalName>
+  <VehicleAuthor>DN Modding, Nimit, Deidra</VehicleAuthor>
+  <VehicleName>Dodge Challenger</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>srt_hellcat.hellcat.cabin</InternalName>
+      <Name>SRT Hellcat Widebody 2018</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>MohSkinner</XmlDefinitionAuthor>
+</Variable>

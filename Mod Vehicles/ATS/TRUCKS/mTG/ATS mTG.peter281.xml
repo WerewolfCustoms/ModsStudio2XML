@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>b327404e-a842-470b-a45c-a2d873f6a656</Id>
+  <IsEnabled>true</IsEnabled>
+  
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\All mTG.mackmtg.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>peter281</InternalName>
+  <VehicleAuthor>mTG</VehicleAuthor>
+  <VehicleName>Peterbilt 281/351</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>duty.peter281.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>exclusive.peter281.cabin</InternalName>
+      <Name>Ultra CAb Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

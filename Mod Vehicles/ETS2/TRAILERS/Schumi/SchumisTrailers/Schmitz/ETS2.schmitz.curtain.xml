@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>109c8b8f-5ffb-4015-bf51-cbfaa8193baa</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>schmitz.curtain</InternalName>
+  <VehicleAuthor>Schumi</VehicleAuthor>
+  <VehicleName>Schmitz Curtain V2</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>x</Description>
+      <Image>schmitz_curtain.jpg</Image>
+      <InternalName>body.curtain</InternalName>
+      <Name>Schmitz Curtain V2</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>2301-19-145__curtain_2.png</XmlDefinitionAuthor>
+</Variable>

@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>f3ce15f0-923a-4925-b6ba-544838aa0421</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>cadenas</Text>
+      <Value>acc_chas.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>escalon cromo</Text>
+      <Value>acc_chas.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>escalon pintura</Text>
+      <Value>acc_chas.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>aleta</Text>
+      <Value>aleta.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>aleta 2</Text>
+      <Value>aleta.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Normal</Text>
+      <Value>asiento.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cromo externo 1</Text>
+      <Value>a_cromo.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cromo externo 2</Text>
+      <Value>a_cromo.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>barra luces</Text>
+      <Value>barra_l.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>barra luces cabina baja</Text>
+      <Value>barra_l.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>barra luces cabina corta (baixa)</Text>
+      <Value>barra_l.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>barra luces cabina modular</Text>
+      <Value>barra_l.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>barra luces cabina tepachera</Text>
+      <Value>barra_l.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>barra plastico cabina tepachera</Text>
+      <Value>barra_l.shape05_t</Value>
+    </ListItem>
+    <ListItem>
+      <Text>barra plastico alto</Text>
+      <Value>barra_l.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>beacon</Text>
+      <Value>beacon.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>beacon</Text>
+      <Value>beacon.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>beacon</Text>
+      <Value>beacon.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>beacon</Text>
+      <Value>beacon.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>botones cromados</Text>
+      <Value>boton.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 'PAINT'</Text>
+      <Value>bumper.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 'crom'</Text>
+      <Value>bumper.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 'crom2'</Text>
+      <Value>bumper.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 'crom2'</Text>
+      <Value>bumper.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 'crom2'</Text>
+      <Value>bumper.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper tuning'</Text>
+      <Value>bumper.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper tuning 2'</Text>
+      <Value>bumper.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper tunning cromo</Text>
+      <Value>bumper.shape08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>con tira chica</Text>
+      <Value>bumper.shape09</Value>
+    </ListItem>
+    <ListItem>
+      <Text>tordillo</Text>
+      <Value>bumper.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Luces Cromo Tunning</Text>
+      <Value>b_light.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Luces Cromo 2 Tunning</Text>
+      <Value>b_light.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cromo agarraderas</Text>
+      <Value>b_light.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cromo agarraderas sencillo</Text>
+      <Value>b_light.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Luces Tordillo</Text>
+      <Value>b_light.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slot Luces Cabina</Text>
+      <Value>cabflares.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slot Luces Day y Modular</Text>
+      <Value>cabflares.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cornetas</Text>
+      <Value>Cab_acc.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cornetas day,modular</Text>
+      <Value>Cab_acc.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cadenero</Text>
+      <Value>cadenero.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>El Capricho</Text>
+      <Value>calca.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>El Capricho detalle</Text>
+      <Value>calca.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>El Capricho telara�a</Text>
+      <Value>calca.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cargo carros</Text>
+      <Value>carros.carros</Value>
+    </ListItem>
+    <ListItem>
+      <Text>chasis</Text>
+      <Value>chasis.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>torton</Text>
+      <Value>chasis.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>revolvedora</Text>
+      <Value>chasis.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>torton interior</Text>
+      <Value>chasis.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>codrv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cromos 1</Text>
+      <Value>cromo.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cromos 2</Text>
+      <Value>cromo.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cromos 3</Text>
+      <Value>cromo.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cromos 4</Text>
+      <Value>cromo.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cromos 5</Text>
+      <Value>cromo.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>azul</Text>
+      <Value>dash.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>rojo</Text>
+      <Value>dash.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>verde</Text>
+      <Value>dash.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>rosa</Text>
+      <Value>dash.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>blanco</Text>
+      <Value>dash.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>azul normal</Text>
+      <Value>dash.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal Deflector</Text>
+      <Value>deflector.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal Deflector</Text>
+      <Value>deflector.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metaly glass Deflector</Text>
+      <Value>deflector.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>drv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@dvd@@</Text>
+      <Value>dvd.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@dvd@@</Text>
+      <Value>dvd.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@dvd@@</Text>
+      <Value>dvd.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@dvd@@</Text>
+      <Value>dvd.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>pipa 12</Text>
+      <Value>exhaust.corta</Value>
+    </ListItem>
+    <ListItem>
+      <Text>pipa 13</Text>
+      <Value>exhaust.corta2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>pipa new</Text>
+      <Value>exhaust.corta3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>pipa new 2</Text>
+      <Value>exhaust.corta4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>doble</Text>
+      <Value>exhaust.modular</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Izquierda</Text>
+      <Value>exhaust.modular2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Derecha</Text>
+      <Value>exhaust.modular3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>vistas modular</Text>
+      <Value>exhaust.modular4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>pipas modular</Text>
+      <Value>exhaust.modular5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>pipas modular 2</Text>
+      <Value>exhaust.modular6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>pipas modular nueva</Text>
+      <Value>exhaust.modular7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>pipas modular nueva 2</Text>
+      <Value>exhaust.modular8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>pipas modular custom</Text>
+      <Value>exhaust.modular9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pipa 1</Text>
+      <Value>exhaust.pipa1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pipa 2</Text>
+      <Value>exhaust.pipa2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pipa 3</Text>
+      <Value>exhaust.pipa3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pipa 4</Text>
+      <Value>exhaust.pipa4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>pipa 5</Text>
+      <Value>exhaust.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Text>pipa 6</Text>
+      <Value>exhaust.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Text>pipa 7</Text>
+      <Value>exhaust.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Text>pipa 8</Text>
+      <Value>exhaust.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Text>pipa 9</Text>
+      <Value>exhaust.shape23</Value>
+    </ListItem>
+    <ListItem>
+      <Text>pipa 10</Text>
+      <Value>exhaust.shape25</Value>
+    </ListItem>
+    <ListItem>
+      <Text>pipa 11</Text>
+      <Value>exhaust.shape26</Value>
+    </ListItem>
+    <ListItem>
+      <Text>pipa 12 kenworth</Text>
+      <Value>exhaust.shape27</Value>
+    </ListItem>
+    <ListItem>
+      <Text>escape torton</Text>
+      <Value>exhaust.zredilas</Value>
+    </ListItem>
+    <ListItem>
+      <Text>escape torton 2</Text>
+      <Value>exhaust.zredilas2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pipa 1</Text>
+      <Value>exhaust_t.abierta</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pipa 2</Text>
+      <Value>exhaust_t.abierta2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pipa 3</Text>
+      <Value>exhaust_t.abierta3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pipa 4</Text>
+      <Value>exhaust_t.abierta4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pipa 5</Text>
+      <Value>exhaust_t.abierta5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fender</Text>
+      <Value>fender.pinga</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fender 1</Text>
+      <Value>fender.pinga1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fender 12</Text>
+      <Value>fender.pinga12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fender 17</Text>
+      <Value>fender.pinga17</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fender 18</Text>
+      <Value>fender.pinga18</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fender 2</Text>
+      <Value>fender.pinga2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fender 4</Text>
+      <Value>fender.pinga4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fender 5</Text>
+      <Value>fender.pinga5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fender 8</Text>
+      <Value>fender.pinga8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>fender kenworth</Text>
+      <Value>fender.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>fender tunning</Text>
+      <Value>fender.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>fender sideskirt</Text>
+      <Value>fender.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>fender new estilero</Text>
+      <Value>fender.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>fender new estilero corto</Text>
+      <Value>fender.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>solo filtro</Text>
+      <Value>filters.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>barra luces</Text>
+      <Value>filters.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>barra luces y led filtro</Text>
+      <Value>filters.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>filtro y led</Text>
+      <Value>filters.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Left Hood Mirror</Text>
+      <Value>fl_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Left Hood Mirror</Text>
+      <Value>fl_mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>color</Text>
+      <Value>foco.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cromo</Text>
+      <Value>foco.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>plastico</Text>
+      <Value>foco.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Right Hood Mirror</Text>
+      <Value>fr_mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Right Hood Mirror</Text>
+      <Value>fr_mirror.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>oversize load</Text>
+      <Value>f_grill.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Gps@@</Text>
+      <Value>f_mirror.shape0</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vidrio Claro</Text>
+      <Value>glass.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vidrio medio</Text>
+      <Value>glass.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vidrio franja</Text>
+      <Value>glass.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>hood</Text>
+      <Value>hood.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>hood</Text>
+      <Value>hood.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal Fender Guards</Text>
+      <Value>lghfender.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal Fender Guards</Text>
+      <Value>lghfender.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal Fender Guards</Text>
+      <Value>lghfender.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal Fender Guards</Text>
+      <Value>lghfender.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal Fender Guards</Text>
+      <Value>lghfender.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ventana color</Text>
+      <Value>lghfender.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ventana color 2</Text>
+      <Value>lghfender.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ventana color 3</Text>
+      <Value>lghfender.shape08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cromo new</Text>
+      <Value>lghfender.shape09</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cromo new 2</Text>
+      <Value>lghfender.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>tordillo</Text>
+      <Value>lghfender.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Loderas Torton</Text>
+      <Value>lodera.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Blue</Text>
+      <Value>luz_interior.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light orange</Text>
+      <Value>luz_interior.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Red</Text>
+      <Value>luz_interior.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light white</Text>
+      <Value>luz_interior.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Double</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Double</Text>
+      <Value>mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Double</Text>
+      <Value>mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Double</Text>
+      <Value>mirror.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Double paint</Text>
+      <Value>mirror.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Double paint y crom</Text>
+      <Value>mirror.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Mudflaps</Text>
+      <Value>mudflaps.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Mudflaps</Text>
+      <Value>mudflaps.shape01s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White Mudflaps</Text>
+      <Value>mudflaps.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White Mudflaps</Text>
+      <Value>mudflaps.shape02s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>SCS Mudflaps</Text>
+      <Value>mudflaps.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>SCS Mudflaps</Text>
+      <Value>mudflaps.shape03s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Mudflaps</Text>
+      <Value>mudflaps.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Mudflaps</Text>
+      <Value>mudflaps.shape04s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cromo original</Text>
+      <Value>orilla.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cromo oldie</Text>
+      <Value>orilla.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>subwoofer</Text>
+      <Value>pasillo.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>subwoofer 2</Text>
+      <Value>pasillo.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>subwoofer 3</Text>
+      <Value>pasillo.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>subwoofer 4</Text>
+      <Value>pasillo.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>permiso puerta</Text>
+      <Value>permiso.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>permiso atras</Text>
+      <Value>permiso.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@radio@@</Text>
+      <Value>radio.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@radio@@</Text>
+      <Value>radio.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>parrilla</Text>
+      <Value>rej.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>parrilla</Text>
+      <Value>rej.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>parrilla</Text>
+      <Value>rej.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>parrilla_crom</Text>
+      <Value>rej.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Rana Rene@@</Text>
+      <Value>rene.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Reversero</Text>
+      <Value>rev_a.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cuartito new</Text>
+      <Value>rev_a.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Reversero</Text>
+      <Value>rev_b.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cuartito new</Text>
+      <Value>rev_b.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>1</Text>
+      <Value>r_lights.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>2</Text>
+      <Value>r_lights.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>2 b</Text>
+      <Value>r_lights.2b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>3</Text>
+      <Value>r_lights.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>negro sencillo</Text>
+      <Value>r_lights.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>5</Text>
+      <Value>r_lights.5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>6</Text>
+      <Value>r_lights.6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7</Text>
+      <Value>r_lights.7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>para 300 galones</Text>
+      <Value>sideflares.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cabina modular nueva</Text>
+      <Value>sideflares.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>para cabina modular</Text>
+      <Value>sideflares.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cabina grande</Text>
+      <Value>sideflares.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Puro escalon cromo</Text>
+      <Value>sideskirt.escalon</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Puro escalon pintura</Text>
+      <Value>sideskirt.escalon2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7</Text>
+      <Value>sideskirt.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9</Text>
+      <Value>sideskirt.shape09</Value>
+    </ListItem>
+    <ListItem>
+      <Text>escalon cromo</Text>
+      <Value>sideskirt.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>11</Text>
+      <Value>sideskirt.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>12</Text>
+      <Value>sideskirt.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>19</Text>
+      <Value>sideskirt.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Escalon color</Text>
+      <Value>sideskirt.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Text>escalon cromo,tanque color</Text>
+      <Value>sideskirt.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Text>escalon,tanque color</Text>
+      <Value>sideskirt.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9b</Text>
+      <Value>sideskirt.shape23</Value>
+    </ListItem>
+    <ListItem>
+      <Text>nuevos sencillos</Text>
+      <Value>sideskirt.shape24</Value>
+    </ListItem>
+    <ListItem>
+      <Text>corto tanque escalon</Text>
+      <Value>sideskirt.shape25</Value>
+    </ListItem>
+    <ListItem>
+      <Text>corto tanque escalon largo</Text>
+      <Value>sideskirt.shape26</Value>
+    </ListItem>
+    <ListItem>
+      <Text>tanque corto tordi</Text>
+      <Value>sideskirt.shape27</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Modern</Text>
+      <Value>steering_w.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth clasico</Text>
+      <Value>steering_w.default2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Classic</Text>
+      <Value>steering_w.exclusive</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Traveler Burl</Text>
+      <Value>steering_w.sci_burl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Traveler - Carbon Fiber</Text>
+      <Value>steering_w.sci_burl_c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Traveler Burl Elite 4</Text>
+      <Value>steering_w.sci_burl_el4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Traveler Burl Paint</Text>
+      <Value>steering_w.sci_burl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Truck Color</Text>
+      <Value>steering_w.sci_cl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Green Carbon</Text>
+      <Value>steering_w.sci_cl_carb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Combo</Text>
+      <Value>steering_w.sci_cl_c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Leather</Text>
+      <Value>steering_w.sci_cl_l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Polyurethane</Text>
+      <Value>steering_w.sci_cl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Skulls White</Text>
+      <Value>steering_w.sci_cl_s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Onyx Viper Red</Text>
+      <Value>steering_w.sci_cl_ovr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Colts</Text>
+      <Value>steering_w.sci_colts</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Eagle</Text>
+      <Value>steering_w.sci_eagle</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Excalibur</Text>
+      <Value>steering_w.sci_excal</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Flames</Text>
+      <Value>steering_w.sci_flames</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Flight</Text>
+      <Value>steering_w.sci_flight</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mud Flap Girl</Text>
+      <Value>steering_w.sci_girl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Milestone</Text>
+      <Value>steering_w.sci_milest</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Overland Sport 3</Text>
+      <Value>steering_w.sci_overlnd</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Truck Color</Text>
+      <Value>steering_w.sci_pin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Leather</Text>
+      <Value>steering_w.sci_pin_l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Mahogany</Text>
+      <Value>steering_w.sci_pin_m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Polyurethane</Text>
+      <Value>steering_w.sci_pin_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Racer Mahogany</Text>
+      <Value>steering_w.sci_racer</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Racer cerezo</Text>
+      <Value>steering_w.sci_racer2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Racer color</Text>
+      <Value>steering_w.sci_racer3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro</Text>
+      <Value>steering_w.sci_retro</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Riveted Sport</Text>
+      <Value>steering_w.sci_riv_sprt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sky Black</Text>
+      <Value>steering_w.sci_sky_blk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Madera</Text>
+      <Value>steering_w.shaneke</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Madera 2</Text>
+      <Value>steering_w.shaneke2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Pintable 3</Text>
+      <Value>steering_w.shaneke3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Pintable 4</Text>
+      <Value>steering_w.shaneke4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>custom</Text>
+      <Value>sunshield.pinga01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cromo custom</Text>
+      <Value>sunshield.pinga02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>custom 2</Text>
+      <Value>sunshield.pinga03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Sunshield</Text>
+      <Value>sunshield.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blind Mount Visor</Text>
+      <Value>sunshield.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Sunshield</Text>
+      <Value>sunshield.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blind Mount Visor</Text>
+      <Value>sunshield.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Sunshield</Text>
+      <Value>sunshield.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>con led</Text>
+      <Value>sunshield.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>con led cromo</Text>
+      <Value>sunshield.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>con cromo bajo</Text>
+      <Value>sunshield.shape08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>con led cromo abajo</Text>
+      <Value>sunshield.shape09</Value>
+    </ListItem>
+    <ListItem>
+      <Text>con led cromo extra</Text>
+      <Value>sunshield.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>visera con cromo</Text>
+      <Value>sunshield.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>tablero cromado</Text>
+      <Value>tablero.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>tablero pintura</Text>
+      <Value>tablero.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vista 1</Text>
+      <Value>tablero_a.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>plastico negro</Text>
+      <Value>tablero_a.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>metal</Text>
+      <Value>tablero_a.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vista 2</Text>
+      <Value>tablero_a.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vista 3</Text>
+      <Value>tablero_a.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vista 4</Text>
+      <Value>tablero_a.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>azul</Text>
+      <Value>tablero_a.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>rojo</Text>
+      <Value>tablero_a.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>verde</Text>
+      <Value>tablero_a.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>gris</Text>
+      <Value>tablero_a.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cerezo</Text>
+      <Value>tablero_a.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>relojes azul</Text>
+      <Value>tablero_b.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>gps</Text>
+      <Value>tablero_b.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>relojes rojo</Text>
+      <Value>tablero_b.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>relojes verde</Text>
+      <Value>tablero_b.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>relojes rosa</Text>
+      <Value>tablero_b.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>relojes blanco</Text>
+      <Value>tablero_b.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>digital</Text>
+      <Value>tablero_b.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>tanque color</Text>
+      <Value>tanque.tanque</Value>
+    </ListItem>
+    <ListItem>
+      <Text>tanque cromo</Text>
+      <Value>tanque.tanque2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>tanque color corto</Text>
+      <Value>tanque.tanque3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>tanque cromo corto</Text>
+      <Value>tanque.tanque4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>azul</Text>
+      <Value>tapis.1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cerezo</Text>
+      <Value>tapis.2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>hueso</Text>
+      <Value>tapis.3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>rojo</Text>
+      <Value>tapis.4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>verde</Text>
+      <Value>tapis.5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>slot luces camarote</Text>
+      <Value>topflares.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>slot luces camarote</Text>
+      <Value>topflares.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>slot luces camarote</Text>
+      <Value>topflares.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>vidrio</Text>
+      <Value>ventana.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cromo</Text>
+      <Value>ventana.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pintura</Text>
+      <Value>ventana.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Turbo Wing</Text>
+      <Value>wing.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wing 2</Text>
+      <Value>wing.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wing 2</Text>
+      <Value>wing.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>copete tepachero</Text>
+      <Value>wing.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>copete</Text>
+      <Value>wing.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>copete modular</Text>
+      <Value>wing.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>wing</Text>
+      <Value>wing.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>retro</Text>
+      <Value>wing.shape08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>retro 2</Text>
+      <Value>wing.shape09</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cromado clasico</Text>
+      <Value>wing.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>tuning clasic</Text>
+      <Value>wing.shape11</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\leadf\Documents\Mods Studio 2\UserVehicles\ATS Frank Peru.kenworth.t660.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>kenworth.t660</InternalName>
+  <VehicleAuthor>Frank Peru, Shaneke Game</VehicleAuthor>
+  <VehicleName>KW T660 2021</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>duty.kenworth.t660.cabin</InternalName>
+      <Name>Cabina de dia</Name>
+    </Variant>
+    <Variant>
+      <InternalName>exclusive.kenworth.t660.cabin</InternalName>
+      <Name>Studio Sleeper 2</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standard.kenworth.t660.cabin</InternalName>
+      <Name>Studio Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standard1.kenworth.t660.cabin</InternalName>
+      <Name>AeroCab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standard3.kenworth.t660.cabin</InternalName>
+      <Name>Corta (Baixa)</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standard4.kenworth.t660.cabin</InternalName>
+      <Name>Tepachera</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standard4b.kenworth.t660.cabin</InternalName>
+      <Name>Tepachera torton</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standard5.kenworth.t660.cabin</InternalName>
+      <Name>modular clasica</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Lucasi</XmlDefinitionAuthor>
+</Variable>

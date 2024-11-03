@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ae36d6a9-e171-4dfb-959d-458d8ba60f6c</Id>
+  <IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2021</Major>
+	 <Minor>2</Minor>
+	</MS2LibraryVersion>
+  <Game>ETS2</Game>
+  <InternalName>mdmodding</InternalName>
+  <VehicleAuthor>SCS,MDModding,Kriistof,Rymski</VehicleAuthor>
+  <VehicleName>Aero Curtain</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>3axles</Description>
+      <Image>x</Image>
+      <InternalName>body.mdm_1</InternalName>
+      <Name>Curtain</Name>
+    </Variant>
+    <Variant>
+      <Description>2axles</Description>
+      <Image>x</Image>
+      <InternalName>body.mdm_2</InternalName>
+      <Name>Curtain</Name>
+    </Variant>
+    <Variant>
+      <Description>2axles Version 2</Description>
+      <Image>x</Image>
+      <InternalName>body.mdm_3</InternalName>
+      <Name>Curtain</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

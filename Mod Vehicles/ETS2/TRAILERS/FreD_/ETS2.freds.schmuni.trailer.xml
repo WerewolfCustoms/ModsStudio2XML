@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+	<ChildVariables />
+	<Id>091ca682-6fd8-47c5-a7cd-0dd7fec1132a</Id>
+	<IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2020</Major>
+	 <Minor>7</Minor>
+	</MS2LibraryVersion>	
+	<InternalName>schmuni</InternalName>
+	<VehicleName>Schmitz S.CS Universal by FreD_</VehicleName>
+	<VehicleAuthor>FreD_</VehicleAuthor>
+	<VehicleImage />
+	<VehicleType>Trailers</VehicleType>
+	<Game>ETS2</Game>
+	<VehicleVariants>
+		<Variant>
+			<InternalName>body.schmuni</InternalName>
+			<Name>Schmitz S.CS Universal</Name>
+		</Variant>
+		<Variant>
+			<InternalName>body.schmuni1</InternalName>
+			<Name>Schmitz S.CS Universal Liftable Axle</Name>
+		</Variant>
+	</VehicleVariants>
+</Variable>

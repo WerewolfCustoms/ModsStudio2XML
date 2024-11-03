@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>3fa96dcf-36e9-4e2f-9954-7a97b40bf7c7</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>@@Markers@@</Text>
+      <Value>markers.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Manac@@</Text>
+      <Value>mudflaps.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Black@@</Text>
+      <Value>mudflaps.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Your Texture@@</Text>
+      <Value>mudflaps.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Metal Fenders@@</Text>
+      <Value>mudflaps.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Paint Fenders@@</Text>
+      <Value>mudflaps.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Paint Fenders@@</Text>
+      <Value>mudflaps.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Metal Fenders@@</Text>
+      <Value>mudflaps.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Nebraska</Text>
+      <Value>plate.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Massachusetts</Text>
+      <Value>plate.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Minnesota</Text>
+      <Value>plate.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mississippi</Text>
+      <Value>plate.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>New Mexico</Text>
+      <Value>plate.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>New York</Text>
+      <Value>plate.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oregon</Text>
+      <Value>plate.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pennsylvania</Text>
+      <Value>plate.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Text>South Dakota</Text>
+      <Value>plate.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tennessee</Text>
+      <Value>plate.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Texas</Text>
+      <Value>plate.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ohio</Text>
+      <Value>plate.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Utah</Text>
+      <Value>plate.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Washington</Text>
+      <Value>plate.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Default(not showing up in configurator)</Text>
+      <Value>plate.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Text>California</Text>
+      <Value>plate.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Arizona</Text>
+      <Value>plate.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Florida</Text>
+      <Value>plate.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Georgia</Text>
+      <Value>plate.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Illinois</Text>
+      <Value>plate.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Maine</Text>
+      <Value>plate.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Manitoba</Text>
+      <Value>plate.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Original@@</Text>
+      <Value>rearflaps.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Your Texture@@</Text>
+      <Value>rearflaps.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Sticker@@</Text>
+      <Value>rearpart.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@LED Lights@@</Text>
+      <Value>rearpart.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Bottom Lighting (as Beacon light)</Text>
+      <Value>underglow.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blue Bottom Lighting (as Beacon light)</Text>
+      <Value>underglow.shape1b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Green Bottom Lighting (as Beacon light)</Text>
+      <Value>underglow.shape1g</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Orange Bottom Lighting (as Beacon light)</Text>
+      <Value>underglow.shape1o</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Bottom Lighting (as Parking light)</Text>
+      <Value>underglow.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blue Bottom Lighting (as Parking light)</Text>
+      <Value>underglow.shape2b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Green Bottom Lighting (as Parking light)</Text>
+      <Value>underglow.shape2g</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Orange Bottom Lighting (as Parking light)</Text>
+      <Value>underglow.shape2o</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Weights@@</Text>
+      <Value>weights.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Hogebuilt@@</Text>
+      <Value>wings.shape1</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.manac.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>manac</InternalName>
+  <VehicleAuthor>jon-ruda</VehicleAuthor>
+  <VehicleName>Manac Darkwing</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>manac.wood.body</InternalName>
+      <Name>Flatbed Standard Connectors</Name>
+    </Variant>
+    <Variant>
+      <InternalName>manac2.wood.body</InternalName>
+      <Name>Flatbed Custom Connectors</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

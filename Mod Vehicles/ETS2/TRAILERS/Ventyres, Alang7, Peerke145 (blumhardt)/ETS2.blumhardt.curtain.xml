@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>a83fbf5b-488d-4afb-8122-abdec58ea854</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Text>LeftSide Painted ToolBox</Text>
+      <Value>chs_f_l.toolbox_l_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>RightSide Painted ToolBox</Text>
+      <Value>chs_f_r.toolbox_r_02</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ETS2.blumhardt.curtain.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>blumhardt.curtain</InternalName>
+  <VehicleAuthor>Ventyres, Alang7, Peerke145</VehicleAuthor>
+  <VehicleName>Blumhardt Curtain Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.body_01</InternalName>
+      <Name>Blumhardt bs_scs_curtain_side</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

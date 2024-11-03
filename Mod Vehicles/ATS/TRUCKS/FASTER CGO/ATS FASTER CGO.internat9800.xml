@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>33c5d791-e186-4733-be46-8305a0ab89aa</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\xmls_new style\ATS.internat9800.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>internat9800</InternalName>
+  <VehicleAuthor>FASTER CGO,Harven</VehicleAuthor>
+  <VehicleName>International 9800</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>low.internat9800.cabin</InternalName>
+      <Name>Flat Top</Name>
+    </Variant>
+    <Variant>
+      <InternalName>lowspoiler.internat9800.cabin</InternalName>
+      <Name>Flat Top w/Spoiler</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standard.internat9800.cabin</InternalName>
+      <Name>High Roof</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>0bc4ea9b-cdf6-4237-9c9a-973faeb179e8</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Roof Lights (front top)</Group>
+      <Text>No Lamps (Normal Cab)</Text>
+      <Value>f_light_top.nrm_covered</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Lights (front top)</Group>
+      <Text>No Lamps (Highline Cab)</Text>
+      <Value>f_light_top.covered</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Lights (front top)</Group>
+      <Text>Paint (Normal Cab)</Text>
+      <Value>f_light_top.stk_nrm_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Lights (front top)</Group>
+      <Text>Paint (Highline Cab)</Text>
+      <Value>f_light_top.stock_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Shield</Group>
+      <Text>Stock I</Text>
+      <Value>sunshld.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Shield</Group>
+      <Text>Stock II</Text>
+      <Value>sunshld.sunshld_01</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Shield</Group>
+      <Text>Stock ll Orange Lights</Text>
+      <Value>sunshld.sunshld_11</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Shield</Group>
+      <Text>Paint * DLC *</Text>
+      <Value>sunshld.sunshld_05</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Shield</Group>
+      <Text>Paint Luxury * DLC *</Text>
+      <Value>sunshld.sunshld_06</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Shield</Group>
+      <Text>Ranger * DLC *</Text>
+      <Value>sunshld.sunshld_04</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Paint</Text>
+      <Value>f_mirror.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>Paint</Text>
+      <Value>mirror.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>Paint Luxury * DLC *</Text>
+      <Value>mirror.painted_f</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Window Frame</Group>
+      <Text>Paint * DLC *</Text>
+      <Value>f_wnd_frame.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Additional Lights (front middle)</Group>
+      <Text>Paint * DLC *</Text>
+      <Value>f_light_mid.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo</Group>
+      <Text>Painted * DLC *</Text>
+      <Value>f_logo.painted</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Logo</Group>
+      <Text>Paint Retro</Text>
+      <Value>f_logo.retro_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mask</Group>
+      <Text>Paint * DLC *</Text>
+      <Value>f_intake_cab.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Grille</Group>
+      <Text>Paint * DLC *</Text>
+      <Value>f_inlay_cab.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mask Ribs</Group>
+      <Text>Paint * DLC *</Text>
+      <Value>f_intk_b_cab.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>Stock Paint</Text>
+      <Value>f_light_chs.shape2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>Exclusive Paint</Text>
+      <Value>f_light_chs.shape1_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fog Light Covers</Group>
+      <Text>Paint</Text>
+      <Value>fog_lights.cov_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Engine Badge</Group>
+      <Text>P220</Text>
+      <Value>badge.p_220_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Engine Badge</Group>
+      <Text>P250</Text>
+      <Value>badge.p_250_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Engine Badge</Group>
+      <Text>P280</Text>
+      <Value>badge.p_280_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Engine Badge</Group>
+      <Text>P320</Text>
+      <Value>badge.p_320_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Engine Badge</Group>
+      <Text>P360</Text>
+      <Value>badge.p_360_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Engine Badge</Group>
+      <Text>P370</Text>
+      <Value>badge.p_370_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Engine Badge</Group>
+      <Text>P380</Text>
+      <Value>badge.p_380_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Engine Badge</Group>
+      <Text>P410</Text>
+      <Value>badge.p_410_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Engine Badge</Group>
+      <Text>P440</Text>
+      <Value>badge.p_440_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Engine Badge</Group>
+      <Text>P450</Text>
+      <Value>badge.p_450_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Engine Badge</Group>
+      <Text>P500</Text>
+      <Value>badge.p_500_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>AEB Radar</Group>
+      <Text>Paint</Text>
+      <Value>radar.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>High Paint, inc. Lights</Text>
+      <Value>f_bumper.hgh_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>High Paint, No Lights</Text>
+      <Value>f_bumper.hgh_p_nofog</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Paint, inc. Lights</Text>
+      <Value>f_bumper.mid_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Paint, No Lights</Text>
+      <Value>f_bumper.mid_p_nofog</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Low Paint, inc. Lights</Text>
+      <Value>f_bumper.low_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Low Paint, No Lights</Text>
+      <Value>f_bumper.low_p_nofog</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps</Group>
+      <Text>King of the Road Paint (mid) * DLC *</Text>
+      <Value>f_mudflap.kotr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps</Group>
+      <Text>King of the Road Paint (high) * DLC *</Text>
+      <Value>f_mudflap.kotrh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps</Group>
+      <Text>King of the Road Paint (low) * DLC *</Text>
+      <Value>f_mudflap.kotrl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps</Group>
+      <Text>Mighty Griffin Paint (mid) * DLC *</Text>
+      <Value>f_mudflap.scaniamg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps</Group>
+      <Text>Mighty Griffin Paint (high) * DLC *</Text>
+      <Value>f_mudflap.scaniamgh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps</Group>
+      <Text>Mighty Griffin Paint (low) * DLC *</Text>
+      <Value>f_mudflap.scaniamgl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps</Group>
+      <Text>Scania Paint (mid) * DLC *</Text>
+      <Value>f_mudflap.scania</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps</Group>
+      <Text>Scania Paint (high) * DLC *</Text>
+      <Value>f_mudflap.scaniah</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps</Group>
+      <Text>Scania Paint (low) * DLC *</Text>
+      <Value>f_mudflap.scanial</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps</Group>
+      <Text>Scania V8 Power Paint (mid) * DLC *</Text>
+      <Value>f_mudflap.v8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps</Group>
+      <Text>Scania V8 Power Paint (high) * DLC *</Text>
+      <Value>f_mudflap.v8h</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps</Group>
+      <Text>Scania V8 Power Paint (low) * DLC *</Text>
+      <Value>f_mudflap.v8l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Mirror</Group>
+      <Text>Paint</Text>
+      <Value>s_mirror.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Panel</Group>
+      <Text>Paint</Text>
+      <Value>s_panel.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Handle</Group>
+      <Text>Paint</Text>
+      <Value>doorhndl.stock_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Door Handle</Group>
+      <Text>Paint And Chrome</Text>
+      <Value>doorhndl.stock_p_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>*
+      <Text>Paint and Plastic (high)</Text>
+      <Value>f_fender.hgh_blk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>*
+      <Text>Paint (high)</Text>
+      <Value>f_fender.hgh_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint and Grey Plastic (high) * DLC *</Text>
+      <Value>f_fender.hgh_sg_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint and Plastic (mid, low)</Text>
+      <Value>f_fender.stock_blk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint (mid, low)</Text>
+      <Value>f_fender.stock_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint and Grey Plastic (mid, low) * DLC *</Text>
+      <Value>f_fender.stock_sg_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>4x Paint Cover Type 1/2</Text>
+      <Value>sideskirt.sh_cvr_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>4x Paint And Stock l 2018 Type 1/2</Text>
+      <Value>sideskirt.4x2_p_a_1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>4x Paint 2018 Type 1/2</Text>
+      <Value>sideskirt.4x2_p_a</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>4x Paint</Text>
+      <Value>sideskirt.4x2_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>4x Paint Stock I</Text>
+      <Value>sideskirt.4x2_p_1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>4x Paint Cover Type 2</Text>
+      <Value>sideskirt.sh_cvr_p_a</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>4x Paint Simple Side Protection x1 Type 2</Text>
+      <Value>sideskirt.l6_cg_4x2a_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>4x Paint Simple Side Protection x2 Type 2</Text>
+      <Value>sideskirt.l6_cg_4x2b_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>6x Short Paint Cover Type 1</Text>
+      <Value>sideskirt.sh_cvr_6xs_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>6x Short Paint Type 1/2</Text>
+      <Value>sideskirt.6x2_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>6x Short Paint And Stock I Type 1/2</Text>
+      <Value>sideskirt.6x2_p_1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>6x Short Paint Cover Type 2</Text>
+      <Value>sideskirt.sh_cvr_6xsap</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>6x Short Paint Simple Side Protection x1 Type 2</Text>
+      <Value>sideskirt.l6_cg_6xsa_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>6x Short Paint Simple Side Protection x2 Type 2</Text>
+      <Value>sideskirt.l6_cg_6xsb_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>6x Long Paint Cover Type 1</Text>
+      <Value>sideskirt.sh_cvr_6xl_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>6x Long Paint Type 1/2</Text>
+      <Value>sideskirt.6x2l_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>6x Long Paint Stock I Type 1/2</Text>
+      <Value>sideskirt.6x2l_p_1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>6x Long Paint Cover Type 2</Text>
+      <Value>sideskirt.sh_cvr_6xlap</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>6x Long Paint Simple Side Protection x1 Type 2</Text>
+      <Value>sideskirt.l6_cg_6xlb_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side skirts</Group>
+      <Text>6x Long Paint Simple Side Protection x2 Type 2</Text>
+      <Value>sideskirt.l6_cg_6xla_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassic Cover *DLC*</Group>
+      <Text>4x Diva Type 1</Text>
+      <Value>r_chs_cover.4x2_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassic Cover *DLC*</Group>
+      <Text>4x Diva Type 2</Text>
+      <Value>r_chs_cover.4x2a_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassic Cover *DLC*</Group>
+      <Text>6x Short Diva Type 1</Text>
+      <Value>r_chs_cover.6xn_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassic Cover *DLC*</Group>
+      <Text>6x Short Diva Type 2</Text>
+      <Value>r_chs_cover.6xna_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassic Cover *DLC*</Group>
+      <Text>6x Long Paint Type 1</Text>
+      <Value>r_chs_cover.6xnl_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassic Cover *DLC*</Group>
+      <Text>6x Long Paint Type 2</Text>
+      <Value>r_chs_cover.6xnla_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>4x Paint</Text>
+      <Value>r_fender.4x2_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Short Paint</Text>
+      <Value>r_fender.6x2_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Long Paint</Text>
+      <Value>r_fender.6x2l_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>4x Paint High (1X)</Text>
+      <Value>r_fendr_top.4x2_p_h</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>4x Paint Low (1X)</Text>
+      <Value>r_fendr_top.4x2_p_l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>4x Paint Medium (1X)</Text>
+      <Value>r_fendr_top.4x2_p_m</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Short Paint High (1x)</Text>
+      <Value>r_fendr_top.6x2_p_h1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Short Paint Low (1x)</Text>
+      <Value>r_fendr_top.6x2_p_l1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Short Paint Medium (1x)</Text>
+      <Value>r_fendr_top.6x2_p_m1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Short Paint High (2x)</Text>
+      <Value>r_fendr_top.6x2_p_h</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Short Paint Low (2x)</Text>
+      <Value>r_fendr_top.6x2_p_l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Short Paint Medium (2x)</Text>
+      <Value>r_fendr_top.6x2_p_m</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Short Paint High+Low</Text>
+      <Value>r_fendr_top.6x2_p_hl</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Short Paint Medium+Low</Text>
+      <Value>r_fendr_top.6x2_p_ml</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Long Paint High (1x)</Text>
+      <Value>r_fendr_top.6x2l_p_h1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Long Paint Low (1x)</Text>
+      <Value>r_fendr_top.6x2l_p_l1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Long Paint Medium (1x)</Text>
+      <Value>r_fendr_top.6x2l_p_m1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Long Paint High (2x)</Text>
+      <Value>r_fendr_top.6x2l_p_h</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Long Paint Low (2x)</Text>
+      <Value>r_fendr_top.6x2l_p_l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Long Paint Medium (2x)</Text>
+      <Value>r_fendr_top.6x2l_p_m</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Long Paint High+Low</Text>
+      <Value>r_fendr_top.6x2l_p_hl</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Long Paint Medium+Low</Text>
+      <Value>r_fendr_top.6x2l_p_ml</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint + Stock</Text>
+      <Value>r_bumper.stock_blk_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint</Text>
+      <Value>r_bumper.sca_bat_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Duty Paint</Text>
+      <Value>r_bumper.duty_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint Lights MAN</Text>
+      <Value>r_bumper.man_bat_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint</Text>
+      <Value>r_bumper.stock_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Chariot *DLC*</Text>
+      <Value>r_bumper.mg04</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Diva *DLC*</Text>
+      <Value>r_bumper.mg01</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Centurion</Text>
+      <Value>r_bumper.mg03</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.eugene.scania.p_2016.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>scania.p_2016</InternalName>
+  <VehicleAuthor>Eugene</VehicleAuthor>
+  <VehicleName>Scania P 2016</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>highline.scania.p_2016.cabin</InternalName>
+      <Name>Highline</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>normal.scania.p_2016.cabin</InternalName>
+      <Name>Normal</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay</XmlDefinitionAuthor>
+</Variable>

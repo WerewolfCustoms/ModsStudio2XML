@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>576e57b4-b04f-4a42-ae2d-2bca210699fa</Id>
+  <IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2021</Major>
+	 <Minor>1</Minor>
+	</MS2LibraryVersion>
+  <Game>ATS</Game>
+  <InternalName>fusion406.bt</InternalName>
+  <VehicleAuthor>Zetor</VehicleAuthor>
+  <VehicleName>Advanced B-Train Tanker</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>ats</Image>
+      <Description>!!! DO NOT TICK THIS BOX !!!</Description>
+      <InternalName>body.fusionbody</InternalName>
+      <Name>Advanced B-Train Tanker</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+</Variable>

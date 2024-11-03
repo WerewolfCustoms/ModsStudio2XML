@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>824f25a3-2f30-4b1d-923b-3ecd21760163</Id>
+  <IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2021</Major>
+	 <Minor>1</Minor>
+	</MS2LibraryVersion>
+  <Game>ETS2</Game>
+  <InternalName>vak.tandem_12</InternalName>
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>VAK Full Trailer 4.5m 12.6m</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>vak</Image>
+      <InternalName>body.4_4_closed</InternalName>
+      <Name>VAK 4.5m double deck, DRY</Name>
+    </Variant>
+    <Variant>
+      <Image>vak</Image>
+      <InternalName>body.4_4_closed</InternalName>
+      <Name>VAK 4.5m double deck, Reefer</Name>
+    </Variant>
+    <Variant>
+      <Image>vak</Image>
+      <InternalName>body.4_4_box</InternalName>
+      <Name>VAK 4.5m double deck, DRY</Name>
+    </Variant>
+    <Variant>
+      <Image>vak</Image>
+      <InternalName>body.4_4_reefer</InternalName>
+      <Name>VAK 4.5m double deck, Reefer</Name>
+    </Variant>
+    <Variant>
+      <Image>vak</Image>
+      <InternalName>body.4_5_box</InternalName>
+      <Name>VAK 4.5m double deck, DRY</Name>
+    </Variant>
+    <Variant>
+      <Image>vak</Image>
+      <InternalName>body.4_5_reefer</InternalName>
+      <Name>VAK 4.5m double deck, Reefer</Name>
+    </Variant>
+    <Variant>
+      <Group>DOLLY</Group>
+      <Image>vak</Image>
+      <InternalName>body.body_dolly</InternalName>
+      <Name>dolly 12.6m body</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <AccessoryItems>
+    <ListItem>
+      <Group>AXLES</Group>
+      <Text>axles.axles_2</Text>
+      <Value>axles.axles_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>AXLES</Group>
+      <Text>axles.axles_3</Text>
+      <Value>axles.axles_3</Value>
+    </ListItem>
+
+    <ListItem>
+      <Description />
+      <Group>FRAME</Group>
+      <Text>Chassis Painted With or Without Zepro Tail-Lift</Text>
+      <Value>frame.chassis_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FRAME</Group>
+      <Text>Chassis Painted With or Without Zepro Tail-Lift</Text>
+      <Value>frame.chassis_3</Value>
+    </ListItem>
+
+    <ListItem>
+      <Group>FUELTANK</Group>
+      <Text>Painted Fueltank</Text>
+      <Value>fueltank.fueltank_p</Value>
+    </ListItem>    
+  
+    <ListItem>
+      <Group>LICENSE PLATES</Group>
+      <Text>custom_lp.custom_lp2</Text>
+      <Value>custom_lp.custom_lp2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LICENSE PLATES</Group>
+      <Text>custom_lp.custom_lp3</Text>
+      <Value>custom_lp.custom_lp3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LICENSE PLATES</Group>
+      <Text>custom_lp.custom_lp4</Text>
+      <Value>custom_lp.custom_lp4</Value>
+    </ListItem>
+
+    <ListItem>
+      <Group>ACCESSORIES</Group>
+      <Text>Painted ThermoKing HK430 Heater</Text>
+      <Value>f_body_2.hk_430_p</Value>
+    </ListItem>    
+    <ListItem>
+      <Description>Ventilation accessories.\nJust tick ALL boxes\nUse the main box color</Description>
+      <Group>ACCESSORIES</Group>
+      <Text>Ventilation Hatch</Text>
+      <Value>f_vent_2.vent_door</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Ventilation accessories.\nJust tick ALL boxes\nUse the main box color</Description>
+      <Group>ACCESSORIES</Group>
+      <Text>Folded Plate + Reflectors</Text>
+      <Value>r_reflector.plate_ref</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Ventilation accessories.\nJust tick ALL boxes\nUse the main box color</Description>
+      <Group>ACCESSORIES</Group>
+      <Text>Ventilation Hatch</Text>
+      <Value>r_reflector.vent_door</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Ventilation accessories.\nJust tick ALL boxes\nUse the main box color</Description>
+      <Group>ACCESSORIES</Group>
+      <Text>Ventilation hatch + Reflectors</Text>
+      <Value>r_reflector.vent_ref</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Ventilation accessories.\nJust tick ALL boxes\nUse the main box color</Description>
+      <Group>ACCESSORIES</Group>
+      <Text>Ventilation Hatch + Plate</Text>
+      <Value>r_reflector.vent_plate</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Ventilation accessories.\nJust tick ALL boxes\nUse the main box color</Description>
+      <Group>ACCESSORIES</Group>
+      <Text>Ventilation Hatch + Reflectors + Plate</Text>
+      <Value>r_reflector.vent_plate_r</Value>
+    </ListItem>    
+    
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders F</Text>
+      <Value>vak_fend_f.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders with Reflector F</Text>
+      <Value>vak_fend_f.parlok_ref_p</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders G</Text>
+      <Value>vak_fend_g.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders with Reflector G</Text>
+      <Value>vak_fend_g.parlok_ref_p</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders H</Text>
+      <Value>vak_fend_h.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders with Reflector H</Text>
+      <Value>vak_fend_h.parlok_ref_p</Value>
+    </ListItem>
+
+    <ListItem>
+      <Group>CHASSI SIDECOVERS MIDDLE</Group>
+      <Text>Painted Sidecovers Middle Left Side</Text>
+      <Value>chs_m_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>CHASSI SIDECOVERS MIDDLE</Group>
+      <Text>Painted Sidecovers Middle Right Side</Text>
+      <Value>chs_m_r.paint</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Group>VAK SIDECOVERS FRONT LEFT</Group>
+      <Text>Painted Boxes/Rail</Text>
+      <Value>vak_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK SIDECOVERS FRONT RIGHT</Group>
+      <Text>Painted Boxes/Rails</Text>
+      <Value>vak_f_r.paint</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Group>VAK SIDECOVERS REAR LEFT</Group>
+      <Text>Painted Boxes</Text>
+      <Value>vak_r_l.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK SIDECOVERS REAR RIGHT</Group>
+      <Text>Painted Boxes</Text>
+      <Value>vak_r_r.paint_box</Value>
+    </ListItem>
+
+    <ListItem>
+      <Group>REAR BUMPER</Group>
+      <Text>Small Painted</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>REAR BUMPER</Group>
+      <Text>Double Painted</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>REAR BUMPER</Group>
+      <Text>Zepro Tail-Lift Painted</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Description>Paintable Rear Mudflap.\nUse VAK Mudflap Template.</Description>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Group>MUDFLAP</Group>
+      <Text>Paintable Mudflap</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>    
+  </AccessoryItems>
+</Variable>

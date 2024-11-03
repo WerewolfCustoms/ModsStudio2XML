@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>e39544f2-e6f1-47c9-99bf-2fe3508b4cc3</Id>
+  <IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2021</Major>
+	 <Minor>2</Minor>
+	</MS2LibraryVersion>  
+  <Game>ETS2</Game>
+  <InternalName>ntm.rigid_r22</InternalName>
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>NTM Rigid R22 Wheels</VehicleName>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\ntm.rigid_r22.jpg</VehicleImage>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>Closed Reefer 4.4m</Description>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\TANDEM\4_4m_closed_c.dds</Image>
+      <InternalName>body.r22_tandem</InternalName>
+      <Name>NTM Big Tandem, Reefer Closed 4.4m</Name>
+    </Variant>
+    <Variant>
+      <Description>Closed Insulated 4.4m</Description>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\TANDEM\4_4m_closed.dds</Image>
+      <InternalName>body.r22_tandem</InternalName>
+      <Name>NTM Big Tandem, Insulated Closed 4.4m</Name>
+    </Variant>
+    <Variant>
+      <Description>Reefer 4.4m</Description>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\4_4m_sidedoors_c.dds</Image>
+      <InternalName>body.r22_tandem</InternalName>
+      <Name>NTM Big Tandem, Reefer 4.4m</Name>
+    </Variant>
+    <Variant>
+      <Description>Insulated 4.4m</Description>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\4_4m_sidedoors.dds</Image>
+      <InternalName>body.r22_tandem</InternalName>
+      <Name>NTM Big Tandem, Insulated 4.4m</Name>
+    </Variant>
+    <Variant>
+      <Description>Dolly You Need To Tick This Box Aswell</Description>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\dolly.dds</Image>
+      <InternalName>body.body_dolly</InternalName>
+      <Name>Dolly</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <AccessoryItems>
+    <ListItem>
+      <Description>x</Description>
+      <Group>AXLES</Group>
+      <Image>x</Image>
+      <Text>axles.axles_2x2</Text>
+      <Value>axles.axles_2x2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>AXLES</Group>
+      <Image>x</Image>
+      <Text>axles.axles_2x3</Text>
+      <Value>axles.axles_2x3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>LICENSE PLATES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\custom_lp.dds</Image>
+      <Text>Custom License Plate</Text>
+      <Value>custom_lp.custom_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>FRAME</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\chassis_paint.dds</Image>
+      <Text>frame.chassis</Text>
+      <Value>frame.chassis</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>FRAME</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\chassis_paint.dds</Image>
+      <Text>frame.chassis_2x2</Text>
+      <Value>frame.chassis_2x2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>FRAME</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\chassis_paint.dds</Image>
+      <Text>frame.chassis_2x3</Text>
+      <Value>frame.chassis_2x3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>FUELTANK</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\fueltank_p.dds</Image>
+      <Text>Painted Fueltank</Text>
+      <Value>fueltank.fueltank</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Dolly Fenders</Description>
+      <Group>FENDERS</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders Dolly</Text>
+      <Value>ntm_fend_a.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Dolly Fenders</Description>
+      <Group>FENDERS</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders with Reflector Dolly</Text>
+      <Value>ntm_fend_a.parlok_ref_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer Fenders</Description>
+      <Group>FENDERS</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders</Text>
+      <Value>ntm_fend_a.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer Fenders</Description>
+      <Group>FENDERS</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders with Reflector</Text>
+      <Value>ntm_fend_a.parlok_ref</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Dolly Fenders</Description>
+      <Group>FENDERS</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders Dolly</Text>
+      <Value>ntm_fend_b.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Dolly Fenders</Description>
+      <Group>FENDERS</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders with Reflector Dolly</Text>
+      <Value>ntm_fend_b.parlok_ref_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer Fenders</Description>
+      <Group>FENDERS</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders</Text>
+      <Value>ntm_fend_b.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer Fenders</Description>
+      <Group>FENDERS</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders with Reflector</Text>
+      <Value>ntm_fend_b.parlok_ref</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer Fenders</Description>
+      <Group>FENDERS</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders</Text>
+      <Value>ntm_fend_c.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer Fenders</Description>
+      <Group>FENDERS</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders with Reflector</Text>
+      <Value>ntm_fend_c.parlok_ref</Value>
+    </ListItem>     
+    <ListItem>
+      <Description>Painted Middle Sidecover</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\TANDEM\m_l_rail_tand_b_p.dds</Image>
+      <Text>Left Side Middle Painted Sidecover</Text>
+      <Value>chs_m_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Middle Sidecover</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\TANDEM\m_r_rail_tand_b_p.dds</Image>
+      <Text>Right Side Middle Painted Sidecover</Text>
+      <Value>chs_m_r.paint</Value>
+    </ListItem>    
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\f_l_rail_1box_p.dds</Image>
+      <Text>Left Side One Chromed Box With Painted Sidecover 2x2 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\f_l_rail_1box_p.dds</Image>
+      <Text>Left Side One Chromed Box With Painted Sidecover 2x3 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>    
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\f_l_rail_2box_p.dds</Image>
+      <Text>Left Side Two Chromed Boxes With Painted Sidecover 2x2 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\f_l_rail_2box_p.dds</Image>
+      <Text>Left Side Two Chromed Boxes With Painted Sidecover 2x3 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>    
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\f_l_rail_3box_p.dds</Image>
+      <Text>Left Side Three Chromed Boxes With Painted Sidecover 2x2 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\f_l_rail_3box_p.dds</Image>
+      <Text>Left Side Three Chromed Boxes With Painted Sidecover 2x3 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>    
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\TANDEM\f_l_chrome_big_2box_p.dds</Image>
+      <Text>Left Side 2 Big Chromed Boxes With Painted Sidecover 2x2 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\TANDEM\f_l_chrome_big_2box_p.dds</Image>
+      <Text>Left Side 2 Big Chromed Boxes With Painted Sidecover 2x3 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>    
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\f_l_rail_p.dds</Image>
+      <Text>Left Side Painted Sidecover 2x2 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\f_l_rail_p.dds</Image>
+      <Text>Left Side Painted Sidecover 2x3 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\f_r_rail_1box_p.dds</Image>
+      <Text>Right Side One Chromed Box With Painted Sidecover 2x2 Chassis</Text>
+      <Value>ntm_f_r.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\f_r_rail_1box_p.dds</Image>
+      <Text>Right Side One Chromed Box With Painted Sidecover 2x3 Chassis</Text>
+      <Value>ntm_f_r.paint_cover</Value>
+    </ListItem>    
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\f_r_rail_2box_p.dds</Image>
+      <Text>Right Side Two Chromed Boxes With Painted Sidecover 2x2 Chassis</Text>
+      <Value>ntm_f_r.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\f_r_rail_2box_p.dds</Image>
+      <Text>Right Side Two Chromed Boxes With Painted Sidecover 2x3 Chassis</Text>
+      <Value>ntm_f_r.paint_cover</Value>
+    </ListItem>    
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\TANDEM\f_r_chrome_big_2box_p.dds</Image>
+      <Text>Right Side 2 Big Chromed Boxes With Painted Sidecover 2x2 Chassis</Text>
+      <Value>ntm_f_r.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\TANDEM\f_r_chrome_big_2box_p.dds</Image>
+      <Text>Right Side 2 Big Chromed Boxes With Painted Sidecover 2x3 Chassis</Text>
+      <Value>ntm_f_r.paint_cover</Value>
+    </ListItem>    
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\f_r_rail_p.dds</Image>
+      <Text>Right Side Painted Sidecover 2x2 Chassis</Text>
+      <Value>ntm_f_r.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIBOXES</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\f_r_rail_p.dds</Image>
+      <Text>Right Side Painted Sidecover 2x3 Chassis</Text>
+      <Value>ntm_f_r.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPERS</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\paint_custom_bumper.dds</Image>
+      <Text>Painted Custom Bumper</Text>
+      <Value>r_bumper.custom</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPERS</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\paint_bumper.dds</Image>
+      <Text>Painted Standard Bumper</Text>
+      <Value>r_bumper.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPERS</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\paint_old_bumper.dds</Image>
+      <Text>Painted Old Style Bumper</Text>
+      <Value>r_bumper.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Big Rear Mudflap</Description>
+      <Group>MUDFLAP</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\NTM\r_mudflap_stock.dds</Image>
+      <Text>Painted Mudflap</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>

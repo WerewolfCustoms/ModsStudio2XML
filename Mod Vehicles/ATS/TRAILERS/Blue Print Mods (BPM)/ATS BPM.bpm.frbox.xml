@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>380d2da7-c471-4ba1-869a-910d2aa95d50</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Accessories</Group>
+      <Text>Thermo King Model A</Text>
+      <Value>reefer.reefer_1</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Accessories</Group>
+      <Text>Chassis Parts</Text>
+      <Value>chassis.dolly_fr</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Accessories</Group>
+      <Text>Chassis Parts</Text>
+      <Value>chassis.ch_fr_32_h</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Accessories</Group>
+      <Text>Chassis Parts</Text>
+      <Value>chassis.ch_fr_32</Value>
+    </ListItem>
+	
+	
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>bpm.frbox</InternalName>
+  <VehicleAuthor>Virat8</VehicleAuthor>
+  <VehicleImage>SCS-Box.png</VehicleImage>
+  <VehicleName>BPM Fruehauf box</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.dry_fr_32</InternalName>
+      <Name>Fruehauf Dryvan</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.reef_fr_32</InternalName>
+      <Name>Fruehauf Reefer</Name>
+    </Variant>
+    
+  </VehicleVariants>
+</Variable>

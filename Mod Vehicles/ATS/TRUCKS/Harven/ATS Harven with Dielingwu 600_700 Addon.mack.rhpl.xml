@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>bac5f7e5-43ea-4ef4-8afa-fa8f07ece055</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Bullbar Painted</Text>
+      <Value>bumper.bull_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Custom Painted Bumper</Text>
+      <Value>bumper.cust_p</Value>
+    </ListItem>
+    <ListItem>
+	  <Group>Bumpers</Group>
+      <Text>Heavy Painted Bumper</Text>
+      <Value>bumper.heavy_p</Value>
+    </ListItem>
+    <ListItem>
+	  <Group>Bumpers</Group>
+      <Text>Stock Painted Bumper</Text>
+      <Value>bumper.stock_p</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Bumpers</Group>
+      <Text>Rear Bumper Custom Painted</Text>
+      <Value>r_bumper.customp</Value>
+    </ListItem>
+	
+    <ListItem>
+	<Group>Roof Accessories</Group>
+      <Text>Roof Dual Scoops and Deflector</Text>
+      <Value>cabdefl.deflector</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Roof Accessories</Group>
+      <Text>Roof Dual Scoops</Text>
+      <Value>cabdefl.scoops</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Other Accessories</Group>
+      <Text>Grill Louver Paint</Text>
+      <Value>grill.fullpaint</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Other Accessories</Group>
+      <Text>Grill Frame Paint</Text>
+      <Value>grill.painted</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Headlights</Group>
+      <Text>Dual Headlights Painted</Text>
+      <Value>lamps.double</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Headlights</Group>
+      <Text>Single Headlights Painted</Text>
+      <Value>lamps.single</Value>
+    </ListItem>
+
+    <ListItem>
+	  <Group>Air Cleaner Parts</Group>
+      <Text>Left Air Cleaner Bracket Painted</Text>
+      <Value>lbracket.bracketp</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Air Cleaner Parts</Group>
+      <Text>Right Air Cleaner Bracket Painted</Text>
+      <Value>rbracket.bracketp</Value>
+    </ListItem>
+
+	
+    <ListItem>
+	<Group>Other Accessories</Group>
+      <Text>Main Mirrors Painted</Text>
+      <Value>mirror.painted</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Other Accessories</Group>
+      <Text>Main Mirrors/Small Round Painted</Text>
+      <Value>mirror.painteds</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Other Accessories</Group>
+      <Text>Mudflap Long</Text>
+      <Value>mudflaps.painted</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Other Accessories</Group>
+      <Text>Mudflap Short</Text>
+      <Value>mudflaps.paintedf</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Other Accessories</Group>
+      <Text>Rear Fenders Full Painted</Text>
+      <Value>mudguard.fullp</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Other Accessories</Group>
+      <Text>Quarter Fenders Painted</Text>
+      <Value>mudguard.quarterp</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Other Accessories</Group>
+      <Text>Sunshield</Text>
+      <Value>sunshield.sunshield1</Value>
+    </ListItem>
+    
+	
+    <ListItem>
+	<Group>Fuel Tanks and Parts</Group>
+      <Text>Tank Straps Big(round) Painted</Text>
+      <Value>straps.bigp</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Fuel Tanks and Parts</Group>
+      <Text>Tank Straps Small(round)Painted</Text>
+      <Value>straps.roundp</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Fuel Tanks and Parts</Group>
+      <Text>Tank Straps(square)Painted</Text>
+      <Value>straps.squarep</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Fuel Tanks and Parts</Group>
+      <Text>Fuel Tanks Round(big) Painted</Text>
+      <Value>tanks.bigp</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Fuel Tanks and Parts</Group>
+      <Text>Fuel Tanks Round(small) Painted</Text>
+      <Value>tanks.roundp</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Fuel Tanks and Parts</Group>
+      <Text>Fuel Tanks Square Painted</Text>
+      <Value>tanks.squarep</Value>
+    </ListItem>
+	
+    
+  </AccessoryItems>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\xmls_new style\All.mack.rhpl.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>mack.rhpl</InternalName>
+  <VehicleAuthor>Harven</VehicleAuthor>
+  <VehicleName>Mack R with Dielingwu 600/700 Addon</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>r600day.mack.rhpl.cabin</InternalName>
+      <Name>R600 Day Cab Single Lamps</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>r600dayd.mack.rhpl.cabin</InternalName>
+      <Name>R600 Day Cab Double Lamps</Name>
+    </Variant>
+	<Variant>
+      <AccessoryDependencies />
+      <InternalName>r600sleep.mack.rhpl.cabin</InternalName>
+      <Name>Dielingwu R600 Day Cab Single Lamps</Name>
+    </Variant>
+	
+	<Variant>
+      <AccessoryDependencies />
+      <InternalName>r600sleepd.mack.rhpl.cabin</InternalName>
+      <Name>Dielingwu R600 Day Cab Double Lamps</Name>
+    </Variant>
+	
+	<Variant>
+      <AccessoryDependencies />
+      <InternalName>r700day.mack.rhpl.cabin</InternalName>
+      <Name>Dielingwu R700 Day Cab Single Lamps</Name>
+    </Variant>
+	
+	<Variant>
+      <AccessoryDependencies />
+      <InternalName>r700dayd.mack.rhpl.cabin</InternalName>
+      <Name>Dielingwu R700 Day Cab Double Lamps</Name>
+    </Variant>
+	
+	<Variant>
+      <AccessoryDependencies />
+      <InternalName>r700sleep.mack.rhpl.cabin</InternalName>
+      <Name>Dielingwu R700 Day Cab Single Lamps</Name>
+    </Variant>
+	
+	<Variant>
+      <AccessoryDependencies />
+      <InternalName>r700sleepd.mack.rhpl.cabin</InternalName>
+      <Name>Dielingwu R700 Day Cab Double Lamps</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Lucasi</XmlDefinitionAuthor>
+</Variable>

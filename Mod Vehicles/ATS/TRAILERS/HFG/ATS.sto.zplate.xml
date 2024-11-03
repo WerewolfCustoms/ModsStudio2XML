@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>d8192851-73f0-4997-bc68-8e3f234500e4</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Text>@@aero_sideskirt@@</Text>
+      <Value>chs_f_l.aero</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@spare_tire@@</Text>
+      <Value>chs_f_l.spare_tire</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@aero_sideskirt@@</Text>
+      <Value>chs_f_r.aero</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@spare_tire@@</Text>
+      <Value>chs_f_r.spare_tire</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>markers.box_53</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>r_bumper.simple</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>r_mudflap.simple</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\alkys_000\Documents\Mods Studio 2\UserVehicles\ATS.sto.zplate.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>sto.zplate</InternalName>
+  <VehicleAuthor>guidot</VehicleAuthor>
+  <VehicleName>Stoughton Z-Plate</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.dryvan_53</InternalName>
+      <Name>@@bs_dryvan@@</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Trucker_71</XmlDefinitionAuthor>
+</Variable>

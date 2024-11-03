@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>50637e86-d85e-4a3f-a2fa-d3cba003b0c2</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS.fl.122.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>fl.122</InternalName>
+  <VehicleAuthor>Big Joe Gaming</VehicleAuthor>
+  <VehicleName>Freightliner</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 34</Group>
+      <InternalName>34mr122.fl.122.cabin</InternalName>
+      <Name>34 Midroof 122</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 34</Group>
+      <InternalName>34mr132.fl.122.cabin</InternalName>
+      <Name>34 Midroof 132</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 34</Group>
+      <InternalName>34mrcor.fl.122.cabin</InternalName>
+      <Name>34 Midroof Coronado</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 34</Group>
+      <InternalName>34mrsba.fl.122.cabin</InternalName>
+      <Name>34 Midroof SBA</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 48</Group>
+      <InternalName>48mr122.fl.122.cabin</InternalName>
+      <Name>48 Midroof 122</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 48</Group>
+      <InternalName>48mr132.fl.122.cabin</InternalName>
+      <Name>48 Midroof 132</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 48</Group>
+      <InternalName>48mrcor.fl.122.cabin</InternalName>
+      <Name>48 Midroof Coronado</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 48</Group>
+      <InternalName>48mrsba.fl.122.cabin</InternalName>
+      <Name>48 Midroof SBA</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 58</Group>
+      <InternalName>58mr122.fl.122.cabin</InternalName>
+      <Name>58 Midroof 122</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 58</Group>
+      <InternalName>58mr132.fl.122.cabin</InternalName>
+      <Name>58 Midroof 132</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 58</Group>
+      <InternalName>58mrcor.fl.122.cabin</InternalName>
+      <Name>58 Midroof Coronado</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 58</Group>
+      <InternalName>58mrsba.fl.122.cabin</InternalName>
+      <Name>58 Midroof SBA</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 58</Group>
+      <InternalName>58xt122.fl.122.cabin</InternalName>
+      <Name>58 Midroof XT 122</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 58</Group>
+      <InternalName>58xt132.fl.122.cabin</InternalName>
+      <Name>58 Midroof XT 132</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 58</Group>
+      <InternalName>58xtcor.fl.122.cabin</InternalName>
+      <Name>58 Midroof XT Coronado</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 58</Group>
+      <InternalName>58xtsba.fl.122.cabin</InternalName>
+      <Name>58 Midroof XT SBA</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 70</Group>
+      <InternalName>70mr122.fl.122.cabin</InternalName>
+      <Name>70 Midroof 122</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 70</Group>
+      <InternalName>70mr132.fl.122.cabin</InternalName>
+      <Name>70 Midroof 132</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 70</Group>
+      <InternalName>70mrcor.fl.122.cabin</InternalName>
+      <Name>70 Midroof Coronado</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 70</Group>
+      <InternalName>70mrsba.fl.122.cabin</InternalName>
+      <Name>70 Midroof SBA</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 70</Group>
+      <InternalName>70rr122.fl.122.cabin</InternalName>
+      <Name>70 Raised Roof 122</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 70</Group>
+      <InternalName>70rr132.fl.122.cabin</InternalName>
+      <Name>70 Raised Roof 132</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 70</Group>
+      <InternalName>70rrcor.fl.122.cabin</InternalName>
+      <Name>70 Raised Roof Coronado</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 70</Group>
+      <InternalName>70rrsba.fl.122.cabin</InternalName>
+      <Name>70 Raised Roof SBA</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 70</Group>
+      <InternalName>70xt122.fl.122.cabin</InternalName>
+      <Name>70 Midroof XT 122</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 70</Group>
+      <InternalName>70xt132.fl.122.cabin</InternalName>
+      <Name>70 Midroof XT 132</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 70</Group>
+      <InternalName>70xtcor.fl.122.cabin</InternalName>
+      <Name>70 Midroof XT Coronado</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Cabin 70</Group>
+      <InternalName>70xtsba.fl.122.cabin</InternalName>
+      <Name>70 Midroof XT SBA</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>ARI</Group>
+      <InternalName>ari122.fl.122.cabin</InternalName>
+      <Name>ARI 122</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>ARI</Group>
+      <InternalName>ari132.fl.122.cabin</InternalName>
+      <Name>ARI 132</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>ARI</Group>
+      <InternalName>aricor.fl.122.cabin</InternalName>
+      <Name>ARI Coronado</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>ARI</Group>
+      <InternalName>arisba.fl.122.cabin</InternalName>
+      <Name>ARI SBA</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Day Cab</Group>
+      <InternalName>dc122.fl.122.cabin</InternalName>
+      <Name>Daycab 122</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Day Cab</Group>
+      <InternalName>dc132.fl.122.cabin</InternalName>
+      <Name>Daycab 132</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Day Cab</Group>
+      <InternalName>dccor.fl.122.cabin</InternalName>
+      <Name>Daycab Coronado</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Day Cab</Group>
+      <InternalName>dcsba.fl.122.cabin</InternalName>
+      <Name>Daycab SBA</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

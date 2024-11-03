@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>067b819b-d379-4395-baf5-7f6a1e21fc33</Id>
+  <IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2021</Major>
+	 <Minor>3</Minor>
+	</MS2LibraryVersion>
+  <Game>ETS2</Game>
+  <InternalName>kraker</InternalName>
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>Kraker Walkingfloor</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName></InternalName>
+      <Name>••••••••••••••••••••••••••••• I N F O R M A T I O N •••••••••••••••••••••••••••••</Name>
+    </Variant>	
+    <Variant>
+      <InternalName></InternalName>
+      <Name>BE AWARE that there is some height differences between templates, you</Name>
+    </Variant>	
+    <Variant>
+      <InternalName></InternalName>
+      <Name>might need to do SEPARATE skinmods with DIFFERENT names if you have</Name>
+    </Variant>
+    <Variant>
+      <InternalName></InternalName>
+      <Name>ADVANCED GRAPHICS to have PERFECT fit on all of these trailervariants !!!</Name>
+    </Variant>		
+	<Variant>
+      <InternalName></InternalName>
+      <Name>•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.body_iso</InternalName>
+      <Name>CF-ISO</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.body_link</InternalName>
+      <Name>CF-200 B-Link</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.body</InternalName>
+      <Name>CF-200</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.body502</InternalName>
+      <Name>CF-502</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.body502_2</InternalName>
+      <Name>CF-502 6m Doors</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.body503</InternalName>
+      <Name>CF-503</Name>
+    </Variant>
+	<Variant>
+      <InternalName></InternalName>
+      <Name>•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</Name>
+    </Variant>	
+    <Variant>
+      <InternalName>body.body_dolly</InternalName>
+      <Name>Dolly (You HAVE to TICK this BOX for above Semis for TANDEM variants !!)</Name>
+    </Variant>
+	<Variant>
+      <InternalName></InternalName>
+      <Name>•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</Name>
+    </Variant>	
+  </VehicleVariants>
+  
+  <AccessoryItems>
+    <ListItem>
+      <Group>AXLES</Group>
+      <Text>axles.axles_3</Text>
+      <Value>axles.axles_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>AXLES</Group>
+      <Text>axles.axles_3s</Text>
+      <Value>axles.axles_3s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>AXLES</Group>
+      <Text>axles.axles_4s</Text>
+      <Value>axles.axles_4s</Value>
+    </ListItem>
+
+    <ListItem>
+      <Group>FRAME</Group>
+      <Text>frame.blink</Text>
+      <Value>frame.blink</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FRAME</Group>
+      <Text>frame.dolly_tand</Text>
+      <Value>frame.dolly_tand</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FRAME</Group>
+      <Text>frame.chassis_3</Text>
+      <Value>frame.chassis_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FRAME</Group>
+      <Text>frame.chassis_3s</Text>
+      <Value>frame.chassis_3s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FRAME</Group>
+      <Text>frame.chassis_4s</Text>
+      <Value>frame.chassis_4s</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Domar Fenders Paint A</Text>
+      <Value>fenders_a.domar_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Domar Fenders Paint A</Text>
+      <Value>fenders_a.domar_s_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Domar Fenders Paint B</Text>
+      <Value>fenders_b.domar_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Domar Fenders Paint B</Text>
+      <Value>fenders_b.domar_s_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Domar Fenders Paint C</Text>
+      <Value>fenders_c.domar_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Domar Fenders Paint D</Text>
+      <Value>fenders_d.domar_p</Value>
+    </ListItem>	
+	
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Parlok Fenders Paint A</Text>
+      <Value>fenders_a.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Parlok Fenders Paint A</Text>
+      <Value>fenders_a.parlok_s_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Parlok Fenders Paint B</Text>
+      <Value>fenders_b.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Parlok Fenders Paint B</Text>
+      <Value>fenders_b.parlok_s_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Parlok Fenders Paint C</Text>
+      <Value>fenders_c.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Parlok Fenders Paint D</Text>
+      <Value>fenders_d.parlok_p</Value>
+    </ListItem>
+
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>Palletbox Painted</Text>
+      <Value>chs_f_l.pallet_paint</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>REAR BUMPER LICENSE PLATE</Group>
+      <Text>B-Link Standard with Custom LP</Text>
+      <Value>r_bumper.blink_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>REAR BUMPER LICENSE PLATE</Group>
+      <Text>Dolly Standard with Custom LP</Text>
+      <Value>r_bumper.dolly_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>REAR BUMPER LICENSE PLATE</Group>
+      <Text>Standard with Custom LP</Text>
+      <Value>r_bumper.standard_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>REAR BUMPER LICENSE PLATE</Group>
+      <Text>VBG Hook with Custom LP</Text>
+      <Value>r_bumper.vbg_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>REAR BUMPER LICENSE PLATE</Group>
+      <Text>Zepro Lift with Custom LP</Text>
+      <Value>r_bumper.zepro_lp</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>MUDFLAP</Group>
+      <Text>r_mudflap.paint</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  
+</Variable>

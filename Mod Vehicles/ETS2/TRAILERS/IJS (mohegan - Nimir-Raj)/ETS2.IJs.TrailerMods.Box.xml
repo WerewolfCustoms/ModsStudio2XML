@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+	<ChildVariables />
+	<Id>96048687-cb8c-49ef-ae3a-12f2f7a32c39</Id>
+	<IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2021</Major>
+	 <Minor>2</Minor>
+	</MS2LibraryVersion>	
+	<InternalName>ijs.curt</InternalName>
+	<VehicleName>IJ's Mods Box Trailers</VehicleName>
+	<VehicleAuthor>IJ's Mods</VehicleAuthor>
+	<VehicleType>Trailers</VehicleType>
+	<Game>ETS2</Game>
+	<VehicleVariants>
+		<Variant>
+			<InternalName>body.curtain_136</InternalName>
+			<Name>BS SCS Curtain</Name>
+		</Variant>
+		<Variant>
+			<InternalName>body.ijs_dry_136</InternalName>
+			<Name>Dryvan</Name>
+		</Variant>
+		<Variant>
+			<InternalName>body.ijs_reef_136</InternalName>
+			<Name>Refrigerated</Name>
+		</Variant>
+		<Variant>
+			<InternalName>body.sdc_136</InternalName>
+			<Name>BS SCS Curtain SDC (4.62m)</Name>
+		</Variant>
+		<Variant>
+			<InternalName>body.sdc_136_sq</InternalName>
+			<Name>BS SCS Curtain SDC (4m)</Name>
+		</Variant>
+		<Variant>
+			<InternalName>body.sdr_136</InternalName>
+			<Name>BS SCS Curtain SDC Insulated (4.62m)</Name>
+		</Variant>
+		<Variant>
+			<InternalName>body.wf_136</InternalName>
+			<Name>Walking Floor</Name>
+		</Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>m1key, Danny Kay</XmlDefinitionAuthor>
+
+  <AccessoryItems>  
+    <ListItem>	
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Simple Side Protection Paint</Text>
+      <Value>chs_f_l.cage_136_ijs</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Sideskirt Aero</Text>
+      <Value>chs_f_l.ijs_aero_l</Value>
+    </ListItem> 
+	
+	<ListItem>	
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Sideskirt SDC</Text>
+      <Value>chs_f_l.ijs_sdc_l</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Sideskirt SDC ALT</Text>
+      <Value>chs_f_l.ijs_sdc_l2</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Sideskirt SDC Aero</Text>
+      <Value>chs_f_l.ijs_sdc_aero</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_f_l.paint_box</Value>
+    </ListItem>
+	
+    <ListItem>	
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Sideskirt SDC ALT Full Paint</Text>
+      <Value>chs_f_l.ijs_sdc_l2p</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Painted Box, 2x</Text>
+      <Value>chs_f_l.p_box_doubl</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_f_l.sideskirt_01</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_l.p_box_cage</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Painted Cage And Box</Text>
+      <Value>chs_f_l.ijs_pcb</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Left Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Pallet box</Text>
+      <Value>chs_f_l.palletbox</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Simple Side Protection Paint</Text>
+      <Value>chs_f_r.cage_136_ijs</Value>
+    </ListItem>
+	
+    <ListItem>	
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Sideskirt Aero</Text>
+      <Value>chs_f_r.ijs_aero_r</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Sideskirt SDC</Text>
+      <Value>chs_f_r.ijs_sdc_r</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Sideskirt SDC ALT</Text>
+      <Value>chs_f_r.ijs_sdc_r2</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Sideskirt SDC Aero</Text>
+      <Value>chs_f_r.ijs_sdc_aero</Value>
+    </ListItem>
+	
+    <ListItem>	
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_f_r.paint_box</Value>
+    </ListItem>
+	
+    <ListItem>	
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Sideskirt SDC ALT Full Paint</Text>
+      <Value>chs_f_r.ijs_sdc_r2p</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Painted Box, 2x</Text>
+      <Value>chs_f_r.p_box_doubl</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_f_r.sideskirt_01</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_r.p_box_cage</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Painted Cage And Box</Text>
+      <Value>chs_f_r.ijs_pcb</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Right Front SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Pallet Box</Text>
+      <Value>chs_f_r.palletbox</Value>
+    </ListItem>
+	
+    <ListItem>	
+      <Group>Left Middle SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Simple Side Protection Paint</Text>
+      <Value>chs_m_l.cage_ijs</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Left Middle SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_m_l.sideskirt</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Left Middle SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_m_l.paint_box_m</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Right Middle SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Simple Side Protection Paint</Text>
+      <Value>chs_m_r.cage_ijs</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Right Middle SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_m_r.sideskirt</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Right Middle SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_m_r.paint_box_m</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Left Rear SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Simple Side Protection Paint</Text>
+      <Value>chs_r_l.ijs_p_cage</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Left Rear SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_r_l.sideskirt_01</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Left Rear SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.paint_box</Value>
+    </ListItem>
+	
+    <ListItem>	
+      <Group>Left Rear SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Pallet Box</Text>
+      <Value>chs_r_l.palletbox</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Right Rear SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Simple Side Protection Paint</Text>
+      <Value>chs_r_r.ijs_p_cage</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Right Rear SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_r_r.sideskirt_01</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Right Rear SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.paint_box</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>Right Rear SIDESKIRTS - RAILS - BOXES</Group>
+      <Text>Pallet Box</Text>
+      <Value>chs_r_r.palletbox</Value>
+    </ListItem>	
+
+    <ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>Standard Paint</Text>
+      <Value>r_bumper.ijs_euro_3</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>Standard eco Paint</Text>
+      <Value>r_bumper.ijs_eco_2</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>EcoLED II Paint</Text>
+      <Value>r_bumper.ecoled_2_p</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>DAF LED (Orange)</Text>
+      <Value>r_bumper.ijs_daf_ledo</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>DAF LED (Yellow)</Text>
+      <Value>r_bumper.ijs_daf_led</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>Exclusive</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>SDC</Text>
+      <Value>r_bumper.ijs_sdc</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>SDC Aeroliner Bumper</Text>
+      <Value>r_bumper.ijs_sdc_aero</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>SDC New</Text>
+      <Value>r_bumper.ijs_sdc2</Value>
+    </ListItem> 
+		
+    <ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>SDC New Burger Lights</Text>
+      <Value>r_bumper.ijs_sdc_b</Value>
+    </ListItem> 
+		
+    <ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>SDC New Light Slots</Text>
+      <Value>r_bumper.ijs_sdc_s</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>SDC Stock</Text>
+      <Value>r_bumper.ijs_sdc_sq3</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>SDC Stock 2</Text>
+      <Value>r_bumper.ijs_sdc_sq5</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>SDC Burger Lights</Text>
+      <Value>r_bumper.ijs_sdc_sq</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>SDC Double Burger Lights</Text>
+      <Value>r_bumper.ijs_sdc_sq2</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>SDC Custom Slots</Text>
+      <Value>r_bumper.ijs_sdc_sq4</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>Braslux Diamond Paint</Text>
+      <Value>r_bumper.ijs_dia_p</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>Iva Paint</Text>
+      <Value>r_bumper.ijs_iva_p</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>Pradolux Triple X Plus Paint</Text>
+      <Value>r_bumper.ijs_prad_p</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>Braslux Diamond Sequential Paint</Text>
+      <Value>r_bumper.ijs_dia_s_p</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>Iva Sequential Paint</Text>
+      <Value>r_bumper.ijs_iva_s_p</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>Pradolux Triple X Plus Sequential Paint</Text>
+      <Value>r_bumper.ijs_prad_sp</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>Standard Paint (HCT) (First Trailer)</Text>
+      <Value>r_bumper.ijs_euro_3_d</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>Standard eco Paint (HCT) (First Trailer)</Text>
+      <Value>r_bumper.ijs_eco_2_d</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>Exclusive (HCT) (First Trailer)</Text>
+      <Value>r_bumper.paint_d</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>Standard Paint (HCT) (Second Trailer)</Text>
+      <Value>r_bumper.ijs_euro_3bd</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>Standard eco Paint (HCT) (Second Trailer)</Text>
+      <Value>r_bumper.ijs_eco_2bd</Value>
+    </ListItem> 
+		
+    <ListItem>	
+      <Group>BUMPERS</Group>
+      <Text>Exclusive (HCT) (Second Trailer)</Text>
+      <Value>r_bumper.paint_bd</Value>
+    </ListItem> 
+		
+    <ListItem>	
+      <Group>MUDFLAPS</Group>
+      <Text>Paint</Text>
+      <Value>r_mudflap.ijs_paint</Value>
+    </ListItem> 
+		
+    <ListItem>	
+      <Group>MUDFLAPS</Group>
+      <Text>Paint SDC</Text>
+      <Value>r_mudflap.ijs_p_sdc</Value>
+    </ListItem> 
+
+    <ListItem>	
+      <Group>MUDFLAPS</Group>
+      <Text>Paint (Flat Fenders)</Text>
+      <Value>mudflap_s.ijs_paint</Value>
+    </ListItem> 
+
+    <ListItem>	
+      <Group>FENDERS</Group>
+      <Text>Fenders Painted 4 Axle</Text>
+      <Value>fenders.ijs_fend_4p</Value>
+    </ListItem> 
+		
+    <ListItem>	
+      <Group>FENDERS</Group>
+      <Text>Fenders Painted (Steerable, Spread)</Text>
+      <Value>fenders.ijs_fend_axp</Value>
+    </ListItem> 
+		
+    <ListItem>	
+      <Group>FENDERS</Group>
+      <Text>Fenders Painted</Text>
+      <Value>fenders.ijs_fend_p</Value>
+    </ListItem> 
+		
+    <ListItem>	
+      <Group>FENDERS</Group>
+      <Text>Fenders Schmitz Paint</Text>
+      <Value>fenders.ijs_fend_sp</Value>
+    </ListItem> 
+		
+    <ListItem>	
+      <Group>FENDERS</Group>
+      <Text>Fenders Painted (Steerable, Spread Rear)</Text>
+      <Value>fenders.ijs_fend_whp</Value>
+    </ListItem> 
+		
+    <ListItem>	
+      <Group>FRONT BODY</Group>
+      <Text>Toolbox</Text>
+      <Value>f_body.f_toolbox</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>FRONT BODY</Group>
+      <Text>Ladder</Text>
+      <Value>f_body.ladder</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>FRONT BODY</Group>
+      <Text>Victor Cooler Full Painted</Text>
+      <Value>f_body.ijs_cooler_f</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>FRONT BODY</Group>
+      <Text>Victor Cooler Painted</Text>
+      <Value>f_body.ijs_cooler</Value>
+    </ListItem>
+	
+    <ListItem>	
+      <Group>FRONT BODY</Group>
+      <Text>SDC Victor Cooler Full Painted</Text>
+      <Value>f_body.ijs_c_sdc_f</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>FRONT BODY</Group>
+      <Text>Thermo Box Cooler Painted</Text>
+      <Value>f_body.th_box_paint</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>FRONT BODY</Group>
+      <Text>Thermo Box Cooler Full Painted</Text>
+      <Value>f_body.th_box_p_f</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>FRONT BODY</Group>
+      <Text>SDC Thermo Box Cooler Full Painted</Text>
+      <Value>f_body.thb_sdc_p_f</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>FRONT BODY</Group>
+      <Text>Turbo King Cooler Full Painted</Text>
+      <Value>f_body.ijs_t_king_f</Value>
+    </ListItem>
+	
+    <ListItem>	
+      <Group>FRONT BODY</Group>
+      <Text>Turbo King Cooler Painted</Text>
+      <Value>f_body.ijs_t_king</Value>
+    </ListItem>	
+		
+    <ListItem>	
+      <Group>FRONT BODY</Group>
+      <Text>SDC Turbo King Cooler Full Painted</Text>
+      <Value>f_body.ijs_tk_sdc_f</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>FRONT BODY</Group>
+      <Text>Frame Aluminium And Paint x1</Text>
+      <Value>f_body.ijs_sdc_frm3</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>FRONT BODY</Group>
+      <Text>Frame Aluminium And Paint x2</Text>
+      <Value>f_body.ijs_sdc_frm5</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>FRONT BODY</Group>
+      <Text>Frame Paint</Text>
+      <Value>f_body.ijs_sdc_frm2</Value>
+    </ListItem>
+	
+	<ListItem>	
+      <Group>FRONT BODY</Group>
+      <Text>Painted Frame And Board</Text>
+      <Value>f_body.ijs_sdc_frm4</Value>
+    </ListItem>
+		
+    <ListItem>	
+      <Group>REAR BODY</Group>
+      <Text>Wind Deflector</Text>
+      <Value>rear_body.wind_def</Value>
+    </ListItem> 
+		
+    <ListItem>	
+      <Group>REAR BODY</Group>
+      <Text>SDC Wind Deflector</Text>
+      <Value>rear_body.wind_def_sdc</Value>
+    </ListItem> 
+		
+    <ListItem>	
+      <Group>ROOF</Group>
+      <Text>Roof</Text>
+      <Value>roof.ijs_paint</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_3_ijs</Text>
+      <Value>chassis.ch_3_ijs</Value>
+    </ListItem>  
+
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_3_ijss</Text>
+      <Value>chassis.ch_3_ijss</Value>
+    </ListItem>  
+
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_3_ijs_h</Text>
+      <Value>chassis.ch_3_ijs_h</Value>
+    </ListItem>  
+
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_3_ijs_hs</Text>
+      <Value>chassis.ch_3_ijs_hs</Value>
+    </ListItem>  
+
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_3s_ijs</Text>
+      <Value>chassis.ch_3s_ijs</Value>
+    </ListItem>  
+
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_3s_ijss</Text>
+      <Value>chassis.ch_3s_ijss</Value>
+    </ListItem>  
+
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_3_st_ax_r</Text>
+      <Value>chassis.ch_3_st_ax_r</Value>
+    </ListItem>  
+
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_3_st_ax_rs</Text>
+      <Value>chassis.ch_3_st_ax_rs</Value>
+    </ListItem>  
+
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_3_st_wh_r</Text>
+      <Value>chassis.ch_3_st_wh_r</Value>
+    </ListItem>  
+
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_3_st_wh_rs</Text>
+      <Value>chassis.ch_3_st_wh_rs</Value>
+    </ListItem> 
+	
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_3b_ijs</Text>
+      <Value>chassis.ch_3b_ijs</Value>
+    </ListItem>
+	
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_3_st_wh23</Text>
+      <Value>chassis.ch_3_st_wh23</Value>
+    </ListItem> 
+	
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_3_st_wh23s</Text>
+      <Value>chassis.ch_3_st_wh23s</Value>
+    </ListItem> 
+
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_3b_ijs_h</Text>
+      <Value>chassis.ch_3b_ijs_h</Value>
+    </ListItem> 
+
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_3b_ijs_hs</Text>
+      <Value>chassis.ch_3b_ijs_hs</Value>
+    </ListItem> 
+
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_3b_ijss</Text>
+      <Value>chassis.ch_3b_ijss</Value>
+    </ListItem> 
+
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_4</Text>
+      <Value>chassis.ch_4</Value>
+    </ListItem> 
+	
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_4s</Text>
+      <Value>chassis.ch_4s</Value>
+    </ListItem> 
+
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_4_h</Text>
+      <Value>chassis.ch_4_h</Value>
+    </ListItem> 
+
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ch_4_hs</Text>
+      <Value>chassis.ch_4_hs</Value>
+    </ListItem> 
+
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>SDC Burger Lights</Text>
+      <Value>chassis.ijs_sdc_sq</Value>
+    </ListItem> 
+	
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.ijs_sdc_sqs</Text>
+      <Value>chassis.ijs_sdc_sqs</Value>
+    </ListItem> 
+
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.dolly_c</Text>
+      <Value>chassis.dolly_c</Value>
+    </ListItem> 
+	
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.dolly_c_l</Text>
+      <Value>chassis.dolly_c_l</Value>
+    </ListItem> 	
+
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.dolly_c_sp</Text>
+      <Value>chassis.dolly_c_sp</Value>
+    </ListItem> 
+	
+    <ListItem>	
+      <Group>CHASSIS</Group>
+      <Text>chassis.dolly_c_sp_l</Text>
+      <Value>chassis.dolly_c_sp_l</Value>
+    </ListItem>
+	
+  </AccessoryItems>
+</Variable>

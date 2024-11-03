@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>5b32a711-7d06-448a-830e-d624ae685bb7</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Light Bar * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_grill.boss_pn.jpg</Image>
+      <Text>The Boss Paint</Text>
+      <Value>r_grill.boss_pn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Light Bar * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_grill.boss_pn_led.jpg</Image>
+      <Text>The Boss LED Paint</Text>
+      <Value>r_grill.boss_pn_led</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sunshld.shape2.jpg</Image>
+      <Text>Paint</Text>
+      <Value>sunshld.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sunshld.paint_led.jpg</Image>
+      <Text>Paint LED * DLC *</Text>
+      <Value>sunshld.paint_led</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sunshld.paint_lux.jpg</Image>
+      <Text>Paint Luxury * DLC *</Text>
+      <Value>sunshld.paint_lux</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mirror * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_mirror.shape1p.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_mirror.shape1p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\mirror.shape2.jpg</Image>
+      <Text>Paint</Text>
+      <Value>mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\mirror.shape4.jpg</Image>
+      <Text>Paint Luxury * DLC *</Text>
+      <Value>mirror.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\mirror.shape2.jpg</Image>
+      <Text>Chrome</Text>
+      <Value>mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Stoneguard * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\s_guard.logo_pa.jpg</Image>
+      <Text>Paint</Text>
+      <Value>s_guard.logo_pa</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Stoneguard * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\s_guard.renault_pa.jpg</Image>
+      <Text>Renault Paint</Text>
+      <Value>s_guard.renault_pa</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Stoneguard * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\s_guard.elegance.jpg</Image>
+      <Text>Elegance</Text>
+      <Value>s_guard.elegance</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Windshield Frame * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_wnd_frame.pnt_evo.jpg</Image>
+      <Text>Paint Evolution</Text>
+      <Value>f_wnd_frame.pnt_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Windshield Frame * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_wnd_frame.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_wnd_frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Windshield Frame * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_wnd_frame.pnt_chr.jpg</Image>
+      <Text>Paint and Chrome</Text>
+      <Value>f_wnd_frame.pnt_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Reflector * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\s_reflector.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>s_reflector.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_intake_cab.painthi.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_intake_cab.painthi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Grille * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_inlay_cab.paint_plast.jpg</Image>
+      <Text>Paint and Plastic</Text>
+      <Value>f_inlay_cab.paint_plast</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Grille * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_inlay_cab.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_inlay_cab.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Grille * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_inlay_cab.paint_chrome.jpg</Image>
+      <Text>Paint and Chrome</Text>
+      <Value>f_inlay_cab.paint_chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Logo * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_logo.paint_01.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_logo.paint_01</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Logo * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_logo.paint_02.jpg</Image>
+      <Text>Paint II</Text>
+      <Value>f_logo.paint_02</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_intake_chs.pnt_gray.jpg</Image>
+      <Text>Paint and Plastic Grey * DLC *</Text>
+      <Value>f_intake_chs.pnt_gray</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_intake_chs.pnt_evo.jpg</Image>
+      <Text>Paint Evolution * DLC *</Text>
+      <Value>f_intake_chs.pnt_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_intake_chs.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_intake_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_intake_chs.pnt_chr.jpg</Image>
+      <Text>Paint and Chrome * DLC *</Text>
+      <Value>f_intake_chs.pnt_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bull Bar * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_grill.joker_paint.jpg</Image>
+      <Text>Joker Paint</Text>
+      <Value>f_grill.joker_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bull Bar * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_grill.racing_paint.jpg</Image>
+      <Text>Racing Paint</Text>
+      <Value>f_grill.racing_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bull Bar * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_grill.hawk_paint.jpg</Image>
+      <Text>Hawk Paint</Text>
+      <Value>f_grill.hawk_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Grille Bottom * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_inlay_chs.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_inlay_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Grille Bottom * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_inlay_chs.paint_evo.jpg</Image>
+      <Text>Paint Evolution</Text>
+      <Value>f_inlay_chs.paint_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Grille Bottom * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_inlay_chs.chr_pnt.jpg</Image>
+      <Text>Paint and Chrome</Text>
+      <Value>f_inlay_chs.chr_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Grille Bottom * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_inlay_chs.chr_pnt_evo.jpg</Image>
+      <Text>Paint and Chrome Evolution</Text>
+      <Value>f_inlay_chs.chr_pnt_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Grille Bottom * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_inlay_chs.pnt_chr.jpg</Image>
+      <Text>Paint and Chrome II</Text>
+      <Value>f_inlay_chs.pnt_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Grille Bottom * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_inlay_chs.pnt_chr_evo.jpg</Image>
+      <Text>Paint and Chrome II Evolution</Text>
+      <Value>f_inlay_chs.pnt_chr_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Headlight Guard * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\hl_guard.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>hl_guard.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Headlight Guard * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\hl_guard.paint.jpg</Image>
+      <Text>Paint Evolution</Text>
+      <Value>hl_guard.paint_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_bumper.plastic.jpg</Image>
+      <Text>Plastic</Text>
+      <Value>f_bumper.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_bumper.pl_chr.jpg</Image>
+      <Text>Plastic and Chrome * DLC *</Text>
+      <Value>f_bumper.pl_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_bumper.pl_ch_evo.jpg</Image>
+      <Text>Plastic and Chrome Evolution * DLC *</Text>
+      <Value>f_bumper.pl_ch_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_bumper.semi2_evo.jpg</Image>
+      <Text>Plastic and Chrome Evolution II * DLC *</Text>
+      <Value>f_bumper.semi2_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_bumper.semi.jpg</Image>
+      <Text>Paint and Plastic</Text>
+      <Value>f_bumper.semi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_bumper.semi_evo.jpg</Image>
+      <Text>Paint and Plastic Evolution</Text>
+      <Value>f_bumper.semi_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_bumper.paint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_bumper.paint_evo.jpg</Image>
+      <Text>Paint Evolution</Text>
+      <Value>f_bumper.paint_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_bumper.pn_ch.jpg</Image>
+      <Text>Paint and Chrome * DLC *</Text>
+      <Value>f_bumper.pn_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_bumper.pn_ch_evo.jpg</Image>
+      <Text>Paint and Chrome Evolution * DLC *</Text>
+      <Value>f_bumper.pn_ch_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Lower Grille Guard * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\b_grill.paint_mirage.jpg</Image>
+      <Text>Paint Mirage</Text>
+      <Value>b_grill.paint_mirage</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Lower Grille Guard * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\b_grill.paint_pride.jpg</Image>
+      <Text>Paint Pride</Text>
+      <Value>b_grill.paint_pride</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mudflaps * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_mudflap.bl_pn.jpg</Image>
+      <Text>Renault, Paint</Text>
+      <Value>f_mudflap.bl_pn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mudflaps * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_mudflap.bl_pn_lo.jpg</Image>
+      <Text>Renault Logo, Paint</Text>
+      <Value>f_mudflap.bl_pn_lo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_deflector.paint.jpg</Image>
+      <Text>Paint (High Sleeper Cab)</Text>
+      <Value>r_deflector.pnt_hi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_deflector.paint.jpg</Image>
+      <Text>Paint LED (High Sleeper Cab) * DLC *</Text>
+      <Value>r_deflector.pnt_led_hi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_deflector.paintlow.jpg</Image>
+      <Text>Paint (Sleeper Cab)</Text>
+      <Value>r_deflector.pnt_low</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_deflector.paintlow.jpg</Image>
+      <Text>Paint LED (Sleeper Cab) * DLC *</Text>
+      <Value>r_deflector.pnt_led_low</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Air Filter * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\filter.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>filter.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Stripe * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\s_stripe.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>s_stripe.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Mirror * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\s_mirror.shape1_paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>s_mirror.shape1_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflector (High Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\s_deflector.painthi.jpg</Image>
+      <Text>Paint</Text>
+      <Value>s_deflector.painthi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflector (High Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\s_deflector.pnt_hi_evo.jpg</Image>
+      <Text>Paint and Plastic Evolution</Text>
+      <Value>s_deflector.pnt_hi_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflector (High Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\s_deflector.fpnt_hi_evo.jpg</Image>
+      <Text>Paint Evolution * DLC *</Text>
+      <Value>s_deflector.fpnt_hi_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflector (High Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\s_deflector.led_hi.jpg</Image>
+      <Text>Paint LED * DLC *</Text>
+      <Value>s_deflector.led_hi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflector (High Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\s_deflector.led_hi_evo.jpg</Image>
+      <Text>Paint and Plastic LED Evolution * DLC *</Text>
+      <Value>s_deflector.led_hi_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflector (High Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\s_deflector.fled_hi_evo.jpg</Image>
+      <Text>Paint LED Evolution * DLC *</Text>
+      <Value>s_deflector.fled_hi_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflector (Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\s_deflector.paintlow.jpg</Image>
+      <Text>Paint</Text>
+      <Value>s_deflector.paintlow</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflector (Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\s_deflector.pnt_low_evo.jpg</Image>
+      <Text>Paint and Plastic Evolution</Text>
+      <Value>s_deflector.pnt_low_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflector (Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\s_deflector.fpnt_low_evo.jpg</Image>
+      <Text>Paint Evolution * DLC *</Text>
+      <Value>s_deflector.fpnt_low_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflector (Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\s_deflector.led_low.jpg</Image>
+      <Text>Paint LED * DLC *</Text>
+      <Value>s_deflector.led_low</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflector (Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\s_deflector.led_low_evo.jpg</Image>
+      <Text>Paint and Plastic LED Evolution * DLC *</Text>
+      <Value>s_deflector.led_low_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflector (Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\s_deflector.fled_low_evo.jpg</Image>
+      <Text>Paint LED Evolution * DLC *</Text>
+      <Value>s_deflector.fled_low_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Handle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\doorhndl.shape2.jpg</Image>
+      <Text>Paint</Text>
+      <Value>doorhndl.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Handle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\doorhndl.chrome_paint.jpg</Image>
+      <Text>Paint and Chrome * DLC *</Text>
+      <Value>doorhndl.chrome_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Corner Deflectors (High Sleeper Cab) * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\cor_def.paint_hi.jpg</Image>
+      <Text>Paint</Text>
+      <Value>cor_def.paint_hi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Corner Deflectors (High Sleeper Cab) * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\cor_def.paint_hi2.jpg</Image>
+      <Text>Paint II</Text>
+      <Value>cor_def.paint_hi2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Corner Deflectors (Sleeper Cab) * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\cor_def.paint_low.jpg</Image>
+      <Text>Paint</Text>
+      <Value>cor_def.paint_low</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender (High Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_cab.pl_ch_hi.jpg</Image>
+      <Text>Plastic and Chrome * DLC *</Text>
+      <Value>f_fender_cab.pl_ch_hi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender (High Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_cab.pl_ch_hi_evo.jpg</Image>
+      <Text>Plastic and Chrome Evolution * DLC *</Text>
+      <Value>f_fender_cab.pl_ch_hi_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender (High Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_cab.pnt_hi.jpg</Image>
+      <Text>Paint and Plastic</Text>
+      <Value>f_fender_cab.pnt_hi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender (High Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_cab.pnt_hi.jpg</Image>
+      <Text>Paint and Plastic Evolution</Text>
+      <Value>f_fender_cab.pnt_hi_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender (High Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_cab.fpnt_hi.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_fender_cab.fpnt_hi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender (High Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_cab.fpnt_hi_evo.jpg</Image>
+      <Text>Paint Evolution * DLC *</Text>
+      <Value>f_fender_cab.fpnt_hi_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender (High Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_cab.chr_hi.jpg</Image>
+      <Text>Chrome * DLC *</Text>
+      <Value>f_fender_cab.chr_hi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender (High Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_cab.chr_hi_evo.jpg</Image>
+      <Text>Chrome Evolution * DLC *</Text>
+      <Value>f_fender_cab.chr_hi_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender (Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_cab.pnt_hi.jpg</Image>
+      <Text>Plastic</Text>
+      <Value>f_fender_cab.pls_low</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender (Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_cab.pnt_hi.jpg</Image>
+      <Text>Plastic Evolution</Text>
+      <Value>f_fender_cab.pls_low_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender (Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_cab.pl_ch_lo.jpg</Image>
+      <Text>Plastic and Chrome * DLC *</Text>
+      <Value>f_fender_cab.pl_ch_lo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender (Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_cab.pl_ch_lo_evo.jpg</Image>
+      <Text>Plastic and Chrome Evolution * DLC *</Text>
+      <Value>f_fender_cab.pl_ch_lo_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender (Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_cab.fpnt_low.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_fender_cab.fpnt_low</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender (Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_cab.fpnt_low_evo.jpg</Image>
+      <Text>Paint Evolution * DLC *</Text>
+      <Value>f_fender_cab.fpnt_low_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender (Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_cab.chr_low.jpg</Image>
+      <Text>Chrome * DLC *</Text>
+      <Value>f_fender_cab.chr_low</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender (Sleeper Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_cab.chr_low_evo.jpg</Image>
+      <Text>Chrome Evolution * DLC *</Text>
+      <Value>f_fender_cab.chr_low_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_chs.semi.jpg</Image>
+      <Text>Paint and Plastic</Text>
+      <Value>f_fender_chs.semi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_chs.semi_evo.jpg</Image>
+      <Text>Paint and Plastic Evolution</Text>
+      <Value>f_fender_chs.semi_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_chs.paint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_fender_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_chs.paint_evo.jpg</Image>
+      <Text>Paint Evolution * DLC *</Text>
+      <Value>f_fender_chs.paint_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_chs.pnt_chr.jpg</Image>
+      <Text>Paint and Chrome * DLC *</Text>
+      <Value>f_fender_chs.pnt_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\f_fender_chs.pnt_chr_evo.jpg</Image>
+      <Text>Paint and Chrome Evolution * DLC *</Text>
+      <Value>f_fender_chs.pnt_chr_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskirt.4x2shp.jpg</Image>
+      <Text>Side Skirt 4x2 Short Painted Cover</Text>
+      <Value>sideskirt.4x2shp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskirt.4x2side2pg.jpg</Image>
+      <Text>Side Skirt 4x2 Paint and Plastic Gray Cover</Text>
+      <Value>sideskirt.4x2side2pg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskirt.4x2side3.jpg</Image>
+      <Text>Side Skirt 4x2 Paint and Plastic Cover</Text>
+      <Value>sideskirt.4x2side3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskirt.4x2side1p.jpg</Image>
+      <Text>Side Skirt 4x2 Paint</Text>
+      <Value>sideskirt.4x2side1p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskirt.4x2plain.jpg</Image>
+      <Text>Side Skirt 4x2 Basic Painted * DLC *</Text>
+      <Value>sideskirt.4x2plain</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskirt.4x2satin.jpg</Image>
+      <Text>Side Skirt 4x2 Satin * DLC *</Text>
+      <Value>sideskirt.4x2satin</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskirt.6x2shp.jpg</Image>
+      <Text>Side Skirt 6x2, 6x4 Short Painted Cover</Text>
+      <Value>sideskirt.6x2shp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskirt.6x2side2pg.jpg</Image>
+      <Text>Side Skirt 6x2, 6x4 Paint and Plastic Gray Cover</Text>
+      <Value>sideskirt.6x2side2pg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskirt.6x2side3.jpg</Image>
+      <Text>Side Skirt 6x2, 6x4 Paint and Plastic Cover</Text>
+      <Value>sideskirt.6x2side3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskirt.6x2side1p.jpg</Image>
+      <Text>Side Skirt 6x2, 6x4 Paint</Text>
+      <Value>sideskirt.6x2side1p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskirt.6x2plain.jpg</Image>
+      <Text>Side Skirt 6x2, 6x4 Basic Painted * DLC *</Text>
+      <Value>sideskirt.6x2plain</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskirt.6x2satin.jpg</Image>
+      <Text>Side Skirt 6x2, 6x4 Satin * DLC *</Text>
+      <Value>sideskirt.6x2satin</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskirt.6x24shp.jpg</Image>
+      <Text>Side Skirt 6x2/4 Short Painted Cover</Text>
+      <Value>sideskirt.6x24shp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskirt.6x24side2pg.jpg</Image>
+      <Text>Side Skirt 6x2/4 Paint and Plastic Gray Cover</Text>
+      <Value>sideskirt.6x24side2pg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskirt.6x24side3.jpg</Image>
+      <Text>Side Skirt 6x2/4 Paint and Plastic Cover</Text>
+      <Value>sideskirt.6x24side3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskirt.6x24side1p.jpg</Image>
+      <Text>Side Skirt 6x2/4 Paint</Text>
+      <Value>sideskirt.6x24side1p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskirt.6x24plain.jpg</Image>
+      <Text>Side Skirt 6x2/4 Basic Painted * DLC *</Text>
+      <Value>sideskirt.6x24plain</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskirt.6x24satin.jpg</Image>
+      <Text>Side Skirt 6x2/4 Satin * DLC *</Text>
+      <Value>sideskirt.6x24satin</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirt Bars * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskrt_bar.4x2_paint.jpg</Image>
+      <Text>Paint 4x2</Text>
+      <Value>sideskrt_bar.4x2_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirt Bars * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskrt_bar.6x2_paint.jpg</Image>
+      <Text>Paint 6x2, 6x4</Text>
+      <Value>sideskrt_bar.6x2_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirt Bars * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\sideskrt_bar.6x24_paint.jpg</Image>
+      <Text>Paint 6x2/4</Text>
+      <Value>sideskrt_bar.6x24_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_fendr_top.4x2_pn.jpg</Image>
+      <Text>Paint 4x2</Text>
+      <Value>r_fendr_top.4x2_pn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_fendr_top.4x2_pn_ch.jpg</Image>
+      <Text>Paint and Chrome 4x2</Text>
+      <Value>r_fendr_top.4x2_pn_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_fendr_top.6x2_pn.jpg</Image>
+      <Text>Paint 6x2, 6x4</Text>
+      <Value>r_fendr_top.6x2_pn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_fendr_top.6x2_pn_ch.jpg</Image>
+      <Text>Paint and Chrome 6x2, 6x4</Text>
+      <Value>r_fendr_top.6x2_pn_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_fendr_top.6x24_pn.jpg</Image>
+      <Text>Paint 6x2/4</Text>
+      <Value>r_fendr_top.6x24_pn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_fendr_top.6x24_pn_ch.jpg</Image>
+      <Text>Paint and Chrome 6x2/4</Text>
+      <Value>r_fendr_top.6x24_pn_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_fender.4x2_pn.jpg</Image>
+      <Text>Paint 4x2</Text>
+      <Value>r_fender.4x2_pn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_fender.4x2_pn_ch.jpg</Image>
+      <Text>Paint and Chrome 4x2</Text>
+      <Value>r_fender.4x2_pn_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_fender.6x2_pn.jpg</Image>
+      <Text>Paint 6x2, 6x4</Text>
+      <Value>r_fender.6x2_pn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_fender.6x2_pn_ch.jpg</Image>
+      <Text>Paint and Chrome 6x2, 6x4</Text>
+      <Value>r_fender.6x2_pn_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_fender.6x24_pn.jpg</Image>
+      <Text>Paint 6x2/4</Text>
+      <Value>r_fender.6x24_pn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_fender.6x24_pn_ch.jpg</Image>
+      <Text>Paint and Chrome 6x2/4</Text>
+      <Value>r_fender.6x24_pn_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location. Paints the inside of the chassis cover cut outs.</Description>
+      <Group>Chassis Cover * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.4x2_satin.jpg</Image>
+      <Text>Satin 4x2</Text>
+      <Value>r_chs_cover.4x2_satin</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.4x2_diva.jpg</Image>
+      <Text>Diva 4x2</Text>
+      <Value>r_chs_cover.4x2_diva</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.4x2_thor_pn.jpg</Image>
+      <Text>Thor Paint 4x2</Text>
+      <Value>r_chs_cover.4x2_thor_pn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location. Paints the inside of the chassis cover cut outs.</Description>
+      <Group>Chassis Cover * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.4x2t_satin.jpg</Image>
+      <Text>Satin 4x2 Extra Tank</Text>
+      <Value>r_chs_cover.4x2t_satin</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.4x2t_diva.jpg</Image>
+      <Text>Diva 4x2 Extra Tank</Text>
+      <Value>r_chs_cover.4x2t_diva</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.4x2t_thor_pn.jpg</Image>
+      <Text>Thor Paint 4x2 Extra Tank</Text>
+      <Value>r_chs_cover.4x2t_thor_pn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location. Paints the inside of the chassis cover cut outs.</Description>
+      <Group>Chassis Cover * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.6x2_satin.jpg</Image>
+      <Text>Satin 6x2, 6x4</Text>
+      <Value>r_chs_cover.6x2_satin</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.6x2_diva.jpg</Image>
+      <Text>Diva 6x2, 6x4</Text>
+      <Value>r_chs_cover.6x2_diva</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.6x2_thor_pn.jpg</Image>
+      <Text>Thor Paint 6x2, 6x4</Text>
+      <Value>r_chs_cover.6x2_thor_pn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location. Paints the inside of the chassis cover cut outs.</Description>
+      <Group>Chassis Cover * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.6x24_satin.jpg</Image>
+      <Text>Satin 6x2/4</Text>
+      <Value>r_chs_cover.6x24_satin</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.6x24_diva.jpg</Image>
+      <Text>Diva 6x2/4</Text>
+      <Value>r_chs_cover.6x24_diva</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.6x24_thor_pn.jpg</Image>
+      <Text>Thor Paint 6x2/4</Text>
+      <Value>r_chs_cover.6x24_thor_pn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.r_bumper.4x2_racing.jpg</Image>
+      <Text>Racing 4x2</Text>
+      <Value>r_bumper.4x2_racing</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.r_bumper.6x2_racing.jpg</Image>
+      <Text>Racing 6x2, 6x4</Text>
+      <Value>r_bumper.6x2_racing</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.r_bumper.6x24_racing.jpg</Image>
+      <Text>Racing 6x2/4</Text>
+      <Value>r_bumper.6x24_racing</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Mudflaps * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.r_bumper.r_mudflap.4x2pnt.jpg</Image>
+      <Text>Paint 4x2 (small)</Text>
+      <Value>r_mudflap.4x2pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Mudflaps * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.r_bumper.r_mudflap.4x2pnt.jpg</Image>
+      <Text>Paint 4x2 (wide)</Text>
+      <Value>r_mudflap.4x2pntw</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Mudflaps * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.r_bumper.r_mudflap.6x2pnt.jpg</Image>
+      <Text>Paint 6x2, 6x4 (small)</Text>
+      <Value>r_mudflap.6x2pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Mudflaps * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.r_bumper.r_mudflap.6x2pnt.jpg</Image>
+      <Text>Paint 6x2, 6x4 (wide)</Text>
+      <Value>r_mudflap.6x2pntw</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Mudflaps * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.r_bumper.r_mudflap.6x24pnt.jpg</Image>
+      <Text>Paint 6x2/4 (small)</Text>
+      <Value>r_mudflap.6x24pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Mudflaps * DLC *</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\RenaultT\r_chs_cover.r_bumper.r_mudflap.6x24pnt.jpg</Image>
+      <Text>Paint 6x2/4 (wide)</Text>
+      <Value>r_mudflap.6x24pntw</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Bumper</Group>
+      <Text>Paint And Plastic Plus</Text>
+      <Value>f_bumper.ijs_stock_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Bumper</Group>
+      <Text>Paint</Text>
+      <Value>f_bumper.ijs_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Bumper</Group>
+      <Text>Paint Plus</Text>
+      <Value>f_bumper.ijs_paint_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Grille Bottom</Group>
+      <Text>Paint</Text>
+      <Value>f_inlay_chs.ijs_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Grille Bottom</Group>
+      <Text>Paint And Plastic A</Text>
+      <Value>f_inlay_chs.ijs_ps_a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Grille Bottom</Group>
+      <Text>Paint And Plastic B</Text>
+      <Value>f_inlay_chs.ijs_ps_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Grille Bottom</Group>
+      <Text>Paint And Plastic C</Text>
+      <Value>f_inlay_chs.ijs_ps_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Grille Bottom</Group>
+      <Text>Paint And Plastic D</Text>
+      <Value>f_inlay_chs.ijs_ps_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Grille Bottom</Group>
+      <Text>Paint And Logo</Text>
+      <Value>f_inlay_chs.ijs_paint_f</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Grille Bottom</Group>
+      <Text>Paint Evolution</Text>
+      <Value>f_inlay_chs.ijs_paint_e</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Grille Bottom</Group>
+      <Text>Paint And Plastic A Evolution</Text>
+      <Value>f_inlay_chs.ijs_ps_a_e</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Grille Bottom</Group>
+      <Text>Paint And Plastic B Evolution</Text>
+      <Value>f_inlay_chs.ijs_ps_b_e</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Grille Bottom</Group>
+      <Text>Paint And Plastic C Evolution</Text>
+      <Value>f_inlay_chs.ijs_ps_c_e</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Grille Bottom</Group>
+      <Text>Paint And Plastic D Evolution</Text>
+      <Value>f_inlay_chs.ijs_ps_d_e</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Grille Bottom</Group>
+      <Text>Paint And Logo Evolution</Text>
+      <Value>f_inlay_chs.ijs_paint_fe</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Grille</Group>
+      <Text>Paint</Text>
+      <Value>f_inlay_cab.ijs_pnt_hi</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Grille</Group>
+      <Text>Full Paint</Text>
+      <Value>f_inlay_cab.ijs_fpnt_hi</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Front Mask</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_cab.ijs_ph_brsh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Mask Bottom</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_chs.ijs_p_brsh</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Headlight Guard</Group>
+      <Text>Paint **DLC Required**</Text>
+      <Value>hl_guard.ijs_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Windshield Frame</Group>
+      <Text>Paint</Text>
+      <Value>f_wnd_frame.ijs_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Roof Lights</Group>
+      <Text>Paint</Text>
+      <Value>f_light_top.ijs_pnt</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Roof Lights</Group>
+      <Text>Paint Evolution</Text>
+      <Value>f_light_top.ijs_pnt_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Mirrors</Group>
+      <Text>Main Mirrors Paint And Plastics</Text>
+      <Value>mirror.ijs_paint_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Mirrors</Group>
+      <Text>Main Mirrors Full Paint</Text>
+      <Value>mirror.ijs_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Mirrors</Group>
+      <Text>Side Mirror</Text>
+      <Value>s_mirror.ijs_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Mirrors</Group>
+      <Text>Front Mirror</Text>
+      <Value>f_mirror.ijs_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Side Reflectors</Group>
+      <Text>Paint</Text>
+      <Value>s_reflector.ijs_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Front Fender Bottom</Group>
+      <Text>Paint</Text>
+      <Value>f_fender_chs.ijs_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Front Fender Bottom</Group>
+      <Text>Paint Evolution</Text>
+      <Value>f_fender_chs.ijs_paint_e</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IJS Air Filter</Group>
+      <Text>Paint</Text>
+      <Value>filter.ijs_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Air Tank</Group>
+      <Text>Paint 4x</Text>
+      <Value>air_tank.ijs_4x2_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Air Tank</Group>
+      <Text>Paint 6x Short</Text>
+      <Value>air_tank.ijs_6x24_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Air Tank</Group>
+      <Text>Paint 6x Long</Text>
+      <Value>air_tank.ijs_6x2_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Rear Bumper **DLC Required**</Group>
+      <Text>Racing Black 4x</Text>
+      <Value>r_bumper.ijs_4x2_rpe</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Rear Bumper **DLC Required**</Group>
+      <Text>Racing Paint 4x</Text>
+      <Value>r_bumper.ijs_4x2_rpe</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Rear Bumper **DLC Required**</Group>
+      <Text>Racing Black 6x Short</Text>
+      <Value>r_bumper.ijs_6x24_rpe</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Rear Bumper **DLC Required**</Group>
+      <Text>Racing Paint 6x Short</Text>
+      <Value>r_bumper. ijs_6x24_rp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Rear Bumper **DLC Required**</Group>
+      <Text>Racing Black 6x Long</Text>
+      <Value>r_bumper.ijs_6x2_rpe</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Rear Bumper **DLC Required**</Group>
+      <Text>Racing Paint 6x Long</Text>
+      <Value>r_bumper.ijs_6x2_rp</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.renault.t_IJS.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>renault.t</InternalName>
+  <VehicleAuthor>SCS Software &amp; IJS</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSRenault\t_sleeper_high.jpg</VehicleImage>
+  <VehicleName>Renault T</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSRenault\t_sleeper.jpg</Image>
+      <InternalName>sleeper.renault.t.cabin</InternalName>
+      <Name>Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSRenault\t_sleeper_high.jpg</Image>
+      <InternalName>high_sleeper.renault.t.cabin</InternalName>
+      <Name>High Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy, Danny Kay</XmlDefinitionAuthor>
+</Variable>

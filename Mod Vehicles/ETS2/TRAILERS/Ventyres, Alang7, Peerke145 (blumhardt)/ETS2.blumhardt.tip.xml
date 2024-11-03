@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>57dc22c2-50b5-4622-a609-93e50d48cbc3</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Text>Trailer Front Ladder</Text>
+      <Value>ladder.ladder</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Trailer Front Rack</Text>
+      <Value>rack.rack</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ETS2.blumhardt.tip.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>blumhardt.tip</InternalName>
+  <VehicleAuthor>Ventyres, Alang7, Peerke145</VehicleAuthor>
+  <VehicleName>Blumhardt Tipper trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.steel</InternalName>
+      <Name>Blumhardt Steel</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

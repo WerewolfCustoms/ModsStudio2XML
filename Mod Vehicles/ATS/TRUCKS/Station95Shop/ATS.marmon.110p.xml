@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>3ff47896-b257-4079-a2f1-0523a2375393</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Painted Large Tank</Text>
+      <Value>tank.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Painted Short Tank</Text>
+      <Value>tank.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Painted Small Tank</Text>
+      <Value>tank.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Painted Long Double Tank</Text>
+      <Value>tank.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Rear Light Bar</Group>
+      <Text>Rear Light Bar</Text>
+      <Value>mudflaps.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Rear Light Bar</Group>
+      <Text>Rear Light Bar</Text>
+      <Value>mudflaps.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Rear Light Bar</Group>
+      <Text>Rear Light Bar</Text>
+      <Value>mudflaps.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Rear Light Bar</Group>
+      <Text>Rear Light Bar</Text>
+      <Value>mudflaps.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Rear Light Bar</Group>
+      <Text>Rear Light Bar</Text>
+      <Value>mudflaps.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Mudguard</Group>
+      <Text>Type 02 01</Text>
+      <Value>mudguard.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Mudguard</Group>
+      <Text>Type 03 01</Text>
+      <Value>mudguard.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Mudguard</Group>
+      <Text>Type 04 01</Text>
+      <Value>mudguard.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Mudguard</Group>
+      <Text>Type 05 01</Text>
+      <Value>mudguard.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Mudguard</Group>
+      <Text>Type 06 01</Text>
+      <Value>mudguard.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Mudguard</Group>
+      <Text>Type 07 01</Text>
+      <Value>mudguard.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Mudguard</Group>
+      <Text>Type 08 01</Text>
+      <Value>mudguard.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Mudguard</Group>
+      <Text>Type 09 01</Text>
+      <Value>mudguard.shape25</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Chassis</Group>
+      <Text>Short Chassis</Text>
+      <Value>s_chasis.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Chassis</Group>
+      <Text>Long Chassis</Text>
+      <Value>l_chasis.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Chassis</Group>
+      <Text>4x2 Chassis</Text>
+      <Value>chasis.shape</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Tank Brackets</Group>
+      <Text>Tank Brackets</Text>
+      <Value>acc_tank.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Tank Brackets</Group>
+      <Text>Tank Brackets</Text>
+      <Value>acc_tank.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Tank Brackets</Group>
+      <Text>Tank Brackets</Text>
+      <Value>acc_tank.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Sunshield</Group>
+      <Text>Sunshield 01</Text>
+      <Value>sunshld.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Sunshield</Group>
+      <Text>Sunshield 03</Text>
+      <Value>sunshld.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Sunshield</Group>
+      <Text>Sunshield 05</Text>
+      <Value>sunshld.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Sunshield</Group>
+      <Text>Sunshield 07</Text>
+      <Value>sunshld.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Sunshield</Group>
+      <Text>Sunshield 09</Text>
+      <Value>sunshld.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Sunshield</Group>
+      <Text>Sunshield 11</Text>
+      <Value>sunshld.shape11</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS.marmon.110p.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>marmon.110p</InternalName>
+  <VehicleAuthor>STATION95SHOP</VehicleAuthor>
+  <VehicleName>Marmon 110p</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>cab_a.marmon.110p.cabin</InternalName>
+      <Name>Cabin A</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_b.marmon.110p.cabin</InternalName>
+      <Name>Cabin B</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

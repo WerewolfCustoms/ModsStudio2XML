@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>8d8a65e4-45b7-4816-b65a-9bb7279ebce5</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    
+	<!-- 13.6 standard trailer -->
+	<ListItem>
+      <Group>Trailer Front And Roof</Group>
+      <Text>4.0m</Text>
+      <Value>body.4_0x13_6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Front And Roof</Group>
+      <Text>4.2m</Text>
+      <Value>body.4_2x13_6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Front And Roof</Group>
+      <Text>4.4m</Text>
+      <Value>body.4_4x13_6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Left</Group>
+      <Text>4.0m Closed Side</Text>
+      <Value>l_body.4_0x13_6_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Left</Group>
+      <Text>4.0m Doors</Text>
+      <Value>l_body.4_0x13_6_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Left</Group>
+      <Text>4.2m Closed Side</Text>
+      <Value>l_body.4_2x13_6_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Left</Group>
+      <Text>4.2m Doors</Text>
+      <Value>l_body.4_2x13_6_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Left</Group>
+      <Text>4.4m Closed Side</Text>
+      <Value>l_body.4_4x13_6_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Left</Group>
+      <Text>4.4m Doors</Text>
+      <Value>l_body.4_4x13_6_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Right</Group>
+      <Text>4.0m Closed Side</Text>
+      <Value>r_body.4_0x13_6_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Right</Group>
+      <Text>4.0m Doors</Text>
+      <Value>r_body.4_0x13_6_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Right</Group>
+      <Text>4.2m Closed Side</Text>
+      <Value>r_body.4_2x13_6_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Right</Group>
+      <Text>4.2m Doors</Text>
+      <Value>r_body.4_2x13_6_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Right</Group>
+      <Text>4.4m Closed Side</Text>
+      <Value>r_body.4_4x13_6_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Right</Group>
+      <Text>4.4m Doors</Text>
+      <Value>r_body.4_4x13_6_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>4.0m Doors</Text>
+      <Value>rear_body.4_0x13_6_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>4.0m Open + Lift</Text>
+      <Value>rear_body.4_0x13_6_o</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>4.2m Doors</Text>
+      <Value>rear_body.4_2x13_6_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>4.2m Open + Lift</Text>
+      <Value>rear_body.4_2x13_6_o</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>4.4m Doors</Text>
+      <Value>rear_body.4_4x13_6_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>4.4m Open + Lift</Text>
+      <Value>rear_body.4_4x13_6_o</Value>
+    </ListItem>
+
+	<!-- 16m Module16 trailer -->
+    <ListItem>
+      <Group>Module16 Trailer Front And Roof</Group>
+      <Text>4.0m</Text>
+      <Value>body.4_0x16</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Front And Roof</Group>
+      <Text>4.2m</Text>
+      <Value>body.4_2x16</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Front And Roof</Group>
+      <Text>4.4m</Text>
+      <Value>body.4_4x16</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Left</Group>
+      <Text>4.0m Closed Side</Text>
+      <Value>l_body.4_0x16_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Left</Group>
+      <Text>4.0m Doors</Text>
+      <Value>l_body.4_0x16_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Left</Group>
+      <Text>4.2m Closed Side</Text>
+      <Value>l_body.4_2x16_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Left</Group>
+      <Text>4.2m Doors</Text>
+      <Value>l_body.4_2x16_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Left</Group>
+      <Text>4.4m Closed Side</Text>
+      <Value>l_body.4_4x16_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Left</Group>
+      <Text>4.4m Doors</Text>
+      <Value>l_body.4_4x16_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Right</Group>
+      <Text>4.0m Closed Side</Text>
+      <Value>r_body.4_0x16_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Right</Group>
+      <Text>4.0m Doors</Text>
+      <Value>r_body.4_0x16_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Right</Group>
+      <Text>4.2m Closed Side</Text>
+      <Value>r_body.4_2x16_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Right</Group>
+      <Text>4.2m Doors</Text>
+      <Value>r_body.4_2x16_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Right</Group>
+      <Text>4.4m Closed Side</Text>
+      <Value>r_body.4_4x16_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Right</Group>
+      <Text>4.4m Doors</Text>
+      <Value>r_body.4_4x16_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Rear</Group>
+      <Text>4.0m Doors</Text>
+      <Value>rear_body.4_0x16_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Rear</Group>
+      <Text>4.0m Open + Lift</Text>
+      <Value>rear_body.4_0x16_o</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Rear</Group>
+      <Text>4.2m Doors</Text>
+      <Value>rear_body.4_2x16_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Rear</Group>
+      <Text>4.2m Open + Lift</Text>
+      <Value>rear_body.4_2x16_o</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Rear</Group>
+      <Text>4.4m Doors</Text>
+      <Value>rear_body.4_4x16_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Module16 Trailer Rear</Group>
+      <Text>4.4m Open + Lift</Text>
+      <Value>rear_body.4_4x16_o</Value>
+    </ListItem>
+	
+	<!-- 7.5m double trailer -->
+	<ListItem>
+      <Group>Double Trailer Front And Roof</Group>
+      <Text>4.0m</Text>
+      <Value>body.4_0x7_5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Front And Roof</Group>
+      <Text>4.2m</Text>
+      <Value>body.4_2x7_5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Front And Roof</Group>
+      <Text>4.4m</Text>
+      <Value>body.4_4x7_5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Left</Group>
+      <Text>4.0m Closed Side</Text>
+      <Value>l_body.4_0x7_5_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Left</Group>
+      <Text>4.0m Doors</Text>
+      <Value>l_body.4_0x7_5_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Left</Group>
+      <Text>4.2m Closed Side</Text>
+      <Value>l_body.4_2x7_5_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Left</Group>
+      <Text>4.2m Doors</Text>
+      <Value>l_body.4_2x7_5_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Left</Group>
+      <Text>4.4m Closed Side</Text>
+      <Value>l_body.4_4x7_5_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Left</Group>
+      <Text>4.4m Doors</Text>
+      <Value>l_body.4_4x7_5_d</Value>
+    </ListItem>
+		<ListItem>
+      <Group>Double Trailer Right</Group>
+      <Text>4.0m Closed Side</Text>
+      <Value>r_body.4_0x7_5_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Right</Group>
+      <Text>4.0m Doors</Text>
+      <Value>r_body.4_0x7_5_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Right</Group>
+      <Text>4.2m Closed Side</Text>
+      <Value>r_body.4_2x7_5_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Right</Group>
+      <Text>4.2m Doors</Text>
+      <Value>r_body.4_2x7_5_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Right</Group>
+      <Text>4.4m Closed Side</Text>
+      <Value>r_body.4_4x7_5_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Right</Group>
+      <Text>4.4m Doors</Text>
+      <Value>r_body.4_4x7_5_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Rear</Group>
+      <Text>4.0m Doors</Text>
+      <Value>rear_body.4_0x7_5_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Rear</Group>
+      <Text>4.0m Open + Lift</Text>
+      <Value>rear_body.4_0x7_5_o</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Rear</Group>
+      <Text>4.2m Doors</Text>
+      <Value>rear_body.4_2x7_5_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Rear</Group>
+      <Text>4.2m Open + Lift</Text>
+      <Value>rear_body.4_2x7_5_o</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Rear</Group>
+      <Text>4.4m Doors</Text>
+      <Value>rear_body.4_4x7_5_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Double Trailer Rear</Group>
+      <Text>4.4m Open + Lift</Text>
+      <Value>rear_body.4_4x7_5_o</Value>
+    </ListItem>
+	
+	<!-- 13.6m HCT rear trailer -->
+	<ListItem>
+      <Group>HCT Trailer Front And Roof</Group>
+      <Text>4.0m</Text>
+      <Value>body.4_0x13_6_hct</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Front And Roof</Group>
+      <Text>4.2m</Text>
+      <Value>body.4_2x13_6_hct</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Front And Roof</Group>
+      <Text>4.4m</Text>
+      <Value>body.4_4x13_6_hct</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Left</Group>
+      <Text>4.0m Closed Side</Text>
+      <Value>l_body.4_0x13_6_c2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Left</Group>
+      <Text>4.0m Doors</Text>
+      <Value>l_body.4_0x13_6_d2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Left</Group>
+      <Text>4.2m Closed Side</Text>
+      <Value>l_body.4_2x13_6_c2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Left</Group>
+      <Text>4.2m Doors</Text>
+      <Value>l_body.4_2x13_6_d2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Left</Group>
+      <Text>4.4m Closed Side</Text>
+      <Value>l_body.4_4x13_6_c2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Left</Group>
+      <Text>4.4m Doors</Text>
+      <Value>l_body.4_4x13_6_d2</Value>
+    </ListItem>
+		<ListItem>
+      <Group>HCT Trailer Right</Group>
+      <Text>4.0m Closed Side</Text>
+      <Value>r_body.4_0x13_6_c2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Right</Group>
+      <Text>4.0m Doors</Text>
+      <Value>r_body.4_0x13_6_d2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Right</Group>
+      <Text>4.2m Closed Side</Text>
+      <Value>r_body.4_2x13_6_c2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Right</Group>
+      <Text>4.2m Doors</Text>
+      <Value>r_body.4_2x13_6_d2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Right</Group>
+      <Text>4.4m Closed Side</Text>
+      <Value>r_body.4_4x13_6_c2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Right</Group>
+      <Text>4.4m Doors</Text>
+      <Value>r_body.4_4x13_6_d2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Rear</Group>
+      <Text>4.0m Doors</Text>
+      <Value>rear_body.4_0x13_6_d2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Rear</Group>
+      <Text>4.0m Open + Lift</Text>
+      <Value>rear_body.4_0x13_6_o2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Rear</Group>
+      <Text>4.2m Doors</Text>
+      <Value>rear_body.4_2x13_6_d2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Rear</Group>
+      <Text>4.2m Open + Lift</Text>
+      <Value>rear_body.4_2x13_6_o2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Rear</Group>
+      <Text>4.4m Doors</Text>
+      <Value>rear_body.4_4x13_6_d2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>HCT Trailer Rear</Group>
+      <Text>4.4m Open + Lift</Text>
+      <Value>rear_body.4_4x13_6_o2</Value>
+    </ListItem>
+    
+	<!-- Universal Accessories -->
+	<ListItem>
+      <Group>Tarpaulin Roofs</Group>
+      <Text>4.0m</Text>
+      <Value>roof_1.roof_tarp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tarpaulin Roofs</Group>
+      <Text>4.2m</Text>
+      <Value>roof_2.roof_tarp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tarpaulin Roofs</Group>
+      <Text>4.4m</Text>
+      <Value>roof_3.roof_tarp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Heater + Refrigerator Units</Group>
+      <Text>Paint (4m)</Text>
+      <Value>f_body_1.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Heater + Refrigerator Units</Group>
+      <Text>Paint (4.2m)</Text>
+      <Value>f_body_2.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Heater + Refrigerator Units</Group>
+      <Text>Paint (4.4m)</Text>
+      <Value>f_body_3.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Ventilation Hatch</Group>
+      <Text>Paint (4m)</Text>
+      <Value>f_vent_1.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Ventilation Hatch</Group>
+      <Text>Paint (4.2m)</Text>
+      <Value>f_vent_2.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Ventilation Hatch</Group>
+      <Text>Paint (4.4m)</Text>
+      <Value>f_vent_3.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Frame</Group>
+      <Text>Paint</Text>
+      <Value>frame.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fueltank</Group>
+      <Text>Paint</Text>
+      <Value>fueltank.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Axles</Group>
+      <Text>Paint</Text>
+      <Value>axles.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Sideskirts</Group>
+      <Text>Front Sidecover</Text>
+      <Value>ekeri_rail_l.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Sideskirts</Group>
+      <Text>Front Box</Text>
+      <Value>ekeri_f_l.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Sideskirts</Group>
+      <Text>Middle Sidecover</Text>
+      <Value>chs_m_l.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Sideskirts</Group>
+      <Text>Rear Box</Text>
+      <Value>chs_r_l.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Sideskirts</Group>
+      <Text>Rear Box And Tank</Text>
+      <Value>chs_r_m.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Sideskirts</Group>
+      <Text>Front Sidecover</Text>
+      <Value>ekeri_rail_r.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Sideskirts</Group>
+      <Text>Front Box</Text>
+      <Value>ekeri_f_r.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Sideskirts</Group>
+      <Text>Middle Sidecover</Text>
+      <Value>chs_m_r.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Sideskirts</Group>
+      <Text>Rear Box</Text>
+      <Value>chs_r_r.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fenders</Group>
+      <Text>Front Paint</Text>
+      <Value>ekeri_fend_a.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fenders</Group>
+      <Text>Middle Paint</Text>
+      <Value>ekeri_fend_b.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fenders</Group>
+      <Text>Rear Paint</Text>
+      <Value>ekeri_fend_c.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fenders</Group>
+      <Text>Front Paint (Double)</Text>
+      <Value>ekeri_fend_f.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fenders</Group>
+      <Text>Middle Paint (Double)</Text>
+      <Value>ekeri_fend_g.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fenders</Group>
+      <Text>Rear Paint (Double)</Text>
+      <Value>ekeri_fend_h.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fenders</Group>
+      <Text>Front 1st Paint (HCT)</Text>
+      <Value>ekeri_fend_d.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fenders</Group>
+      <Text>Front 2nd Paint (HCT)</Text>
+      <Value>ekeri_fend_e.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Licence Plate</Group>
+      <Text>EU</Text>
+      <Value>custom_lp.3_eu</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Licence Plate</Group>
+      <Text>FIN</Text>
+      <Value>custom_lp.2_fin</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Licence Plate</Group>
+      <Text>UK</Text>
+      <Value>custom_lp.2_uk</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Guard</Group>
+      <Text>Paint</Text>
+      <Value>r_guard.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Guard</Group>
+      <Text>Moffett</Text>
+      <Value>r_guard.moffett</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Lights</Group>
+      <Text>Paint</Text>
+      <Value>r_lights.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Mudflap</Group>
+      <Text>Paint</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.ekeri.semi.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>ekeri.semi</InternalName>
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>Ekeri Revision - Semi-Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.4_0x13_6</InternalName>
+      <Name>4.0m Single</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.4_0x13_6_hct</InternalName>
+      <Name>4.0m HCT</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.4_0x7_5</InternalName>
+      <Name>4.0m Double</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.4_0x16</InternalName>
+      <Name>4.0m Module16</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.4_2x13_6</InternalName>
+      <Name>4.2m Single</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.4_2x13_6_hct</InternalName>
+      <Name>4.2m HCT</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.4_2x7_5</InternalName>
+      <Name>4.2m Double</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.4_0x16</InternalName>
+      <Name>4.2m Module16</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.4_4x13_6</InternalName>
+      <Name>4.4m Single</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.4_4x13_6_hct</InternalName>
+      <Name>4.4m HCT</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.4_4x7_5</InternalName>
+      <Name>4.4m Double</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.4_0x16</InternalName>
+      <Name>4.4m Module16</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay, Taede</XmlDefinitionAuthor>
+</Variable>

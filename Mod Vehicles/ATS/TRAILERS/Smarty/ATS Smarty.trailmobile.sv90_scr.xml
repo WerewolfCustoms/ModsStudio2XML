@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>d0e97ea7-cb8f-4b90-a1d7-28b11e4bbcfe</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+	<Group>Front Walls</Group>
+      <Text>Front wall</Text>
+      <Value>f_body.std</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Front Walls</Group>
+      <Text>Front Wall w/Round Corners</Text>
+      <Value>f_body.std_r</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Front Walls</Group>
+      <Text>Thermo King HK430</Text>
+      <Value>f_body.tk_hk430</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Front Walls</Group>
+      <Text>Thermo King HK430 w/Round Corners</Text>
+      <Value>f_body.tk_hk430_r</Value>
+    </ListItem>
+    
+    
+    <ListItem>
+	<Group>Rear Doors</Group>
+      <Text>Swing Door</Text>
+      <Value>rear_body.swing</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Doors</Group>
+      <Text>Swing Door (Double Lock-Rod)</Text>
+      <Value>rear_body.swing_dbl</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Doors</Group>
+      <Text>Swing Door B</Text>
+      <Value>rear_body.swingt</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Doors</Group>
+      <Text>Swing Door B (Double Lock-Rod)</Text>
+      <Value>rear_body.swingt_dbl</Value>
+    </ListItem>
+    
+  </AccessoryItems>
+  <FilePath>C:\Mods Studio 2\Data\ModData\SCS\Vehicles\my_xmls\ATS Smarty.trailmobile.sv90_scr.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>trailmobile.sv90_scr</InternalName>
+  <VehicleAuthor>Smarty</VehicleAuthor>
+  <VehicleName>Trailmobile SuperVan 90</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.28_panel</InternalName>
+      <Name>28_dryvan</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.32_panel</InternalName>
+      <Name>32_dryvan</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.36_panel</InternalName>
+      <Name>36_dryvan</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.40_panel</InternalName>
+      <Name>40_dryvan</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.45_panel</InternalName>
+      <Name>45_dryvan</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.48_panel</InternalName>
+      <Name>48_dryvan</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

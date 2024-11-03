@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>5e159a33-c057-4c9f-9fc8-d9f28e699fee</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.polart.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>polart</InternalName>
+  <VehicleAuthor>jon-ruda</VehicleAuthor>
+  <VehicleName>Tanker Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.tanker</InternalName>
+      <Name>Standard Connectors</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.tankerc</InternalName>
+      <Name>Custom Connectors</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

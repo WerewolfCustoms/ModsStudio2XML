@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>2da71bc0-6c51-48a5-9fb6-00924811dc1a</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>roof</Group>
+      <Text>roof</Text>
+      <Value>toproof.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>sides</Text>
+      <Value>sides_p.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>reardoor</Text>
+      <Value>reardoor.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>front</Text>
+      <Value>front.front</Value>
+    </ListItem>
+    <ListItem />
+  </AccessoryItems>
+  <FilePath>C:\Users\kristian\Documents\Mods Studio 2\UserVehicles\ATS.big_red.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>big_red</InternalName>
+  <VehicleAuthor>krizzy090</VehicleAuthor>
+  <VehicleName>big_red</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants />
+  <XmlDefinitionAuthor>krizzy090</XmlDefinitionAuthor>
+</Variable>

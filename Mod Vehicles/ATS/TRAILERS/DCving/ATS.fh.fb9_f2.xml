@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ac59f57d-6ba1-47f6-b2b7-6b326b89509d</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>markers.box_32</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black @@standard@@</Text>
+      <Value>r_mudflap.black</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ranger</Text>
+      <Value>r_mudflap.ranger</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White @@standard@@</Text>
+      <Value>r_mudflap.white</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>tape.tape1</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.fh.fb9_f2.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>fh.fb9_f2</InternalName>
+  <VehicleAuthor>dcving</VehicleAuthor>
+  <VehicleName>Fruehauf FB9 F2</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.chrome</InternalName>
+      <Name>Chrome</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.paint</InternalName>
+      <Name>Paint</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

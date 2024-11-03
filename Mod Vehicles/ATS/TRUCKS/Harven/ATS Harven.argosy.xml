@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>612698a0-d961-4761-a064-61e4c68c1ca1</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\xmls_new style\All.argosy.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>argosy</InternalName>
+  <VehicleAuthor>Harven</VehicleAuthor>
+  <VehicleName>Freightliner Argosy</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>low_roof.argosy.cabin</InternalName>
+      <Name>Low Roof</Name>
+    </Variant>
+    <Variant>
+      <InternalName>low_roof2.argosy.cabin</InternalName>
+      <Name>Low Roof w/Deflectors</Name>
+    </Variant>
+    <Variant>
+      <InternalName>raised_roof.argosy.cabin</InternalName>
+      <Name>Raised Roof</Name>
+    </Variant>
+    <Variant>
+      <InternalName>spoiler_roof.argosy.cabin</InternalName>
+      <Name>Low Roof w/Spoiler</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

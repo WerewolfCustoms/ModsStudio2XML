@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>14730e77-b384-43ad-a34a-1d3c1a44a255</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ETS2.liner.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>liner</InternalName>
+  <VehicleAuthor>RTA</VehicleAuthor>
+  <VehicleName>Mack Superliner V8</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>cab_m.liner.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_a.liner.cabin</InternalName>
+      <Name>USA Cab with low sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_b.liner.cabin</InternalName>
+      <Name>Sleeper Cab with high sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

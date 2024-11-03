@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>baf42105-97b7-4d06-9b2f-36324f28bd14</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    
+    <ListItem>
+      <Text>Schwarzmüller Sliding Tarpaulin</Text>
+      <Value>container.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Schwarzmüller insulated</Text>
+      <Value>container.shape2</Value>
+    </ListItem>
+
+    
+  </AccessoryItems>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\My modded xml\All F12 Ridged.volvo.f12.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>volvo.f12</InternalName>
+  <VehicleAuthor>Mahyar Ghasemi, Lucasi</VehicleAuthor>
+  <VehicleName>VOLVO F Series Ridged</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>l2h1.volvo.f12.cabin</InternalName>
+      <Name>Sleeper Old</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h2.volvo.f12.cabin</InternalName>
+      <Name>Sleeper New</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h3.volvo.f12.cabin</InternalName>
+      <Name>Sleeper Old + Spoiler</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h4.volvo.f12.cabin</InternalName>
+      <Name>Sleeper New + Spoiler</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h5.volvo.f12.cabin</InternalName>
+      <Name>Globetrotter</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h6.volvo.f12.cabin</InternalName>
+      <Name>Globetrotter XL</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

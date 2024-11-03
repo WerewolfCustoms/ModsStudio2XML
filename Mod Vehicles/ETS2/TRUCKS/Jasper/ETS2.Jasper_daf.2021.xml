@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>fe174328-8879-4346-b3f2-2cf2027dba28</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint + Sequencial Turn</Text>
+      <Value>r_bumper.p_sts</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint + Sequencial Turn 2x</Text>
+      <Value>r_bumper.p_sts_2x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint 2x</Text>
+      <Value>r_bumper.paint_2x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4x Paint</Text>
+      <Value>chassi.chs_4x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4x Paint Low</Text>
+      <Value>chassi.chs_4x2_p_ld</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>6x Short Paint</Text>
+      <Value>chassi.chs_6x_ftgp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>6x Long Paint</Text>
+      <Value>chassi.chs_6x_ftsp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>6x4 Paint</Text>
+      <Value>chassi.chs_6x4_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>6x Steer Taglift Paint</Text>
+      <Value>chassi.chs_6x_ftnp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Cover Rear</Group>
+      <Text>Paint</Text>
+      <Value>chs_cover_r.r_exec_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5th Wheel</Group>
+      <Text>JOST Paint</Text>
+      <Value>5th_wheel.5th_jost_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>4x Paint</Text>
+      <Value>r_fender.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>4x Paint Selene</Text>
+      <Value>r_fender.paint_rb</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Paint</Text>
+      <Value>r_fender.paint_6xl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Paint Selene</Text>
+      <Value>r_fender.paint_6xrb</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>Paint</Text>
+      <Value>r_fendr_top.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>Paint And Plastic</Text>
+      <Value>r_fendr_top.paint_s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>Paint And Plastic ll</Text>
+      <Value>r_fendr_top.paint2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>Mid Paint</Text>
+      <Value>r_top_fendr.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>Mid Paint And Plastic</Text>
+      <Value>r_top_fendr.paint_s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>Mid Paint And Plastic ll</Text>
+      <Value>r_top_fendr.paint2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Side Light</Group>
+      <Text>6x Paint</Text>
+      <Value>l_fender.paint_6x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>4x Paint 845 + 430l</Text>
+      <Value>tank.4x2_stc_p2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>4x Paint 845 + 620l</Text>
+      <Value>tank.4x2_stc_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>4x Low Paint 790 + 430l</Text>
+      <Value>tank.4x2_stc_p2l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>4x Low Paint 790 + 620l</Text>
+      <Value>tank.4x2_stc_pl</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>6x Short Paint 485 + 270l</Text>
+      <Value>tank.6xtg_stc_pt</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>6x Short Paint 485l</Text>
+      <Value>tank.6xtg_stc_pt2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>6x Long Paint 600 + 400l</Text>
+      <Value>tank.6xd_stc_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>6x Long Paint 675l</Text>
+      <Value>tank.6xd_f_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>6x Long Paint 675 + 400l</Text>
+      <Value>tank.6xd_fe_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>6x Long Paint 675 + 400l V2</Text>
+      <Value>tank.6xd_fe_p2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>6x4 Paint 400l</Text>
+      <Value>tank.6xts_stc_pt</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>6x4 Paint 600l</Text>
+      <Value>tank.6xt_stc_pt</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank Straps</Group>
+      <Text>4x Paint 845 + 430l</Text>
+      <Value>strap_tank.4x2_paint2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank Straps</Group>
+      <Text>4x Paint 845 + 620l</Text>
+      <Value>strap_tank.4x2_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank Straps</Group>
+      <Text>4x Low Paint 790 + 430l</Text>
+      <Value>strap_tank.4x2_p2_ld</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank Straps</Group>
+      <Text>4x Low Paint</Text>
+      <Value>strap_tank.4x2_p_ld</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank Straps</Group>
+      <Text>6x Short Paint 485 + 270l</Text>
+      <Value>strap_tank.6xg_pt</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank Straps</Group>
+      <Text>6x Short Paint 485l</Text>
+      <Value>strap_tank.6xg_pt2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank Straps</Group>
+      <Text>6x Long Paint 600 + 400l</Text>
+      <Value>strap_tank.6xd_s_pt</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank Straps</Group>
+      <Text>6x Long Paint 675l</Text>
+      <Value>strap_tank.6xd_f_pt</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank Straps</Group>
+      <Text>6x Long Paint 675 + 400l</Text>
+      <Value>strap_tank.6xd_fe_pt</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank Straps</Group>
+      <Text>6x Long Paint 675 + 400l</Text>
+      <Value>strap_tank.6xd_fe_pt</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank Straps</Group>
+      <Text>6x Long Paint 675 + 400l V2</Text>
+      <Value>strap_tank.6xd_fe_pt2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank Straps</Group>
+      <Text>6x4 Paint 430l</Text>
+      <Value>strap_tank.6xt_pt</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank Straps</Group>
+      <Text>6x4 Paint 600l</Text>
+      <Value>strap_tank.6xs_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Exclusive</Text>
+      <Value>sideskirt.exc_4x2_01</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Exclusive And Exhaust</Text>
+      <Value>sideskirt.exc_4x2_02</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Exclusive And Ladder</Text>
+      <Value>sideskirt.exc_4x2_01l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Exclusive, Ladder And Exhaust</Text>
+      <Value>sideskirt.exc_4x2_02l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Paint</Text>
+      <Value>sideskirt.pnt_4x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Paint And Silver</Text>
+      <Value>sideskirt.slv_4x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Paint And Silver ll</Text>
+      <Value>sideskirt.slv_4x2_2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Long Exclusive And Ladder</Text>
+      <Value>sideskirt.exc_6x_01</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Long Exclusive, Ladder And Exhaust</Text>
+      <Value>sideskirt.exc_6x_02</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Long Stock Paint</Text>
+      <Value>sideskirt.paint_6xds</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Long Stock Paint ll</Text>
+      <Value>sideskirt.p_6xds_2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x4 Exclusive And Ladder</Text>
+      <Value>sideskirt.exc_6x4_01</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x4 Exclusive, Ladder And Exhaust</Text>
+      <Value>sideskirt.exc_6x4_02</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x4 Stock Paint</Text>
+      <Value>sideskirt.paint_6xt</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4/6x Duty Paint</Text>
+      <Value>sideskirt.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Low Chassis Duty Paint</Text>
+      <Value>sideskirt_ld.paint_ld</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidepanel</Group>
+      <Text>Side Panel Paint</Text>
+      <Value>catalyst_c.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sidepanel</Group>
+      <Text>Side Panel Paint</Text>
+      <Value>catalyst_ld.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Battery Box</Group>
+      <Text>Paint</Text>
+      <Value>battery_box.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Ladder</Group>
+      <Text>Paint</Text>
+      <Value>s_ladder.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirt Light Bar</Group>
+      <Text>4x Exclusive Paint</Text>
+      <Value>exhaust_l.exc4x2_01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Light Bar</Group>
+      <Text>4x Aero Paint</Text>
+      <Value>exhaust_l.aero_4x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Light Bar</Group>
+      <Text>4x Standard Exclusive Paint</Text>
+      <Value>exhaust_l.exc4x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Light Bar</Group>
+      <Text>4x Stock Paint</Text>
+      <Value>exhaust_l.std_4x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>sideskirt Light Bar</Group>
+      <Text>6x Long Exclusive Paint</Text>
+      <Value>exhaust_l.exc_6x_01</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirt Light Bar</Group>
+      <Text>6x Long Aero Paint</Text>
+      <Value>exhaust_l.aero6xl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Light Bar</Group>
+      <Text>6x Long Standard Exclusive Paint</Text>
+      <Value>exhaust_l.exc6xl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Light Bar</Group>
+      <Text>6x Long Stock Paint</Text>
+      <Value>exhaust_l.std6xl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Light Bar</Group>
+      <Text>6x4 Exclusive Paint</Text>
+      <Value>exhaust_l.exc_6x4_01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Light Bar</Group>
+      <Text>6x4 Aero Paint</Text>
+      <Value>exhaust_l.aero6xt_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Light Bar</Group>
+      <Text>6x4 Standard Exclusive Paint</Text>
+      <Value>exhaust_l.exc6xt_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Light Bar</Group>
+      <Text>6x4 Stock Paint</Text>
+      <Value>exhaust_l.std6xt_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>XF/XG Paint</Text>
+      <Value>spoiler.paint_xg</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>XF/XG Paint ll</Text>
+      <Value>spoiler.paint_xg2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>XF/XG Paint lll</Text>
+      <Value>spoiler.paint_xg3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>XG+ Paint</Text>
+      <Value>spoiler.paint_xgp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>XG+ Paint ll</Text>
+      <Value>spoiler.p_xgp_2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>XG+ Paint lll</Text>
+      <Value>spoiler.p_xgp_3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflector</Group>
+      <Text>XF Paint</Text>
+      <Value>s_deflector.paint_xf</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflector</Group>
+      <Text>XF Paint And Aero Paint</Text>
+      <Value>s_deflector.paint_apxf</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflector</Group>
+      <Text>XF Paint And Aero Stock</Text>
+      <Value>s_deflector.paint_a_xf</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflector</Group>
+      <Text>XG/+ Paint</Text>
+      <Value>s_deflector.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflector</Group>
+      <Text>XG/+ Paint And Aero Exclusive</Text>
+      <Value>s_deflector.paint_exc</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflector</Group>
+      <Text>XG/+ Paint And Aero Paint</Text>
+      <Value>s_deflector.plastic_ap</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflector</Group>
+      <Text>XG/+ Paint And Aero Stock</Text>
+      <Value>s_deflector.paint_a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint</Text>
+      <Value>f_fender_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender Aero</Group>
+      <Text>Paint Low</Text>
+      <Value>aero.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Door Step</Group>
+      <Text>Paint</Text>
+      <Value>doorstep.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Handle</Group>
+      <Text>Paint</Text>
+      <Value>doorhndl.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Door Handle</Group>
+      <Text>Paint And Exclusive</Text>
+      <Value>doorhndl.black</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Handle</Group>
+      <Text>Paint And Aluminium</Text>
+      <Value>doorhndl.silver</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Detail</Group>
+      <Text>XF/XG Paint</Text>
+      <Value>s_detail.paint2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Detail</Group>
+      <Text>XG+ Paint</Text>
+      <Value>s_detail.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Stripe</Group>
+      <Text>XF/XG Paint</Text>
+      <Value>s_strip.painted2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Stripe</Group>
+      <Text>XG+ Paint</Text>
+      <Value>s_strip.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Paint</Text>
+      <Value>mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Paint And Plastic</Text>
+      <Value>mirror.semi</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Paint Camera</Text>
+      <Value>mirror.cam_pt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Paint And Plastic Camera</Text>
+      <Value>mirror.cam_semi</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Paint</Text>
+      <Value>f_mirror.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Paint Camera</Text>
+      <Value>f_mirror.cam_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Mirror</Group>
+      <Text>Paint</Text>
+      <Value>s_mirror.std_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Lower Grille Guard</Group>
+      <Text>Extended Paint</Text>
+      <Value>b_grill.bumper</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Lower Grille Guard</Group>
+      <Text>Extended Paint V2</Text>
+      <Value>b_grill.bumper_2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Lower Grille Guard</Group>
+      <Text>Extended Paint V3</Text>
+      <Value>b_grill.bumper_3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Lower Grille Guard</Group>
+      <Text>Extended Exclusive</Text>
+      <Value>b_grill.bumper_2021</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Paint And Plastic</Text>
+      <Value>f_bumper.semi</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Paint</Text>
+      <Value>f_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fog Light</Group>
+      <Text>Fog Light Cover</Text>
+      <Value>fog.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Main Lights Infill</Group>
+      <Text>Paint</Text>
+      <Value>f_light_d.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>license Plate</Group>
+      <Text>Your Custom plate 01</Text>
+      <Value>plate.ct_01</Value>
+    </ListItem>
+	<ListItem>
+      <Group>license Plate</Group>
+      <Text>Your Custom plate 02</Text>
+      <Value>plate.ct_02</Value>
+    </ListItem>
+	<ListItem>
+      <Group>license Plate Backplate/Surround</Group>
+      <Text>Custom 01</Text>
+      <Value>sp_plate.custom_01</Value>
+    </ListItem>
+	<ListItem>
+      <Group>license Plate Backplate/Surround</Group>
+      <Text>Custom 02</Text>
+      <Value>sp_plate.custom_02</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sensor</Group>
+      <Text>Paint</Text>
+      <Value>sensor.plastic_l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>XF Paint</Text>
+      <Value>f_intake_cab.paint_xf</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>XF Stock And Paint</Text>
+      <Value>f_intake_cab.std_p_xf</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>XF Exclusive And Paint</Text>
+      <Value>f_intake_cab.exc_p_xf</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>XF Paint And Stock</Text>
+      <Value>f_intake_cab.p_std_xf</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>XF Paint And Exclusive</Text>
+      <Value>f_intake_cab.p_exc_xf</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mask</Group>
+      <Text>XG/+ Paint</Text>
+      <Value>f_intake_cab.paint_xg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mask</Group>
+      <Text>XG/+ Stock And Paint</Text>
+      <Value>f_intake_cab.std_p_xg</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>XG/+ Exclusive And Paint</Text>
+      <Value>f_intake_cab.exc_p_xg</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>XG/+ Paint And Stock</Text>
+      <Value>f_intake_cab.p_std_xg</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>XG/+Paint And Exclusive</Text>
+      <Value>f_intake_cab.p_exc_xg</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>XG/+ Paint And Exclusive V2</Text>
+      <Value>f_intake_cab.p_exc_xg_2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask Bottom</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mask Bottom</Group>
+      <Text>Paint And Stock</Text>
+      <Value>f_intake_chs.p_std</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask Bottom</Group>
+      <Text>Exclusive And Paint</Text>
+      <Value>f_intake_chs.exc_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask Bottom</Group>
+      <Text>Paint And Exclusive</Text>
+      <Value>f_intake_chs.p_exc</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask Bottom</Group>
+      <Text>Stock And Paint</Text>
+      <Value>f_intake_chs.std_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Intake</Group>
+      <Text>Paint</Text>
+      <Value>f_intk_cab.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front intake Bottom</Group>
+      <Text>Paint</Text>
+      <Value>f_intk_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Grille</Group>
+      <Text>Paint</Text>
+      <Value>f_inlay_cab.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Grille Bottom</Group>
+      <Text>Paint</Text>
+      <Value>f_inlay_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Badge Plate</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_bar.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Corner Deflector</Group>
+      <Text>Paint</Text>
+      <Value>c_defletor.std</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Bull Bar</Group>
+      <Text>Athenas</Text>
+      <Value>f_grill.paint_01</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Bull Bar</Group>
+      <Text>Athenas ll</Text>
+      <Value>f_grill.paint_02</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Bull Bar</Group>
+      <Text>Athenas lll</Text>
+      <Value>f_grill.paint_03</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo</Group>
+      <Text>Paint</Text>
+      <Value>f_logo.new_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo</Group>
+      <Text>DAF Eindhoven Paint</Text>
+      <Value>f_logo.en_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo</Group>
+      <Text>Old DAF Paint</Text>
+      <Value>f_logo.old_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Underneath the window</Description>
+      <Group>Front logo Top</Group>
+      <Text>Paint</Text>
+      <Value>f_logo_en.new_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Underneath the window</Description>
+      <Group>Front logo Top</Group>
+      <Text>DAF Eindhoven Paint</Text>
+      <Value>f_logo_en.en_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Underneath the window</Description>
+      <Group>Front logo Top</Group>
+      <Text>Old DAF Paint</Text>
+      <Value>f_logo_en.old_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Windshield Frame</Group>
+      <Text>Paint</Text>
+      <Value>f_wnd_frame.painted</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Stoneguard</Group>
+      <Text>Paint</Text>
+      <Value>s_guard.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sunshield</Group>
+      <Text>XF Paint And Exclusive</Text>
+      <Value>sunshield.paint_exc</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sunshield</Group>
+      <Text>XF Paint And Standard</Text>
+      <Value>sunshield.paint_std</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sunshield</Group>
+      <Text>XF Paint II</Text>
+      <Value>sunshield.paint_2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sunshield</Group>
+      <Text>XF/XG Exclusive DRL Orange 2021</Text>
+      <Value>sunshield.exec_01_o</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sunshield</Group>
+      <Text>XF/XG Exclusive DRL Orange V2 2021</Text>
+      <Value>sunshield.exec_02_o</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sunshield</Group>
+      <Text>XF/XG Exclusive DRL White 2021</Text>
+      <Value>sunshield.exec_01_w</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sunshield</Group>
+      <Text>XF/XG Stock And Paint</Text>
+      <Value>sunshield.stock_pt</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sunshield</Group>
+      <Text>XF/XG Exclusive DRL White V2 2021</Text>
+      <Value>sunshield.exec_02_w</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sunshield</Group>
+      <Text>XF/XG Paint</Text>
+      <Value>sunshield.paintp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>XG Stock And Standard</Text>
+      <Value>sunshield.stock_std</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sunshield</Group>
+      <Text>XF/XG Exclusive II</Text>
+      <Value>sunshield.exec2_xg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>XF/XG Exclusive III</Text>
+      <Value>sunshield.exec3_xg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>XF/XG Exclusive</Text>
+      <Value>sunshield.exec_xg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>XG Paint And Exclusive</Text>
+      <Value>sunshield.paint_xgp2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>XG Paint II</Text>
+      <Value>sunshield.paint_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>XG+ Exclusive DRL Orange 2021</Text>
+      <Value>sunshield.exec_01_op</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sunshield</Group>
+      <Text>XG+ Exclusive DRL Orange V2 2021</Text>
+      <Value>sunshield.exec_02_op</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sunshield</Group>
+      <Text>XG+ Exclusive DRL White 2021</Text>
+      <Value>sunshield.exec_01_wp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sunshield</Group>
+      <Text>XG+ Exclusive DRL White V2 2021</Text>
+      <Value>sunshield.exec_02_wp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sunshield</Group>
+      <Text>XG+ Stock And Paint</Text>
+      <Value>sunshield.stock_ptp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sunshield</Group>
+      <Text>XG+ Exclusive II</Text>
+      <Value>sunshield.exec2_xgp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>XG+ Exclusive III</Text>
+      <Value>sunshield.exec3_xgp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>XG+ Exclusive</Text>
+      <Value>sunshield.exec_xgp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sunshield</Group>
+      <Text>XG+ Paint And Exclusive</Text>
+      <Value>sunshield.paint_excp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sunshield</Group>
+      <Text>XG+ Paint And Standard</Text>
+      <Value>sunshield.paint_stdp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sunshield</Group>
+      <Text>XG+ Paint ll</Text>
+      <Value>sunshield.paint_2p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Cab Lights</Group>
+      <Text>XF/XG Paint</Text>
+      <Value>cab_detail.painted_m</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Cab Lights</Group>
+      <Text>XF/XG Paint Short</Text>
+      <Value>cab_detail.painted_m2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Cab Lights</Group>
+      <Text>XG+ Paint</Text>
+      <Value>cab_detail.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Light Bar</Group>
+      <Text>Exclusive</Text>
+      <Value>r_grill.r_grill_01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Light Bar</Group>
+      <Text>Exclusive II</Text>
+      <Value>r_grill.r_grill_03</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Light Bar</Group>
+      <Text>Short</Text>
+      <Value>r_grill.r_grill_02_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Light Bar</Group>
+      <Text>Short II</Text>
+      <Value>r_grill.r_grill_03_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Horn</Group>
+      <Text>Right Aluminium And Paint</Text>
+      <Value>r_horn.alum_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Horn</Group>
+      <Text>Right Chrome And Paint</Text>
+      <Value>r_horn.chr_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Horn</Group>
+      <Text>Left Aluminium And Paint</Text>
+      <Value>l_horn.alum_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Horn</Group>
+      <Text>Left Chrome And Paint</Text>
+      <Value>l_horn.chr_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Horn</Group>
+      <Text>Top Right Side Aluminium And paint</Text>
+      <Value>r_horn_l.alum_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Horn</Group>
+      <Text>Top Right Side Chrome And Paint</Text>
+      <Value>r_horn_l.chr_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Horn</Group>
+      <Text>Top Left Side Aluminium And Paint</Text>
+      <Value>l_horn_l.alum_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Horn</Group>
+      <Text>Top Left Side Chrome And Paint</Text>
+      <Value>l_horn_l.chr_p</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.Jasper_daf.2021.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>new_daf.2021</InternalName>
+  <VehicleAuthor>Jasper.</VehicleAuthor>
+  <VehicleName>DAF 2021 Rework</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>xf.new_daf.2021.cabin</InternalName>
+      <Name>XF</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>xg.new_daf.2021.cabin</InternalName>
+      <Name>XG</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>xg_plus.new_daf.2021.cabin</InternalName>
+      <Name>XG+</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay</XmlDefinitionAuthor>
+</Variable>

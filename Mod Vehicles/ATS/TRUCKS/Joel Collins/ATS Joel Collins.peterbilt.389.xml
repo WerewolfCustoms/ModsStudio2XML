@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>a0ef86d7-ab3a-42e5-a68a-8cc9deec4647</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Text>Painted Chassis</Text>
+      <Value>chs.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Chassis</Text>
+      <Value>chs.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Deck Plate Custom</Text>
+      <Value>dcover.shape00p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Deck (Painted Decor)</Text>
+      <Value>dcover.shape02bdp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Deck (Painted Decor)</Text>
+      <Value>dcover.shape02bdpw</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Deck 2 (Painted Decor)</Text>
+      <Value>dcover.shape02dp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Deck 2</Text>
+      <Value>dcover.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Deck</Text>
+      <Value>dcover.shape03b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Deck (Chrome Decor)</Text>
+      <Value>dcover.shape03bdc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Deck (Painted Decor)</Text>
+      <Value>dcover.shape03bdp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Deck (Painted Decor)</Text>
+      <Value>dcover.shape03bdpw</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Deck 2 (Chrome Decor)</Text>
+      <Value>dcover.shape03dc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Deck 2 (Painted Decor)</Text>
+      <Value>dcover.shape03dp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Door Handles</Text>
+      <Value>doorhndl.shape02a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Door Handles</Text>
+      <Value>doorhndl.shape02b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Door Handles</Text>
+      <Value>doorhndl.shape02c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Door Handles</Text>
+      <Value>doorhndl.shape02d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Door Handles</Text>
+      <Value>doorhndl.shape03a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Door Handles (Chrome Vents)</Text>
+      <Value>doorhndl.shape0b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Factory Fifth Wheel (Paint)</Text>
+      <Value>fifthwheel.shape01pg</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Factory Fifth Wheel (Paint)(Deckplate)</Text>
+      <Value>fifthwheel.shape01pgs</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fontaine Fifth Wheel (Paint)</Text>
+      <Value>fifthwheel.shape02pg</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fontaine Fifth Wheel (Paint)(Deckplate)</Text>
+      <Value>fifthwheel.shape02pgs</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Holland Fifth Wheel (Paint)</Text>
+      <Value>fifthwheel.shape03pg</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Holland Fifth Wheel (Paint)(Deckplate)</Text>
+      <Value>fifthwheel.shape03pgs</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Exclusive Air Filters 1</Text>
+      <Value>filters.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Exclusive Air Filters 2</Text>
+      <Value>filters.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Exclusive Air Filters 3</Text>
+      <Value>filters.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Air Filters</Text>
+      <Value>filters.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Air Filters 1</Text>
+      <Value>filters.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Air Filters 2</Text>
+      <Value>filters.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Air Filters 3</Text>
+      <Value>filters.shape08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Custom Air Filters</Text>
+      <Value>filters.shape09</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Custom Air Filters 1</Text>
+      <Value>filters.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Custom Air Filters 2</Text>
+      <Value>filters.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Front Light Bars</Text>
+      <Value>fltr_lbars.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Front Light Bars</Text>
+      <Value>fltr_lbars.shape02l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Front &amp; Rear Light Bars</Text>
+      <Value>fltr_lbars.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Front &amp; Rear Light Bars</Text>
+      <Value>fltr_lbars.shape03l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Fuel Tanks (DEF)</Text>
+      <Value>ftanks.shape01a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Fuel Tanks</Text>
+      <Value>ftanks.shape01al</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Fuel Tanks 2</Text>
+      <Value>ftanks.shape01bal</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Fuel Tanks (Painted DEF)</Text>
+      <Value>ftanks.shape01ap</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Fuel Tanks 2 (Painted DEF)</Text>
+      <Value>ftanks.shape01bap</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Fuel Tanks 2 (DEF)</Text>
+      <Value>ftanks.shape01ba</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Fuel Tanks (DEF)</Text>
+      <Value>ftanks.shape01bc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Fuel Tanks</Text>
+      <Value>ftanks.shape01bcl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Fuel Tanks 2</Text>
+      <Value>ftanks.shape01bbcl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Fuel Tanks (Painted DEF)</Text>
+      <Value>ftanks.shape01bcp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Fuel Tanks 2 (Painted DEF)</Text>
+      <Value>ftanks.shape01bbcp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Fuel Tanks 2 (DEF)</Text>
+      <Value>ftanks.shape01bbc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Custom Fuel Tanks 2 (DEF)</Text>
+      <Value>ftanks.shape02bchrp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Custom Fuel Tanks 3 (DEF)</Text>
+      <Value>ftanks.shape02b_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Custom Fuel Tanks (DEF)</Text>
+      <Value>ftanks.shape02bpntc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Custom Fuel Tanks</Text>
+      <Value>ftanks.shape02chrp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Center Panel</Text>
+      <Value>ftpanel.shape00p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Center Panel 2 Lamps (Paint)</Text>
+      <Value>ftpanel.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Center Panel 2 Lamps (Paint)</Text>
+      <Value>ftpanel.shape2b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Center Panel 4 Lamps (Paint)</Text>
+      <Value>ftpanel.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Center Panel 4 Lamps (Paint)</Text>
+      <Value>ftpanel.shape4b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Center Panel (Paint)</Text>
+      <Value>ftpanel.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Center Panel (Paint)</Text>
+      <Value>ftpanel.shape6b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Windshield frame</Text>
+      <Value>f_wsframe.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Grill Frame</Text>
+      <Value>grill.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Hood Latches Paint</Text>
+      <Value>hood_latches.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Red</Text>
+      <Value>inthandles.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Red</Text>
+      <Value>inthandles.shape03a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Red</Text>
+      <Value>inthandles.shape03b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - White</Text>
+      <Value>inthandles.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - White</Text>
+      <Value>inthandles.shape04a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - White</Text>
+      <Value>inthandles.shape04b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Green</Text>
+      <Value>inthandles.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Green</Text>
+      <Value>inthandles.shape05a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Green</Text>
+      <Value>inthandles.shape05b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Blue</Text>
+      <Value>inthandles.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Blue</Text>
+      <Value>inthandles.shape06a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Blue</Text>
+      <Value>inthandles.shape06b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Purple</Text>
+      <Value>inthandles.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Purple</Text>
+      <Value>inthandles.shape07a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Purple</Text>
+      <Value>inthandles.shape07b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Yellow</Text>
+      <Value>inthandles.shape08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Yellow</Text>
+      <Value>inthandles.shape08a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Yellow</Text>
+      <Value>inthandles.shape08b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Orange</Text>
+      <Value>inthandles.shape09</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Orange</Text>
+      <Value>inthandles.shape09a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Orange</Text>
+      <Value>inthandles.shape09b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Black</Text>
+      <Value>inthandles.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Black</Text>
+      <Value>inthandles.shape10a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Handles - Black</Text>
+      <Value>inthandles.shape10b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Mesh Painted 2</Text>
+      <Value>mesh.shape01p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Mesh Painted 1</Text>
+      <Value>mesh.shape02p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Mesh Painted 3</Text>
+      <Value>mesh.shape03p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Mirrors (Painted Brackets)</Text>
+      <Value>mirror.mirror00cp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Mirrors 2 (Painted Brackets)</Text>
+      <Value>mirror.mirror00cp2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Mirrors 3 (Painted Brackets)</Text>
+      <Value>mirror.mirror01cp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Mirrors Painted</Text>
+      <Value>mirror.mirror05fp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Mirrors (Painted Brackets)</Text>
+      <Value>mirror.mirror05p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Classic (Painted Brackets)</Text>
+      <Value>mirror.shape01p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Duty (Painted Brackets)</Text>
+      <Value>mirror.shape02p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Painted (Chrome Brackets)</Text>
+      <Value>mirror.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Painted</Text>
+      <Value>mirror.shape03p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Chrome (Painted Brackets)</Text>
+      <Value>mirror.shape04p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 1 (Chrome/Paint)</Text>
+      <Value>mudflaps.m00b2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 1 (Paint/Chrome)</Text>
+      <Value>mudflaps.m00c1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 1 (Paint/Paint)</Text>
+      <Value>mudflaps.m00c2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 1 (Chrome/Paint)</Text>
+      <Value>mudflaps.m01b2_b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 2 (Chrome/Paint)</Text>
+      <Value>mudflaps.m01b2_w</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 1 (Paint/Chrome)</Text>
+      <Value>mudflaps.m01c1_b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 2 (Paint/Chrome)</Text>
+      <Value>mudflaps.m01c1_w</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 1 (Paint/Paint)</Text>
+      <Value>mudflaps.m01c2_b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 2 (Paint/Paint)</Text>
+      <Value>mudflaps.m01c2_w</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 3 (Basic/Paint)</Text>
+      <Value>mudflaps.m02bp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 3 (Chrome/Paint)</Text>
+      <Value>mudflaps.m02cp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 3 (Paint/Basic)</Text>
+      <Value>mudflaps.m02pb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 3 (Paint/Chrome)</Text>
+      <Value>mudflaps.m02pc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 3 (Paint/Paint)</Text>
+      <Value>mudflaps.m02pp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 4 (Basic/Paint)</Text>
+      <Value>mudflaps.m03a2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 4 (Chrome/Paint)</Text>
+      <Value>mudflaps.m03b2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 4 (Paint/Chrome)</Text>
+      <Value>mudflaps.m03c1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 4 (Paint/Paint)</Text>
+      <Value>mudflaps.m03c2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 5 (Basic/Paint)</Text>
+      <Value>mudflaps.m04a2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 5 (Chrome/Paint)</Text>
+      <Value>mudflaps.m04b2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 5 (Paint/Chrome)</Text>
+      <Value>mudflaps.m04c1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 5 (Paint/Paint)</Text>
+      <Value>mudflaps.m04c2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 6 (Basic/Paint)</Text>
+      <Value>mudflaps.m06a2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 6 (Chrome/Paint)</Text>
+      <Value>mudflaps.m06b2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 6 (Paint/Chrome)</Text>
+      <Value>mudflaps.m06c1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End 6 (Paint/Paint)</Text>
+      <Value>mudflaps.m06c2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End With Black Mud Flaps (Paint)</Text>
+      <Value>mudflaps.v00bp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear End With White Mud Flaps (Paint)</Text>
+      <Value>mudflaps.v00wp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Bumper Paint</Text>
+      <Value>mudflaps.shape03fpc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Fenders (Paint)</Text>
+      <Value>mudguard.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Fenders 2 (Paint)</Text>
+      <Value>mudguard.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Fenders 3 (Chrome/Paint)</Text>
+      <Value>mudguard.cp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Fenders 3 (Paint/Basic)</Text>
+      <Value>mudguard.pb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Fenders 3 (Paint/Chrome)</Text>
+      <Value>mudguard.pc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Fenders 3 (Paint)</Text>
+      <Value>mudguard.pp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Fenders (Paint)</Text>
+      <Value>mudguard.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Fenders 2 (Paint)</Text>
+      <Value>mudguard.paintb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Fenders 4 (Chrome/Paint)</Text>
+      <Value>mudguard.cp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Fenders 4 (Paint/Basic)</Text>
+      <Value>mudguard.pb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Fenders 4 (Paint/Chrome)</Text>
+      <Value>mudguard.pc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Fenders 4 (Paint)</Text>
+      <Value>mudguard.pp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Radius Fenders (Chrome)</Text>
+      <Value>mudguard.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Radius Fenders (Paint)</Text>
+      <Value>mudguard.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Low Rider Quarter Fenders (Paint)</Text>
+      <Value>mudguard.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Low Rider Quarter Fenders (Paint)</Text>
+      <Value>mudguard.paintb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Single Cut Fenders (Chrome/Paint)</Text>
+      <Value>mudguard.srg_cp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Single Cut Fenders (Paint/Chrome)</Text>
+      <Value>mudguard.srg_pc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Single Cut Fenders (Paint)</Text>
+      <Value>mudguard.srg_pp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Angry Duck Ornament</Text>
+      <Value>ornament.shape00p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Peterbilt Ornament</Text>
+      <Value>ornament.shape01p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Bugler Ornament</Text>
+      <Value>ornament.shape02p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Basic Axle Panel Paint</Text>
+      <Value>r_axlecover.shape01b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Center Axle Panel (Chrome/Paint)</Text>
+      <Value>r_axlecover.shape02ccp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Axle Panel (Chrome/Paint)</Text>
+      <Value>r_axlecover.shape02cp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Center Axle Panel (Paint/Chrome)</Text>
+      <Value>r_axlecover.shape02cpc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Axle Panel With Lights (Chrome/Paint)</Text>
+      <Value>r_axlecover.shape02cp2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Axle Panel (Paint/Chrome)</Text>
+      <Value>r_axlecover.shape02pc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Axle Panel With Lights (Paint/Chrome)</Text>
+      <Value>r_axlecover.shape02pc2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Axle Panel (Paint)</Text>
+      <Value>r_axlecover.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Axle Panel (Basic/Paint)</Text>
+      <Value>r_axlecover.shape03bp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Axle Panel With Lights (Basic/Paint)</Text>
+      <Value>r_axlecover.shape03bp2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Center Axle Panel (Paint)</Text>
+      <Value>r_axlecover.shape03c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Center Axle Panel (Basic/Paint)</Text>
+      <Value>r_axlecover.shape03cbp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Center Axle Panel (Paint/Basic)</Text>
+      <Value>r_axlecover.shape03cpb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Axle Panel (Paint/Basic)</Text>
+      <Value>r_axlecover.shape03pb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Axle Panel With Lights (Paint/Basic)</Text>
+      <Value>r_axlecover.shape03pb2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Axle Panel With Lights (Paint)</Text>
+      <Value>r_axlecover.shape032</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Paint I</Text>
+      <Value>steering_w.sci_clp_l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Paint II</Text>
+      <Value>steering_w.sci_clp_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Straight Sun Visor</Text>
+      <Value>sunshield.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Straight Sun Visor</Text>
+      <Value>sunshield.paint_dt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Straight Sun Visor (Paint)</Text>
+      <Value>sunshield.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Straight Sun Visor (Paint)</Text>
+      <Value>sunshield.paint_dt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Bowtie Sun Visor 1</Text>
+      <Value>sunshield.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Bowtie Sun Visor 1</Text>
+      <Value>sunshield.paint_dt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bowtie Sun Visor 1 (Paint)</Text>
+      <Value>sunshield.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bowtie Sun Visor 1 (Paint)</Text>
+      <Value>sunshield.paint_dt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Bowtie Sun Visor 2</Text>
+      <Value>sunshield.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Bowtie Sun Visor 2</Text>
+      <Value>sunshield.paint_dt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bowtie Sun Visor 2 (Paint)</Text>
+      <Value>sunshield.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bowtie Sun Visor 2 (Paint)</Text>
+      <Value>sunshield.paint_dt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Door Window (Rubber Trim)</Text>
+      <Value>swindowcover.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Factory Door Window (Painted Trim)</Text>
+      <Value>swindowcover.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tinted Door Window (Painted Trim)</Text>
+      <Value>swindowcover.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Door Window (Painted Trim)</Text>
+      <Value>swindowcover.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Trim</Text>
+      <Value>trims.shape01p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Trim (Hidden Hinges)</Text>
+      <Value>trims.shape01p_nh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Trim (Chrome Hinges)</Text>
+      <Value>trims.shape02cp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Trim (Hidden Hinges With Chrome)</Text>
+      <Value>trims.shape02cp_nh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Trim</Text>
+      <Value>trims.shape02p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Trim (Hidden Hinges)</Text>
+      <Value>trims.shape02p_nh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Trim</Text>
+      <Value>trims.shape03p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Trim (Hidden Hinges)</Text>
+      <Value>trims.shape03p_nh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Trim (Chrome Hinges)</Text>
+      <Value>trims.shape04cp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Trim (Hidden Hinges With Chrome)</Text>
+      <Value>trims.shape04cp_nh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Trim</Text>
+      <Value>trims.shape04p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Trim (Hidden Hinges)</Text>
+      <Value>trims.shape04p_nh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Windshield Trim</Text>
+      <Value>wstrims.shape02</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\leadf\Documents\Mods Studio 2\UserVehicles\ATS Joel Collins.peterbilt.389.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>peterbilt.389</InternalName>
+  <VehicleAuthor>Joel Collins</VehicleAuthor>
+  <VehicleName>Peterbilt_389 Joel Collins</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>duty.peterbilt.389.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>exclusive.peterbilt.389.cabin</InternalName>
+      <Name>Ultra Cab Sleeper (High Cab Roof)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>high63.peterbilt.389.cabin</InternalName>
+      <Name>Standup Sleeper (High Cab Roof)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>low63.peterbilt.389.cabin</InternalName>
+      <Name>Standup Sleeper (Low Cab Roof)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>standard.peterbilt.389.cabin</InternalName>
+      <Name>Low Roof Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>stdplus.peterbilt.389.cabin</InternalName>
+      <Name>Ultra Cab Sleeper (Low Cab Roof)</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

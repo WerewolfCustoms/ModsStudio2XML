@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>7eaa0410-848a-4f34-8aa8-cc99f70fee52</Id>
+  <IsEnabled>true</IsEnabled>
+  <MS2LibraryVersion>
+    <Major>2021</Major>
+	<Minor>1</Minor>
+  </MS2LibraryVersion>
+  <Game>ETS2</Game>
+  <XmlDefinitionAuthor>Russ469</XmlDefinitionAuthor>
+  <InternalName>scania.r4</InternalName>
+  <VehicleName>Scania R 4 series With Rigid Options</VehicleName>
+  <VehicleAuthor>RJL</VehicleAuthor>
+  <VehicleImage>SCS-Scania-R.png</VehicleImage>
+  <VehicleType>NewTrucks</VehicleType>
+   <VehicleVariants>
+    <Variant>
+      <InternalName>normal.scania.r4.cabin</InternalName>
+      <Name>Normal</Name>
+    </Variant>
+    <Variant>
+      <InternalName>topline.scania.r4.cabin</InternalName>
+      <Name>Topline</Name>
+    </Variant>
+  </VehicleVariants>
+    <AccessoryItems>
+   <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 EKERI BOXES</Group>
+      <Text>Ekeri 4m Box  4500mm Chassis</Text>
+      <Value>kuzov.ekeri_box4s</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 EKERI BOXES</Group>
+      <Text>Ekeri 4.4m Box</Text>    
+      <Value>kuzov.ekeri_box4_4</Value>
+    </ListItem>  
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 EKERI BOXES</Group>
+      <Text>Ekeri 4.4m Box  4500mm Chassis</Text>    
+      <Value>kuzov.ekeri_box44s</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 EKERI BOXES</Group>
+      <Text>Ekeri 4.4m Box 10x4 Chassis</Text>    
+      <Value>kuzov.ekeri_box10m</Value>
+    </ListItem>  
+    
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 NTM BOXES</Group>
+      <Text>NTM 4m Box</Text>
+      <Value>kuzov.ntm_box4</Value>
+    </ListItem>      
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 NTM BOXES</Group>
+      <Text>NTM 4m Box  4500mm Chassis</Text>
+      <Value>kuzov.ntm_box4s</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 NTM BOXES</Group>
+      <Text>NTM 4.4m Box</Text>    
+      <Value>kuzov.ntm_box4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 NTM BOXES</Group>
+      <Text>NTM 4.4m Box  4500mm Chassis</Text>    
+      <Value>kuzov.ntm_box44s</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 NTM BOXES</Group>
+      <Text>NTM 4.4m Box 10x4 Chassis</Text>    
+      <Value>kuzov.ntm_box10m</Value>
+    </ListItem>  
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 NTM BOXES</Group>
+      <Text>NTM Swap Body 4m</Text>
+      <Value>cargo.ntm_swap4</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 NTM BOXES</Group>
+      <Text>NTM Swap Body 4.4m</Text>
+      <Value>cargo.ntm_swap4_4</Value>
+    </ListItem> 
+
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK 4m Box</Text>
+      <Value>kuzov.vak_box4</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK 4m Box  4500mm Chassis</Text>
+      <Value>kuzov.vak_box4s</Value>
+    </ListItem>    
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK 4.4m Curtain Box 8x chassis ONLY</Text>    
+      <Value>kuzov.vak_4_4_curt</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK 4.4m Box</Text>    
+      <Value>kuzov.vak_box4_4</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK 4.4m Box  4500mm Chassis</Text>    
+      <Value>kuzov.vak_box44s</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK 4.5m Box</Text>    
+      <Value>kuzov.vak_box4_5</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK 4.4m Box 10x4 Chassis</Text>    
+      <Value>kuzov.vak_box10m</Value>
+    </ListItem>  
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK 4.5m Box 10x4 Chassis</Text>    
+      <Value>kuzov.vak_box10x45</Value>
+    </ListItem>  
+
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK Swap Body 4m</Text>
+      <Value>cargo.vak_swap4</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 VAK BOXES</Group>
+      <Text>VAK Swap Body 4.4m</Text>
+      <Value>cargo.vak_swap4_4</Value>
+    </ListItem> 
+    
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 NÄRKO BOXES</Group>
+      <Text>NÄRKO 4m Box</Text>
+      <Value>kuzov.narko_box4</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 NÄRKO BOXES</Group>
+      <Text>NÄRKO 4m Box  4500mm Chassis</Text>
+      <Value>kuzov.narko_box4s</Value>
+    </ListItem>    
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 NÄRKO BOXES</Group>
+      <Text>NÄRKO 4.4m Box</Text>    
+      <Value>kuzov.narko_box4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 NÄRKO BOXES</Group>
+      <Text>NÄRKO 4.4m Box  4500mm Chassis</Text>    
+      <Value>kuzov.narko_box44s</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 NÄRKO BOXES</Group>
+      <Text>NÄRKO 4.4m Box 10x4 Chassis</Text>    
+      <Value>kuzov.narko_box10m</Value>
+    </ListItem>  
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 NÄRKO BOXES</Group>
+      <Text>NÄRKO Swap Body 4m Open Side</Text>
+      <Value>cargo.narko_swap_3</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 NÄRKO BOXES</Group>
+      <Text>NÄRKO Swap Body 4m Closed Side</Text>
+      <Value>cargo.narko_swap_4</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 NÄRKO BOXES</Group>
+      <Text>NÄRKO Swap Body 4.4m Open Side</Text>  
+      <Value>cargo.narko_swap_1</Value>
+    </ListItem>  
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 NÄRKO BOXES</Group>
+      <Text>NÄRKO Swap Body 4.4m Closed Side</Text>
+      <Value>cargo.narko_swap_2</Value>
+    </ListItem> 
+
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 KNAPEN BOXES</Group>
+      <Text>KNAPEN 4m Box</Text>
+      <Value>kuzov.knapen_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 KNAPEN BOXES</Group>
+      <Text>KNAPEN 4m Box  4500mm Chassis</Text>
+      <Value>kuzov.knapen_4s</Value>
+    </ListItem>     
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 KNAPEN BOXES</Group>
+      <Text>KNAPEN 4.2m Box</Text>    
+      <Value>kuzov.knapen_4_2</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 KNAPEN BOXES</Group>
+      <Text>KNAPEN 4.2m Box  4500mm Chassis</Text>    
+      <Value>kuzov.knapen_4_2s</Value>
+    </ListItem> 
+
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 KRAKER BOXES</Group>
+      <Text>Kraker Box</Text> 
+      <Value>kuzov.kraker</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 KRAKER BOXES</Group>
+      <Text>Kraker Box  4500mm Chassis</Text> 
+      <Value>kuzov.kraker_s</Value>
+    </ListItem>        
+
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 MT EKSJÖ BOXES</Group>
+      <Text>MT Eksjö 4.2m</Text>
+      <Value>kuzov.eksjo_4_2</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 MT EKSJÖ BOXES</Group>
+      <Text>MT Eksjö 4.2m 8xx Chassis</Text>
+      <Value>kuzov.eksjo_4_2_s</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 MT EKSJÖ BOXES</Group>
+      <Text>MT Eksjö 4.2m With LogLift Crane</Text>
+      <Value>kuzov.eksjo_4_2_cr</Value>
+    </ListItem> 	  
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 MT EKSJÖ BOXES</Group>
+      <Text>MT Eksjö 4.2m With LogLift Crane</Text>
+      <Value>kuzov.eksjo_4_2_cs</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 MT EKSJÖ BOXES</Group>
+      <Text>MT Eksjö 4.4m Moffett Forklift Available</Text>
+      <Value>kuzov.eksjo_4_4</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 MT EKSJÖ BOXES</Group>
+      <Text>MT Eksjö 4.4m Moffett Forklift Available</Text>
+      <Value>kuzov.eksjo_4_4_s</Value>
+    </ListItem> 	  
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 MT EKSJÖ BOXES</Group>
+      <Text>MT Eksjö 4.4m With LogLift Crane</Text>
+      <Value>kuzov.eksjo_4_4_cr</Value>
+    </ListItem> 	  
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 MT EKSJÖ BOXES</Group>
+      <Text>MT Eksjö 4.4m With LogLift Crane</Text>
+      <Value>kuzov.eksjo_4_4_cs</Value>
+    </ListItem> 	  
+
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 FELDBINDER KIP Cistern</Group>
+      <Text>Feldbinder KIP 6x2  6x4 4500 Chassis</Text>
+      <Value>kuzov.ffb_kip6x45</Value>
+    </ListItem>  	
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 FELDBINDER KIP Cistern</Group>
+      <Text>Feldbinder KIP 6x2  6x4 4700 Chassis</Text>
+      <Value>kuzov.ffb_kip6x</Value>
+    </ListItem>    
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 1 FELDBINDER KIP Cistern</Group>
+      <Text>Feldbinder KIP 8x4 4700 Chassis</Text>
+      <Value>kuzov.ffb_kip8x</Value>
+    </ListItem> 
+	
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>bdf_stuff_r.paint</Text> 
+      <Value>bdf_stuff_r.paint</Value>
+    </ListItem>    
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>rigid_f_l.paint</Text> 
+      <Value>rigid_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>rigid_f_r.paint</Text> 
+      <Value>rigid_f_r.paint</Value>
+    </ListItem>     
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>rigid_f_l.rail_p</Text> 
+      <Value>rigid_f_l.rail_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>rigid_f_r.rail_p</Text> 
+      <Value>rigid_f_r.rail_p</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>rigid_f_l.rail</Text> 
+      <Value>rigid_f_l.rail</Value>
+    </ListItem>	  
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>rigid_f_r.rail</Text> 
+      <Value>rigid_f_r.rail</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>rigid_f_l.mt_eksjo</Text> 
+      <Value>rigid_f_l.mt_eksjo</Value>
+    </ListItem>  
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>rigid_f_r.mt_eksjo</Text> 
+      <Value>rigid_f_r.mt_eksjo</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>sideskirt.paint</Text> 
+      <Value>sideskirt.paint</Value>
+    </ListItem>     
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>f_plate_a.ekeri_p</Text> 
+      <Value>f_plate_a.ekeri_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>f_plate_a.ekeri_p2</Text> 
+      <Value>f_plate_a.ekeri_p2</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>f_plate_b.ekeri_p</Text> 
+      <Value>f_plate_b.ekeri_p</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>f_plate_b.ekeri_p2</Text> 
+      <Value>f_plate_b.ekeri_p2</Value>
+    </ListItem>
+   <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>sideskirt.exh_cover_p</Text> 
+      <Value>sideskirt.exh_cover_p</Value>
+    </ListItem>  
+
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>m_plate.ekeri_p</Text> 
+      <Value>m_plate.ekeri_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>m_plate.ekeri_p2</Text> 
+      <Value>m_plate.ekeri_p2</Value>
+    </ListItem> 
+
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>m_plate_a.ekeri_p</Text> 
+      <Value>m_plate_a.ekeri_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>m_plate_a.ekeri_p2</Text> 
+      <Value>m_plate_a.ekeri_p2</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>m_plate_b.ekeri_p</Text> 
+      <Value>m_plate_b.ekeri_p</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>m_plate_b.ekeri_p2</Text> 
+      <Value>m_plate_b.ekeri_p2</Value>
+    </ListItem>	
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2</Group>
+      <Text>sidecooler.paint</Text> 
+      <Value>sidecooler.paint</Value>
+    </ListItem>     
+
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2 FELDBINDER KIP Sideskirts</Group>
+      <Text>rigid_f_l.6xx_p</Text> 
+      <Value>rigid_f_l.6xx_p</Value> 	
+    </ListItem> 	
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2 FELDBINDER KIP Sideskirts</Group>
+      <Text>rigid_f_l.6xx_p_v8</Text> 
+      <Value>rigid_f_l.6xx_p_v8</Value> 
+    </ListItem>  
+
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2 FELDBINDER KIP Sideskirts</Group>
+      <Text>rigid_f_l.6xx45_p</Text> 	
+      <Value>rigid_f_l.6xx45_p</Value> 		
+    </ListItem> 	
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2 FELDBINDER KIP Sideskirts</Group>
+      <Text>rigid_f_l.6xx45_p_v8</Text> 
+      <Value>rigid_f_l.6xx45_p_v8</Value> 	
+    </ListItem>  	
+	
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2 FELDBINDER KIP Sideskirts</Group>
+      <Text>rigid_f_l.8xx_p</Text> 
+      <Value>rigid_f_l.8xx_p</Value> 	
+    </ListItem> 	
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2 FELDBINDER KIP Sideskirts</Group>
+      <Text>rigid_f_l.8xx_p_v8</Text> 
+      <Value>rigid_f_l.8xx_p_v8</Value> 	
+    </ListItem>  	
+	
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2 FELDBINDER KIP Sideskirts</Group>
+      <Text>rigid_f_r.6xx_p</Text> 
+      <Value>rigid_f_r.6xx_p</Value> 
+    </ListItem> 
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2 FELDBINDER KIP Sideskirts</Group>
+      <Text>rigid_f_r.6xx_p_v8</Text> 
+      <Value>rigid_f_r.6xx_p_v8</Value> 
+    </ListItem>  
+
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2 FELDBINDER KIP Sideskirts</Group>
+      <Text>rigid_f_r.6xx45_p</Text> 	
+      <Value>rigid_f_r.6xx45_p</Value> 	
+    </ListItem> 	
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2 FELDBINDER KIP Sideskirts</Group>
+      <Text>rigid_f_r.6xx45_p_v8</Text> 
+      <Value>rigid_f_r.6xx45_p_v8</Value> 
+    </ListItem> 
+	
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2 FELDBINDER KIP Sideskirts</Group>
+      <Text>rigid_f_r.8xx_p</Text> 
+      <Value>rigid_f_r.8xx_p</Value> 
+    </ListItem> 
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 2 FELDBINDER KIP Sideskirts</Group>
+      <Text>rigid_f_r.8xx_p_v8</Text> 
+      <Value>rigid_f_r.8xx_p_v8</Value> 
+    </ListItem>  
+
+    <ListItem>
+      <Description>Canvas on top of the MT Eksjö Boxes.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 3</Group>
+      <Text>cooler.canvas</Text> 
+      <Value>cooler.canvas</Value>
+    </ListItem>  
+    <ListItem>
+      <Description>Cooler and Heater Units on the front.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 3</Group>
+      <Text>cooler.ekeheat_p</Text> 
+      <Value>cooler.ekeheat_p</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>Cooler and Heater Units on the front.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 3</Group>
+      <Text>cooler.heater_p</Text> 
+      <Value>cooler.heater_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Cooler and Heater Units on the front.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 3</Group>
+      <Text>cooler_4.heater_p</Text> 
+      <Value>cooler_4.heater_p</Value>
+    </ListItem>      
+    <ListItem>
+      <Description>Body Frame on the Boxes.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 3</Group>
+      <Text>body_frame.paint</Text> 
+      <Value>body_frame.paint</Value>
+    </ListItem>     
+    <ListItem>
+      <Description>Body Frame on the 10x4 4.5m Boxes.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 3</Group>
+      <Text>body_frame.paint_10x4_5</Text> 
+      <Value>body_frame.paint_10x4_5</Value>
+    </ListItem>  
+    
+    <ListItem>
+      <Description>These are the Chassis, Axles and Rear parts.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 4</Group>
+      <Text>r_lights.shape9</Text> 
+      <Value>r_lights.shape9</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Chassis, Axles And Rear parts.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 4</Group>
+      <Text>Custom Rear Lights Painted Frame</Text> 
+      <Value>r_lights.paint</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Chassis, Axles and Rear parts.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 4</Group>
+      <Text>chs.paint</Text> 
+      <Value>chs.paint</Value>
+    </ListItem>     
+    <ListItem>
+      <Description>These are the Chassis, Axles And Rear parts.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 4</Group>
+      <Text>chs.mt_eksjo</Text> 
+      <Value>chs.mt_eksjo</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Chassis, Axles and Rear parts.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 4</Group>
+      <Text>Moffett Forklift Painted</Text> 
+      <Value>chs.moffett</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Chassis, Axles And Rear parts.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 4</Group>
+      <Text>MT Eksjö Moffett Forklift Painted</Text> 
+      <Value>r_reflector.eksjo_moff</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Chassis, Axles And Rear parts.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 4</Group>
+      <Text>MT Eksjö Loglift Painted</Text> 
+      <Value>r_reflector.loglift</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Chassis, Axles And Rear parts.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 4</Group>
+      <Text>axles.paint</Text> 
+      <Value>axles.paint</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Chassis, Axles and Rear parts.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 4</Group>
+      <Text>cab_susp.kast</Text> 
+      <Value>cab_susp.kast</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>Suspension parts Scania RJL.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 4</Group>
+      <Text>cab_susp.paint</Text> 
+      <Value>cab_susp.paint</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 4</Group>
+      <Text>Swap Body/TopLift Painted Chassis</Text>
+      <Value>kuzov.toplift_swap</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Image></Image>
+      <Group>RIGID PARTS 4</Group>
+      <Text>VAK Swap Body Painted Chassis</Text>
+      <Value>kuzov.vak_swap</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>Custom License Plate Rigid Chassis.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 4</Group>
+      <Text>r_lp_rigid.r_pl_c</Text> 
+      <Value>r_lp_rigid.r_pl_c</Value>
+    </ListItem> 	
+	
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_b.parlok_l_np</Text> 
+      <Value>fenders_b.parlok_l_np</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_b.parlok</Text> 
+      <Value>fenders_b.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_b.parlok_np</Text> 
+      <Value>fenders_b.parlok_np</Value>
+    </ListItem>
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_b.parlok_cut</Text> 
+      <Value>fenders_b.parlok_cut</Value>
+    </ListItem>    
+    
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_c.parlok_l_np</Text> 
+      <Value>fenders_c.parlok_l_np</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_c.parlok</Text> 
+      <Value>fenders_c.parlok</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_c.parlok_np</Text> 
+      <Value>fenders_c.parlok_np</Value>
+    </ListItem>
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_c.parlok_cut</Text> 
+      <Value>fenders_c.parlok_cut</Value>
+    </ListItem>     
+
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_d.parlok</Text> 
+      <Value>fenders_d.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_d.parlok_np</Text> 
+      <Value>fenders_d.parlok_np</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_t.parlok_l_np</Text> 
+      <Value>fenders_t.parlok_l_np</Value>
+    </ListItem>
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_t.parlok</Text> 
+      <Value>fenders_t.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_t.parlok_np</Text> 
+      <Value>fenders_t.parlok_np</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>These are the Fenders.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FENDERS</Group>
+      <Text>fenders_t.parlok_cut</Text> 
+      <Value>fenders_t.parlok_cut</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FELDBINDER KIP Fenders</Group>	 
+      <Text>fenders_b.shape1</Text>
+      <Value>fenders_b.shape1</Value>	  
+    </ListItem> 	  
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FELDBINDER KIP Fenders</Group>	 	  
+      <Text>fenders_b.shape2</Text>
+      <Value>fenders_b.shape2</Value>	  
+    </ListItem> 	  
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FELDBINDER KIP Fenders</Group>	 	  
+      <Text>fenders_b.shape3</Text>
+      <Value>fenders_b.shape3</Value>	  
+    </ListItem> 	  
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FELDBINDER KIP Fenders</Group>	 	  
+      <Text>fenders_b.shape4</Text>
+      <Value>fenders_b.shape4</Value>	  
+    </ListItem> 	  
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FELDBINDER KIP Fenders</Group>	 	  
+      <Text>fenders_b.shape4b</Text>
+      <Value>fenders_b.shape4b</Value>	  
+    </ListItem> 	  
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FELDBINDER KIP Fenders</Group>	 	  
+      <Text>fenders_b.shape5</Text>
+      <Value>fenders_b.shape5</Value>	  
+    </ListItem> 	  
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FELDBINDER KIP Fenders</Group>	 	  
+      <Text>fenders_b.shape5b</Text>
+      <Value>fenders_b.shape5b</Value>	  
+    </ListItem> 	  
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FELDBINDER KIP Fenders</Group>	 	  
+      <Text>fenders_b.shape6</Text>
+      <Value>fenders_b.shape6</Value>	  
+    </ListItem> 	  
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FELDBINDER KIP Fenders</Group>	 	  
+      <Text>fenders_b.shape7</Text>
+      <Value>fenders_b.shape7</Value>	  
+    </ListItem> 	  
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FELDBINDER KIP Fenders</Group>	 	  
+      <Text>fenders_b.shape8</Text>
+      <Value>fenders_b.shape8</Value>	  
+    </ListItem> 	  
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FELDBINDER KIP Fenders</Group>	 	  
+      <Text>fenders_b.shape9</Text>
+      <Value>fenders_b.shape9</Value>	  
+    </ListItem>	  
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FELDBINDER KIP Fenders</Group>	 	  
+      <Text>fenders_b.shape9b</Text>
+      <Value>fenders_b.shape9b</Value>	  
+    </ListItem> 	  
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FELDBINDER KIP Fenders</Group>	 	  
+      <Text>fenders_b.shape10</Text>
+      <Value>fenders_b.shape10</Value>	  
+    </ListItem> 	  
+    <ListItem>
+      <Description>Use same color for each group.\nThese are the parts on the sides.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 5 FELDBINDER KIP Fenders</Group>	  
+      <Text>fenders_b.shape10b</Text>
+      <Value>fenders_b.shape10b</Value>
+    </ListItem> 
+
+    <ListItem>
+      <Description>This is the Rear Mudflap.</Description>
+      <Image></Image>
+      <Group>RIGID PARTS 6</Group>
+      <Text>Rear Mudflap</Text> 
+      <Value>r_porikad.r_mdflap</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>

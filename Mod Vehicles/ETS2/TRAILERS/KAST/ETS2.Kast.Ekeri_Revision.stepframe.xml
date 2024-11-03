@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>b90c7772-dea2-4a80-ad83-1ce722bc3b16</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Trailer Front, Rear And Roof</Group>
+      <Text>4.0m</Text>
+      <Value>body.4_0x13_6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Front, Rear And Roof</Group>
+      <Text>4.2m</Text>
+      <Value>body.4_2x13_6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Front, Rear And Roof</Group>
+      <Text>4.4m</Text>
+      <Value>body.4_4x13_6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Left</Group>
+      <Text>4.0m Closed Side</Text>
+      <Value>l_body.4_0x13_6_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Left</Group>
+      <Text>4.0m Doors</Text>
+      <Value>l_body.4_0x13_6_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Left</Group>
+      <Text>4.2m Closed Side</Text>
+      <Value>l_body.4_2x13_6_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Left</Group>
+      <Text>4.2m Doors</Text>
+      <Value>l_body.4_2x13_6_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Left</Group>
+      <Text>4.4m Closed Side</Text>
+      <Value>l_body.4_4x13_6_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Left</Group>
+      <Text>4.4m Doors</Text>
+      <Value>l_body.4_4x13_6_d</Value>
+    </ListItem>
+		<ListItem>
+      <Group>Trailer Right</Group>
+      <Text>4.0m Closed Side</Text>
+      <Value>r_body.4_0x13_6_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Right</Group>
+      <Text>4.0m Doors</Text>
+      <Value>r_body.4_0x13_6_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Right</Group>
+      <Text>4.2m Closed Side</Text>
+      <Value>r_body.4_2x13_6_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Right</Group>
+      <Text>4.2m Doors</Text>
+      <Value>r_body.4_2x13_6_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Right</Group>
+      <Text>4.4m Closed Side</Text>
+      <Value>r_body.4_4x13_6_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Right</Group>
+      <Text>4.4m Doors</Text>
+      <Value>r_body.4_4x13_6_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tarpaulin Roofs</Group>
+      <Text>4.0m</Text>
+      <Value>roof_1.roof_tarp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tarpaulin Roofs</Group>
+      <Text>4.2m</Text>
+      <Value>roof_2.roof_tarp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tarpaulin Roofs</Group>
+      <Text>4.4m</Text>
+      <Value>roof_3.roof_tarp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Heater + Refrigerator Units</Group>
+      <Text>Paint (4m)</Text>
+      <Value>f_body_1.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Heater + Refrigerator Units</Group>
+      <Text>Paint (4.2m)</Text>
+      <Value>f_body_2.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Heater + Refrigerator Units</Group>
+      <Text>Paint (4.4m)</Text>
+      <Value>f_body_3.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Ventilation Hatch</Group>
+      <Text>Paint (4m)</Text>
+      <Value>f_vent_1.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Ventilation Hatch</Group>
+      <Text>Paint (4.2m)</Text>
+      <Value>f_vent_2.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Ventilation Hatch</Group>
+      <Text>Paint (4.4m)</Text>
+      <Value>f_vent_3.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Frame</Group>
+      <Text>Paint</Text>
+      <Value>frame.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fueltank</Group>
+      <Text>Paint</Text>
+      <Value>fueltank.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Axles</Group>
+      <Text>Paint</Text>
+      <Value>axles.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Sideskirts</Group>
+      <Text>Front Sidecover</Text>
+      <Value>ekeri_rail_l.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Sideskirts</Group>
+      <Text>Front Box</Text>
+      <Value>ekeri_f_l.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Sideskirts</Group>
+      <Text>Middle Sidecover</Text>
+      <Value>chs_m_l.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Sideskirts</Group>
+      <Text>Front Sidecover</Text>
+      <Value>ekeri_rail_r.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Sideskirts</Group>
+      <Text>Front Box</Text>
+      <Value>ekeri_f_r.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Sideskirts</Group>
+      <Text>Middle Sidecover</Text>
+      <Value>chs_m_r.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fenders</Group>
+      <Text>Front Paint</Text>
+      <Value>ekeri_fend_f.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fenders</Group>
+      <Text>Middle Paint</Text>
+      <Value>ekeri_fend_g.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fenders</Group>
+      <Text>Rear Paint</Text>
+      <Value>ekeri_fend_h.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Licence Plate</Group>
+      <Text>EU</Text>
+      <Value>custom_lp.3_eu</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Licence Plate</Group>
+      <Text>FIN</Text>
+      <Value>custom_lp.2_fin</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Licence Plate</Group>
+      <Text>UK</Text>
+      <Value>custom_lp.2_uk</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Guard</Group>
+      <Text>Paint</Text>
+      <Value>r_guard.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Lights</Group>
+      <Text>Paint</Text>
+      <Value>r_lights.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Mudflap</Group>
+      <Text>Paint</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.ekeri.stepframe.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>ekeri.stepframe</InternalName>
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>Ekeri Revision - Step-Frame Semi-Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.4_0x13_6</InternalName>
+      <Name>4.0m</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.4_2x13_6</InternalName>
+      <Name>4.2m</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.4_4x13_6</InternalName>
+      <Name>4.4m</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay, Taede</XmlDefinitionAuthor>
+</Variable>

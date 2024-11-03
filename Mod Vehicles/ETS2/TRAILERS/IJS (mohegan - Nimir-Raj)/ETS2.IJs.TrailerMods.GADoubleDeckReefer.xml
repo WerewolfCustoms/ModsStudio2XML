@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>be342f3a-c80c-48ee-8faf-47086fc3894d</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>Single 3 Axel Paint</Text>
+      <Value>chassis.ijs_ga_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>Single 3 Axel Paint Steer</Text>
+      <Value>chassis.ijs_ga_stp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Body</Group>
+      <Text>Victor Cooler Painted</Text>
+	  <Value>f_body.ijs_cooler</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Body</Group>
+      <Text>Turbo King Cooler Painted</Text>
+      <Value>f_body.ijs_t_king</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Body</Group>
+      <Text>Cooler Thermo Box Painted</Text>
+      <Value>f_body.th_box_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Chassis Left</Group>
+      <Text>Painted Bar</Text>
+      <Value>chs_f_l.bar_ijs_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Chassis Left</Group>
+      <Text>Painted Cage</Text>
+      <Value>chs_f_l.cage_ijs_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Chassis Left</Group>
+      <Text>Painted Single Bar Cage</Text>
+      <Value>chs_f_l.cage_ijs_ps</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Chassis Left</Group>
+      <Text>Stock Cage and Painted Box</Text>
+      <Value>chs_f_l.p_box_cage</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Chassis Left</Group>
+      <Text>Painted Cage and Painted Box</Text>
+      <Value>chs_f_l.pf_box_cage</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Chassis Right</Group>
+      <Text>Painted Bar</Text>
+      <Value>chs_f_r.bar_ijs_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Chassis Right</Group>
+      <Text>Painted Cage</Text>
+      <Value>chs_f_r.cage_ijs_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Chassis Right</Group>
+      <Text>Painted Single Bar Cage</Text>
+      <Value>chs_f_r.cage_ijs_ps</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Chassis Right</Group>
+      <Text>Stock Cage and Painted Box</Text>
+      <Value>chs_f_r.p_box_cage</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Chassis Right</Group>
+      <Text>Painted Cage and Painted Box</Text>
+      <Value>chs_f_r.pf_box_cage</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Chassis Left</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.paint_box</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Chassis Right</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.paint_box</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fenders</Group>
+      <Text>Fenders Painted</Text>
+      <Value>fenders.ijs_fend_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Standard Eco Painted</Text>
+      <Value>r_bumper.ijs_eco_2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Standard Painted</Text>
+      <Value>r_bumper.ijs_euro_3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>SDC</Text>
+      <Value>r_bumper.ijs_sdc</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>SDC Burger Lights</Text>
+      <Value>r_bumper.ijs_sdc_b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>SDC Light Slots</Text>
+      <Value>r_bumper.ijs_sdc_s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Exclusive</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Mudflap</Group>
+      <Text>Paint</Text>
+      <Value>r_mudflap.ijs_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Mudflap</Group>
+      <Text>Paint (SDC)</Text>
+      <Value>r_mudflap.ijs_p_sdc</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>ijsga.ddga</InternalName>
+  <VehicleAuthor>IJ's Mods</VehicleAuthor>
+  <VehicleName>IJ's Mods Double Deck Reefer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+	<Variant>
+		<InternalName>body.ijs_body_ga</InternalName>
+		<Name>Double Deck Reefer</Name>
+	</Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy, Danny Kay</XmlDefinitionAuthor>
+</Variable>

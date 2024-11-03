@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>12b0b3e6-f64e-4a8f-9364-448a4e3529c0</Id>
+  <IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2020</Major>
+	 <Minor>7</Minor>
+	</MS2LibraryVersion>
+  <Game>ETS2</Game>
+  <InternalName>narko.rigid_15m</InternalName>
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>Närko Full Trailers Rigid 15m</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName></InternalName>
+      <Name>••••••••••••••••••••••••••••• I N F O R M A T I O N •••••••••••••••••••••••••••••</Name>
+    </Variant>	
+    <Variant>
+      <InternalName></InternalName>
+      <Name>BE AWARE that there is some height differences between templates, you</Name>
+    </Variant>	
+    <Variant>
+      <InternalName></InternalName>
+      <Name>might need to do SEPARATE skinmods with DIFFERENT names if you have</Name>
+    </Variant>
+    <Variant>
+      <InternalName></InternalName>
+      <Name>ADVANCED GRAPHICS to have PERFECT fit on all of these trailervariants !!!</Name>
+    </Variant>		
+	<Variant>
+      <InternalName></InternalName>
+      <Name>•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</Name>
+    </Variant>	
+    <Variant>
+      <InternalName>body.4_4_box</InternalName>
+      <Name>Närko 4.4m, DRY and Reefer</Name>
+    </Variant>
+	<Variant>
+      <InternalName></InternalName>
+      <Name>•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</Name>
+    </Variant>		
+    <Variant>
+      <InternalName>body.4_4_box_clo</InternalName>
+      <Name>Närko 4.4m Closed, DRY and Reefer</Name>
+    </Variant>
+    <Variant>
+      <InternalName></InternalName>
+      <Name>•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</Name>
+    </Variant>		
+    <Variant>
+      <InternalName>body.body_dolly</InternalName>
+      <Name>Dolly (You HAVE to TICK this BOX for above TANDEMS !!)</Name>
+    </Variant>
+    <Variant>
+      <InternalName></InternalName>
+      <Name>•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</Name>
+    </Variant>		
+  </VehicleVariants>
+  
+  <AccessoryItems>
+    <ListItem>
+      <Group>AXLES</Group>
+      <Text>Axles Paint</Text>
+      <Value>axles.paint</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>FRAME</Group>
+      <Text>Body Frame Paint</Text>
+      <Value>body_frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FRAME</Group>
+      <Text>Chassis Paint</Text>
+      <Value>frame.paint</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>LICENSE PLATE</Group>
+      <Text>Custom License Plate</Text>
+      <Value>custom_lp.custom_lp</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>FUELTANK</Group>
+      <Text>Fueltank Paint</Text>
+      <Value>fueltank.paint</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>ACCESSORIES</Group>
+      <Text>ThermoKing HK430 Heater</Text>
+      <Value>f_body.hk_430_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>ACCESSORIES</Group>
+      <Text>Front Ventilation Hatch</Text>
+      <Value>f_vent.vent_door</Value>
+    </ListItem>
+    <ListItem>
+      <Group>ACCESSORIES</Group>
+      <Text>Rear Ventilation Hatch</Text>
+      <Value>r_vent.vent_door</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Paint Parlok Fenders E Front</Text>
+      <Value>narko_fend_e.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Paint Parlok Fenders F Middle</Text>
+      <Value>narko_fend_f.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Paint Parlok Fenders G Rear</Text>
+      <Value>narko_fend_g.paint</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>Paint Sidecover Front Left Side</Text>
+      <Value>narko_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>Paint Sidecover 1 toolbox Front Left Side</Text>
+      <Value>narko_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>Paint Sidecover, 2 toolbox Front Left Side</Text>
+      <Value>narko_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>Paint Sidecover Front Right Side</Text>
+      <Value>narko_f_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>Paint Sidecover, Rail Left Side</Text>
+      <Value>narko_l_rail.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>Paint Sidecover Middle Left Side</Text>
+      <Value>narko_m_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>Paint Sidecover Middle Right Side</Text>
+      <Value>narko_m_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>Paint Sidecover Small Rear Left Side</Text>
+      <Value>narko_r_l.paint</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>REAR BUMPER</Group>
+      <Text>RST Wide Paint</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>REAR BUMPER</Group>
+      <Text>RST Small Paint</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>MUDFLAP</Group>
+      <Text>Rear Mudflap Custom Paint</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>	
+  </AccessoryItems>  
+  
+</Variable>

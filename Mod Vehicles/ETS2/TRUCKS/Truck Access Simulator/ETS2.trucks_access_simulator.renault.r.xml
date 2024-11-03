@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>320b7768-edf5-4d3e-8465-5ea24d96f350</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Spoiler</Group>
+      <Text>Lightbox</Text>
+      <Value>spoiler.lightbox</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Spoiler</Group>
+      <Text>Old Spoiler</Text>
+      <Value>spoiler.oldspoiler</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Spoiler</Group>
+      <Text>Spoiler</Text>
+      <Value>spoiler.spoiler</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Paint</Text>
+      <Value>sunshld.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Corner Deflector</Group>
+      <Text>Paint</Text>
+      <Value>f_deflector.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Cab Band</Group>
+      <Text>Paint</Text>
+      <Value>bandeau.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Bull Bar</Group>
+      <Text>Paint Grill</Text>
+      <Value>f_grill.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Paint Bumper Closed Light</Text>
+      <Value>f_bumper.shape4p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Paint Simple</Text>
+      <Value>f_bumper.shape3p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Paint Bumper White Light</Text>
+      <Value>f_bumper.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Paint Bumper Yellow Light</Text>
+      <Value>f_bumper.shape2p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Paint</Text>
+      <Value>mirror.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Exhaust</Group>
+      <Text>Stock Paint</Text>
+      <Value>exhaust.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Air Filter</Group>
+      <Text>Stock Paint</Text>
+      <Value>air_filter.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Tank</Group>
+      <Text>Paint</Text>
+      <Value>tank.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Tandem Body</Group>
+      <Text>Curtain</Text>
+      <Value>body.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Tandem Body</Group>
+      <Text>Dry Van</Text>
+      <Value>body.shape1</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.trucks_access_simulator.renault.r.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>renault.r</InternalName>
+  <VehicleAuthor>Truck Access Simulator</VehicleAuthor>
+  <VehicleName>Renault R Pour</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>1981.renault.r.cabin</InternalName>
+      <Name>1981</Name>
+    </Variant>
+    <Variant>
+      <InternalName>1985.renault.r.cabin</InternalName>
+      <Name>1985</Name>
+    </Variant>
+    <Variant>
+      <InternalName>1985hr.renault.r.cabin</InternalName>
+      <Name>1985 High Roof</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay</XmlDefinitionAuthor>
+</Variable>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>f995da56-b436-4551-afd4-6a3565923cce</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>kogel.r</InternalName>
+  <VehicleAuthor>Schumi</VehicleAuthor>
+  <VehicleName>Kögel Reefer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>x</Description>
+      <Image>kogel.r.jpg</Image>
+      <InternalName>body.reefer</InternalName>
+      <Name>Kögel Reefer</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>2301-19-145__reefer.png</XmlDefinitionAuthor>
+</Variable>

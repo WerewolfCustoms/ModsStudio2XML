@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>a06dcef9-3335-435d-87a5-baec9645857f</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>scju.sko</InternalName>
+  <VehicleAuthor>JUsseTV</VehicleAuthor>
+  <VehicleName>Schmitz Cargobull S.KO 2O2O</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>x</Description>
+      <Image>x</Image>
+      <InternalName>body.reefer4m</InternalName>
+      <Name>S.KO</Name>
+    </Variant>
+  </VehicleVariants>
+  <AccessoryItems>
+    <ListItem>
+      <Description>x</Description>
+      <Group>COOLER UNITS (PAINTABLE)</Group>
+      <Image>x</Image>
+      <Text>Carrier Vector HE19</Text>
+      <Value>reefer.c_he19p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>COOLER UNITS (PAINTABLE)</Group>
+      <Image>x</Image>
+      <Text>Carrier Vector 1550</Text>
+      <Value>reefer.c_v1550p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>COOLER UNITS (PAINTABLE)</Group>
+      <Image>x</Image>
+      <Text>Daikin Exigo E1500</Text>
+      <Value>reefer.d_exigop</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>COOLER UNITS (PAINTABLE)</Group>
+      <Image>x</Image>
+      <Text>Schmitz S.CU</Text>
+      <Value>reefer.sc_scup</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>COOLER UNITS (PAINTABLE)</Group>
+      <Image>x</Image>
+      <Text>Thermo King Advancer 360</Text>
+      <Value>reefer.tk_adv_360p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>COOLER UNITS (PAINTABLE)</Group>
+      <Image>x</Image>
+      <Text>Thermo King Advancer 400</Text>
+      <Value>reefer.tk_adv_400p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>COOLER UNITS (PAINTABLE)</Group>
+      <Image>x</Image>
+      <Text>Thermo King Advancer 500</Text>
+      <Value>reefer.tk_adv_500p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>COOLER UNITS (PAINTABLE)</Group>
+      <Image>x</Image>
+      <Text>Thermo King SLX 400</Text>
+      <Value>reefer.tk_slx_400p</Value>
+    </ListItem>
+
+    <ListItem>
+      <Description>left-right</Description>
+      <Group>PALLET BOX</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\palletbox\pbox_front.jpg</Image>
+      <Text>Palletbox paint</Text>
+      <Value>f_side_l.pallet_b_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>left-right</Description>
+      <Group>PALLET BOX</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\palletbox\pbox_front_intermodal.jpg</Image>
+      <Text>Palletbox paint intermodal</Text>
+      <Value>f_side_l.pallet_b_pi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>left-right</Description>
+      <Group>PALLET BOX</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\palletbox\pbox_rear.jpg</Image>
+      <Text>Palletbox paint</Text>
+      <Value>r_side_l.palletbox_p</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Description>left</Description>
+      <Group>RAILS</Group>
+      <Image>x</Image>
+      <Text>Rails paint</Text>
+      <Value>f_side_l.side_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>left</Description>
+      <Group>RAILS</Group>
+      <Image>x</Image>
+      <Text>Rails paint Intermodal</Text>
+      <Value>f_side_l.side_pi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>left</Description>
+      <Group>RAILS</Group>
+      <Image>x</Image>
+      <Text>Rails paint</Text>
+      <Value>f2_side_l.side_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>right</Description>
+      <Group>RAILS</Group>
+      <Image>x</Image>
+      <Text>Rails paint</Text>
+      <Value>f_side_r.side_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>right</Description>
+      <Group>RAILS</Group>
+      <Image>x</Image>
+      <Text>Rails paint Intermodal</Text>
+      <Value>f_side_r.side_pi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>right</Description>
+      <Group>RAILS</Group>
+      <Image>x</Image>
+      <Text>Rails paint</Text>
+      <Value>f2_side_r.side_p</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Description>x</Description>
+      <Group>FRAME</Group>
+      <Image>x</Image>
+      <Text>Paint</Text>
+      <Value>frame.paint3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>FRAME</Group>
+      <Image>x</Image>
+      <Text>Paint</Text>
+      <Value>frame.paint320</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>FRAME</Group>
+      <Image>x</Image>
+      <Text>Paint</Text>
+      <Value>frame.paint320i</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>FRAME</Group>
+      <Image>x</Image>
+      <Text>Paint</Text>
+      <Value>frame.paint3i</Value>
+    </ListItem>
+
+    <ListItem>
+      <Description>Roller Stops</Description>
+      <Group>FRAME</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\frame\paint_rollers.jpg</Image>
+      <Text>Paint roller</Text>
+      <Value>r_stopper.paint_r</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Roller Block Stops</Description>
+      <Group>FRAME</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\frame\paint_small_blocks.jpg</Image>
+      <Text>Paint small blocks</Text>
+      <Value>r_stopper.paint_sm</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Description>x</Description>
+      <Group>INTERMODAL</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\frame\intermodal_fullpaint.jpg</Image>
+      <Text>Fullpaint</Text>
+      <Value>intermodal.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>INTERMODAL</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\frame\intermodal_paint.jpg</Image>
+      <Text>Paint</Text>	
+      <Value>intermodal.paint2</Value>
+    </ListItem>
+
+    <ListItem>
+      <Description>x</Description>
+      <Group>LEGS</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\legs\leg_painted.jpg</Image>
+      <Text>Paint</Text>
+      <Value>leg_cover.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>LEGS</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\legs\leg_painted_w_stock_hinge.jpg</Image>
+      <Text>Paint + Hinge</Text>
+      <Value>leg_cover.paint_hin</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>LEGS</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\legs\leg_painted_w_painted_hinge.jpg</Image>
+      <Text>Paint + Hinge paint</Text>
+      <Value>leg_cover.paint_hin_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>LEGS</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\legs\leg_stock_w_painted_hinge.jpg</Image>
+      <Text>Stock + Hinge paint</Text>
+      <Value>leg_cover.stock_hin_p</Value>
+    </ListItem>
+
+    <ListItem>
+      <Description>x</Description>
+      <Group>ACCESSORIES</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\r_bumper\sparewheel.jpg</Image>
+      <Text>Spare wheel cage empty paint</Text>
+      <Value>spare_w.paint_e</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Slim paint</Text>
+      <Value>r_bumper.slim_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Slim paint w/ cover for ladder right</Text>
+      <Value>r_bumper.slim_p_r</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Slim paint w/ cover for ladder middle</Text>
+      <Value>r_bumper.slim_p_rm</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Slim paint w/ cover</Text>
+      <Value>r_bumper.slim_p_rn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Slim paint w/ cover for ladder right</Text>
+      <Value>r_bumper.slim_p_s</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Slim paint w/ cover for ladder middle</Text>
+      <Value>r_bumper.slim_p_sm</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Slim paint w/ cover</Text>
+      <Value>r_bumper.slim_p_sn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Wide paint</Text>
+      <Value>r_bumper.wide_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Wide paint w/ cover for ladder right</Text>
+      <Value>r_bumper.wide_p_r</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Wide paint w/ cover for ladder middle</Text>
+      <Value>r_bumper.wide_p_rm</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Wide paint w/ cover</Text>
+      <Value>r_bumper.wide_p_rn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Wide paint w/ cover for ladder right</Text>
+      <Value>r_bumper.wide_p_s</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Wide paint w/ cover for ladder middle</Text>
+      <Value>r_bumper.wide_p_sm</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Wide paint w/ cover</Text>
+      <Value>r_bumper.wide_p_sn</Value>
+    </ListItem>
+
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER DHOLLANDIA</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\r_bumper\dhollandia_paint.jpg</Image>
+      <Text>Dhollandia paint</Text>
+      <Value>r_bumper.dhol_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER DHOLLANDIA</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\r_bumper\dhollandia_paint_ext.jpg</Image>
+      <Text>Dhollandia paint extended</Text>
+      <Value>r_bumper.dhol_p_ext</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER HOLDERS</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\r_bumper\rear_dhollandia_paint.jpg</Image>
+      <Text>Dhollandia Paint</Text>
+      <Value>r_bpr_hold.paint_dh</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER HOLDERS</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\r_bumper\rear_dhollandia_fullpaint.jpg</Image>
+      <Text>Dhollandia Full-Paint</Text>
+      <Value>r_bpr_hold.fpaint_dh</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER HOLDERS</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\r_bumper\bumper_hold.jpg</Image>
+      <Text>Paint</Text>
+      <Value>r_bpr_hold.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER HOLDERS INTERMODAL</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\r_bumper\bumper_hold_intermodal.jpg</Image>
+      <Text>Paint</Text>
+      <Value>r_bpr_hold.paint_i</Value>
+    </ListItem>
+
+    <ListItem>
+      <Description>EU</Description>
+      <Group>LICENSE PLATES</Group>
+      <Image>x</Image>
+      <Text>Custom EU</Text>
+      <Value>r_lp.custom</Value>
+    </ListItem>
+    <ListItem>
+      <Description>EU Double Height</Description>
+      <Group>LICENSE PLATES</Group>
+      <Image>x</Image>
+      <Text>Custom EU</Text>
+      <Value>r_lp.custom_dh</Value>
+    </ListItem>
+    <ListItem>
+      <Description>EU Slim</Description>
+      <Group>LICENSE PLATES</Group>
+      <Image>x</Image>
+      <Text>Custom EU</Text>
+      <Value>r_lp.custom_slim</Value>
+    </ListItem>
+    <ListItem>
+      <Description>EU Spain</Description>
+      <Group>LICENSE PLATES</Group>
+      <Image>x</Image>
+      <Text>Custom spain</Text>
+      <Value>r_lp.custom_sp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>EU</Description>
+      <Group>LICENSE PLATES</Group>
+      <Image>x</Image>
+      <Text>Paint EU</Text>
+      <Value>r_lp.skin</Value>
+    </ListItem>
+    <ListItem>
+      <Description>EU Double Height</Description>
+      <Group>LICENSE PLATES</Group>
+      <Image>x</Image>
+      <Text>Paint EU</Text>
+      <Value>r_lp.skin_dh</Value>
+    </ListItem>
+    <ListItem>
+      <Description>EU Slim</Description>
+      <Group>LICENSE PLATES</Group>
+      <Image>x</Image>
+      <Text>Paint EU</Text>
+      <Value>r_lp.skin_slim</Value>
+    </ListItem>
+    <ListItem>
+      <Description>EU Spain</Description>
+      <Group>LICENSE PLATES</Group>
+      <Image>x</Image>
+      <Text>Paint Spain</Text>
+      <Value>r_lp.skin_sp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>UK</Description>
+      <Group>LICENSE PLATES</Group>
+      <Image>x</Image>
+      <Text>Custom UK</Text>
+      <Value>r_lp.ukcustom</Value>
+    </ListItem>
+    <ListItem>
+      <Description>UK Double Height</Description>
+      <Group>LICENSE PLATES</Group>
+      <Image>x</Image>
+      <Text>Custom UK</Text>
+      <Value>r_lp.ukcustom_dh</Value>
+    </ListItem>
+    <ListItem>
+      <Description>UK Slim</Description>
+      <Group>LICENSE PLATES</Group>
+      <Image>x</Image>
+      <Text>Custom UK</Text>
+      <Value>r_lp.ukcustom_sl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>UK</Description>
+      <Group>LICENSE PLATES</Group>
+      <Image>x</Image>
+      <Text>Paint UK</Text>
+      <Value>r_lp.ukskin</Value>
+    </ListItem>
+    <ListItem>
+      <Description>UK Double Height</Description>
+      <Group>LICENSE PLATES</Group>
+      <Image>x</Image>
+      <Text>Paint UK</Text>
+      <Value>r_lp.ukskin_dh</Value>
+    </ListItem>
+    <ListItem>
+      <Description>UK Slim</Description>
+      <Group>LICENSE PLATES</Group>
+      <Image>x</Image>
+      <Text>Paint UK</Text>
+      <Value>r_lp.ukskin_slim</Value>
+    </ListItem>
+
+    <ListItem>
+      <Description>Front Wheel Mudflap</Description>
+      <Group>MUDFLAPS</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\mudflp\mf_fr.jpg</Image>
+      <Text>Paint</Text>
+      <Value>mudflap_a.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Middle Wheel Mudflap</Description>
+      <Group>MUDFLAPS</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\mudflp\mf_mid.jpg</Image>
+      <Text>Paint</Text>
+      <Value>mudflap_b.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Wheel Mudflap</Description>
+      <Group>MUDFLAPS</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\mudflp\mf_rear.jpg</Image>
+      <Text>Paint</Text>
+      <Value>mudflap_c.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Mudflap</Description>
+      <Group>MUDFLAPS</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\MODS\JUsseTV\schmitz_sko_2020\mudflp\mf_big_rear.jpg</Image>
+      <Text>Paint</Text>
+      <Value>mudflap_r.paint</Value>
+    </ListItem>	
+  </AccessoryItems>
+</Variable>

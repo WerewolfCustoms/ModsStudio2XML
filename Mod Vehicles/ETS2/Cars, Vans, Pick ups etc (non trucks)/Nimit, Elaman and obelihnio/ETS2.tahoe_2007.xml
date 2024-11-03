@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>73ca2071-8f20-4683-aac0-f6e6f1678a0c</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Radar</Text>
+      <Value>addon.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Radar 2</Text>
+      <Value>addon.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Garmin 50LMT Black</Text>
+      <Value>addon.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear Beacon</Text>
+      <Value>far_beaconr.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Front Beacon</Text>
+      <Value>far_beacon.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Grill</Text>
+      <Value>logo.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Grill Type 1</Text>
+      <Value>logo.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Grill Type 2</Text>
+      <Value>logo.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Grill w/ black logo</Text>
+      <Value>logo.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock w/o logo</Text>
+      <Value>logo.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Grill Black w/ logo</Text>
+      <Value>logo.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Grill w/o logo</Text>
+      <Value>logo.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Grill (Black)</Text>
+      <Value>logo.shape31</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Center Armrest</Text>
+      <Value>podloki.podloki1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Police addon</Text>
+      <Value>podloki.podloki2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Garmin 50LMT Black</Text>
+      <Value>set_glass.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>steering_w.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>win.shape1</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\salon\Documents\Mods Studio 2\UserVehicles\ETS2.tahoe_2007.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>tahoe_2007</InternalName>
+  <VehicleAuthor>Nimit, Elaman, obelihnio</VehicleAuthor>
+  <VehicleName>Chevrolet Tahoe</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>tahoe_2007.tahoe_2007.cabin</InternalName>
+      <Name>2007</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>MohSkinner</XmlDefinitionAuthor>
+</Variable>

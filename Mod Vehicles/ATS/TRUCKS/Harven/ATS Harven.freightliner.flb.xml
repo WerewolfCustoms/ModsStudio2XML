@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>1ec2c3cc-b638-4d19-bb69-e774b85d8d5e</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\xmls_new style\All.freightliner.flb.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>freightliner.flb</InternalName>
+  <VehicleAuthor>Harven</VehicleAuthor>
+  <VehicleName>Freightliner FLB</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>lowcab.freightliner.flb.cabin</InternalName>
+      <Name>FLB Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>lowcabw.freightliner.flb.cabin</InternalName>
+      <Name>FLB Cab with window</Name>
+    </Variant>
+	
+	<Variant>
+      <InternalName>flacab.freightliner.flb.cabin</InternalName>
+      <Name>FLA Cab</Name>
+    </Variant>
+	
+	<Variant>
+      <InternalName>flacabw.freightliner.flb.cabin</InternalName>
+      <Name>FLA Cab with passenger door small window</Name>
+    </Variant>
+	
+  </VehicleVariants>
+</Variable>

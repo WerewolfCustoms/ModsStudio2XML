@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ef7c076a-a1aa-4183-ab40-824578055037</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.volvo.vnl.2018.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>volvo.vnl.2018</InternalName>
+  <VehicleAuthor>galimim,scs,franck_peru,yekkoyek</VehicleAuthor>
+  <VehicleName>Volvo VNL 2018</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>740.volvo.vnl.2018.cabin</InternalName>
+      <Name>740 Mid Roof</Name>
+    </Variant>
+    <Variant>
+      <InternalName>760.volvo.vnl.2018.cabin</InternalName>
+      <Name>760 High Roof</Name>
+    </Variant>
+    <Variant>
+      <InternalName>860.volvo.vnl.2018.cabin</InternalName>
+      <Name>860 Globetrotter XL</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

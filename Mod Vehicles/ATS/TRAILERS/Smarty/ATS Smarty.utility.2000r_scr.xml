@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>463423e6-8706-41ed-ab18-e5e9fcc8197d</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Thermo King Super II, Chrome Corners</Text>
+      <Value>f_body.c96_tksii</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Thermo King Super II</Text>
+      <Value>f_body.p96_tksii</Value>
+    </ListItem>
+    
+    
+    <ListItem>
+      <Text>Roll Door</Text>
+      <Value>rear_body.96_roll</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roll Door/Pintle Cutout</Text>
+      <Value>rear_body.96_roll_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Swing Door</Text>
+      <Value>rear_body.96_swing</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Swing Door/Pintle Cutout</Text>
+      <Value>rear_body.96_swing_p</Value>
+    </ListItem>
+    
+  </AccessoryItems>
+  <FilePath>C:\Users\leadf\Documents\Mods Studio 2\UserVehicles\ATS Smarty.utility.2000r_scr.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>utility.2000r_scr</InternalName>
+  <VehicleAuthor>Smarty</VehicleAuthor>
+  <VehicleName>Utility 2000R Owned</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.96_28</InternalName>
+      <Name>28ft Reefer</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.96_32</InternalName>
+      <Name>32ft Reefer</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.96_40</InternalName>
+      <Name>40ft Reefer</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.96_45</InternalName>
+      <Name>45ft Reefer</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.96_48</InternalName>
+      <Name>48ft Reefer</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>44803285-4fe8-4883-8f49-de7b0024e830</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>r_bumper.krone</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>r_mudflap.mud01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>chs_f_l.toolbox_l_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>chs_f_r.toolbox_r_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>frame.frame_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>frame.frame_d_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>frame.frame_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>frame.frame_d_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>chs_f_l.toolbox_l_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>chs_f_r.toolbox_r_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Auxl. reverse lights</Text>
+      <Value>r_light_chs.shape1</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\My modded xml\ETS2.blumhardt.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>blumhardt</InternalName>
+  <VehicleAuthor>Ventyres, Alang7, Peerke145</VehicleAuthor>
+  <VehicleName>Blumhardt </VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.dolly</InternalName>
+      <Name>Blumhardt curtain</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.body_01</InternalName>
+      <Name>Blumhardt @@bs_scs_curtain_side@@</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

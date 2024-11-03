@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>b8cc5d11-fe08-438c-9970-206a9185f1fe</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\xmls_new style\All Overfloaters.kenworth.k100e_of.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>kenworth.k100e_of</InternalName>
+  <VehicleAuthor>Overfloater</VehicleAuthor>
+  <VehicleName>Kenworth K100E Set Back Axle</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>1.kenworth.k100e_of.cabin</InternalName>
+      <Name>Standard</Name>
+    </Variant>
+    <Variant>
+      <InternalName>2.kenworth.k100e_of.cabin</InternalName>
+      <Name>VIT</Name>
+    </Variant>
+    <Variant>
+      <InternalName>3.kenworth.k100e_of.cabin</InternalName>
+      <Name>Aerodyne</Name>
+    </Variant>
+    <Variant>
+      <InternalName>4.kenworth.k100e_of.cabin</InternalName>
+      <Name>Aerodyne VIT</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

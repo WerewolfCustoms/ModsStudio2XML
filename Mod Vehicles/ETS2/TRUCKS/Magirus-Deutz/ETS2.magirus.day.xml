@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>f40d8e12-2587-43ea-bc2e-0a262b25aa95</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+  <ListItem>
+      <Text>Painted Frame</Text>
+      <Value>frame.paint_42day</Value>
+    </ListItem>
+	<ListItem>
+      <Text>Painted ToolBox</Text>
+      <Value>toolbox.paint_pday</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Box Body</Text>
+      <Value>body.dryvan2day</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Curtain Body</Text>
+      <Value>body.curtain2day</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ETS2.magirus.day.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>magirus.day</InternalName>
+  <VehicleAuthor>Ventyres</VehicleAuthor>
+  <VehicleName>Magirus Deutz DayCab</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants />
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

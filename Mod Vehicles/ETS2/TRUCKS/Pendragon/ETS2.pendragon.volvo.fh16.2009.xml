@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>6c12875d-3aa9-422e-8489-b4c937a110e3</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+  
+  <ListItem>
+  <Group>Decals</Group>
+      <Text>Globtrotter Decal Paint</Text>
+      <Value>decals.paintb</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Decals</Group>
+      <Text>Globtrotter Decal Custom Paint</Text>
+      <Value>decals.custom_pb</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Decals</Group>
+      <Text>Globtrotter XL Decal Paint</Text>
+      <Value>decals.paint</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Decals</Group>
+      <Text>Globtrotter XL Decal Custom Paint</Text>
+      <Value>decals.custom_p</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Grill Bottom</Group>
+      <Text>Stock Paint</Text>
+      <Value>f_inlay_chs.stock</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Grill Bottom</Group>
+      <Text>Stock Paint</Text>
+      <Value>f_inlay_chs.paint3</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Grill Bottom</Group>
+      <Text>Stock Paint</Text>
+      <Value>f_inlay_chs.paint4</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Grill Bottom</Group>
+      <Text>Exclusive Paint</Text>
+      <Value>f_inlay_chs.full</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Grill Bottom</Group>
+      <Text>Exclusive Paint</Text>
+      <Value>f_inlay_chs.paint0</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Grill Bottom</Group>
+      <Text>Exclusive Paint</Text>
+      <Value>f_inlay_chs.paint1</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Grill Bottom</Group>
+      <Text>Exclusive Paint</Text>
+      <Value>f_inlay_chs.paint5</Value>
+    </ListItem>
+    
+    
+    <ListItem>
+	<Group>Front Mask</Group>
+      <Text>Painted I</Text>
+      <Value>f_intake_cab.combo2</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Front Mask</Group>
+      <Text>Painted II</Text>
+      <Value>f_intake_cab.combo1</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Front Mask</Group>
+      <Text>Painted III</Text>
+      <Value>f_intake_cab.combo3</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Front Mask</Group>
+      <Text>Painted</Text>
+      <Value>f_intake_cab.painted</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Front Mask</Group>
+      <Text>Painted No Logo</Text>
+      <Value>f_intake_cab.paint_n</Value>
+    </ListItem>
+	
+    <ListItem>
+	<Group>Rear Bumper</Group>
+      <Text>Paint Custom</Text>
+      <Value>r_bumper.custom_4x</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Rear Bumper</Group>
+      <Text>Chariot</Text>
+      <Value>r_bumper.shape1</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Rear Bumper</Group>
+      <Text>Diva</Text>
+      <Value>r_bumper.shape2</Value>
+    </ListItem>
+
+    
+    <ListItem>
+	<Group>Chassis Cover</Group>
+      <Text>Paint Custom</Text>
+      <Value>r_chs_cover.custom_4x</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Chassis Cover</Group>
+      <Text>Diva</Text>
+      <Value>r_chs_cover.paint_4x</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Chassis Cover</Group>
+      <Text>Diva</Text>
+      <Value>r_chs_cover.paint_6x</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Chassis Cover</Group>
+      <Text>Centurion</Text>
+      <Value>r_chs_cover.paint_dia_4x</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Chassis Cover</Group>
+      <Text>Centurion</Text>
+      <Value>r_chs_cover.paint_dia_6x</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Roof Deflectors</Group>
+      <Text>Globetrotter XL</Text>
+      <Value>r_deflector.paint</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Roof Deflectors</Group>
+      <Text>Sleeper</Text>
+      <Value>r_deflector.paint_h1</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Roof Deflectors</Group>
+      <Text>Sleeper, LED</Text>
+      <Value>r_deflector.led_h1</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Roof Deflectors</Group>
+      <Text>Globetrotter</Text>
+      <Value>r_deflector.paint_h2</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Roof Deflectors</Group>
+      <Text>Globetrotter, LED</Text>
+      <Value>r_deflector.led_h2</Value>
+    </ListItem>
+	
+    <ListItem>
+	<Group>Rear Fenders</Group>
+      <Text>Paint Custom</Text>
+      <Value>r_fender.custom_4x</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Fenders</Group>
+      <Text>Paint Custom</Text>
+      <Value>r_fender.custom_6x</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Fenders</Group>
+      <Text>Paint</Text>
+      <Value>r_fender.paint_4x</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Fenders</Group>
+      <Text>Paint</Text>
+      <Value>r_fender.paint_6x</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Fenders</Group>
+      <Text>Paint</Text>
+      <Value>r_fender.paint_8bx</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Fenders</Group>
+      <Text>Paint</Text>
+      <Value>r_fender.paint_8x</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Rear Fender Tops</Group>
+      <Text>Paint</Text>
+      <Value>r_fendr_top.paint_4x</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Fender Tops</Group>
+      <Text>Paint</Text>
+      <Value>r_fendr_top.paint_6x</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Fender Tops</Group>
+      <Text>Paint</Text>
+      <Value>r_fendr_top.paint_8bx</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Fender Tops</Group>
+      <Text>Paint</Text>
+      <Value>r_fendr_top.paint_8x</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Fender Tops</Group>
+      <Text>Paint</Text>
+      <Value>r_fendr_top.paint_chr_4x</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Rear Fender Tops</Group>
+      <Text>Paint</Text>
+      <Value>r_fendr_top.paint_chr_6x</Value>
+    </ListItem>
+
+    <ListItem>
+	<Group>Side Deflectors</Group>
+      <Text>Paint</Text>
+      <Value>s_deflector.paint_h2</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Side Deflectors</Group>
+      <Text>Paint, LED</Text>
+      <Value>s_deflector.led_h2</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Side Deflectors</Group>
+      <Text>Paint</Text>
+      <Value>s_deflector.paint_h3</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Side Deflectors</Group>
+      <Text>Paint, LED</Text>
+      <Value>s_deflector.paint_h3_led</Value>
+    </ListItem>
+	
+	
+    <ListItem>
+	<Group>Sideskirts</Group>
+      <Text>Plates Custom Extra</Text>
+      <Value>sideskirt.custom_4x</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Sideskirts</Group>
+      <Text>Plates Custom Extra</Text>
+      <Value>sideskirt.custom_6x</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Sideskirts</Group>
+      <Text>Flat</Text>
+      <Value>sideskirt.flat</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Sideskirts</Group>
+      <Text>Flat</Text>
+      <Value>sideskirt.flat_6x</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Sideskirts</Group>
+      <Text>Elegance</Text>
+      <Value>sideskirt.hole</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Sideskirts</Group>
+      <Text>Plates Painted</Text>
+      <Value>sideskirt.plates_4x</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Sideskirts</Group>
+      <Text>Plates Painted</Text>
+      <Value>sideskirt.plates_6x</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Sideskirts</Group>
+      <Text>Plates Painted</Text>
+      <Value>sideskirt.shape1</Value>
+    </ListItem>
+    <ListItem>
+	<Group>Sideskirts</Group>
+      <Text>Plates Painted</Text>
+      <Value>sideskirt.shape3</Value>
+    </ListItem>
+	
+	 <ListItem>
+	<Group>Mirrors</Group>
+      <Text>Painted</Text>
+      <Value>mirror.shape3</Value>
+    </ListItem>
+	 <ListItem>
+	<Group>Mirrors</Group>
+      <Text>Painted LED 3</Text>
+      <Value>mirror.led3</Value>
+    </ListItem>
+	 <ListItem>
+	<Group>Mirrors</Group>
+      <Text>Painted LED 4</Text>
+      <Value>mirror.led4</Value>
+    </ListItem>
+	
+   
+  </AccessoryItems>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\ETS2 Pendragon.volvo.fh16.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>volvo.fh16</InternalName>
+  <VehicleAuthor>Pendragon</VehicleAuthor>
+  <VehicleName>Volvo_fh16 Classic 2009 </VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>l2h1.volvo.fh16.cabin</InternalName>
+      <Name>Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h2.volvo.fh16.cabin</InternalName>
+      <Name>Globetrotter</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h2_8x4.volvo.fh16.cabin</InternalName>
+      <Name>Globetrotter 8x4</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h3.volvo.fh16.cabin</InternalName>
+      <Name>Globetrotter XL</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h3_8x4.volvo.fh16.cabin</InternalName>
+      <Name>Globetrotter XL 8x4</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

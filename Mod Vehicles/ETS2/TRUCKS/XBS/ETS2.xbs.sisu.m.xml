@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>3a71e303-edc9-4dac-a2ac-3321ed59cbcb</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Air intake</Text>
+      <Value>air_intake.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Air intake</Text>
+      <Value>air_intake.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Antenna</Text>
+      <Value>antenna.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Flowers</Text>
+      <Value>blanket.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Geometry</Text>
+      <Value>blanket.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Suomi</Text>
+      <Value>blanket.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@ paint</Text>
+      <Value>bumper.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@ steel</Text>
+      <Value>bumper.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@ steel paint</Text>
+      <Value>bumper.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Home-made</Text>
+      <Value>b_grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Steel Pipe</Text>
+      <Value>b_grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Pipe</Text>
+      <Value>b_grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>painted protection</Text>
+      <Value>b_grill.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Motor Protection</Text>
+      <Value>b_guard.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Adapter</Text>
+      <Value>cabflares.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Adapter 2</Text>
+      <Value>cabflares.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>stabo_x5006e</Text>
+      <Value>cb_radio.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>codrv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>curtains</Text>
+      <Value>curtains.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>curtains</Text>
+      <Value>curtains.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Elite Blue</Text>
+      <Value>curtains.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Elite Brown</Text>
+      <Value>curtains.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Elite Blue</Text>
+      <Value>curtains.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Elite Brown</Text>
+      <Value>curtains.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>drv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>exhaust.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vertical exhaust</Text>
+      <Value>exhaust.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vertical exhaust</Text>
+      <Value>exhaust.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vertical exhaust D</Text>
+      <Value>exhaust.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>f_badge.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>f_badge.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Whirlwind</Text>
+      <Value>f_grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Whirlwind high</Text>
+      <Value>f_grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Eminent</Text>
+      <Value>f_grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>f_intake_cab.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>f_intake_cab.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>f_intake_chs.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>f_intake_chs.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Additional light</Text>
+      <Value>f_light_chs.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bung</Text>
+      <Value>f_light_chs.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Hella Stone Shield</Text>
+      <Value>f_light_chs.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Hella 4000</Text>
+      <Value>f_light_chs.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Hella 500 Amber</Text>
+      <Value>f_light_mid.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>SISU Logo New</Text>
+      <Value>f_mudflap.new_logo</Value>
+    </ListItem>
+    <ListItem>
+      <Text>SISU Logo</Text>
+      <Value>f_mudflap.old_logo</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>f_mudflap.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Finnish License Plate</Text>
+      <Value>f_plate.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Germany License Plate</Text>
+      <Value>f_plate.ger</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Finland</Text>
+      <Value>f_sign.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>T.I.R</Text>
+      <Value>f_sign.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Schwertransport</Text>
+      <Value>f_sign.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Leveä kuljetus</Text>
+      <Value>f_sign.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Erikois kuljetus</Text>
+      <Value>f_sign.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plastic@@</Text>
+      <Value>mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrom@@</Text>
+      <Value>mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>r_fender.fdr_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>r_fender.fdr_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mon</Text>
+      <Value>r_fender.mon</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Parlok WHITE LINE</Text>
+      <Value>r_fender.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Parlok WHITE LINE</Text>
+      <Value>r_fender.parlok4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Hero</Text>
+      <Value>r_grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Hero</Text>
+      <Value>r_grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted roof grill</Text>
+      <Value>r_grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Steel Roof Grill</Text>
+      <Value>r_grill.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bau Roof Grill</Text>
+      <Value>r_grill.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>r_light.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>SISU</Text>
+      <Value>r_mudflaps.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>SISU NEW</Text>
+      <Value>r_mudflaps.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>FINN</Text>
+      <Value>r_mudflaps.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Finnish License Plate</Text>
+      <Value>r_plate.fin_rear</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Germany License Plate</Text>
+      <Value>r_plate.ger_rear</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Jewel</Text>
+      <Value>set_glass.glass_set1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>In-Line</Text>
+      <Value>set_glass.glass_set2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Arrow</Text>
+      <Value>set_glass.glass_set3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Side Skirt</Text>
+      <Value>sideskirt.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Side Skirt</Text>
+      <Value>sideskirt.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Home-made</Text>
+      <Value>sideskirt.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Home-made</Text>
+      <Value>sideskirt.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@ logo</Text>
+      <Value>steering_w.logo</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>steering_w.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>sunshld.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@ blue</Text>
+      <Value>sunshld.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@ red</Text>
+      <Value>sunshld.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@ green</Text>
+      <Value>sunshld.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>s_equip.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrome@@</Text>
+      <Value>s_equip.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>s_equip.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@ Black</Text>
+      <Value>tank.black</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@ paint</Text>
+      <Value>tank.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>tank.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bonfire</Text>
+      <Value>beacon.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Space</Text>
+      <Value>beacon.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Radiant</Text>
+      <Value>beacon.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>OY SISU-AUTO AB</Text>
+      <Value>decals.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Traction equipment</Text>
+      <Value>f_grill.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabin Guard</Text>
+      <Value>b_guard.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Airstream</Text>
+      <Value>windowtrim.wndtrim_01</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\My PC\Desktop\Mods Studio 2 v.2020.07\Data\ModData\SCS\Vehicles\xmls_new style\ETS2.sisu.m.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>sisu.m</InternalName>
+  <VehicleAuthor>XBS</VehicleAuthor>
+  <VehicleName>SISU M-series</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>daycab.sisu.m.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sleeper.sisu.m.cabin</InternalName>
+      <Name>Sleeper Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>hightroof.sisu.m.cabin</InternalName>
+      <Name>High Cab</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>6c0fc6a8-8e04-42a6-ac33-66a8fbb5f3a7</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS.f450.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>f450</InternalName>
+  <VehicleAuthor>Masons Mod Shop, Damo ATS, Slav Jerry</VehicleAuthor>
+  <VehicleName>F450 2021</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>crewcab.f450.cabin</InternalName>
+      <Name>F450 Crewcab Long Box</Name>
+    </Variant>
+    <Variant>
+      <InternalName>crewcab1.f450.cabin</InternalName>
+      <Name>F250 Crewcab Long Box</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

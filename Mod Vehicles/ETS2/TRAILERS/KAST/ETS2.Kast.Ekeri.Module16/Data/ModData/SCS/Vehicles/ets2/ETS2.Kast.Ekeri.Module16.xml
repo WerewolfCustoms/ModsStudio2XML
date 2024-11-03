@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>1df45080-ace7-4c12-85aa-b363c543d2b6</Id>
+  <IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2021</Major>
+	 <Minor>1</Minor>
+	</MS2LibraryVersion>
+  <Game>ETS2</Game>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <InternalName>ekeri.module16</InternalName>
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>Ekeri Module 16m</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\Ekeri\ekeri_module16.jpg</Image>
+      <InternalName>body.module16</InternalName>
+      <Name>Ekeri Big Tandem, Reefer AND Insulated Module</Name>
+    </Variant>
+    <Variant>
+      <Description>You Have To Tick This BOX Aswell!!!</Description>
+      <InternalName>body.body_dolly2</InternalName>
+      <Name>Dolly Module Trailer</Name>
+    </Variant>
+  </VehicleVariants>
+  
+  <AccessoryItems>
+    <ListItem>
+      <Group>AXLES</Group>
+      <Text>Axleconfiguration 2x4</Text>
+      <Value>axles.axles_2x4</Value>
+    </ListItem>
+
+    <ListItem>
+      <Description>Painted Chassiframe</Description>
+      <Group>FRAME</Group>
+      <Text>Painted Chassiframe</Text>
+      <Value>frame.paint</Value>
+    </ListItem>
+
+    <ListItem>
+      <Group>LICENSE PLATES</Group>
+      <Text>Custom License Plate Big Bumper</Text>
+      <Value>custom_lp.custom_lp_10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LICENSE PLATES</Group>
+      <Text>Custom License Plate Small Bumper</Text>
+      <Value>custom_lp.custom_lp_11</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Description>Painted Stock Fueltank</Description>
+      <Group>FUELTANK</Group>
+      <Text>Fueltank Stock paintable</Text>
+      <Value>fueltank.fueltank4</Value>
+    </ListItem>
+
+    <ListItem>
+      <Description>Paintable Ekeheat Heater</Description>
+      <Group>ACCESSORIES</Group>
+      <Text>Ekeheat Heater</Text>
+      <Value>f_body.ekeheat_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Paintable Ekeheat Heater, Big</Description>
+      <Group>ACCESSORIES</Group>
+      <Text>Ekeheat Heater, Big</Text>
+      <Value>f_body.ekeheat_b_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Paintable ThermoKing HK430 Heater</Description>
+      <Group>ACCESSORIES</Group>
+      <Text>ThermoKing HK430 Heater</Text>
+      <Value>f_body.hk_430_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Ventilation accessories.\nJust tick ALL boxes\nUse the main box color</Description>
+      <Group>ACCESSORIES</Group>
+      <Text>Ventilation Hatch</Text>
+      <Value>f_vent.vent_door</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Ventilation accessories.\nJust tick ALL boxes\nUse the main box color</Description>
+      <Group>ACCESSORIES</Group>
+      <Text>Ventilation Hatch</Text>
+      <Value>f_vent.vent_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Ventilation accessories.\nJust tick ALL boxes\nUse the main box color</Description>
+      <Group>ACCESSORIES</Group>
+      <Text>Ventilation Hatch</Text>
+      <Value>r_reflector.vent_door</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Ventilation accessories.\nJust tick ALL boxes\nUse the main box color</Description>
+      <Group>ACCESSORIES</Group>
+      <Text>Ventilation Hatch + Reflector</Text>
+      <Value>r_reflector.vent_ref</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Ventilation accessories.\nJust tick ALL boxes\nUse the main box color</Description>
+      <Group>ACCESSORIES</Group>
+      <Text>Ventilation Hatch + Plate</Text>
+      <Value>r_reflector.vent_plate</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Ventilation accessories.\nJust tick ALL boxes\nUse the main box color</Description>
+      <Group>ACCESSORIES</Group>
+      <Text>Ventilation Hatch + Reflector + Plate</Text>
+      <Value>r_reflector.vent_plate_r</Value>
+    </ListItem>    
+
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders A</Text>
+      <Value>fenders_a.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders with Reflector A</Text>
+      <Value>fenders_a.parlok_ref</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Tyllis Parlok Fenders A</Text>
+      <Value>fenders_a.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Tyllis Parlok Fenders with Reflector A</Text>
+      <Value>fenders_a.parlok_ref_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders B</Text>
+      <Value>fenders_b.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders with Reflector B</Text>
+      <Value>fenders_b.parlok_ref</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Tyllis Parlok Fenders B</Text>
+      <Value>fenders_b.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Tyllis Parlok Fenders with Reflector B</Text>
+      <Value>fenders_b.parlok_ref_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders C</Text>
+      <Value>fenders_c.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders with Reflector C</Text>
+      <Value>fenders_c.parlok_ref</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders S</Text>
+      <Value>fenders_s.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders with Reflector S</Text>
+      <Value>fenders_s.parlok_ref</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>Sidecovers Front Left</Text>
+      <Value>chs_f_l.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>Sidecovers Front Right</Text>
+      <Value>chs_f_r.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>Sidecovers Middle</Text>
+      <Value>chs_m_l.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>Sidecovers Rear</Text>
+      <Value>chs_r_l.paint_cover</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Group>REAR BUMPER</Group>
+      <Text>Paint Small</Text>
+      <Value>r_bumper.standard_sp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>REAR BUMPER</Group>
+      <Text>Paint Big</Text>
+      <Value>r_bumper.standard_p</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Description>Paintable Rear Mudflap\nPaint on the main Template (Ekeri_4_4_semi.png)\nBottom Right Corner </Description>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\Ekeri\ekeri_4_4_semi_template_mudflap_location.jpg</Image>
+      <Group>MUDFLAP</Group>
+      <Text>Paintable Rear Mudflap</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>

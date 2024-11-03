@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>add57385-95e7-4fda-bf38-1b693797ce61</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+	  <Group>Box</Group>
+      <Text>Paint</Text>
+      <Value>r_box.shape2</Value>
+    </ListItem>
+    <ListItem>
+	  <Group>Box</Group>
+      <Text>Skin</Text>
+      <Value>r_box.shape3</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.virtual.service.volvo.fh5_trailer.2021.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>volvotrailer</InternalName>
+  <VehicleAuthor>Virtual Service</VehicleAuthor>
+  <VehicleName>Volvo Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.empty</InternalName>
+      <Name>Volvo Trailer</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay</XmlDefinitionAuthor>
+</Variable>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>d0be1200-0807-46ef-9076-0882162b0f28</Id>
+  <IsEnabled>true</IsEnabled>
+ 
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\xmls_new style\All Harven.kenworth.w990.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>kenworth.w990</InternalName>
+  <VehicleAuthor>Harven</VehicleAuthor>
+  <VehicleName>Kenworth W990</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>76sleeper.kenworth.w990.cabin</InternalName>
+      <Name>76-Inch Mid-Roof Aerodyne Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>daycab.kenworth.w990.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

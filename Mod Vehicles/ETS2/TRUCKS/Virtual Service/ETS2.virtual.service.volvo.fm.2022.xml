@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>82ba3311-689f-474c-8136-2a61d6fd9190</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+  <ListItem>
+      <Group>Rear Deflector</Group>
+      <Text>Day Cab Paint</Text>
+      <Value>r_deflectors.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Deflector</Group>
+      <Text>Globetrotter XL Paint 1</Text>
+      <Value>r_deflectors.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Deflector</Group>
+      <Text>Globetrotter XL Paint 2</Text>
+      <Value>r_deflectors.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Air Filter</Group>
+      <Text>Day Cab Paint</Text>
+      <Value>went.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Air Filter</Group>
+      <Text>Globetrotter Paint</Text>
+      <Value>went.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Air Filter</Group>
+      <Text>Globetrotter XL Paint</Text>
+      <Value>went.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>Day Cab/Globetrotter XL Variant 1</Text>
+      <Value>r_grill.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>Day Cab/Globetrotter XL Variant 2</Text>
+      <Value>r_grill.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>Globetrotter Variant 1</Text>
+      <Value>r_grill.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Light Bar</Group>
+      <Text>Globetrotter Variant 2</Text>
+      <Value>r_grill.shape6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Decal Frame</Group>
+      <Text>Paint</Text>
+      <Value>glob_h.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Decal</Group>
+      <Text>Your Text</Text>
+      <Value>sticker_g.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Variant 1</Text>
+      <Value>sunshield.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Variant 2</Text>
+      <Value>sunshield.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Variant 3</Text>
+      <Value>sunshield.shape6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Variant 4</Text>
+      <Value>sunshield.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front mirror</Group>
+      <Text>Paint</Text>
+      <Value>f_mirror.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Mirror</Group>
+      <Text>paint</Text>
+      <Value>s_mirror.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Paint</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Window Frame</Group>
+      <Text>Paint</Text>
+      <Value>mudguard.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Badge Plate</Group>
+      <Text>Paint 1</Text>
+      <Value>logo.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Badge Plate</Group>
+      <Text>Paint 2</Text>
+      <Value>logo.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Badge</Group>
+      <Text>Paint</Text>
+      <Value>napis.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>FM Logo</Group>
+      <Text>Paint</Text>
+      <Value>fm_logo.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Grille</Group>
+      <Text>Paint</Text>
+      <Value>f_inlay_cab.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Grille Bottom</Group>
+      <Text>Paint</Text>
+      <Value>f_inlay_chs.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_cab.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_cab.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask Bottom</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_chs.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Bullbar</Group>
+      <Text>Variant 1</Text>
+      <Value>f_grill.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Bullbar</Group>
+      <Text>Variant 2</Text>
+      <Value>f_grill.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Bullbar</Group>
+      <Text>Variant 3</Text>
+      <Value>f_grill.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Foglight</Group>
+      <Text>Paint</Text>
+      <Value>f_fog.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Headlights</Group>
+      <Text>Paint</Text>
+      <Value>f_light_chs.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Paint High</Text>
+      <Value>f_bumper.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Paint Low</Text>
+      <Value>f_bumper.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Door Handles</Group>
+      <Text>Paint</Text>
+      <Value>doorhndl.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front fender</Group>
+      <Text>Day Cab Paint</Text>
+      <Value>f_fender.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front fender</Group>
+      <Text>Paint</Text>
+      <Value>f_fender.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Exhaust</Group>
+      <Text>Paint</Text>
+      <Value>r_rury.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>5th Wheel</Group>
+      <Text>Paint</Text>
+      <Value>siodlo.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>4x Holland</Text>
+      <Value>baki.shape1h</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>4x Paint 1</Text>
+      <Value>baki.shape11_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>4x Paint 2</Text>
+      <Value>baki.shape1_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>4x Paint 3</Text>
+      <Value>baki.shape12_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>6x Paint</Text>
+      <Value>baki.shape3_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Paint</Text>
+      <Value>sideskirt.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Plastic</Text>
+      <Value>sideskirt.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Paint</Text>
+      <Value>sideskirt.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>4x Paint</Text>
+      <Value>r_fender.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Paint</Text>
+      <Value>r_fender.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>4x Paint</Text>
+      <Value>r_fendr_top.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Bumper 2</Text>
+      <Value>r_bumper.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Bumper 3</Text>
+      <Value>r_bumper.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Bumper 4</Text>
+      <Value>r_bumper.shape4</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.virtual.service.volvo.fm.2022.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>volvofm22</InternalName>
+  <VehicleAuthor>Virtual Service</VehicleAuthor>
+  <VehicleName>Volvo FM 2022</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>day.volvofm22.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+	<Variant>
+      <InternalName>low.volvofm22.cabin</InternalName>
+      <Name>Globetrotter</Name>
+    </Variant>
+    <Variant>
+      <InternalName>big.volvofm22.cabin</InternalName>
+      <Name>Globetrotter XL</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay</XmlDefinitionAuthor>
+</Variable>

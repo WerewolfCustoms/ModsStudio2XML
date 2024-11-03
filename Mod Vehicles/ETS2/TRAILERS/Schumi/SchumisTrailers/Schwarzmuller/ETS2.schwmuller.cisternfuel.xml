@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>802d65a9-f566-4428-b96c-b3aab6d18abe</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>schwmuller.cisternfuel</InternalName>
+  <VehicleAuthor>Schumi</VehicleAuthor>
+  <VehicleName>Schwarzmuller Fuel Cistern</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>x</Description>
+      <Image>schwmuller.cisternfuel__fuel_template.jpg</Image>
+      <InternalName>body.cistern</InternalName>
+      <Name>Schwarzmuller Fuel Cistern</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>2301-16-146__fuel.png</XmlDefinitionAuthor>
+</Variable>

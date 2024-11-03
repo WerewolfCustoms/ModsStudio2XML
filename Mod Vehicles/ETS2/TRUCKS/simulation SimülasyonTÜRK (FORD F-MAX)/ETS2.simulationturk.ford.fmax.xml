@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>f5aaabf3-ba2f-4315-8c3c-225fc89aaa17</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>High</Text>
+      <Value>r_deflector.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>Low 2</Text>
+      <Value>r_deflector.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>Low</Text>
+      <Value>r_deflector.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>Mid</Text>
+      <Value>r_deflector.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>Top</Text>
+      <Value>r_deflector.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflector</Group>
+      <Text>Stock</Text>
+      <Value>s_deflector.stock</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Paint</Text>
+      <Value>sunshield.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Paint</Text>
+      <Value>f_mirror.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Mirror</Group>
+      <Text>Paint</Text>
+      <Value>s_mirror.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Main Mirror</Group>
+      <Text>Paint</Text>
+      <Value>mirror.shape1_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Main Mirror</Group>
+      <Text>Paint And Chrome</Text>
+      <Value>mirror.shape1_pc</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Main Mirror</Group>
+      <Text>Stock</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Panel</Group>
+      <Text>Paint</Text>
+      <Value>s_panel.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Panel</Group>
+      <Text>Paint And Chrome</Text>
+      <Value>s_panel.chrome</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Window Trim</Group>
+      <Text>Paint</Text>
+      <Value>windowtrim.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Windshield Frame</Group>
+      <Text>Paint And Plastic</Text>
+      <Value>f_wnd_frame.paintplastic</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Windshield Frame</Group>
+      <Text>Plastic And Paint</Text>
+      <Value>f_wnd_frame.plasticpaint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Windshield Frame</Group>
+      <Text>Paint</Text>
+      <Value>f_wnd_frame.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Windshield Frame</Group>
+      <Text>Chrome And Paint</Text>
+      <Value>f_wnd_frame.chrome</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Door Handle</Group>
+      <Text>Paint</Text>
+      <Value>doorhndl.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint</Text>
+      <Value>f_fender_cab.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Fender Bottom</Group>
+      <Text>Paint</Text>
+      <Value>f_fender_chs.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_cab.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Paint Logo</Text>
+      <Value>f_intake_cab.paint_l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask Bottom</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_chs.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Grille</Group>
+      <Text>Chrome And Paint</Text>
+      <Value>f_inlay_cab.chrome</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Grille</Group>
+      <Text>Paint</Text>
+      <Value>f_inlay_cab.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Grille</Group>
+      <Text>Paint And Plastic</Text>
+      <Value>f_inlay_cab.pp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Grille Bottom</Group>
+      <Text>Paint</Text>
+      <Value>f_inlay_chs.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Grille Bottom</Group>
+      <Text>Paint And Plastic</Text>
+      <Value>f_inlay_chs.pp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Grille Bottom</Group>
+      <Text>Chrome And Paint</Text>
+      <Value>f_inlay_chs.chrome</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mudflaps</Group>
+      <Text>Paint</Text>
+      <Value>f_mudflap.fmax_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Paint</Text>
+      <Value>sideskirt.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>4x Paint</Text>
+      <Value>r_fender.4x2_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>Paint</Text>
+      <Value>r_fendr_top.4x2_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>EKO Truck Parts By TumbEd</Group>
+      <Text>Big Sunshield</Text>
+      <Value>sunshield.eko</Value>
+    </ListItem>
+	<ListItem>
+      <Group>EKO Truck Parts By TumbEd</Group>
+      <Text>Bumper Lip</Text>
+      <Value>b_grill.eko</Value>
+    </ListItem>
+	<ListItem>
+      <Group>EKO Truck Parts By TumbEd</Group>
+      <Text>Sideskirt Bar</Text>
+      <Value>sideskrt_bar.eko</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.simulationturk.ford.fmax.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>ford.fmax</InternalName>
+  <VehicleAuthor>SimülasyonTÜRK</VehicleAuthor>
+  <VehicleName>Ford FMax</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>fmax.ford.fmax.cabin</InternalName>
+      <Name>Space</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay</XmlDefinitionAuthor>
+</Variable>

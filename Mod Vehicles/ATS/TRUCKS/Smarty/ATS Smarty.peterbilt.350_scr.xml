@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ef4618f9-a67d-4d18-a462-2d29ebcac3b2</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+	<Group>Door Handles</Group>
+      <Text>Dull Door w/Painted Grab Handle</Text>
+      <Value>doorhndl.dull</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Door Handles</Group>
+      <Text>Standard Door w/Painted Grab Handle</Text>
+      <Value>doorhndl.std</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Door Step</Group>
+      <Text>Step Paint</Text>
+      <Value>doorstep.paint</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Door Step</Group>
+      <Text>Step Dull</Text>
+      <Value>doorstep.dull</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Door Step</Group>
+      <Text>Step Chrome</Text>
+      <Value>doorstep.chrome</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Door Step</Group>
+      <Text>Step Chrome II</Text>
+      <Value>doorstep.chrome2</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>180</Text>
+      <Value>tank.180f</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>180 Chrome Straps</Text>
+      <Value>tank.180f_chr</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>180 Chrome Straps Rear</Text>
+      <Value>tank.180r_chr</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>180 Chrome Straps Rear2</Text>
+      <Value>tank.180r2_chr</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>180 Rear</Text>
+      <Value>tank.180r</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>180 Rear2</Text>
+      <Value>tank.180r2</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>240</Text>
+      <Value>tank.240</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>240 Chrome Straps</Text>
+      <Value>tank.240_chr</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>240 Chrome Straps Rear</Text>
+      <Value>tank.240r_chr</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>240 Rear</Text>
+      <Value>tank.240r</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>265</Text>
+      <Value>tank.265</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>265 Chrome Straps</Text>
+      <Value>tank.265_chr</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>265 Chrome Straps Rear</Text>
+      <Value>tank.265r_chr</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>265 Rear</Text>
+      <Value>tank.265r</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Air Filters</Group>
+      <Text>Filters 0 Chrome</Text>
+      <Value>filters.0</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Air Filters</Group>
+      <Text>Filters 0 Dull</Text>
+      <Value>filters.0_dull</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Air Filters</Group>
+      <Text>Filters 0 Paint</Text>
+      <Value>filters.0_pnt</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Air Filters</Group>
+      <Text>Filters 1 Chrome</Text>
+      <Value>filters.1</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Air Filters</Group>
+      <Text>Filters 1 Dull</Text>
+      <Value>filters.1_dull</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Air Filters</Group>
+      <Text>Filters 1 Paint</Text>
+      <Value>filters.1_pnt</Value>
+    </ListItem>
+	
+    <ListItem>
+	<Group>Bumpers</Group>
+      <Text>Rolled Taper (Paint)</Text>
+      <Value>bumper.0_pnt</Value>
+    </ListItem>
+	
+    <ListItem>
+	<Group>Bumpers</Group>
+      <Text>Slim (Paint)</Text>
+      <Value>bumper.7_pnt</Value>
+    </ListItem>
+	
+    <ListItem>
+	<Group>Bumpers</Group>
+      <Text>Frame Channel (Paint)</Text>
+      <Value>bumper.chan_pnt</Value>
+    </ListItem>
+
+    <ListItem>
+	<Group>Bull Bar</Group>
+      <Text>Bull Bar Paint</Text>
+      <Value>f_grill.pnt</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Rear Fenders</Group>
+      <Text>WTI Full Fender</Text>
+      <Value>mudguard.ff_wti</Value>
+    </ListItem>
+    
+    
+    <ListItem>
+	<Group>Mercury Sleeper</Group>
+      <Text>Mercury 36in</Text>
+      <Value>sleeper.merc36</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Mirrors</Group>
+      <Text>Classic West Coast Paint</Text>
+      <Value>mirror.wc_pnt</Value>
+    </ListItem>
+    
+    
+    
+    <ListItem>
+	<Group>Sunshield</Group>
+      <Text>Classic Paint</Text>
+      <Value>sunshield.1pnt</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Sunshield</Group>
+      <Text>Butterfly Paint</Text>
+      <Value>sunshield.2pnt</Value>
+    </ListItem>
+    
+    
+    
+    <ListItem>
+      <Text>Windshield Bolts Paint</Text>
+      <Value>windowtrim.pnt49</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\leadf\Documents\Mods Studio 2\UserVehicles\ATS Smarty.peterbilt.350_scr.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>peterbilt.350_scr</InternalName>
+  <VehicleAuthor>Smarty</VehicleAuthor>
+  <VehicleName>Smarty Peterbilt 350</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>49dc.peterbilt.350_scr.cabin</InternalName>
+      <Name>1949 Daycab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>49m36.peterbilt.350_scr.cabin</InternalName>
+      <Name>1949 w/ 36in Mercury</Name>
+    </Variant>
+    <Variant>
+      <InternalName>49m36a.peterbilt.350_scr.cabin</InternalName>
+      <Name>1949 w/ 36in Mercury (Aluminum)</Name>
+    </Variant>
+    <Variant>
+      <InternalName>52dc.peterbilt.350_scr.cabin</InternalName>
+      <Name>1952 Daycab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>52m36.peterbilt.350_scr.cabin</InternalName>
+      <Name>1952 w/ 36in Mercury</Name>
+    </Variant>
+    <Variant>
+      <InternalName>52m36a.peterbilt.350_scr.cabin</InternalName>
+      <Name>1952 w/ 36in Mercury (Aluminum)</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Lucasi</XmlDefinitionAuthor>
+</Variable>

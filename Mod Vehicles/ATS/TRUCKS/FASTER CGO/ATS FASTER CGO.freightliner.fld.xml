@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>b70ad7a5-8ec9-4ae4-b1be-db3f0d8e2705</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\xmls_new style\ATS.freightliner.fld.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>freightliner.fld</InternalName>
+  <VehicleAuthor>FASTER CGO, Harven</VehicleAuthor>
+  <VehicleName>Freightliner FLD 120</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>highroof.freightliner.fld.cabin</InternalName>
+      <Name>Raised Roof</Name>
+    </Variant>
+    <Variant>
+      <InternalName>lowroof.freightliner.fld.cabin</InternalName>
+      <Name>Mid Roof</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

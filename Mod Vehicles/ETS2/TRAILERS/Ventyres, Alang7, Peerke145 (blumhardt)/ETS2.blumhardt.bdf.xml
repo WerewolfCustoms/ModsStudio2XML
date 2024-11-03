@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>81467b37-402f-4031-bcdf-8ed8d934762c</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Text>Left Side Painted ToolBox</Text>
+      <Value>chs_f_l.toolbox_l_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Right Side Painted ToolBox</Text>
+      <Value>chs_f_r.toolbox_r_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Frame</Text>
+      <Value>frame.frame_02bdf</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Dolly</Text>
+      <Value>frame.frame_d_02</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ETS2.blumhardt.bdf.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>blumhardt.bdf</InternalName>
+  <VehicleAuthor>Ventyres, Alang7, Peerke145</VehicleAuthor>
+  <VehicleName>Blumhardt SwapBody</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.bdf</InternalName>
+      <Name>Blumhardt Swapbody</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.dolly</InternalName>
+      <Name>Blumhardt Swapbody</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>e4d72167-b0aa-4195-b0d7-056071699598</Id>
+  <IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2021</Major>
+	 <Minor>2</Minor>
+	</MS2LibraryVersion>
+  <Game>ETS2</Game>
+  <InternalName>scju.scf45euro</InternalName>
+  <VehicleAuthor>JUseeTV</VehicleAuthor>
+  <VehicleName>Schmitz Cargobull S.CF45Euro</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>Use same color for all of these.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image>x</Image>
+      <InternalName>body.conti20</InternalName>
+      <Name>S.CF45 Euro 20ft</Name>
+    </Variant>
+    <Variant>
+      <Description>Use same color for all of these.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image>x</Image>
+      <InternalName>body.conti2x20</InternalName>
+      <Name>S.CF45 Euro 2x20ft</Name>
+    </Variant>
+    <Variant>
+      <Description>Use same color for all of these.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image>x</Image>
+      <InternalName>body.conti40</InternalName>
+      <Name>S.CF45 Euro 40ft Neck Extended</Name>
+    </Variant>
+    <Variant>
+      <Description>Use same color for all of these.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image>x</Image>
+      <InternalName>body.conti40_2</InternalName>
+      <Name>S.CF45 Euro 40ft Rear Extended</Name>
+    </Variant>
+    <Variant>
+      <Description>Use same color for all of these.\nKept the values for the texts\nso you can check them up.</Description>
+      <Image>x</Image>
+      <InternalName>body.conti</InternalName>
+      <Name>S.CF45 Euro 45ft</Name>
+    </Variant>	
+  </VehicleVariants>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <AccessoryItems>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSIS</Group>
+      <Image>x</Image>
+      <Text>Painted frame</Text>
+      <Value>chs.paint45</Value>
+    </ListItem>
+    <ListItem>
+      <Description>EU Custom License Plate \nUse Plate Template Located in custom_lp</Description>
+      <Group>LICENSE PLATE</Group>
+      <Image>x</Image>
+      <Text>Full Custom - EU</Text>
+      <Value>l_plate.custom</Value>
+    </ListItem>
+    <ListItem>
+      <Description>ES Custom License Plate \nUse Plate Template Located in custom_lp</Description>
+      <Group>LICENSE PLATE</Group>
+      <Image>x</Image>
+      <Text>Full Custom - ES</Text>
+      <Value>l_plate.custom_es</Value>
+    </ListItem>
+    <ListItem>
+      <Description>UK Custom License Plate \nUse Plate Template Located in custom_lp</Description>
+      <Group>LICENSE PLATE</Group>
+      <Image>x</Image>
+      <Text>Full Custom - UK</Text>
+      <Value>l_plate.custom_uk</Value>
+    </ListItem>
+    <ListItem>
+      <Description>EU Skinnable License Plate \nUse Main Template</Description>
+      <Group>LICENSE PLATE</Group>
+      <Image>x</Image>
+      <Text>Paint EU</Text>
+      <Value>l_plate.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>ES Skinnable License Plate \nUse Main Template</Description>
+      <Group>LICENSE PLATE</Group>
+      <Image>x</Image>
+      <Text>Paint ES</Text>
+      <Value>l_plate.paint_es</Value>
+    </ListItem>
+    <ListItem>
+      <Description>UK Skinnable License Plate \nUse Main Template</Description>
+      <Group>LICENSE PLATE</Group>
+      <Image>x</Image>
+      <Text>Paint UK</Text>
+      <Value>l_plate.paint_uk</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Stock Painted</Text>
+      <Value>r_bumper.bumper</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>SIDESKIRTS - CHASSIBOXES</Group>
+      <Image>x</Image>
+      <Text>Stock Paint Long Sideskirts</Text>
+      <Value>sideskirts.side</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>SIDESKIRTS - CHASSIBOXES</Group>
+      <Image>x</Image>
+      <Text>Stock Paint Storagebox Left Side</Text>
+      <Value>sideskirts.side2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>SIDESKIRTS - CHASSIBOXES</Group>
+      <Image>x</Image>
+      <Text>Stock Paint Storagebox Right Side</Text>
+      <Value>sideskirts.side3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>SIDESKIRTS - CHASSIBOXES</Group>
+      <Image>x</Image>
+      <Text>Stock Paint Storagebox Both Sides</Text>
+      <Value>sideskirts.side4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Fender Mudflaps</Description>
+      <Group>MUDFLAPS</Group>
+      <Image>x</Image>
+      <Text>Paintable Fender Mudflaps</Text>
+      <Value>w_mudflap.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Middle Fender Mudflaps</Description>
+      <Group>MUDFLAPS</Group>
+      <Image>x</Image>
+      <Text>Paintable Fender Mudflaps</Text>
+      <Value>w_mudflap1.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Fender Mudflaps</Description>
+      <Group>MUDFLAPS</Group>
+      <Image>x</Image>
+      <Text>Paintable Fender Mudflaps</Text>
+      <Value>w_mudflap2.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Paintable Mudflap</Description>
+      <Group>MUDFLAPS</Group>
+      <Image>x</Image>
+      <Text>Paintable REAR Mudflap</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>	
+  </AccessoryItems>  
+</Variable>

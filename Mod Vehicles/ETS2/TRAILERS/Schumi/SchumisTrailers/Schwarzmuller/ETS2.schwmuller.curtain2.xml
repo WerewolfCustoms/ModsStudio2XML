@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>c5f65b55-0c5d-4d7a-81b8-b5bee58ccc0d</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>schwmuller.curtain2</InternalName>
+  <VehicleAuthor>Schumi</VehicleAuthor>
+  <VehicleName>Schwarzmuller Curtain V2</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>V2 Uses the Curtain Template</Description>
+      <Image>schwmuller.curtain2__curtain_template.jpg</Image>
+      <InternalName>body.curtain</InternalName>
+      <Name>Schwarzmuller Curtain V2</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>2301-16-146__curtain.png</XmlDefinitionAuthor>
+</Variable>

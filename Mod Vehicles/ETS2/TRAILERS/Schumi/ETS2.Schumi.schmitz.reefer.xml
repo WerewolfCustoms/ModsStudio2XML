@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>db230ed9-29c6-4467-b218-369c992ba824</Id>
+  <IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2021</Major>
+	 <Minor>1</Minor>
+	</MS2LibraryVersion>
+  <Game>ETS2</Game>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <InternalName>schmitz.reefer</InternalName>
+  <VehicleAuthor>Schumi</VehicleAuthor>
+  <VehicleName>Schmitz Series Schmitz Reefer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>x</Description>
+      <Group>Schmitz Series</Group>
+      <Image>x</Image>
+      <InternalName>body.reefer</InternalName>
+      <Name>Schmitz Reefer V1</Name>
+    </Variant>
+    <Variant>
+      <Description>x</Description>
+      <Group>Schmitz Series</Group>
+      <Image>x</Image>
+      <InternalName>body.reefer2</InternalName>
+      <Name>Schmitz Reefer V2</Name>
+    </Variant>
+    <Variant>
+      <Description>x</Description>
+      <Group>Schmitz Series</Group>
+      <Image>x</Image>
+      <InternalName>body.reefer3</InternalName>
+      <Name>Schmitz Reefer V3</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

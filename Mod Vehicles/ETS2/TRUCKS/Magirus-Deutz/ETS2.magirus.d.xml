@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>88ffa599-ba17-4201-abbb-7f9a6dceb65c</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+  <ListItem>
+      <Text>Painted Frame</Text>
+      <Value>frame.paint_42</Value>
+    </ListItem>
+	<ListItem>
+      <Text>Painted ToolBox</Text>
+      <Value>toolbox.paint_p</Value>
+    </ListItem>
+	<ListItem>
+      <Text>Painted Fuel Tank</Text>
+      <Value>tank.paint_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Box Van Body</Text>
+      <Value>body.dryvan2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Curtain Body</Text>
+      <Value>body.curtain2</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ETS2.magirus.d.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>magirus.d</InternalName>
+  <VehicleAuthor>Ventyres</VehicleAuthor>
+  <VehicleName>Magirus Deutz Sleeper</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>cabin.magirus.d.cabin</InternalName>
+      <Name>Sleeper Cabin</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

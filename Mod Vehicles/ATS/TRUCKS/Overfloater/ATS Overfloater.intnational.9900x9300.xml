@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>803edf9b-1eab-4cd5-bf35-dc1c0f4de9d1</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Sunshield Painted</Text>
+      <Value>sunshield.stock</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.intnational.9900x9300.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>intnational.9900x9300</InternalName>
+  <VehicleAuthor>Overfloater</VehicleAuthor>
+  <VehicleName>intnational 9300</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>day.intnational.9900x9300.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>s72.intnational.9900x9300.cabin</InternalName>
+      <Name>72unit_in Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

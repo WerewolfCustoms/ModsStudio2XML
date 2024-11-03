@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>8e601b05-7eeb-42c1-9cc3-c9db35dce929</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.fl.86.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>fl.86</InternalName>
+  <VehicleAuthor>HFG and DDS</VehicleAuthor>
+  <VehicleName>brand_freightliner FL 86</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>standard.fl.86.cabin</InternalName>
+      <Name>Integrated Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

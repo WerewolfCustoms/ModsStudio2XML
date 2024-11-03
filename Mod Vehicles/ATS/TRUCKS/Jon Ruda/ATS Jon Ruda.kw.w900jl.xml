@@ -1,0 +1,3344 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>0c1763fd-9082-40b5-8924-fa151c609fae</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Headache Rack Type 1 Chrome</Text>
+      <Value>38h_rack.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 + Beacon Chrome</Text>
+      <Value>38h_rack.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 + Beacon Chrome</Text>
+      <Value>38h_rack.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 + Beacon Paint</Text>
+      <Value>38h_rack.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 + Beacon Paint</Text>
+      <Value>38h_rack.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 Chrome</Text>
+      <Value>38h_rack.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 Chrome</Text>
+      <Value>38h_rack.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 Paint</Text>
+      <Value>38h_rack.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 Paint</Text>
+      <Value>38h_rack.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 1 Chrome</Text>
+      <Value>38h_rack.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 1 Paint</Text>
+      <Value>38h_rack.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 1 Paint</Text>
+      <Value>38h_rack.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall</Text>
+      <Value>4_fenders.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted</Text>
+      <Value>4_fenders.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>86flooring.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>86flooring.shape1s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + Connectors</Text>
+      <Value>86flooring.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + Connectors</Text>
+      <Value>86flooring.shape2s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint (Standard Connectors)</Text>
+      <Value>86flooring.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint (Standard Connectors)</Text>
+      <Value>86flooring.shape3s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Remove Deckplate</Text>
+      <Value>86flooring.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall short</Text>
+      <Value>86flooring.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall long</Text>
+      <Value>86flooring.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall long</Text>
+      <Value>86flooring.shape6s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>air_filter.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>air_filter.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirror Lights Standard</Text>
+      <Value>auxlight.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirror Lights LED Orange</Text>
+      <Value>auxlight.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirror Lights LED Clear</Text>
+      <Value>auxlight.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Beacon</Text>
+      <Value>beacon.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Beacon</Text>
+      <Value>beacon.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Beacon</Text>
+      <Value>beacon.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Beacon</Text>
+      <Value>beacon.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Beacon</Text>
+      <Value>beacon.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED</Text>
+      <Value>blinkers.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>blinkers.shape1std</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom</Text>
+      <Value>blinkers.shape1std2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED</Text>
+      <Value>blinkers.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>blinkers.shape2std</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom</Text>
+      <Value>blinkers.shape2std2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED</Text>
+      <Value>blinkers.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>blinkers.shape3std</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom</Text>
+      <Value>blinkers.shape3std2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome + Logo</Text>
+      <Value>bodygrille.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + Logo</Text>
+      <Value>bodygrille.shape1p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome No Logo</Text>
+      <Value>bodygrille.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint No Logo</Text>
+      <Value>bodygrille.shape2p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome + Logo</Text>
+      <Value>bodygrille.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + Logo</Text>
+      <Value>bodygrille.shape3p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome No Logo</Text>
+      <Value>bodygrille.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint No Logo</Text>
+      <Value>bodygrille.shape4p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bottom light Red (as beacon)</Text>
+      <Value>bottomlight.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bottom light Red (as beacon)</Text>
+      <Value>bottomlight.shape1d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bottom light Orange (as beacon)</Text>
+      <Value>bottomlight.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bottom light Orange (as beacon)</Text>
+      <Value>bottomlight.shape2d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bottom light Blue (as beacon)</Text>
+      <Value>bottomlight.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bottom light Blue (as beacon)</Text>
+      <Value>bottomlight.shape3d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bottom light Green (as beacon)</Text>
+      <Value>bottomlight.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bottom light Green (as beacon)</Text>
+      <Value>bottomlight.shape4d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bottom light Red (as parking)</Text>
+      <Value>bottomlight.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bottom light Red (as parking)</Text>
+      <Value>bottomlight.shape5d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bottom light Orange (as parking)</Text>
+      <Value>bottomlight.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bottom light Orange (as parking)</Text>
+      <Value>bottomlight.shape6d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bottom light Blue (as parking)</Text>
+      <Value>bottomlight.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bottom light Blue (as parking)</Text>
+      <Value>bottomlight.shape7d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bottom light Green (as parking)</Text>
+      <Value>bottomlight.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bottom light Green (as parking)</Text>
+      <Value>bottomlight.shape8d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Antenna</Text>
+      <Value>braket_l.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Antenna Big</Text>
+      <Value>braket_l.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Forward Antenna Big</Text>
+      <Value>braket_l.shape2f</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Antenna Custom</Text>
+      <Value>braket_l.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Forward Antenna Custom</Text>
+      <Value>braket_l.shape3f</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Antenna with Spring</Text>
+      <Value>braket_l.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Forward Antenna with Spring</Text>
+      <Value>braket_l.shape4f</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fat Antenna with Spring</Text>
+      <Value>braket_l.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Forward Fat Antenna with Spring</Text>
+      <Value>braket_l.shape5f</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Antenna</Text>
+      <Value>braket_r.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Antenna Big</Text>
+      <Value>braket_r.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Forward Antenna Big</Text>
+      <Value>braket_r.shape2f</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Antenna Custom</Text>
+      <Value>braket_r.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Forward Antenna Custom</Text>
+      <Value>braket_r.shape3f</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Antenna with Spring</Text>
+      <Value>braket_r.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Forward Antenna with Spring</Text>
+      <Value>braket_r.shape4f</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fat Antenna with Spring</Text>
+      <Value>braket_r.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Forward Fat Antenna with Spring</Text>
+      <Value>braket_r.shape5f</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom 1</Text>
+      <Value>bumper.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom 2</Text>
+      <Value>bumper.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>bumper.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom 3</Text>
+      <Value>bumper.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Heavy Duty</Text>
+      <Value>bumper.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Moose Bumper</Text>
+      <Value>bumper.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom 4</Text>
+      <Value>bumper.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom 5</Text>
+      <Value>bumper.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Lamps</Text>
+      <Value>bumperlights.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Lamps</Text>
+      <Value>bumperlights.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper LED Lamps</Text>
+      <Value>bumperlights.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper LED Lamps (Clear Glass)</Text>
+      <Value>bumperlights.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper LED Lamps</Text>
+      <Value>bumperlights.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper LED Lamps (Clear Glass)</Text>
+      <Value>bumperlights.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Lamps</Text>
+      <Value>bumperlights.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper LED Lamps</Text>
+      <Value>bumperlights.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper LED Lamps (Clear Glass)</Text>
+      <Value>bumperlights.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Lamps</Text>
+      <Value>bumperlights.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper LED Lamps</Text>
+      <Value>bumperlights.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper LED Lamps (Clear Glass)</Text>
+      <Value>bumperlights.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cobra 29 LX Type 1 Green</Text>
+      <Value>cb_radio.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cobra 29 LX Type 1 Blue</Text>
+      <Value>cb_radio.shape1b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cobra 29 LX Type 1 Orange</Text>
+      <Value>cb_radio.shape1o</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cobra 29 LX Type 1 Red</Text>
+      <Value>cb_radio.shape1r</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cobra 29 LX Type 2 Green</Text>
+      <Value>cb_radio.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cobra 29 LX Type 2 Blue</Text>
+      <Value>cb_radio.shape2b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cobra 29 LX Type 2 Orange</Text>
+      <Value>cb_radio.shape2o</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cobra 29 LX Type 2 Red</Text>
+      <Value>cb_radio.shape2r</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cobra 29 LTD Type 1</Text>
+      <Value>cb_radio.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cobra 29 LTD Type 2</Text>
+      <Value>cb_radio.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>chops.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>chops.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Summit Black</Text>
+      <Value>companylogo.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Summit Black</Text>
+      <Value>companylogo.shape1c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Summit Black</Text>
+      <Value>companylogo.shape1_38</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Summit Black</Text>
+      <Value>companylogo.shape1_62</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Summit Black</Text>
+      <Value>companylogo.shape1_86</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Summit White</Text>
+      <Value>companylogo.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Summit White</Text>
+      <Value>companylogo.shape2c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Summit White</Text>
+      <Value>companylogo.shape2_38</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Summit White</Text>
+      <Value>companylogo.shape2_62</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Summit White</Text>
+      <Value>companylogo.shape2_86</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo Black</Text>
+      <Value>companylogo.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo Black</Text>
+      <Value>companylogo.shape3c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo Black</Text>
+      <Value>companylogo.shape3_38</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo Black</Text>
+      <Value>companylogo.shape3_62</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo Black</Text>
+      <Value>companylogo.shape3_86</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo White</Text>
+      <Value>companylogo.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo White</Text>
+      <Value>companylogo.shape4c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo White</Text>
+      <Value>companylogo.shape4_38</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo White</Text>
+      <Value>companylogo.shape4_62</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo White</Text>
+      <Value>companylogo.shape4_86</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Connectors in the flooring</Text>
+      <Value>connectors.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Connectors in the flooring</Text>
+      <Value>connectors.shape1day</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Connectors in the flooring</Text>
+      <Value>connectors.shape1t_d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Connectors in the flooring</Text>
+      <Value>connectors.shape1days</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Connectors in the flooring</Text>
+      <Value>connectors.shape1s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Connectors in the back of frame</Text>
+      <Value>connectors.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Connectors in the back of frame</Text>
+      <Value>connectors.shape2day</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Connectors in the back of frame</Text>
+      <Value>connectors.shape2t_d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Connectors in the back of frame</Text>
+      <Value>connectors.shape2days</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Connectors in the back of frame</Text>
+      <Value>connectors.shape2s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>connectors.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>connectors.shape3_d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard (Long Chassis)</Text>
+      <Value>connectors.shape3t_d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>connectors.shape3_86</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Panel</Text>
+      <Value>covering.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Panel</Text>
+      <Value>covering.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>decking.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>decking.shape1s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + Connectors</Text>
+      <Value>decking.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + Connectors</Text>
+      <Value>decking.shape2s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint (Standard Connectors)</Text>
+      <Value>decking.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint (Standard Connectors)</Text>
+      <Value>decking.shape3s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Remove Deckplate</Text>
+      <Value>decking.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall short</Text>
+      <Value>decking.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall long</Text>
+      <Value>decking.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall long</Text>
+      <Value>decking.shape6s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>decor.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome + Logo</Text>
+      <Value>decor.shape1logo</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome + Red Logo</Text>
+      <Value>decor.shape1lr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>decor.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + Logo</Text>
+      <Value>decor.shape2logo</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + Red Logo</Text>
+      <Value>decor.shape2lr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>deflector.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>deflector.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black</Text>
+      <Value>door_handle.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>door_handle.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>door_handle.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>duga.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exhaust Standard</Text>
+      <Value>exhaust.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Bull Hauler 90`</Text>
+      <Value>exhaust.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Bull Hauler 90`</Text>
+      <Value>exhaust.shape10d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Curve 90`</Text>
+      <Value>exhaust.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Curve 90`</Text>
+      <Value>exhaust.shape11d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Chino 90`</Text>
+      <Value>exhaust.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Chino 90`</Text>
+      <Value>exhaust.shape12d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Straight</Text>
+      <Value>exhaust.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Straight</Text>
+      <Value>exhaust.shape13d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Bull Hauler 45`</Text>
+      <Value>exhaust.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Bull Hauler 45`</Text>
+      <Value>exhaust.shape14d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Mitered</Text>
+      <Value>exhaust.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Mitered</Text>
+      <Value>exhaust.shape15d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Bull Hauler</Text>
+      <Value>exhaust.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Bull Hauler</Text>
+      <Value>exhaust.shape16d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Curve</Text>
+      <Value>exhaust.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Curve</Text>
+      <Value>exhaust.shape17d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Chino</Text>
+      <Value>exhaust.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Chino</Text>
+      <Value>exhaust.shape18d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Curve 45`</Text>
+      <Value>exhaust.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Curve 45`</Text>
+      <Value>exhaust.shape19d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exhaust Standard</Text>
+      <Value>exhaust.shape1d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Straight</Text>
+      <Value>exhaust.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Chino 45`</Text>
+      <Value>exhaust.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Chino 45`</Text>
+      <Value>exhaust.shape20d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Bull Hauler 90`</Text>
+      <Value>exhaust.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Bull Hauler 90`</Text>
+      <Value>exhaust.shape21d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Curve 90`</Text>
+      <Value>exhaust.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Curve 90`</Text>
+      <Value>exhaust.shape22d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Chino 90`</Text>
+      <Value>exhaust.shape23</Value>
+    </ListItem>
+    <ListItem>
+      <Text>8' Chino 90`</Text>
+      <Value>exhaust.shape23d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Straight</Text>
+      <Value>exhaust.shape24</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Straight</Text>
+      <Value>exhaust.shape24d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Bull Hauler 45`</Text>
+      <Value>exhaust.shape25</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Bull Hauler 45`</Text>
+      <Value>exhaust.shape25d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Mitered</Text>
+      <Value>exhaust.shape26</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Mitered</Text>
+      <Value>exhaust.shape26d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Bull Hauler</Text>
+      <Value>exhaust.shape27</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Bull Hauler</Text>
+      <Value>exhaust.shape27d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Curve</Text>
+      <Value>exhaust.shape28</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Curve</Text>
+      <Value>exhaust.shape28d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Chino</Text>
+      <Value>exhaust.shape29</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Chino</Text>
+      <Value>exhaust.shape29d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Straight</Text>
+      <Value>exhaust.shape2d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Bull Hauler 45`</Text>
+      <Value>exhaust.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Curve 45`</Text>
+      <Value>exhaust.shape30</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Curve 45`</Text>
+      <Value>exhaust.shape30d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Chino 45`</Text>
+      <Value>exhaust.shape31</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Chino 45`</Text>
+      <Value>exhaust.shape31d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Bull Hauler 90`</Text>
+      <Value>exhaust.shape32</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Bull Hauler 90`</Text>
+      <Value>exhaust.shape32d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Curve 90`</Text>
+      <Value>exhaust.shape33</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Curve 90`</Text>
+      <Value>exhaust.shape33d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Chino 90`</Text>
+      <Value>exhaust.shape34</Value>
+    </ListItem>
+    <ListItem>
+      <Text>9' Chino 90`</Text>
+      <Value>exhaust.shape34d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Bull Hauler 45`</Text>
+      <Value>exhaust.shape3d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Mitered</Text>
+      <Value>exhaust.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Mitered</Text>
+      <Value>exhaust.shape4d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Bull Hauler</Text>
+      <Value>exhaust.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Bull Hauler</Text>
+      <Value>exhaust.shape5d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Curve</Text>
+      <Value>exhaust.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Curve</Text>
+      <Value>exhaust.shape6d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Chino</Text>
+      <Value>exhaust.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Chino</Text>
+      <Value>exhaust.shape7d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Curve 45`</Text>
+      <Value>exhaust.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Curve 45`</Text>
+      <Value>exhaust.shape8d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Chino 45`</Text>
+      <Value>exhaust.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>7' Chino 45`</Text>
+      <Value>exhaust.shape9d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted 1</Text>
+      <Value>fenders.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall Long</Text>
+      <Value>fenders.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted 5</Text>
+      <Value>fenders.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>fenders.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic Painted</Text>
+      <Value>fenders.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic Black</Text>
+      <Value>fenders.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic Painted 2</Text>
+      <Value>fenders.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic Black 2</Text>
+      <Value>fenders.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic Painted 2</Text>
+      <Value>fenders.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic Black 2</Text>
+      <Value>fenders.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Metall 2</Text>
+      <Value>fenders.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted 2</Text>
+      <Value>fenders.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic Painted 3</Text>
+      <Value>fenders.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic Black 3</Text>
+      <Value>fenders.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Metall 2</Text>
+      <Value>fenders.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted 3</Text>
+      <Value>fenders.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall Short</Text>
+      <Value>fenders.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall Long</Text>
+      <Value>fenders.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>fenders.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall Custom</Text>
+      <Value>fenders.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted 3</Text>
+      <Value>fenders.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted 4</Text>
+      <Value>fenders.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>fillerpanel.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + LED</Text>
+      <Value>fillerpanel.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Filter Lights</Text>
+      <Value>filterlights.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Filter Lights LED</Text>
+      <Value>filterlights.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Filter Lights LED Clear</Text>
+      <Value>filterlights.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Brown</Text>
+      <Value>floor.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Brown</Text>
+      <Value>floor.shape1d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Brown</Text>
+      <Value>floor.shape1_38</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Brown</Text>
+      <Value>floor.shape1_62</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Brown</Text>
+      <Value>floor.shape1_86</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red</Text>
+      <Value>floor.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red</Text>
+      <Value>floor.shape2d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red</Text>
+      <Value>floor.shape2_38</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red</Text>
+      <Value>floor.shape2_62</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red</Text>
+      <Value>floor.shape2_86</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Parket</Text>
+      <Value>floor.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Parket</Text>
+      <Value>floor.shape3d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Parket</Text>
+      <Value>floor.shape3_38</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Parket</Text>
+      <Value>floor.shape3_62</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Parket</Text>
+      <Value>floor.shape3_86</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>flooring.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>flooring.shape1s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + Connectors</Text>
+      <Value>flooring.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + Connectors</Text>
+      <Value>flooring.shape2s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint (Standard Connectors)</Text>
+      <Value>flooring.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint (Standard Connectors)</Text>
+      <Value>flooring.shape3s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Remove Deckplate</Text>
+      <Value>flooring.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall short</Text>
+      <Value>flooring.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall long</Text>
+      <Value>flooring.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall long</Text>
+      <Value>flooring.shape6s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>fltrbraket.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom</Text>
+      <Value>fltrbraket.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>fl_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>fl_mirror.shape1_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>fl_mirror.shape1_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>fl_mirror.shape1_3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Modern</Text>
+      <Value>fl_mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Front</Text>
+      <Value>fl_mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>footboard.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>footboard.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Black</Text>
+      <Value>frame.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Paint</Text>
+      <Value>frame.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Black</Text>
+      <Value>frame.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Paint</Text>
+      <Value>frame.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Black</Text>
+      <Value>frame.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Paint</Text>
+      <Value>frame.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Paint</Text>
+      <Value>frame.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Black</Text>
+      <Value>frame.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>frame.shape3_d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Paint</Text>
+      <Value>frame.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>frame.shape4_d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Black</Text>
+      <Value>frame.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Paint</Text>
+      <Value>frame.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Black</Text>
+      <Value>frame.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Paint</Text>
+      <Value>frame.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Black</Text>
+      <Value>frame.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Front Fenders 1</Text>
+      <Value>frontfender.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Front Fenders 2</Text>
+      <Value>frontfender.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Front Fenders 3</Text>
+      <Value>frontfender.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Front Bar</Text>
+      <Value>front_bar.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Front Bar</Text>
+      <Value>front_bar.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Adapter</Text>
+      <Value>front_bar.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Adapter</Text>
+      <Value>front_bar.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Front Bar Painted</Text>
+      <Value>front_bar.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Front Bar Painted</Text>
+      <Value>front_bar.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflaps</Text>
+      <Value>front_flaps.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Mudflaps</Text>
+      <Value>front_flaps.shape1_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black/logo red</Text>
+      <Value>front_flaps.shape1_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White/logo red</Text>
+      <Value>front_flaps.shape1_3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black/logo white</Text>
+      <Value>front_flaps.shape1_4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflaps</Text>
+      <Value>front_flaps.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Mudflaps</Text>
+      <Value>front_flaps.shape2_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black/logo red</Text>
+      <Value>front_flaps.shape2_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White/logo red</Text>
+      <Value>front_flaps.shape2_3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black/logo white</Text>
+      <Value>front_flaps.shape2_4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Summit Black</Text>
+      <Value>front_logo.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Summit White</Text>
+      <Value>front_logo.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo Black</Text>
+      <Value>front_logo.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo White</Text>
+      <Value>front_logo.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>fr_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>fr_mirror.shape1_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>fr_mirror.shape1_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>fr_mirror.shape1_3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Modern</Text>
+      <Value>fr_mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Front</Text>
+      <Value>fr_mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>GPS right bottom</Text>
+      <Value>gps.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>GPS right top</Text>
+      <Value>gps.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>GPS left bottom</Text>
+      <Value>gps.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>GPS left top</Text>
+      <Value>gps.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Standard</Text>
+      <Value>grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Standard</Text>
+      <Value>grill.shape1nl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Custom #1</Text>
+      <Value>grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Custom #2</Text>
+      <Value>grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Custom #2 Paint</Text>
+      <Value>grill.shape3p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Custom #3</Text>
+      <Value>grill.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Custom #3 Paint</Text>
+      <Value>grill.shape4p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Custom #4</Text>
+      <Value>grill.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Custom #4 Paint</Text>
+      <Value>grill.shape5p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>hangerfilter.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>hangerfilter.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Visors</Text>
+      <Value>hl_visor.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Visors</Text>
+      <Value>hl_visor.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>hood.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom (Eyeless)</Text>
+      <Value>hood.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom</Text>
+      <Value>hood.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom (W900A Style)</Text>
+      <Value>hood.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round</Text>
+      <Value>horn.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Square</Text>
+      <Value>horn.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round High</Text>
+      <Value>horn.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Square High</Text>
+      <Value>horn.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oldstyle Dual Square</Text>
+      <Value>h_light.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Halogen</Text>
+      <Value>h_light.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom LED</Text>
+      <Value>h_light.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oldstyle Lensed Dual Square</Text>
+      <Value>h_light.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oldstyle Round Single</Text>
+      <Value>h_light.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oldstyle Round Double</Text>
+      <Value>h_light.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oldstyle Criminals Round (Orange Parking)</Text>
+      <Value>h_light.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oldstyle Criminals Round (White DRL)</Text>
+      <Value>h_light.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Xenon</Text>
+      <Value>h_light.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Halogen</Text>
+      <Value>h_light.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Bi-Xenon</Text>
+      <Value>h_light.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 1 Chrome</Text>
+      <Value>h_rack.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 + Beacon Chrome</Text>
+      <Value>h_rack.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 + Beacon Chrome</Text>
+      <Value>h_rack.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 + Beacon Paint</Text>
+      <Value>h_rack.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 + Beacon Paint</Text>
+      <Value>h_rack.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 Chrome</Text>
+      <Value>h_rack.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 Paint</Text>
+      <Value>h_rack.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 Chrome</Text>
+      <Value>h_rack.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 Chrome</Text>
+      <Value>h_rack.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 Paint</Text>
+      <Value>h_rack.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 Paint</Text>
+      <Value>h_rack.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 1 Chrome</Text>
+      <Value>h_rack.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 1 Chrome</Text>
+      <Value>h_rack.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 1 Paint</Text>
+      <Value>h_rack.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 1 Paint</Text>
+      <Value>h_rack.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 1 Paint</Text>
+      <Value>h_rack.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 + Beacon Chrome</Text>
+      <Value>h_rack.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack Type 2 + Beacon Paint</Text>
+      <Value>h_rack.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>intpanel.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>intpanel.shape1fg</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>intpanel.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>intpanel.shape2fg</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light</Text>
+      <Value>int_light.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light</Text>
+      <Value>int_light.shape1b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light</Text>
+      <Value>int_light.shape1b_38</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light</Text>
+      <Value>int_light.shape1b_62</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light</Text>
+      <Value>int_light.shape1c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light</Text>
+      <Value>int_light.shape1_86</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Red</Text>
+      <Value>int_light.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Red</Text>
+      <Value>int_light.shape2b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Red</Text>
+      <Value>int_light.shape2b_38</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Red</Text>
+      <Value>int_light.shape2b_62</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Red</Text>
+      <Value>int_light.shape2c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Red</Text>
+      <Value>int_light.shape2_86</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Green</Text>
+      <Value>int_light.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Green</Text>
+      <Value>int_light.shape3b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Green</Text>
+      <Value>int_light.shape3b_38</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Green</Text>
+      <Value>int_light.shape3b_62</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Green</Text>
+      <Value>int_light.shape3c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Green</Text>
+      <Value>int_light.shape3_86</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Blue</Text>
+      <Value>int_light.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Blue</Text>
+      <Value>int_light.shape4b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Blue</Text>
+      <Value>int_light.shape4b_38</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Blue</Text>
+      <Value>int_light.shape4b_62</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Blue</Text>
+      <Value>int_light.shape4c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Blue</Text>
+      <Value>int_light.shape4_86</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>knobs.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>knobs.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Short</Text>
+      <Value>lampline.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Short</Text>
+      <Value>lampline.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Short</Text>
+      <Value>lampline.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Short</Text>
+      <Value>lampline.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Short</Text>
+      <Value>lampline.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Short</Text>
+      <Value>lampline.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Long</Text>
+      <Value>lampline.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Long</Text>
+      <Value>lampline.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Long</Text>
+      <Value>lampline.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Long</Text>
+      <Value>lampline.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Short</Text>
+      <Value>lampline.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Long</Text>
+      <Value>lampline.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Long</Text>
+      <Value>lampline.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>lampline.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>lampline.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Short</Text>
+      <Value>lampline.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Short</Text>
+      <Value>lampline.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Short</Text>
+      <Value>lampline.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>lamp_panel.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>lamp_panel.shape1_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>lamp_panel.shape1_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>lamp_panel.shape1_3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>lamp_panel.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>lamp_panel.shape2_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>lamp_panel.shape2_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>lamp_panel.shape2_3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>lattice.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Middle</Text>
+      <Value>lattice.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Low</Text>
+      <Value>lattice.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lic_pl.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lic_pl.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lic_pl.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lic_pl.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lic_pl.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lic_pl.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lic_pl.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lic_pl.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lic_pl.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lic_pl.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lic_pl.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lic_pl.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lic_pl.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lic_pl.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lic_pl.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>llic_pl.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>llic_pl.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>llic_pl.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>llic_pl.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>llic_pl.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>llic_pl.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>llic_pl.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>llic_pl.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>llic_pl.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>llic_pl.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>llic_pl.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>llic_pl.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>llic_pl.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>llic_pl.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>llic_pl.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>KENWORTH</Text>
+      <Value>logo_kw.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>AERO CAB</Text>
+      <Value>logo_sleep.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lplate.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lplate.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lplate.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lplate.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lplate.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lplate.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lplate.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lplate.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lplate.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lplate.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lplate.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lplate.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lplate.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lplate.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>lplate.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>wise_heart_pillow</Text>
+      <Value>l_pillow.pill_xmas_20</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>midbumper.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>midbumper.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Double</Text>
+      <Value>mirror.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Duty</Text>
+      <Value>mirror.duty</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Braket</Text>
+      <Value>mudfl.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Black</Text>
+      <Value>mudfl.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Chrome</Text>
+      <Value>mudfl.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Remove brakets</Text>
+      <Value>mudfl.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>GPS OFF</Text>
+      <Value>multimedia.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Multimedia</Text>
+      <Value>multimedia.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudflaps</Text>
+      <Value>m_flaps.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ellenbaum</Text>
+      <Value>m_flaps.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>SelecTrucks</Text>
+      <Value>m_flaps.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black/logo red</Text>
+      <Value>m_flaps.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White/logo red</Text>
+      <Value>m_flaps.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black/logo white</Text>
+      <Value>m_flaps.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your mudflaps</Text>
+      <Value>m_flaps.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>nastil.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Full</Text>
+      <Value>nastil.shape1day</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Full</Text>
+      <Value>nastil.shape1dayt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Full</Text>
+      <Value>nastil.shape1days</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>nastil.shape1s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + Connectors</Text>
+      <Value>nastil.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + Connectors</Text>
+      <Value>nastil.shape2day</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + Connectors</Text>
+      <Value>nastil.shape2dayt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + Connectors</Text>
+      <Value>nastil.shape2days</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint + Connectors</Text>
+      <Value>nastil.shape2s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint (Standard Connectors)</Text>
+      <Value>nastil.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint (Standard Connectors)</Text>
+      <Value>nastil.shape3day</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint (Standard Connectors)</Text>
+      <Value>nastil.shape3dayt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint (Standard Connectors)</Text>
+      <Value>nastil.shape3days</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint (Standard Connectors)</Text>
+      <Value>nastil.shape3s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Remove Deckplate</Text>
+      <Value>nastil.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall short</Text>
+      <Value>nastil.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall short</Text>
+      <Value>nastil.shape5_d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall long</Text>
+      <Value>nastil.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall Full (Standard Connectors)</Text>
+      <Value>nastil.shape6day</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall Full (Standard Connectors)</Text>
+      <Value>nastil.shape6dayt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall Full (Standard Connectors)</Text>
+      <Value>nastil.shape6days</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall long</Text>
+      <Value>nastil.shape6s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall Full</Text>
+      <Value>nastil.shape7day</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall Full</Text>
+      <Value>nastil.shape7dayt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall Full</Text>
+      <Value>nastil.shape7days</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint NEW</Text>
+      <Value>nast_rear.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall NEW</Text>
+      <Value>nast_rear.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Remove Deckplate</Text>
+      <Value>nast_rear.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>nast_rear.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall</Text>
+      <Value>nast_rear.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Duck Chrome</Text>
+      <Value>ornament.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Duck Paint</Text>
+      <Value>ornament.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Swan Chrome</Text>
+      <Value>ornament.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Swan Paint</Text>
+      <Value>ornament.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>overgrill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>overgrill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>overgrill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo Black</Text>
+      <Value>overgrill.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo Black</Text>
+      <Value>overgrill.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo Black</Text>
+      <Value>overgrill.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo Chrome</Text>
+      <Value>overgrill.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo Chrome</Text>
+      <Value>overgrill.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo Chrome</Text>
+      <Value>overgrill.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>overpanel.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Banner</Text>
+      <Value>oversize.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Warning</Text>
+      <Value>oversize.shape1eu</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Banner</Text>
+      <Value>oversize.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Banner</Text>
+      <Value>oversize.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Warning</Text>
+      <Value>oversize.shape3eu</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Banner</Text>
+      <Value>oversize.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Banner</Text>
+      <Value>oversize.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Warning</Text>
+      <Value>oversize.shape5eu</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Banner</Text>
+      <Value>oversize.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Warning</Text>
+      <Value>oversize.shape6eu</Value>
+    </ListItem>
+    <ListItem>
+      <Text>California</Text>
+      <Value>plate.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ontario</Text>
+      <Value>plate.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Utah</Text>
+      <Value>plate.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Washington</Text>
+      <Value>plate.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Florida</Text>
+      <Value>plate.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Nevada</Text>
+      <Value>plate.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oregon</Text>
+      <Value>plate.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Arizona</Text>
+      <Value>plate.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Idaho</Text>
+      <Value>plate.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Maine</Text>
+      <Value>plate.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Minnesota</Text>
+      <Value>plate.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mississippi</Text>
+      <Value>plate.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Montana</Text>
+      <Value>plate.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>New Mexico</Text>
+      <Value>plate.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>New York</Text>
+      <Value>plate.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>radio.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive</Text>
+      <Value>radio.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rails Chrome</Text>
+      <Value>rails.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rails Paint</Text>
+      <Value>rails.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rails Black</Text>
+      <Value>rails.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Black</Text>
+      <Value>rearbumper.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Paint</Text>
+      <Value>rearbumper.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Black LED Lights</Text>
+      <Value>rearbumper.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Paint LED Lights</Text>
+      <Value>rearbumper.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Chrome</Text>
+      <Value>rearbumper.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Black</Text>
+      <Value>rearbumper.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Paint</Text>
+      <Value>rearbumper.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom 2 Chrome</Text>
+      <Value>rearbumper.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom 2 Paint</Text>
+      <Value>rearbumper.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>rearflares.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>rearflares.shape1d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom</Text>
+      <Value>rearflares.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom</Text>
+      <Value>rearflares.shape2d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear Bar</Text>
+      <Value>rear_bar.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear Bar</Text>
+      <Value>rear_bar.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear Bar</Text>
+      <Value>rear_bar.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear Bar Paint</Text>
+      <Value>rear_bar.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear Bar Paint</Text>
+      <Value>rear_bar.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear Bar Paint</Text>
+      <Value>rear_bar.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Summit Black</Text>
+      <Value>rear_logo.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Summit White</Text>
+      <Value>rear_logo.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo Black</Text>
+      <Value>rear_logo.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Logo White</Text>
+      <Value>rear_logo.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>rooflight.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>rooflight.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>rooflight.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>rooflight.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Adapter</Text>
+      <Value>rooflight.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Adapter</Text>
+      <Value>rooflight.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>rrstairs.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>rrstairs.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall</Text>
+      <Value>rrstairs.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Chrome</Text>
+      <Value>rrstairs.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Paint</Text>
+      <Value>rrstairs.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>rstairs.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>rstairs.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall</Text>
+      <Value>rstairs.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Chrome</Text>
+      <Value>rstairs.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Paint</Text>
+      <Value>rstairs.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>DEF Tank Chrome</Text>
+      <Value>rstairs.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>DEF Tank Paint</Text>
+      <Value>rstairs.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cup_holder</Text>
+      <Value>set_cuphold.set1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Slim Eaton</Text>
+      <Value>shifter.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Fat Ball</Text>
+      <Value>shifter.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Fat Ball</Text>
+      <Value>shifter.shape10c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mid Fat Ball</Text>
+      <Value>shifter.shape10m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Fat Knob Chrome</Text>
+      <Value>shifter.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Fat Knob Chrome</Text>
+      <Value>shifter.shape11c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mid Fat Knob Chrome</Text>
+      <Value>shifter.shape11m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Fat Knob Black</Text>
+      <Value>shifter.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Fat Knob Black</Text>
+      <Value>shifter.shape12c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mid Fat Knob Black</Text>
+      <Value>shifter.shape12m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Slim Eaton</Text>
+      <Value>shifter.shape1c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mid Slim Eaton</Text>
+      <Value>shifter.shape1m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Slim Ball</Text>
+      <Value>shifter.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Slim Ball</Text>
+      <Value>shifter.shape2c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mid Slim Ball</Text>
+      <Value>shifter.shape2m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Slim Knob Chrome</Text>
+      <Value>shifter.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Slim Knob Chrome</Text>
+      <Value>shifter.shape3c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mid Slim Knob Chrome</Text>
+      <Value>shifter.shape3m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Slim Knob Black</Text>
+      <Value>shifter.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Slim Knob Black</Text>
+      <Value>shifter.shape4c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mid Slim Knob Black</Text>
+      <Value>shifter.shape4m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Mid Eaton</Text>
+      <Value>shifter.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Mid Eaton</Text>
+      <Value>shifter.shape5c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mid Mid Eaton</Text>
+      <Value>shifter.shape5m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Mid Ball</Text>
+      <Value>shifter.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Mid Ball</Text>
+      <Value>shifter.shape6c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mid Mid Ball</Text>
+      <Value>shifter.shape6m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Mid Knob Chrome</Text>
+      <Value>shifter.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Mid Knob Chrome</Text>
+      <Value>shifter.shape7c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mid Mid Knob Chrome</Text>
+      <Value>shifter.shape7m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Mid Knob Black</Text>
+      <Value>shifter.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Mid Knob Black</Text>
+      <Value>shifter.shape8c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mid Mid Knob Black</Text>
+      <Value>shifter.shape8m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Fat Eaton</Text>
+      <Value>shifter.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Fat Eaton</Text>
+      <Value>shifter.shape9c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mid Fat Eaton</Text>
+      <Value>shifter.shape9m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>sidespoiler.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Remove spoiler</Text>
+      <Value>sidespoiler.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>sidespoiler.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Remove spoiler</Text>
+      <Value>sidespoiler.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Remove spoiler</Text>
+      <Value>sidespoiler.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Remove spoiler</Text>
+      <Value>sidespoiler.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>sidespoiler.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>sidespoiler.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>sidespoiler.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Lamps</Text>
+      <Value>side_lamps.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Lamps</Text>
+      <Value>side_lamps.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Lamps</Text>
+      <Value>side_lamps.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Lamps</Text>
+      <Value>side_lamps.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Lamps</Text>
+      <Value>side_lamps.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Lamps</Text>
+      <Value>side_lamps.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Lamps</Text>
+      <Value>side_lamps.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Lamps</Text>
+      <Value>side_lamps.shape3d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Lamps</Text>
+      <Value>side_lamps.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Lamps</Text>
+      <Value>side_lamps.shape4d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Remove lights</Text>
+      <Value>side_lamps.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Lamps</Text>
+      <Value>side_lamps.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Lamps</Text>
+      <Value>side_lamps.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Lamps</Text>
+      <Value>side_lamps.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Lamps</Text>
+      <Value>side_lamps.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabin Antenna</Text>
+      <Value>sleeperant.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Speaker</Text>
+      <Value>speaker.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>stairs.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>stairs.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metall</Text>
+      <Value>stairs.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Chrome</Text>
+      <Value>stairs.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Paint</Text>
+      <Value>stairs.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 3</Text>
+      <Value>steering_w.custom</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 4</Text>
+      <Value>steering_w.custom1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 5</Text>
+      <Value>steering_w.custom2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Modern</Text>
+      <Value>steering_w.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Classic</Text>
+      <Value>steering_w.exclusive</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 2</Text>
+      <Value>steering_w.exe</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_ace</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_burl</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_burl_c</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_burl_el4</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_burl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_cl</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_cl_carb</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_cl_c</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_cl_l</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_cl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_cl_s</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_cl_ovr</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_colts</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_eagle</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_excal</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_flames</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_flight</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_genesis</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_girl</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_milest</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_overlnd</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_pin</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_pin_l</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_pin_m</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_pin_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_racer</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_retro</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_riv_sprt</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>steering_w.sci_sky_blk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 1</Text>
+      <Value>steering_w.std</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom</Text>
+      <Value>sun.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Small</Text>
+      <Value>sun.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Paint</Text>
+      <Value>sun.shape1paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Big</Text>
+      <Value>sun.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Big Paint</Text>
+      <Value>sun.shape2paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>sun.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard  Paint</Text>
+      <Value>sun.shape3paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom New 1 Chrome</Text>
+      <Value>sun.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom New 1 Paint</Text>
+      <Value>sun.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom New 2 Chrome</Text>
+      <Value>sun.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom New 2 Paint</Text>
+      <Value>sun.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom New 3 Chrome</Text>
+      <Value>sun.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom New 3 Paint</Text>
+      <Value>sun.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Side Mirror</Text>
+      <Value>s_mirror.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape1def</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape1_d</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape1_ddef</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape2def</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape2_d</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape2_ddef</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape3def</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape4def</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape5def</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape6def</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape7def</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tankers.shape8def</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tank_cover.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tank_cover.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>tank_obtek.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>holy_field_blanket</Text>
+      <Value>toybed.blan_xmas_20</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>ventdoor.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>ventdoor.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>ventdoor.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>ventdoor.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>ventdoor.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>ventdoor.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>ventdoor.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>ventdoor.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome weights</Text>
+      <Value>weights.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Turbo Wing</Text>
+      <Value>wing.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>wing.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>wing.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ducktail</Text>
+      <Value>wing.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ducktail</Text>
+      <Value>wing.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Turbo Wing</Text>
+      <Value>wing.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ducktail</Text>
+      <Value>wing.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ducktail</Text>
+      <Value>wing.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ducktail</Text>
+      <Value>wing.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>wood.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>wood.shape1fg</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 2</Text>
+      <Value>wood.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 2</Text>
+      <Value>wood.shape2fg</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 3</Text>
+      <Value>wood.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 3</Text>
+      <Value>wood.shape3fg</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 4</Text>
+      <Value>wood.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 4</Text>
+      <Value>wood.shape4fg</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 5</Text>
+      <Value>wood.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 5</Text>
+      <Value>wood.shape5fg</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 6</Text>
+      <Value>wood.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 6</Text>
+      <Value>wood.shape6fg</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 7</Text>
+      <Value>wood.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 7</Text>
+      <Value>wood.shape7fg</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Carbon</Text>
+      <Value>wood.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Carbon</Text>
+      <Value>wood.shape8fg</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>wood.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>wood.shape9fg</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.kw.w900jl.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>kw.w900jl</InternalName>
+  <VehicleAuthor>jon-ruda</VehicleAuthor>
+  <VehicleName>KW W900 HIGHWAY KILLER</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>daycab.kw.w900jl.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>exclusive.kw.w900jl.cabin</InternalName>
+      <Name>AeroCab Sleeper 72unit_in</Name>
+    </Variant>
+    <Variant>
+      <InternalName>exclusive_b.kw.w900jl.cabin</InternalName>
+      <Name>AeroCab Sleeper 72unit_in (Door)</Name>
+    </Variant>
+    <Variant>
+      <InternalName>midroof.kw.w900jl.cabin</InternalName>
+      <Name>Flattop Sleeper 72unit_in</Name>
+    </Variant>
+    <Variant>
+      <InternalName>midroof38.kw.w900jl.cabin</InternalName>
+      <Name>Flattop Sleeper 38unit_in</Name>
+    </Variant>
+    <Variant>
+      <InternalName>midroof62.kw.w900jl.cabin</InternalName>
+      <Name>Flattop Sleeper 62unit_in</Name>
+    </Variant>
+    <Variant>
+      <InternalName>midroof62_b.kw.w900jl.cabin</InternalName>
+      <Name>Flattop Sleeper 62unit_in (Door)</Name>
+    </Variant>
+    <Variant>
+      <InternalName>midroof_b.kw.w900jl.cabin</InternalName>
+      <Name>Flattop Sleeper 72unit_in (Door)</Name>
+    </Variant>
+    <Variant>
+      <InternalName>studio.kw.w900jl.cabin</InternalName>
+      <Name>Studio Sleeper 86unit_in</Name>
+    </Variant>
+    <Variant>
+      <InternalName>studio_b.kw.w900jl.cabin</InternalName>
+      <Name>Studio Sleeper 86unit_in (Door)</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

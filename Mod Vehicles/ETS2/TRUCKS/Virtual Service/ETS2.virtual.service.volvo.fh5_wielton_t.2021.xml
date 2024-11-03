@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ea072692-2fe5-4eb1-9fe5-73bc59be8700</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+	  <Group>Wielton</Group>
+      <Text>Open Left</Text>
+      <Value>wielton_l.shape1</Value>
+    </ListItem>
+    <ListItem>
+	  <Group>Wielton</Group>
+      <Text>Close Left</Text>
+      <Value>wielton_l.shape2</Value>
+    </ListItem>
+	<ListItem>
+	  <Group>Wielton</Group>
+      <Text>Open Right</Text>
+      <Value>wielton_r.shape1</Value>
+    </ListItem>
+    <ListItem>
+	  <Group>Wielton</Group>
+      <Text>Close Right</Text>
+      <Value>wielton_r.shape2</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.virtual.service.volvo.fh5_wielton_t.2021.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>wielton_t</InternalName>
+  <VehicleAuthor>Virtual Service</VehicleAuthor>
+  <VehicleName>Wielton</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.flatbed_1</InternalName>
+      <Name>Wielton</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay</XmlDefinitionAuthor>
+</Variable>

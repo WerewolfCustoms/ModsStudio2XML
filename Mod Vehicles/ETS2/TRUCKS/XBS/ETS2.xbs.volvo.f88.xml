@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>89550b3e-6161-4297-be13-3d8bdef0bceb</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    
+    <ListItem>
+      <Text>Strahlend Lower Grill Guard Paint</Text>
+      <Value>b_grill.shape1</Value>
+    </ListItem>
+    
+    
+    <ListItem>
+      <Text>Dirt deflectors Paint</Text>
+      <Value>dirt_defl.shape2</Value>
+    </ListItem>
+
+    
+    <ListItem>
+      <Text>Auxiliary tank Paint</Text>
+      <Value>equip.shape2</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Vorschlaghammer Bumper Paint</Text>
+      <Value>f_bump.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock Bumper Paint</Text>
+      <Value>f_bump.stock</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Front Fenders Paint</Text>
+      <Value>f_fender.stock</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Volvo Logo Paint</Text>
+      <Value>f_logo.ch_pnt</Value>
+    </ListItem>
+   
+    <ListItem>
+      <Text>Main Mirrors Paint</Text>
+      <Value>mirror.shape2</Value>
+    </ListItem>
+   
+    <ListItem>
+      <Text>4x2 Rear Fenders Paint</Text>
+      <Value>r_fender.4x2_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>6x2 Rear Fenders Paint</Text>
+      <Value>r_fender.6x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>6x2 Rear Fenders Paint</Text>
+      <Value>r_fender.6x2_p2</Value>
+    </ListItem>
+   
+    
+    <ListItem>
+      <Text>4x2 Rear Fenders Paint</Text>
+      <Value>r_fender.cust_4x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>62 Rear Fenders Paint</Text>
+      <Value>r_fender.cust_6x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>4x2 Rear Fenders Paint</Text>
+      <Value>r_fender.rgd4x2_p</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>6x2 Rear Fenders Paint</Text>
+      <Value>r_fender.rgd6x2_p</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Roof Spoiler Paint</Text>
+      <Value>r_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headboard ASG Transport</Text>
+      <Value>r_grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headboard no backlight</Text>
+      <Value>r_grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headboard with illumination</Text>
+      <Value>r_grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headboard with stairs</Text>
+      <Value>r_grill.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headboard with stairs</Text>
+      <Value>r_grill.shape5</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Sunroof Paint</Text>
+      <Value>sunroof.shape2</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Air Tanks Paint</Text>
+      <Value>s_equip.shape2</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Stock Tank Paint</Text>
+      <Value>tank.paint</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Original MTWM385 Mirrors Paint</Text>
+      <Value>mirror.shape3</Value>
+    </ListItem>
+    
+    
+    <ListItem>
+      <Text>Stock Fuel Tank Old Paint</Text>
+      <Value>tank.paint_old</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Rear Fender Paint F89</Text>
+      <Value>r_fender.6x2_p89</Value>
+    </ListItem>
+   
+    <ListItem>
+      <Text>Door Step Paint</Text>
+      <Value>doorstep.shape2</Value>
+    </ListItem>
+
+    <ListItem>
+      <Text>Grill Australian Style Bull Bar Paint</Text>
+      <Value>f_grill.shape2</Value>
+    </ListItem>
+    
+  </AccessoryItems>
+  <FilePath>C:\Users\My PC\Desktop\Mods Studio 2 v.2020.07\Data\ModData\SCS\Vehicles\my_xmls\ETS2.volvo.f88.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>volvo.f88</InternalName>
+  <VehicleAuthor>XBS</VehicleAuthor>
+  <VehicleName>Volvo F88</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>long.volvo.f88.cabin</InternalName>
+      <Name>Long Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>short.volvo.f88.cabin</InternalName>
+      <Name>Short Cab</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

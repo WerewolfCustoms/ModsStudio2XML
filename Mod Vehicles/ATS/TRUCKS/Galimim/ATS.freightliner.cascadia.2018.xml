@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>60fdb259-7d0a-4e13-ad35-d1eefeaf17e8</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Heat Exchanger</Text>
+      <Value>aircon.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabin Back Light Slots</Text>
+      <Value>backlight.backlt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Plastic</Text>
+      <Value>bumper.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Paint + Plastic</Text>
+      <Value>bumper.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Paint</Text>
+      <Value>bumper.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Adapter</Text>
+      <Value>cabflares.shapec0</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear Lights</Text>
+      <Value>cabflares.shapec1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Amber Lights</Text>
+      <Value>cabflares.shapec2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fenders</Text>
+      <Value>fenders.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Left Hood Mirror Plastic</Text>
+      <Value>fl_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Left Hood Mirror Paint</Text>
+      <Value>fl_mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Left Hood Mirror Chrome</Text>
+      <Value>fl_mirror.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Right Hood Mirror Plastic</Text>
+      <Value>fr_mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Right Hood Mirror Paint</Text>
+      <Value>fr_mirror.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Right Hood Mirror Chrome</Text>
+      <Value>fr_mirror.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cascadia Plastic</Text>
+      <Value>grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cascadia Chrome</Text>
+      <Value>grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Highpipes Conbar Cutom</Text>
+      <Value>highpipes.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>W9 Pipes</Text>
+      <Value>highpipes.shapew9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Single W9 Pipe</Text>
+      <Value>highpipes.shapew9si</Value>
+    </ListItem>
+    <ListItem>
+      <Text>X9 Pipes</Text>
+      <Value>highpipes.shapex9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirror Plastic</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirror Paint</Text>
+      <Value>mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirror Chrome</Text>
+      <Value>mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>PX</Text>
+      <Value>ml_antennas.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>PX</Text>
+      <Value>mr_antennas.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudguards Basic</Text>
+      <Value>mudguards.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudguards Freightliner</Text>
+      <Value>mudguards.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mudguards Freightliner 75 Years</Text>
+      <Value>mudguards.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Flow Below Aerokit</Text>
+      <Value>mudguards.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Flow Below Aerokit Painted</Text>
+      <Value>mudguards.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Window Tint Dark</Text>
+      <Value>parabrisas.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Window Tint Blue</Text>
+      <Value>parabrisas.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Window Tint Light</Text>
+      <Value>parabrisas.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Window Tint Red</Text>
+      <Value>parabrisas.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Window Tint Green</Text>
+      <Value>parabrisas.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Window Tint Pink</Text>
+      <Value>parabrisas.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Window Tint Yellow</Text>
+      <Value>parabrisas.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Window Tint Orange</Text>
+      <Value>parabrisas.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sideflare Slots 1</Text>
+      <Value>sideflares.sf1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Spoiler For Day Cab</Text>
+      <Value>spoiler.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Spoiler For XT Cab</Text>
+      <Value>spoiler.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive</Text>
+      <Value>steering_w.exclusive</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive B</Text>
+      <Value>steering_w.exclusive_b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive C</Text>
+      <Value>steering_w.exclusive_c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive D</Text>
+      <Value>steering_w.exclusive_d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>steering_w.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard B</Text>
+      <Value>steering_w.standard_b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cascadia Visor</Text>
+      <Value>sunshield.cassun</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Acryl Drop Visor</Text>
+      <Value>sunshield.05gdrop</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wind Deflector</Text>
+      <Value>wdefl.shape_gls</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Realistic Pattern@@</Text>
+      <Value>f_light_chs.real</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@halogen@@</Text>
+      <Value>f_light_chs.std</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@xenon@@</Text>
+      <Value>f_light_chs.xen</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fog Lights</Text>
+      <Value>f_light_bmp.fog</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>J:\Mods_Studio_2_v.2020.07\Data\ModData\SCS\Vehicles\ATS.freightliner.cascadia.2018.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>freightliner.cascadia.2018</InternalName>
+  <VehicleAuthor>galimim, Felipe Conbar</VehicleAuthor>
+  <VehicleName>Freightliner Cascadia 2018</VehicleName>
+  <VehicleType>Oldtrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>day_cab.freightliner.cascadia.2018.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>rr.freightliner.cascadia.2018.cabin</InternalName>
+      <Name>RR Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>xt.freightliner.cascadia.2018.cabin</InternalName>
+      <Name>XT Cab</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

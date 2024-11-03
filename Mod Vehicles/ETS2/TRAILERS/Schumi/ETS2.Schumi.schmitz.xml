@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>3b545ab1-1a3a-421e-b29a-7a8f2d5cbfbe</Id>
+  <IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2021</Major>
+	 <Minor>1</Minor>
+	</MS2LibraryVersion>
+  <Game>ETS2</Game>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <InternalName>schmitz</InternalName>
+  <VehicleAuthor>Schumi</VehicleAuthor>
+  <VehicleName>Schmitz Series Schmitz Curtain V1</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>x</Description>
+      <Group>Schmitz Series</Group>
+      <Image>x</Image>
+      <InternalName>body.curtain</InternalName>
+      <Name>Schmitz Curtain V1</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

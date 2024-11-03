@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>2b2fc4e8-39be-40a2-a0dc-7baeecc4fbb4</Id>
+  <IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2021</Major>
+	 <Minor>2</Minor>
+	</MS2LibraryVersion>
+  <Game>ETS2</Game>
+  <InternalName>jazzycat.michieletto</InternalName>
+  <VehicleAuthor>JazzyCat</VehicleAuthor>
+  <VehicleName>Pezzaioli Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.body</InternalName>
+      <Name>Pezzaioli/Michieletto</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

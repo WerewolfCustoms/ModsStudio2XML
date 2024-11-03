@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>d8622a9a-5062-41e4-a69b-2483f61ffd95</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>mirror.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Brown</Text>
+      <Value>steering_w.brown</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black</Text>
+      <Value>steering_w.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>s_mirror.default</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\salon\Desktop\All.lamb_urus.xml</FilePath>
+  <Game>All</Game>
+  <InternalName>lamb_urus</InternalName>
+  <VehicleAuthor>DN Modding, Nimit, Slav Jerry</VehicleAuthor>
+  <VehicleName>Lamborghini Urus</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>urus_2018.lamb_urus.cabin</InternalName>
+      <Name>2018</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>MohSkinner</XmlDefinitionAuthor>
+</Variable>

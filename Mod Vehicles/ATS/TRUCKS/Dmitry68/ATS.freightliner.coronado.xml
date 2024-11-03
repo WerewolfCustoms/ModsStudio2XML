@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>3c3b4d2a-5ca7-46ec-b043-0c5863b8cd3b</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.freightliner.coronado.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>freightliner.coronado</InternalName>
+  <VehicleAuthor>Stas556 &amp; dmitry68</VehicleAuthor>
+  <VehicleName>Freightliner Coronado</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>standard.freightliner.coronado.cabin</InternalName>
+      <Name>Raised Roof Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>led.freightliner.coronado.cabin</InternalName>
+      <Name>Raised Roof Sleeper(led)</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

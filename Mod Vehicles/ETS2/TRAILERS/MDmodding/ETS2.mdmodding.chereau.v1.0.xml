@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>f53c58c5-360c-4718-a7cf-5fbf640def77</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>chereau</InternalName>
+  <VehicleAuthor>MDModding</VehicleAuthor>
+  <VehicleName>Chereau</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  
+	<VehicleVariants>
+		<Variant>
+			<InternalName>body.paint</InternalName>
+			<Name>Refrigerated Roof Painted (template Chassis and Body - 4096x2048.png)</Name>
+		</Variant>
+		<Variant>
+			<InternalName>body.stock</InternalName>
+			<Name>Refrigerated Roof Metal    (template Chassis and Body - 4096x2048.png)</Name>
+		</Variant>
+	</VehicleVariants>
+
+  <AccessoryItems>
+    <ListItem>
+      <Group>Chassi Frame (no template pick a suitable colour)</Group>
+      <Text>IF NOT choosen IT will take the BASECOLOR</Text>
+      <Value>chassis.chassis</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Frame (no template pick a suitable colour)</Group>
+      <Text>IF NOT choosen IT will take the BASECOLOR</Text>
+      <Value>chassis.chassis3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Front Left Side (template Chs_f_l - 4096x4096.png)</Group>
+      <Text>Barre paint</Text>
+      <Value>chs_f_l.mdm_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Front Left Side (template Chs_f_l - 4096x4096.png)</Group>
+      <Text>Side paint</Text>
+      <Value>chs_f_l.mdm_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Front Left Side (template Chs_f_l - 4096x4096.png)</Group>
+      <Text>Side paint</Text>
+      <Value>chs_f_l.mdm_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Front Right Side (template Chs_f_r - 4096x4096.png)</Group>
+      <Text>Barre paint</Text>
+      <Value>chs_f_r.mdm_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Front Right Side (template Chs_f_r - 4096x4096.png)</Group>
+      <Text>Side paint</Text>
+      <Value>chs_f_r.mdm_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Front Right Side (template Chs_f_r - 4096x4096.png)</Group>
+      <Text>Side paint</Text>
+      <Value>chs_f_r.mdm_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Rear Left Side (template Chs_r_l - 4096x4096.png)</Group>
+      <Text>Side-Box paint</Text>
+      <Value>chs_r_l.mdm_10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Rear Left Side (template Chs_r_l - 4096x4096.png)</Group>
+      <Text>Barre paint</Text>
+      <Value>chs_r_l.mdm_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Rear Left Side (template Chs_r_l - 4096x4096.png)</Group>
+      <Text>Box paint</Text>
+      <Value>chs_r_l.mdm_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Rear Left Side (template Chs_r_l - 4096x4096.png)</Group>
+      <Text>Side paint</Text>
+      <Value>chs_r_l.mdm_6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Rear Left Side (template Chs_r_l - 4096x4096.png)</Group>
+      <Text>Side-Box paint</Text>
+      <Value>chs_r_l.mdm_8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Rear Right Side (template Chs_r_r - 4096x4096.png)</Group>
+      <Text>Barre paint</Text>
+      <Value>chs_r_r.mdm_2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Rear Right Side (template Chs_r_r - 4096x4096.png)</Group>
+      <Text>Side paint</Text>
+      <Value>chs_r_r.mdm_4p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Rear Right Side (template Chs_r_r - 4096x4096.png)</Group>
+      <Text>Side paint</Text>
+      <Value>chs_r_r.mdm_6p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Rear Right Side (template Chs_r_r - 4096x4096.png)</Group>
+      <Text>Side 02 paint</Text>
+      <Value>chs_r_r.mdm_8p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers (template Bumper 01_02- 1024x1024.png)</Group>
+      <Text>Bumper1 - metal paint</Text>
+      <Value>r_bumper.1metal_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers (template Bumper 01_02- 1024x1024.png)</Group>
+      <Text>Bumper1 - paint</Text>
+      <Value>r_bumper.1paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers (template Bumper 01_02- 1024x1024.png)</Group>
+      <Text>Bumper1 - paint metal</Text>
+      <Value>r_bumper.1paint_m</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers (template Bumper 01_02- 1024x1024.png)</Group>
+      <Text>Bumper2 - paint</Text>
+      <Value>r_bumper.2paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders (template Fender - 512x256.png)</Group>
+      <Text>fenders paint no mudflaps</Text>
+      <Value>r_fender.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders (template Fender - 512x256.png)</Group>
+      <Text>fenders paint with mudflaps</Text>
+      <Value>r_fender.paint_m</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Parts</Group>
+      <Text>mudflap paint custom (template Mudflap - 2048x512.png)</Text>
+      <Value>r_mudflap.mdm_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Parts</Group>
+      <Text>tank paint (template Tank - 1024x512.png)</Text>
+      <Value>tank.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>

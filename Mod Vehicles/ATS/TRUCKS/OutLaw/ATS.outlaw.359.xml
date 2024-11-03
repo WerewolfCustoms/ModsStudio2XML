@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>1c99991d-2859-4e52-9c69-d1f12979fe7c</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.outlaw.359.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>outlaw.359</InternalName>
+  <VehicleAuthor>Outlaw Transport</VehicleAuthor>
+  <VehicleName>Peterbilt 359 EXHD</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>duty.outlaw.359.cabin</InternalName>
+      <Name>Daycab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>duty2.outlaw.359.cabin</InternalName>
+      <Name>36 inch Coffin</Name>
+    </Variant>
+    <Variant>
+      <InternalName>duty3.outlaw.359.cabin</InternalName>
+      <Name>63 inch Flattop</Name>
+    </Variant>
+    <Variant>
+      <InternalName>duty4.outlaw.359.cabin</InternalName>
+      <Name>Retro Doonan Cap</Name>
+    </Variant>
+    <Variant>
+      <InternalName>worn.outlaw.359.cabin</InternalName>
+      <Name>Worn Flattop</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

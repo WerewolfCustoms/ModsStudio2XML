@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>8f26a6bd-c092-491c-aa00-0caa2ffe5018</Id>
+  <IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2022</Major>
+	 <Minor>01</Minor>
+	</MS2LibraryVersion>
+  <Game>ETS2</Game>
+  <InternalName>mt_eksjo.flis_r19</InternalName>
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>Eksjövagnen FS 18-20 Ver.1</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>4.2m Height MT Eksjö Flis R19</Description>
+      <Image>x</Image>
+      <InternalName>body.4_2_box</InternalName>
+      <Name>4.2m</Name>
+    </Variant>
+    <Variant>
+      <Description>4.4m Height MT Eksjö Flis R19</Description>
+      <Image>x</Image>
+      <InternalName>body.4_4_box</InternalName>
+      <Name>4.4m</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <AccessoryItems>
+    <ListItem>
+      <Description>Trailer Cover Not Loaded</Description>
+      <Group>ROOF</Group>
+      <Image>x</Image>
+      <Text>Flat (4.2m Not Loaded)</Text>
+      <Value>cover_l.flat</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer Cover Loaded</Description>
+      <Group>ROOF</Group>
+      <Image>x</Image>
+      <Text>Full (4.2m Loaded)</Text>
+      <Value>cover_l.load</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer Cover Loaded</Description>
+      <Group>ROOF</Group>
+      <Image>x</Image>
+      <Text>Full (4.4m Loaded)</Text>
+      <Value>cover_h.load</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer Cover Not Loaded</Description>
+      <Group>ROOF</Group>
+      <Image>x</Image>
+      <Text>Flat (4.4m Not Loaded)</Text>
+      <Value>cover_h.flat</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Frame</Description>
+      <Group>FRAME</Group>
+      <Image>x</Image>
+      <Text>Chassis Paintable</Text>
+      <Value>frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Left Side Boxes Middle</Description>
+      <Group>SIDESKIRTS (BOXES)</Group>
+      <Image>x</Image>
+      <Text>Paintable</Text>
+      <Value>chs_m_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Left Side Boxes</Description>
+      <Group>SIDESKIRTS (BOXES)</Group>
+      <Image>x</Image>
+      <Text>2x small toolbox, Paintable</Text>
+      <Value>eksjo_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Left Side Boxes</Description>
+      <Group>SIDESKIRTS (BOXES)</Group>
+      <Image>x</Image>
+      <Text>Long toolbox, Paintable</Text>
+      <Value>eksjo_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Left Side Boxes</Description>
+      <Group>SIDESKIRTS (BOXES)</Group>
+      <Image>x</Image>
+      <Text>Long+Short toolbox, Paintable</Text>
+      <Value>eksjo_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Left Side Rail</Description>
+      <Group>SIDESKIRTS (BOXES)</Group>
+      <Image>x</Image>
+      <Text>Paintable</Text>
+      <Value>eksjo_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Left Side Boxes</Description>
+      <Group>SIDESKIRTS (BOXES)</Group>
+      <Image>x</Image>
+      <Text>Small toolbox, Paintable</Text>
+      <Value>eksjo_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Right Side Boxes</Description>
+      <Group>SIDESKIRTS (BOXES)</Group>
+      <Image>x</Image>
+      <Text>2x small toolbox, Paintable</Text>
+      <Value>eksjo_f_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Right Side Boxes</Description>
+      <Group>SIDESKIRTS (BOXES)</Group>
+      <Image>x</Image>
+      <Text>Long toolbox, Paintable</Text>
+      <Value>eksjo_f_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Right Side Boxes</Description>
+      <Group>SIDESKIRTS (BOXES)</Group>
+      <Image>x</Image>
+      <Text>Long+Short toolbox, Paintable</Text>
+      <Value>eksjo_f_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Right Side Rail</Description>
+      <Group>SIDESKIRTS (BOXES)</Group>
+      <Image>x</Image>
+      <Text>Paintable</Text>
+      <Value>eksjo_f_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Right Side Boxes</Description>
+      <Group>SIDESKIRTS (BOXES)</Group>
+      <Image>x</Image>
+      <Text>Small toolbox, Paintable</Text>
+      <Value>eksjo_f_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Fenders Location A</Description>
+      <Group>FENDERS</Group>
+      <Image>x</Image>
+      <Text>Paintable Parlok Fenders</Text>
+      <Value>eksjo_fend_a.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Fenders Location B</Description>
+      <Group>FENDERS</Group>
+      <Image>x</Image>
+      <Text>Paintable Parlok Fenders</Text>
+      <Value>eksjo_fend_b.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Fenders Location C</Description>
+      <Group>FENDERS</Group>
+      <Image>x</Image>
+      <Text>Paintable Parlok Fenders</Text>
+      <Value>eksjo_fend_c.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Bumper</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Paintable</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Bumper</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Full Paintable</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Bumper</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Paintable Double</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Bumper</Description>
+      <Group>REAR BUMPER</Group>
+      <Image>x</Image>
+      <Text>Full Paintable Double</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Customized License Plate</Description>
+      <Group>LICENSE PLATE</Group>
+      <Image>x</Image>
+      <Text>Custom LP</Text>
+      <Value>custom_lp.custom_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Big Mudflap</Description>
+      <Group>REAR MUDFLAP</Group>
+      <Image>x</Image>
+      <Text>Paintable</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>

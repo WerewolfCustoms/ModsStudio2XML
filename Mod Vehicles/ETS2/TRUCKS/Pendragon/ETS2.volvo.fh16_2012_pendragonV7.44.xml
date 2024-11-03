@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>57ae4e87-2739-40dd-8754-38943421618f</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+   <ListItem>
+   <!-- Volvo FH16 2012 MS2 v2022.01 -->
+      <Description>See screenshot for location.\nDecal is pictured.</Description>
+      <Group>Decal</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\decals.painted.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>decals.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis decal would read Globetrotter.</Description>
+      <Group>Decal</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\decals.painted_d4.jpg</Image>
+      <Text>Paint Globetrotter * DLC *</Text>
+      <Value>decals.painted_d3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nDecal is pictured.</Description>
+      <Group>Decal</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\decals.painted_d4.jpg</Image>
+      <Text>Paint Globetrotter XL * DLC *</Text>
+      <Value>decals.painted_d4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis decal would read 540 XL.</Description>
+      <Group>Decal</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\decals.painted_d4.jpg</Image>
+      <Text>Paint FH16 540 XL * DLC *</Text>
+      <Value>decals.painted_d5</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis decal would read 600 XL.</Description>
+      <Group>Decal</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\decals.painted_d4.jpg</Image>
+      <Text>Paint FH16 600 XL * DLC *</Text>
+      <Value>decals.painted_d6</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis decal would read 750.</Description>
+      <Group>Decal</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\decals.painted_d4.jpg</Image>
+      <Text>Paint FH16 750 * DLC *</Text>
+      <Value>decals.painted_d1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis decal would read 700 XL.</Description>
+      <Group>Decal</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\decals.painted_d4.jpg</Image>
+      <Text>Paint FH16 700 XL * DLC *</Text>
+      <Value>decals.painted_d7</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis decal would read 750 XL.</Description>
+      <Group>Decal</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\decals.painted_d4.jpg</Image>
+      <Text>Paint FH16 750 XL * DLC *</Text>
+      <Value>decals.painted_d2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\sunshld.shape1.jpg</Image>
+      <Text>Stock</Text>
+      <Value>sunshld.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\sunshld.shape2.jpg</Image>
+      <Text>Samurai</Text>
+      <Value>sunshld.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\sunshld.dual.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>sunshld.dual</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\sunshld.quatro.jpg</Image>
+      <Text>Exclusive Paint * DLC *</Text>
+      <Value>sunshld.quatro</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\sunshld.triangle.jpg</Image>
+      <Text>Paint Luxury * DLC *</Text>
+      <Value>sunshld.triangle</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\f_mirror.painted.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_mirror.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\f_mirror.paintedl.jpg</Image>
+      <Text>Paint long * DLC *</Text>
+      <Value>f_mirror.paintedl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\mirror.shape3.jpg</Image>
+      <Text>Paint</Text>
+      <Value>mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\mirror.chrome_led.jpg</Image>
+      <Text>Paint LED * DLC *</Text>
+      <Value>mirror.chrome_led</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\mirror.chrome_logo.jpg</Image>
+      <Text>Paint and Chrome * DLC *</Text>
+      <Value>mirror.chrome_logo</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Window Frame</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\f_wnd_frame.paint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_wnd_frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Badge Plate</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\f_intake_bar.paint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_intake_bar.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\f_intake_cab.painted.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_intake_cab.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bull Bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\f_grill.net.jpg</Image>
+      <Text>Paint Net * DLC *</Text>
+      <Value>f_grill.net</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Grille Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\f_inlay_chs.painted_p.jpg</Image>
+      <Text>Paint and Plastic * DLC *</Text>
+      <Value>f_inlay_chs.painted_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Grille Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\f_inlay_chs.exclusive_p.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_inlay_chs.exclusive_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\f_bumper.shape1.jpg</Image>
+      <Text>Stock</Text>
+      <Value>f_bumper.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\f_bumper.paint3.jpg</Image>
+      <Text>Low Paint * DLC *</Text>
+      <Value>f_bumper.paint3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\f_bumper.paint1.jpg</Image>
+      <Text>Low LED * DLC *</Text>
+      <Value>f_bumper.paint1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\f_bumper.paint2.jpg</Image>
+      <Text>Exclusive LED * DLC *</Text>
+      <Value>f_bumper.paint2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\r_deflector.jpg</Image>
+      <Text>Paint</Text>
+      <Value>r_deflector.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\r_deflector.jpg</Image>
+      <Text>Paint LED * DLC *</Text>
+      <Value>r_deflector.light</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Air Filter</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\filter.paint_slep.jpg</Image>
+      <Text>Paint (Sleeper Cab) * DLC *</Text>
+      <Value>filter.paint_slep</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Air Filter</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\filter.paint_gl.jpg</Image>
+      <Text>Paint (Globetrotter Cab) * DLC *</Text>
+      <Value>filter.paint_gl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Air Filter</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\filter.paint_glxl.jpg</Image>
+      <Text>Paint (Globetrotter XL Cab) * DLC *</Text>
+      <Value>filter.paint_glxl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\s_mirror.paint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>s_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\s_deflector.jpg</Image>
+      <Text>Paint</Text>
+      <Value>s_deflector.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\s_deflector.jpg</Image>
+      <Text>Paint LED * DLC *</Text>
+      <Value>s_deflector.light</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Handle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\doorhndl.shape2.jpg</Image>
+      <Text>Paint</Text>
+      <Value>doorhndl.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Corner Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\cor_def.paint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>cor_def.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\f_fender_cab.paint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_fender_cab.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\sideskirt.chrome_s4x.jpg</Image>
+      <Text>Paint and Chrome 4x2 * DLC *</Text>
+      <Value>sideskirt.chrome_s4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\sideskirt.chrome_s6x.jpg</Image>
+      <Text>Paint and Chrome 6xn * DLC *</Text>
+      <Value>sideskirt.chrome_s6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\sideskirt.shape2.jpg</Image>
+      <Text>Full Protection 4x2</Text>
+      <Value>sideskirt.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\sideskirt.stock_6x.jpg</Image>
+      <Text>Full Protection 6xn</Text>
+      <Value>sideskirt.stock_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\sideskirt.chrome_4x.jpg</Image>
+      <Text>Paint and Chrome II 4x2 * DLC *</Text>
+      <Value>sideskirt.chrome_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\sideskirt.chrome_6x.jpg</Image>
+      <Text>Paint and Chrome II 6xn * DLC *</Text>
+      <Value>sideskirt.chrome_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\exhaust_m.shape2.jpg</Image>
+      <Text>Centurion * DLC *</Text>
+      <Value>exhaust_m.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\exhaust_m.shape1.jpg</Image>
+      <Text>Diva * DLC *</Text>
+      <Value>exhaust_m.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\r_chs_cover.painted_4x.jpg</Image>
+      <Text>Diva 4x2 * DLC *</Text>
+      <Value>r_chs_cover.painted_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\r_chs_cover.painted_6x.jpg</Image>
+      <Text>Diva 6xn * DLC *</Text>
+      <Value>r_chs_cover.painted_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\r_chs_cover.mix_4x.jpg</Image>
+      <Text>Centurion 4x2 * DLC *</Text>
+      <Value>r_chs_cover.mix_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\r_chs_cover.mix_6x.jpg</Image>
+      <Text>Centurion 6xn * DLC *</Text>
+      <Value>r_chs_cover.mix_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\r_fendr_top.paint_4x.jpg</Image>
+      <Text>Paint 4x2 * DLC *</Text>
+      <Value>r_fendr_top.paint_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\r_fendr_top.paint_6x.jpg</Image>
+      <Text>Paint 6xn * DLC *</Text>
+      <Value>r_fendr_top.paint_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\r_fendr_top.paint_8x.jpg</Image>
+      <Text>Paint 8x4 * DLC *</Text>
+      <Value>r_fendr_top.paint_8x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\r_fendr_top.chrome_p_4x.jpg</Image>
+      <Text>Paint and Chrome 4x2 * DLC *</Text>
+      <Value>r_fendr_top.chrome_p_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\r_fendr_top.chrome_p_6x.jpg</Image>
+      <Text>Paint and Chrome 6xn * DLC *</Text>
+      <Value>r_fendr_top.chrome_p_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\r_fendr_top.chrome_p_8x.jpg</Image>
+      <Text>Paint and Chrome 8x4 * DLC *</Text>
+      <Value>r_fendr_top.chrome_p_8x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\r_fender.paint_4x.jpg</Image>
+      <Text>Paint 4x2 * DLC *</Text>
+      <Value>r_fender.paint_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\r_fender.paint_6x.jpg</Image>
+      <Text>Paint 6xn * DLC *</Text>
+      <Value>r_fender.paint_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\r_fender.paint_8x.jpg</Image>
+      <Text>Paint 8x4 * DLC *</Text>
+      <Value>r_fender.paint_8x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\r_bumper.painted.jpg</Image>
+      <Text>Chariot * DLC *</Text>
+      <Value>r_bumper.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\r_bumper.smoth.jpg</Image>
+      <Text>Diva * DLC *</Text>
+      <Value>r_bumper.smoth</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2012\r_bumper.bend.jpg</Image>
+      <Text>Thor * DLC *</Text>
+      <Value>r_bumper.bend</Value>
+    </ListItem>
+	<!-- Pendragon Volvo FH16 Classic 2012 last check v28.30 for ets2 v1.44+ -->
+	<ListItem>
+      <Group>Pendragon - Light Bar</Group>
+      <Text>Roofbar 2 Globetrotter Cab only</Text>
+      <Value>r_grill.ohaha2b</Value>
+	  <Description>Paints the sides of the light box.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Light Bar</Group>
+      <Text>Roofbar 3 Globetrotter Cab only</Text>
+      <Value>r_grill.ohaha3b</Value>
+	  <Description>Paints the sides of the light box.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Light Bar</Group>
+      <Text>Roofbar 2 (ohaha)</Text>
+      <Value>r_grill.ohaha2</Value>
+	  <Description>Paints the sides of the light box.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Light Bar</Group>
+      <Text>Roofbar 3 (ohaha small one)</Text>
+      <Value>r_grill.ohaha3</Value>
+	  <Description>Paints the sides of the light box.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Roof Lights</Group>
+      <Text>Paint (normal lights)</Text>
+      <Value>f_light_top.paint</Value>
+	  <Description>These lights are located on top of the light box.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Roof Lights</Group>
+      <Text>Paint (yellow lights)</Text>
+      <Value>f_light_top.paint_y</Value>
+	  <Description>These lights are located on top of the light box.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Cabin Panel</Group>
+      <Text>Stock FH Paint</Text>
+	  <Description>This is the area around the lightbox.</Description>
+      <Value>forehead.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Cabin Panel</Group>
+      <Text>Stock FH16 Paint</Text>
+	  <Description>This is the area around the lightbox.</Description>
+      <Value>forehead.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Cabin Panel</Group>
+      <Text>Stock Paint</Text>
+	  <Description>This is the area around the lightbox.</Description>
+      <Value>forehead.shape6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Decal</Group>
+      <Text>Paint ohaha GmbH Co.</Text>
+      <Value>decals.shape_ohahap</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Decal</Group>
+      <Text>Paint Globetrotter XXL</Text>
+      <Value>decals.painted_d8</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Sun Shield</Group>
+      <Text>Stock Paint and Chrome</Text>
+      <Value>sunshld.shape1hp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Sun Shield</Group>
+      <Text>Luxury Paint</Text>
+      <Value>sunshld.shape1g</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Sun Shield</Group>
+      <Text>Stock Paint</Text>
+      <Value>sunshld.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Sun Shield</Group>
+      <Text>Stock Extended</Text>
+      <Value>sunshld.shape1x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Sun Shield</Group>
+      <Text>Stock Extended 2</Text>
+      <Value>sunshld.shape1y</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Sun Shield</Group>
+      <Text>Gate</Text>
+      <Value>sunshld.shape1z</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Mirror</Group>
+      <Text>Stock Paint (old part)</Text>
+      <Value>f_mirror.paint</Value>
+	  <Description>Kept in for backward compatibility.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Mirror</Group>
+      <Text>Paint Long (old part)</Text>
+      <Value>f_mirror.paintl</Value>
+	  <Description>Kept in for backward compatibility.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Mirror</Group>
+      <Text>Stock Paint</Text>
+      <Value>f_mirror.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Mirror</Group>
+      <Text>Stock Paint Long</Text>
+      <Value>f_mirror.shape2l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Mirror</Group>
+      <Text>CamEye Paint</Text>
+      <Value>f_mirror.cor_eye</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Mirror</Group>
+      <Text>CornerEye Paint</Text>
+      <Value>f_mirror.cor_eye.p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Stone Guard</Group>
+      <Text>Stock</Text>
+      <Value>s_guard.stone_01</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Stone Guard</Group>
+      <Text>Exclusive (Pendragon special)</Text>
+      <Value>s_guard.stone_02</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Badge Plate</Group>
+      <Text>Paint</Text>
+      <Value>wbase.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Badge Plate</Group>
+      <Text>Plastic, Paint and Chrome</Text>
+      <Value>wbase.shape4a</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Badge Plate</Group>
+      <Text>Stock Paint</Text>
+      <Value>wbase.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Badge Plate</Group>
+      <Text>Old School Plastic, Paint and Chrome</Text>
+      <Value>wbase.shape7a</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Badge Plate</Group>
+      <Text>Old School Paint</Text>
+      <Value>wbase.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Badge Plate</Group>
+      <Text>Old School Paint and Chrome</Text>
+      <Value>wbase.shape8cd</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Badge Plate</Group>
+      <Text>Paint, no logo</Text>
+      <Value>wbase.shape8b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Badge Plate</Group>
+      <Text>Paint and Chrome, no logo</Text>
+      <Value>wbase.shape8c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Badge Plate</Group>
+      <Text>Plastic, Paint and Chrome, no logo</Text>
+      <Value>wbase.shape8a</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Badge Plate</Group>
+      <Text>Paint and Plastic, no logo</Text>
+      <Value>wbase.shape8</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Logo</Group>
+      <Text>Paint (hover over for desc.)</Text>
+      <Value>f_logo.chrom_p</Value>
+	  <Description>Old part. Selectable on Old School No Logo Front Badge Plates.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Logo</Group>
+      <Text>Paint LED (hover over for desc.)</Text>
+      <Value>f_logo.chrom_pl</Value>
+	  <Description>Old part. Selectable on Old School No Logo Front Badge Plates.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Mask</Group>
+      <Text>Cabin Exclusive (hover over for desc.)</Text>
+      <Value>f_intake_cab.fgrid02</Value>
+	  <Description>Old part. Kept for backward compatibility. Recommend paint on the main skin template.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Mask</Group>
+      <Text>Paint OLD PART (hover over for desc.)</Text>
+      <Value>f_intake_cab.paint</Value>
+	  <Description>Kept for backward compatibility. Recommend paint on the main skin template.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Mask</Group>
+      <Text>Paint (hover over for desc.)</Text>
+      <Value>f_intake_cab.fgrid04</Value>
+	  <Description>Recommend paint on the main skin template.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Mask</Group>
+      <Text>Paint and Chrome (hover over for desc.)</Text>
+      <Value>f_intake_cab.fgrid06</Value>
+	  <Description>Recommend paint on the main skin template.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Mask Accessories</Group>
+      <Text>Corner Deflectors (hover over for desc.)</Text>
+      <Value>f_intake_cab.paint</Value>
+	  <Description>Old part but it is still selectable.</Description>
+    </ListItem>
+	<ListItem>
+		<Group>Pendragon - Bull Bar</Group>
+		<Text>Lower Front Guard Paint</Text>
+		<Value>f_grill.originalp</Value>
+	</ListItem>
+	<ListItem>
+		<Group>Pendragon - Bull Bar</Group>
+		<Text>Goliath Paint</Text>
+		<Value>f_grill.shape17p</Value>
+	</ListItem>
+		<Group>Pendragon - Bull Bar</Group>
+		<Text>Trux Highway Paint</Text>
+		<Value>f_grill.trux_hw_p</Value>
+	<ListItem>
+		<Group>Pendragon - Bull Bar</Group>
+		<Text>Trux Offroad Paint</Text>
+		<Value>f_grill.trux_offr_p</Value>
+	</ListItem>
+	<ListItem>
+		<Group>Pendragon - Bull Bar</Group>
+		<Text>Trux Offroad Paint 2</Text>
+		<Value>f_grill.trux2_offr_p</Value>
+	</ListItem>
+	<ListItem>
+		<Group>Pendragon - Bull Bar</Group>
+		<Text>Trux Pro Paint OLD PART (hover over for desc.)</Text>
+		<Value>f_grill.shape16p</Value>
+	<Description>Kept in for backward compatibility.</Description>
+	</ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Grille Bottom</Group>
+      <Text>Paint (hover over for desc.)</Text>
+      <Value>f_inlay_chs.ptmouth</Value>
+	  <Description>Recommend paint on the main skin template.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Grille Bottom</Group>
+      <Text>Paint with ACC (hover over for desc.)</Text>
+      <Value>f_inlay_chs.ptmouth2</Value>
+	  <Description>Recommend paint on the main skin template.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Grille Bottom</Group>
+      <Text>Paint and Chrome (hover over for desc.)</Text>
+      <Value>f_inlay_chs.pcmouth</Value>
+	  <Description>Recommend paint on the main skin template.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Grille Bottom</Group>
+      <Text>Paint and Chrome with ACC (hover over for desc.)</Text>
+      <Value>f_inlay_chs.pcmouth2</Value>
+	  <Description>Recommend paint on the main skin template.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Grille Bottom</Group>
+      <Text>Paint OLD PART (hover over for desc.)</Text>
+      <Value>f_inlay_chs.paint</Value>
+	  <Description>Kept for backward compatibility. Recommend paint on the main skin template.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Grille Bottom</Group>
+      <Text>Paint OLD PART 2 (hover over for desc.)</Text>
+      <Value>f_inlay_chs.painted</Value>
+	  <Description>Kept for backward compatibility. Recommend paint on the main skin template.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Grille Bottom</Group>
+      <Text>Exclusive OLD PART (hover over for desc.)</Text>
+      <Value>f_inlay_chs.silver</Value>
+	  <Description>Kept for backward compatibility. Recommend paint on the main skin template.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Headlights</Group>
+      <Text>Paint</Text>
+      <Value>f_light_chs.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Headlights</Group>
+      <Text>Paint Angel Eyes</Text>
+      <Value>f_light_chs.paint_e</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Headlights</Group>
+      <Text>Paint Special Paint (Mattias P Edition)</Text>
+      <Value>f_light_chs.paint_m</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fog lights</Group>
+      <Text>Paint</Text>
+      <Value>foglights.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fog lights</Group>
+      <Text>Paint hb</Text>
+      <Value>foglights.paint_hb</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fog lights</Group>
+      <Text>Paint lh</Text>
+      <Value>foglights.paint_lh</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fog lights</Group>
+      <Text>Paint m</Text>
+      <Value>foglights.paint_m</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fog lights</Group>
+      <Text>Paint mhb</Text>
+      <Value>foglights.paint_mhb</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fog lights</Group>
+      <Text>Paint mlb</Text>
+      <Value>foglights.paint_mlb</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fog lights</Group>
+      <Text>Paint mp</Text>
+      <Value>foglights.paint_mp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fog lights</Group>
+      <Text>Paint ph</Text>
+      <Value>foglights.paint_ph</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fog lights</Group>
+      <Text>Paint y</Text>
+      <Value>foglights.paint_y</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fog lights</Group>
+      <Text>Paint ymhb</Text>
+      <Value>foglights.paint_ymhb</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fog lights</Group>
+      <Text>Paint ymp</Text>
+      <Value>foglights.paint_ymp</Value>
+    </ListItem>	
+	<ListItem>
+      <Group>Pendragon - Bumper Panels</Group>
+      <Text>Paint (hover over for desc.)</Text>
+      <Value>b_side.shape2</Value>
+	  <Description>Located on the side of each front bumper fog light (side of the truck near the doorstep).</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Bumper</Group>
+      <Text>High Stock (paint)</Text>
+      <Value>f_bumper.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Bumper</Group>
+      <Text>High Stock 2016 (paint)</Text>
+      <Value>f_bumper.shape7</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Bumper</Group>
+      <Text>Stock 2016 (paint)</Text>
+      <Value>f_bumper.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Lower Grille Guard</Group>
+      <Text>WrittenExample Towbar Paint</Text>
+      <Value>b_grill.shape9p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Bumper License Plate</Group>
+      <Text>Personal License Plate (Your Text)</Text>
+      <Value>f_lpate.shape2</Value>
+	  <Description>Use the texture template found in "vehicle\truck\volvo_fh16_2012\accessory\license_plate\your_text.dds"</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Roof Deflector</Group>
+      <Text>Paint 4x2 MEGA Chassis only (hover over for desc.)</Text>
+      <Value>r_deflector.stock_ld</Value>
+	  <Description>Recommend paint on the main skin template.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Roof Deflector</Group>
+      <Text>Paint Low Globetrotter XL (hover over for desc.)</Text>
+      <Value>r_deflector.stock_low</Value>
+	  <Description>Recommend paint on the main skin template.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Roof Deflector</Group>
+      <Text>Custom Paint Globetrotter XL (hover over for desc.)</Text>
+      <Value>r_deflector.custom_xl</Value>
+	  <Description>Recommend paint on the main skin template.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Roof Deflector</Group>
+      <Text>Paint Globetrotter XXL (hover over for desc.)</Text>
+      <Value>r_deflector.stock_xxl</Value>
+	  <Description>Recommend paint on the main skin template.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Mirror</Group>
+      <Text>Paint (fully)</Text>
+      <Value>mirror.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Mirror</Group>
+      <Text>Paint and Chrome</Text>
+      <Value>mirror.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Mirror</Group>
+      <Text>Paint and Plastic (same as default Paint)</Text>
+      <Value>mirror.shape3</Value>
+	  <Description>This accessory is the same internal name as the default Paint. i.e. Not really required.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Mirror</Group>
+      <Text>MirrorEye Paint</Text>
+      <Value>mirror.cam_semi</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Mirror</Group>
+      <Text>MirrorEye Paint (hover for desc.)</Text>
+      <Value>mirror.cam_semi.p</Value>
+	  <Description>Second internal name. Include this as well as MirrorEye Paint to be safe.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side mirror</Group>
+      <Text>Stock Paint</Text>
+      <Value>s_mirror.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Deflector</Group>
+      <Text>Paint 2016 (hover over for desc.)</Text>
+      <Value>s_deflector.stock_e6</Value>
+	  <Description>Recommend paint on the main skin template.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Deflector</Group>
+      <Text>Paint Globetrotter XXL (hover over for desc.)</Text>
+      <Value>s_deflector.stock_xxl</Value>
+	  <Description>Recommend paint on the main skin template.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Front Fender</Group>
+      <Text>Paint 2016 (hover over for desc.)</Text>
+      <Value>s_deflector.paint2</Value>
+	  <Description>Recommend paint on the main skin template.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fuel Tanks</Group>
+      <Text>Paint 1600 litre</Text>
+	  <Description>(4x2 chassis types)</Description>
+      <Value>tank.custom_pt</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fuel Tanks</Group>
+      <Text>Extra Tank 1040l (Sleeper 8x4A)</Text>
+      <Value>tank.ch_8x4c2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fuel Tanks</Group>
+      <Text>Extra Tank 1040l (Globetrotter 8x4A)</Text>
+      <Value>tank.ch_8x4b2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fuel Tanks</Group>
+      <Text>Extra Tank 1040l (Globetrotter 8x4A) POPP</Text>
+      <Value>tank.ch_8x4c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fuel Tanks</Group>
+      <Text>Extra Tank 1040l (Globetrotter XL 8x4A)</Text>
+      <Value>tank.ch_8x4a2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fuel Tanks</Group>
+      <Text>Extra Tank 1040l (Globetrotter XL 8x4A) POPP</Text>
+      <Value>tank.ch_8x4a</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fuel Tanks</Group>
+      <Text>Extra Tank 1600l (Sleeper 8x4B)</Text>
+      <Value>tank.ch_8x4c1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fuel Tanks</Group>
+      <Text>Extra Tank 1300l (Globetrotter 8x4B) POPP</Text>
+      <Value>tank.ch_8x4d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fuel Tanks</Group>
+      <Text>Extra Tank 1600l (Globetrotter 8x4B)</Text>
+      <Value>tank.ch_8x4b1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fuel Tanks</Group>
+      <Text>Extra Tank 1300l (Globetrotter XL 8x4B) POPP</Text>
+      <Value>tank.ch_8x4b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Fuel Tanks</Group>
+      <Text>Extra Tank 1600l (Globetrotter XL 8x4B)</Text>
+      <Value>tank.ch_8x4a1</Value>
+	</ListItem>
+	<ListItem>
+      <Group>Pendragon - Fuel Tanks</Group>
+      <Text>Paint (hover over for desc.)</Text>
+	  <Description>4x2 chassis types (old mod part included for compatibility)</Description>
+      <Value>tanks.custom_pt</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Skirts</Group>
+      <Text>Toolbox Minimalistic 4x2 (hover over for desc.)</Text>
+      <Description>4x2 chassis types (old mod part included for compatibility)</Description>
+	  <Value>sideskirt.box4x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Skirts</Group>
+      <Text>Toolbox 87 Granny Edition 4x2</Text>
+      <Description>(4x2 chassis types)</Description>
+	  <Value>sideskirt.box4x_2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Skirts</Group>
+      <Text>Toolbox 87 Granny Edition 6xn</Text>
+      <Description>(6x2 and 6x4 chassis types)</Description>
+	  <Value>sideskirt.box6x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Skirts</Group>
+      <Text>Stock Cage Paint 4x2</Text>
+      <Description>(4x2 chassis types)</Description>
+	  <Value>sideskirt.cage4x_a</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Skirts</Group>
+      <Text>Stock Cage Paint 6xn</Text>
+      <Description>(6x2 and 6x4 chassis types)</Description>
+	  <Value>sideskirt.cage6x_a</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Skirts</Group>
+      <Text>Crane Paint 8x4a (hover over for desc.)</Text>
+      <Description>8x4 chassis types (old mod part included for compatibility)</Description>
+	  <Value>sideskirt.crane8x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Skirts</Group>
+      <Text>Crane Paint 8x4 (hover over for desc.)</Text>
+      <Description>8x4 chassis types (old mod part included for compatibility)</Description>
+	  <Value>sideskirt.crane8x_a</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Skirts</Group>
+      <Text>Custom 6xn</Text>
+      <Description>(6x2 and 6x4 chassis types)</Description>
+	  <Value>sideskirt.custom6x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Skirts</Group>
+      <Text>Custom 8x4 (hover over for desc.)</Text>
+      <Description>8x4 chassis types (old mod part included for compatibility)</Description>
+	  <Value>sideskirt.custom8x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Skirts</Group>
+      <Text>Full Protection 4x2 (ohaha)</Text>
+      <Value>sideskirt.plates4x</Value>
+	  <Description>(4x2 chassis types)</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Skirts</Group>
+      <Text>Full Protection 6xn (ohaha)</Text>
+      <Value>sideskirt.plates6x</Value>
+	  <Description>(6x2 and 6x4 chassis types)</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Skirts</Group>
+      <Text>Full Protection 8x4 (ohaha)</Text>
+      <Value>sideskirt.plates8x</Value>
+	  <Description>(8x4 chassis types)</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Skirts</Group>
+      <Text>Full Protection 4x2 MEGA (ohaha)</Text>
+      <Value>sideskirt.4x_ld</Value>
+	  <Description>(4x2 MEGA chassis types)</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Skirts</Group>
+      <Text>Full Protection 4x2 MEGA (Default SCS)</Text>
+      <Value>sideskirt.4x_ld_stock</Value>
+	  <Description>(4x2 MEGA chassis types)</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Skirts</Group>
+      <Text>Stock R Fender 8x4 (hover over for desc.)</Text>
+      <Description>8x4 chassis types (old mod part included for compatibility)</Description>
+	  <Value>sideskirt.stock8x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Skirts</Group>
+      <Text>Stock R Fender Paint 8x4 (hover over for desc.)</Text>
+      <Description>8x4 chassis types (old mod part included for compatibility)</Description>
+	  <Value>sideskirt.stock8x_a</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Skirts</Group>
+      <Text>Stock R Fender Plus 8x4 (hover over for desc.)</Text>
+      <Description>8x4 chassis types (old mod part included for compatibility)</Description>
+	  <Value>sideskirt.stock8x_b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Side Skirts</Group>
+      <Text>Stock R Fender Paint Plus 8x4 (hover over for desc.)</Text>
+      <Description>8x4 chassis types (old mod part included for compatibility)</Description>
+	  <Value>sideskirt.stock8x_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fenders Top</Group>
+      <Text>Paint 4xl (hover over for desc.)</Text>
+      <Description>Old mod part included for compatibility.</Description>
+	  <Value>r_fendr_top.paint_4lx</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fenders Top</Group>
+      <Text>Paint 4x2b</Text>
+      <Value>r_fendr_top.paint_4xb</Value>
+	  <Description>(4x2b chassis type)</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fenders Top</Group>
+      <Text>Paint 6x2</Text>
+      <Value>r_fendr_top.paint_6x2</Value>
+	  <Description>(6x2 chassis type)</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fenders Top</Group>
+      <Text>Paint 8x4a</Text>
+      <Value>r_fendr_top.paint_8x4a</Value>
+	  <Description>(8x4a chassis type)</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fenders Top</Group>
+      <Text>Paint 8x4b (hover over for desc.)</Text>
+      <Value>r_fendr_top.paint_8x4b</Value>
+	  <Description>8x4b chassis type (Old mod part included for compatibility)</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fenders Top</Group>
+      <Text>Paint and Chrome 4x2b</Text>
+      <Description>(4x2b chassis type)</Description>
+	  <Value>r_fendr_top.chrome_p_4xb</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fenders Top</Group>
+      <Text>Paint and Chrome 6x2</Text>
+      <Description>(6x2 chassis type)</Description>
+	  <Value>r_fendr_top.chrome_p_6x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fenders Top</Group>
+      <Text>Paint and Chrome 8x4a</Text>
+      <Description>(8x4a chassis type)</Description>
+	  <Value>r_fendr_top.chrome_p_8x4a</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fenders Top</Group>
+      <Text>Paint and Chrome 8x4b (hover over for desc.)</Text>
+      <Description>8x4b chassis type (Old mod part included for compatibility)</Description>
+	  <Value>r_fendr_top.chrome_p_8x4b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fenders Top</Group>
+      <Text>Forward Paint and Chrome, Rear None (6xn)</Text>
+      <Description>(6x2 and 6x4 chassis types)</Description>
+	  <Value>r_fendr_top.chromef_p_6x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fenders Top</Group>
+      <Text>Rear Paint and Chrome, Forward None (6x2)</Text>
+      <Description>(6x2 chassis types)</Description>
+	  <Value>r_fendr_top.chromer_p_6x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fenders Top</Group>
+      <Text>Rear Paint and Chrome, Forward None (6x2)</Text>
+      <Description>(6x2 chassis types)</Description>
+	  <Value>r_fendr_top.chromer_p.6x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fenders Top</Group>
+      <Text>Forward Paint, Rear None (6xn)</Text>
+      <Description>(6x2 and 6x4 chassis types)</Description>
+	  <Value>r_fendr_top.paintf_6x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fenders Top</Group>
+      <Text>Rear Paint, Forward None (6x2)</Text>
+      <Description>(6x2 chassis type)</Description>
+	  <Value>r_fendr_top.paintr_6x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fenders Top</Group>
+      <Text>Rear Paint, Forward None (6x2)</Text>
+      <Description>(6x2 chassis type)</Description>
+	  <Value>r_fendr_top.paintr_6x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fender</Group>
+      <Text>Custom 4x</Text>
+      <Description>(4x2 chassis types)</Description>
+	  <Value>r_fender.custom_4x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fender</Group>
+      <Text>Custom 6xn</Text>
+      <Description>(6x2 and 6x4 chassis types)</Description>
+	  <Value>r_fender.custom_6x</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fender</Group>
+      <Text>Paint 6x2</Text>
+      <Description>(6x2 chassis types)</Description>
+	  <Value>r_fender.paint_6x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Fender</Group>
+      <Text>Paint 8x4a</Text>
+      <Description>(8x4a chassis type)</Description>
+	  <Value>r_fender.paint_8x4a</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Exhaust</Group>
+      <Text>High Pipes (morawatz edition)</Text>
+      <Value>exhaust_m.ohaha_06</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Exhaust</Group>
+      <Text>Ronny C Exhaust</Text>
+      <Value>exhaust_m.ohaha_07</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear Exhaust</Group>
+      <Text>Ronny C Exhaust (Long)</Text>
+      <Value>exhaust_m.ohaha_08</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Chassis Cover</Group>
+      <Text>Custom Paint 6xn</Text>
+      <Value>r_chs_cover.custo_6px</Value>
+	  <Description>(6x2 and 6x4 chassis types)</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Chassis Cover</Group>
+      <Text>Custom Paint 6x4 only</Text>
+      <Value>r_chs_cover.custom_6px</Value>
+	  <Description>(6x4 chassis types only)</Description>
+    </ListItem>
+	<ListItem>
+	  <Group>Pendragon - Rear Bumper</Group>
+      <Text>Classic Paint</Text>
+      <Description>(all chassis types)</Description>
+	  <Value>r_bumper.classic_p</Value>
+    </ListItem>
+	<ListItem>
+	  <Group>Pendragon - Rear Bumper</Group>
+      <Text>Custom ohaha Paint</Text>
+      <Description>(all chassis types)</Description>
+	  <Value>r_bumper.custom_01</Value>
+    </ListItem>
+	<ListItem>
+	  <Group>Pendragon - Rear Bumper</Group>
+      <Text>Custom Multi Light Paint</Text>
+      <Description>(all chassis types)</Description>
+	  <Value>r_bumper.custom_02</Value>
+    </ListItem>
+	<ListItem>
+	  <Group>Pendragon - Rear Bumper</Group>
+      <Text>Low Bumper Paint</Text>
+      <Description>(all chassis types)</Description>
+	  <Value>r_bumper.custom_03b</Value>
+    </ListItem>
+	<ListItem>
+	  <Group>Pendragon - Rear Bumper</Group>
+      <Text>Custom Bumper Paint (hover over for desc.)</Text>
+      <Description>All chassis types (Old mod part included for compatibility)</Description>
+	  <Value>r_bumper.custom_04b</Value>
+    </ListItem>
+	<ListItem>
+	  <Group>Pendragon - Rear Bumper</Group>
+      <Text>Empty Paint</Text>
+      <Description>(all chassis types)</Description>
+	  <Value>r_bumper.empty_paint</Value>
+    </ListItem>
+	<ListItem>
+	  <Group>Pendragon - Rear Bumper</Group>
+      <Text>Stock Paint</Text>
+      <Description>(all chassis types)</Description>
+	  <Value>r_bumper.stock_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear License Plate</Group>
+      <Text>Personal License Plate 1</Text>
+      <Value>r_lpate.shape2</Value>
+	  <Description>Use the texture template found in "vehicle\truck\volvo_fh16_2012\accessory\license_plate\your_text.dds"</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear License Plate</Group>
+      <Text>Personal License Plate 2</Text>
+      <Value>r_lpate.shape4</Value>
+	  <Description>Use the texture template found in "vehicle\truck\volvo_fh16_2012\accessory\license_plate\your_text.dds"</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear License Plate</Group>
+      <Text>Personal License Plate 3</Text>
+      <Value>r_lpate.shape6</Value>
+	  <Description>Use the texture template found in "vehicle\truck\volvo_fh16_2012\accessory\license_plate\your_text.dds"</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Pendragon - Rear License Plate</Group>
+      <Text>Personal License Plate 4</Text>
+      <Value>r_lpate.shape8</Value>
+	  <Description>Use the texture template found in "vehicle\truck\volvo_fh16_2012\accessory\license_plate\your_text.dds"</Description>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+  <InternalName>volvo.fh16_2012</InternalName>
+  <VehicleAuthor>Pendragon, ohaha and SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolvo\fh16_globexl.jpg</VehicleImage>
+  <VehicleName>Volvo FH16 Classic 2012 v28.30 (xml v7.44)</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolvo\fh16_sleeper.jpg</Image>
+	  <InternalName>l2h1.volvo.fh16_2012.cabin</InternalName>
+      <Name>Sleeper</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolvo\fh16_globe.jpg</Image>
+	  <InternalName>l2h2.volvo.fh16_2012.cabin</InternalName>
+      <Name>Globetrotter</Name>
+    </Variant>
+	<Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolvo\fh16_8x4.jpg</Image>
+	  <InternalName>l2h2_8x4.volvo.fh16_2012.cabin</InternalName>
+      <Name>Globetrotter 8x4</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolvo\fh16_globexl.jpg</Image>
+	  <InternalName>l2h3.volvo.fh16_2012.cabin</InternalName>
+      <Name>Globetrotter XL</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolvo\fh16_8x4.jpg</Image>
+	  <InternalName>l2h3_8x4.volvo.fh16_2012.cabin</InternalName>
+      <Name>Globetrotter XL 8x4</Name>
+    </Variant>
+	<Variant>
+      <InternalName>l3h3.volvo.fh16_2012.cabin</InternalName>
+      <Name>Globetrotter XXL</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

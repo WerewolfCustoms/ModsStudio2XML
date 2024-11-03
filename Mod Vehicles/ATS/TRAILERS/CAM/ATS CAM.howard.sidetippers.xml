@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>1639375a-a081-452d-89f6-5841f89526ac</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\My PC\Desktop\Mods Studio 2 v.2020.07\Data\ModData\SCS\Vehicles\xmls_new style\ATS.howard.sidetippers.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>howard.sidetippers</InternalName>
+  <VehicleAuthor>Custom Aussie Mods</VehicleAuthor>
+  <VehicleName>Howard Porter Quad Side Tippers</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.tipper.sidetippers</InternalName>
+      <Name>Tipper</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

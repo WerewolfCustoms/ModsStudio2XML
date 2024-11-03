@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ac5be81d-35dd-4a4b-9f30-6fe69594b4ab</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Fridge</Group>
+      <Text>Thermo King agregat paint 1</Text>
+      <Value>agreg.tk_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fridge</Group>
+      <Text>Thermo King agregat paint 2</Text>
+      <Value>agreg.tk_paint2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Box</Group>
+      <Text>Rear Box Paint</Text>
+      <Value>back.box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Locks</Group>
+      <Text>Bearing Paint</Text>
+      <Value>bearing.b_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Locks</Group>
+      <Text>Bearing Paint 2</Text>
+      <Value>bearing.b_paint2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Frame</Group>
+      <Text>Old Frame Paint 1</Text>
+      <Value>edge.edge_p1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Frame</Group>
+      <Text>Old Frame Paint 2</Text>
+      <Value>edge.edge_p2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Frame</Group>
+      <Text>Old Frame Paint 2</Text>
+      <Value>edge.edge_p3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ladder</Group>
+      <Text>Ladder Front Left</Text>
+      <Value>fl_side.rebrik</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ladder</Group>
+      <Text>Ladder Front Right</Text>
+      <Value>fr_side.rebrik</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Light Holder, Style Paint</Text>
+      <Value>l_holder.bump2_3hp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Stock Light Holder 2 Paint</Text>
+      <Value>l_holder.bumper_c1_2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Stock Light Holder 2 Paint Double</Text>
+      <Value>l_holder.bump_c1_2p2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Stock Light Holder Paint</Text>
+      <Value>l_holder.bump_c1_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Stock Light Holder Paint Double</Text>
+      <Value>l_holder.bump_c1_p2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Older Light Holder Paint</Text>
+      <Value>l_holder.old_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mud Guard</Group>
+      <Text>Painted Mud Guard</Text>
+      <Value>mudguard.galvan7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mud Guard</Group>
+      <Text>Painted Mudguard, Galvanized Valence</Text>
+      <Value>mudguard.galvan6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mud Guard</Group>
+      <Text>Full Paint</Text>
+      <Value>mudguard.galvan5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mud Guard</Group>
+      <Text>Painted Mudguard, Plastic Side Valence</Text>
+      <Value>mudguard.galvan5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflap On Mudguard</Group>
+      <Text>Mudflaps On Mudguard</Text>
+      <Value>m_flaps.cher_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Frame New Type Without Hook</Text>
+      <Value>naraz.nar_n</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Frame New Type With Hook</Text>
+      <Value>naraz.nar_n1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Frame Old Type</Text>
+      <Value>naraz.old</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ventalation</Group>
+      <Text>Open Ventalation</Text>
+      <Value>p_vetrak.otvor</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ventalation</Group>
+      <Text>Closed Ventalation</Text>
+      <Value>p_vetrak.zatvor</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Mud Flaps</Group>
+      <Text>Rear Mudflaps Go In Style Paint</Text>
+      <Value>r_flap.instyle_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Mud Flaps</Group>
+      <Text>Rear Mud Flaps</Text>
+      <Value>r_flap.5_flaps</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Mud Flaps</Group>
+      <Text>Stock Rear Mudflap Paint</Text>
+      <Value>r_flap.stock_flap_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Pallet Box Right</Group>
+      <Text>Palette Box Right Paint</Text>
+      <Value>sidewall.sid2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Pallet Box Right</Group>
+      <Text>Palette Box Right Paint2</Text>
+      <Value>sidewall.sid2_p_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Pallet Box Left</Group>
+      <Text>Palette Box Left Paint</Text>
+      <Value>sidewall_l.sid2_l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Pallet Box Left</Group>
+      <Text>Palette Box Left Paint2</Text>
+      <Value>sidewall_l.sid2_l_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflap Between Wheels</Group>
+      <Text>Mudflaps Between Wheels</Text>
+      <Value>za_ster.zaster</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licence Plates</Group>
+      <Text>ES Licence Plate Position1</Text>
+      <Value>znacky.es_plate</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licence Plates</Group>
+      <Text>ES Licence Plate Position2</Text>
+      <Value>znacky.es_plate2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licence Plates</Group>
+      <Text>EU Licence Plate</Text>
+      <Value>znacky.eu_plate</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licence Plates</Group>
+      <Text>UK Licence Plate</Text>
+      <Value>znacky.uk_plate</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licence Plates</Group>
+      <Text>Spain Licence Plate Postion1</Text>
+      <Value>znacky2.es_plate</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licence Plates</Group>
+      <Text>Spain Licence Plate Postion2</Text>
+      <Value>znacky2.es_plate2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licence Plates</Group>
+      <Text>EU Licence Plate</Text>
+      <Value>znacky2.eu_plate</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licence Plates</Group>
+      <Text>UK Licence Plate</Text>
+      <Value>znacky2.uk_plate</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ventalation</Group>
+      <Text>Open Ventalation</Text>
+      <Value>z_vertrak.otvor</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ventalation</Group>
+      <Text>Closed Ventalation</Text>
+      <Value>z_vetrak.zatvor</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\ash-c\Documents\Mods Studio 2\UserVehicles\chereau.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>ino</InternalName>
+  <VehicleAuthor>Mirusox</VehicleAuthor>
+  <VehicleName>Chereau Inogam</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.reefer</InternalName>
+      <Name>Chereau</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Vendetta and Mirusox</XmlDefinitionAuthor>
+</Variable>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>fb684ac9-e6df-4611-be04-9aa387c251b4</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ETS2.ken200.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>ken200</InternalName>
+  <VehicleAuthor>RTA</VehicleAuthor>
+  <VehicleName>Kenworth K200</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>sleep_flat.ken200.cabin</InternalName>
+      <Name>Flat Roof Cabin</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sleep_a.ken200.cabin</InternalName>
+      <Name>Aerodyne A Cab </Name>
+    </Variant>
+    <Variant>
+      <InternalName>sleep_b.ken200.cabin</InternalName>
+      <Name>Aerodyne B Cab </Name>
+    </Variant>
+    <Variant>
+      <InternalName>sleep_8x4.ken200.cabin</InternalName>
+      <Name>Aerodyne A Cab 8x4</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sleep_b_8x4.ken200.cabin</InternalName>
+      <Name>Aerodyne B Cab 8x4</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

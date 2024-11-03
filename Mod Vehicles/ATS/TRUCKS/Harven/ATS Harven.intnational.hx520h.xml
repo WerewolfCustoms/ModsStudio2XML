@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>37e9c557-7776-4f4b-a984-932cea8dbfb9</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+  
+  <ListItem>
+    <Group>Mirrors</Group>
+      <Text>Main Mirrors</Text>
+      <Value>mirror.painted</Value>
+    </ListItem>
+  
+  <ListItem>
+    <Group>Mudguards/Rear Fenders</Group>
+      <Text>Quarter Painted with Logo</Text>
+      <Value>mudguard.quarterlp</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Mudguards/Rear Fenders</Group>
+      <Text>Half Painted</Text>
+      <Value>mudguard.halfp</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Mudguards/Rear Fenders</Group>
+      <Text>Quarter Painted</Text>
+      <Value>mudguard.quarterp</Value>
+    </ListItem>
+	
+	<ListItem>
+    <Group>Bumpers</Group>
+      <Text>Bumper Square Painted</Text>
+      <Value>bumper.square2</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Bumpers</Group>
+      <Text>Bumper Tapered Painted</Text>
+      <Value>bumper.tapered2</Value>
+    </ListItem>
+	
+	
+    <ListItem>
+	<Group>Air Filters</Group>
+      <Text>Air Filters Painted</Text>
+      <Value>filters.painted</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Air Filters</Group>
+      <Text>Air Filters with lightbars Painted</Text>
+      <Value>filters.lightbarsp</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Text>Hood</Text>
+      <Value>hood.standard</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Cab Panels</Group>
+      <Text>Side Flares Bar Paint 56</Text>
+      <Value>sideflares.56hi_p</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Cab Panels</Group>
+      <Text>Side Flares Bar Paint 73</Text>
+      <Value>sideflares.73hi_p</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Cab Panels</Group>
+      <Text>Side Flares Bar Paint Day</Text>
+      <Value>sideflares.day_paint</Value>
+    </ListItem>
+    
+    <ListItem>
+	<Group>Sunshield</Group>
+      <Text>Standard Sunshield Painted</Text>
+      <Value>sunshield.standard</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>100gal Painted Tank 6x4</Text>
+      <Value>sideskirt.100p</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>100gal Painted Tank 8x6</Text>
+      <Value>sideskirt.100sp</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>120gal Painted Tank 6x4</Text>
+      <Value>sideskirt.120p</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>120gal Painted Tank 8x6</Text>
+      <Value>sideskirt.120sp</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>140gal Painted Tank 6x4</Text>
+      <Value>sideskirt.140p</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>140gal Painted Tank 8x6</Text>
+      <Value>sideskirt.140sp</Value>
+    </ListItem>
+	
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>100gal Painted Tank DayCab 6x4</Text>
+      <Value>sideskirt.day_100p</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>120gal Painted Tank DayCab 6x4</Text>
+      <Value>sideskirt.day_120p</Value>
+    </ListItem>
+	<ListItem>
+	<Group>Fuel Tanks</Group>
+      <Text>150gal Painted Tank DayCab 6x4</Text>
+      <Value>sideskirt.day_150p</Value>
+    </ListItem>
+	
+    
+  </AccessoryItems>
+  <FilePath>C:\Users\leadf\Documents\Mods Studio 2\UserVehicles\ATS Harven.intnational.hx520h.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>intnational.hx520h</InternalName>
+  <VehicleAuthor>Harven</VehicleAuthor>
+  <VehicleName>International HX520</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+  <Variant>
+      <InternalName>daycab.intnational.hx520h.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>56hirise.intnational.hx520h.cabin</InternalName>
+      <Name>56" High Rise Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>73hirise.intnational.hx520h.cabin</InternalName>
+      <Name>73" High Rise Sleeper</Name>
+    </Variant>
+    
+  </VehicleVariants>
+</Variable>

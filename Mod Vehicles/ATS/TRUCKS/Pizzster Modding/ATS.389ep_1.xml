@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>306361ca-8d91-4080-bc1b-2d55379bc999</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\All.389ep_1.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>389ep</InternalName>
+  <VehicleAuthor>Damo,Eric Pizzolo, D3D</VehicleAuthor>
+  <VehicleName>Peterbilt 389 EXHD</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>36' Sleeper</Group>
+      <InternalName>lr36inch.389ep.cabin</InternalName>
+      <Name>Low Roof 36inch Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>36' Sleeper</Group>
+      <InternalName>lr36inchnw.389ep.cabin</InternalName>
+      <Name>Low Roof 36inch Flattop No Side Window</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>36' Sleeper</Group>
+      <InternalName>lr36inchdw.389ep.cabin</InternalName>
+      <Name>Low Roof 36inch Flattop Diamond Windows</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>48' Sleeper</Group>
+      <InternalName>lr48flattop.389ep.cabin</InternalName>
+      <Name>Low Roof 48inch Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>48' Sleeper</Group>
+      <InternalName>lr48flattopd.389ep.cabin</InternalName>
+      <Name>Low Roof 48inch Flattop Diamond Windows</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>48' Sleeper</Group>
+      <InternalName>lr48inchsup.389ep.cabin</InternalName>
+      <Name>Low Roof 48inch Standup</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>63' Sleeper</Group>
+      <InternalName>lr63flattop.389ep.cabin</InternalName>
+      <Name>Low Roof 63inch Flattop Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>63' Sleeper</Group>
+      <InternalName>lr63standup.389ep.cabin</InternalName>
+      <Name>Low Roof 63inch Standup Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>63' Sleeper</Group>
+      <InternalName>lr63stndupdw.389ep.cabin</InternalName>
+      <Name>Low Roof 63inch Standup Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>72' Sleeper</Group>
+      <InternalName>lr72chopped.389ep.cabin</InternalName>
+      <Name>Low Roof 72inch Custom Chopped Roof</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Day Cab</Group>
+      <InternalName>lrdaycab.389ep.cabin</InternalName>
+      <Name>Low Roof Daycab</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Tyrone's Booth and Pauly</XmlDefinitionAuthor>
+</Variable>

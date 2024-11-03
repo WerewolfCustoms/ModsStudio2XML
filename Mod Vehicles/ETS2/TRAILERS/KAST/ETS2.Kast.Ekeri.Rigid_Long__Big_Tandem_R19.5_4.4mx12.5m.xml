@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>852c66cb-a92a-4bb1-8f95-40ccd47c5e3e</Id>
+  <IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2020</Major>
+	 <Minor>7</Minor>
+	</MS2LibraryVersion>
+  <Game>ETS2</Game>
+  <InternalName>ekeri.rigid_long12</InternalName>
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>Ekeri Rigid Long R19.5 4.4m x 12.5m</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName></InternalName>
+      <Name>••••••••••••••••••••••••••••• I N F O R M A T I O N •••••••••••••••••••••••••••••</Name>
+    </Variant>	
+    <Variant>
+      <InternalName></InternalName>
+      <Name>BE AWARE that there is some height differences between templates, you</Name>
+    </Variant>	
+    <Variant>
+      <InternalName></InternalName>
+      <Name>might need to do SEPARATE skinmods with DIFFERENT names if you have</Name>
+    </Variant>
+    <Variant>
+      <InternalName></InternalName>
+      <Name>ADVANCED GRAPHICS to have PERFECT fit on all of these trailervariants !!!</Name>
+    </Variant>		
+	<Variant>
+      <InternalName></InternalName>
+      <Name>•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</Name>
+    </Variant>	
+    <Variant>
+      <InternalName>body.tandem12</InternalName>
+      <Name>Ekeri Big Tandem 4.4m x 12.5m, Tarpaulin Roof</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.tandem12</InternalName>
+      <Name>Ekeri Big Tandem 4.4m x 12.5m, Reefer</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.tandem12</InternalName>
+      <Name>Ekeri Big Tandem 4.4m x 12.5m, Insulated</Name>
+    </Variant>
+	<Variant>
+      <InternalName></InternalName>
+      <Name>•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</Name>
+    </Variant>		
+    <Variant>
+      <InternalName>body.body_dolly2</InternalName>
+      <Name>Dolly (You HAVE to TICK this BOX for above TANDEMS !!)</Name>
+    </Variant>
+	<Variant>
+      <InternalName></InternalName>
+      <Name>•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</Name>
+    </Variant>		
+  </VehicleVariants>
+  
+  <AccessoryItems>
+    <ListItem>
+      <Group>AXLES</Group>
+      <Text>axles.axles_2x2</Text>
+      <Value>axles.axles_2x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>AXLES</Group>
+      <Text>axles.axles_2x3</Text>
+      <Value>axles.axles_2x3</Value>
+    </ListItem>
+
+    <ListItem>
+      <Group>FRAME</Group>
+      <Text>frame.chas12</Text>
+      <Value>frame.chas12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FRAME</Group>
+      <Text>frame.chassis_2x2</Text>
+      <Value>frame.chassis_2x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FRAME</Group>
+      <Text>frame.chassis_2x3</Text>
+      <Value>frame.chassis_2x3</Value>
+    </ListItem>
+
+    <ListItem>
+      <Group>LICENSE PLATE</Group>
+      <Text>Custom License Plate</Text>
+      <Value>custom_lp.custom_lp_10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LICENSE PLATE</Group>
+      <Text>Custom License Plate</Text>
+      <Value>custom_lp.custom_lp_11</Value>
+    </ListItem>	
+    <ListItem>
+      <Group>LICENSE PLATE</Group>
+      <Text>Custom License Plate</Text>
+      <Value>custom_lp.custom_lp_12</Value>
+    </ListItem>
+
+    <ListItem>
+      <Group>FUELTANK</Group>
+      <Text>fueltank.fueltank4</Text>
+      <Value>fueltank.fueltank4</Value>
+    </ListItem>
+
+    <ListItem>
+      <Group>ACCESSORIES</Group>
+      <Text>Ekeheat Heater</Text>
+      <Value>f_body.ekeheat_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>ACCESSORIES</Group>
+      <Text>Ekeheat Heater, Big</Text>
+      <Value>f_body.ekeheat_b_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>ACCESSORIES</Group>
+      <Text>ThermoKing HK430 Heater</Text>
+      <Value>f_body.hk_430_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>ACCESSORIES</Group>
+      <Text>Ventilation Hatch</Text>
+      <Value>f_vent.vent_door</Value>
+    </ListItem>
+    <ListItem>
+      <Group>ACCESSORIES</Group>
+      <Text>Ventilation Hatch</Text>
+      <Value>f_vent.vent_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>ACCESSORIES</Group>
+      <Text>Ventilation Hatch</Text>
+      <Value>r_reflector.vent_door</Value>
+    </ListItem>
+    <ListItem>
+      <Group>ACCESSORIES</Group>
+      <Text>Ventilation Hatch</Text>
+      <Value>r_reflector.vent_door</Value>
+    </ListItem>
+    <ListItem>
+      <Group>ACCESSORIES</Group>
+      <Text>Ventilation Hatch + Reflector</Text>
+      <Value>r_reflector.vent_ref</Value>
+    </ListItem>
+    <ListItem>
+      <Group>ACCESSORIES</Group>
+      <Text>Ventilation Hatch + Plate</Text>
+      <Value>r_reflector.vent_plate</Value>
+    </ListItem>
+    <ListItem>
+      <Group>ACCESSORIES</Group>
+      <Text>Ventilation Hatch + Reflector + Plate</Text>
+      <Value>r_reflector.vent_plate_r</Value>
+    </ListItem>
+
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders E</Text>
+      <Value>fenders_e.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders E</Text>
+      <Value>fenders_e.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders with Reflector E</Text>
+      <Value>fenders_e.parlok_ref</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders with Reflector E</Text>
+      <Value>fenders_e.parlok_ref_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders F</Text>
+      <Value>fenders_f.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders F</Text>
+      <Value>fenders_f.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders with Reflector F</Text>
+      <Value>fenders_f.parlok_ref</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders with Reflector F</Text>
+      <Value>fenders_f.parlok_ref_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders G</Text>
+      <Value>fenders_g.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Painted Parlok Fenders with Reflector G</Text>
+      <Value>fenders_g.parlok_ref</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>chs_f_l.paint_cover</Text>
+      <Value>chs_f_l.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>chs_f_r.paint_cover</Text>
+      <Value>chs_f_r.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>chs_m_l.paint_box</Text>
+      <Value>chs_m_l.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>chs_m_l.paint_cover</Text>
+      <Value>chs_m_l.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>chs_r_l.paint_box_m</Text>
+      <Value>chs_r_l.paint_box_m</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>WASTE TANK</Group>
+      <Text>Waste Collecting Tank Paint</Text>
+      <Value>chs_r_l.p_waste2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>WASTE TANK</Group>
+      <Text>Waste Collecting Tank Paint</Text>
+      <Value>chs_r_l.p_waste</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>REAR BUMPER</Group>
+      <Text>Paint Big</Text>
+      <Value>r_bumper.standard_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>REAR BUMPER</Group>
+      <Text>Paint Small</Text>
+      <Value>r_bumper.standard_sp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>REAR BUMPER</Group>
+      <Text>Paint Zepro</Text>
+      <Value>r_bumper.zepro_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>REAR BUMPER</Group>
+      <Text>Paint Zepro, Double Lights</Text>
+      <Value>r_bumper.zepro_p2</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>MUDFLAP</Group>
+      <Text>r_mudflap.paint</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  
+</Variable>

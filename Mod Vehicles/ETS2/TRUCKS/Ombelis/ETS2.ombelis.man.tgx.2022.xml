@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>b510b17f-e85c-42ee-8e0e-9ae4822c4cc3</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Paint</Text>
+      <Value>f_bumper.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Bumper Lights</Group>
+      <Text>Paint</Text>
+      <Value>f_bump_chs.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Grille</Group>
+      <Text>Paint</Text>
+      <Value>f_inlay_cab.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Grille Bottom</Group>
+      <Text>Paint</Text>
+      <Value>f_inlay_chs.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_cab.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Logo</Group>
+      <Text>Paint</Text>
+      <Value>f_logo.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Windshield Frame</Group>
+      <Text>Paint</Text>
+      <Value>f_wnd_frame.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Paint</Text>
+      <Value>mirror.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Full Paint</Text>
+      <Value>mirror.shape1fp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Paint Optiview</Text>
+      <Value>mirror.shape2p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Mirrors</Group>
+      <Text>Paint</Text>
+      <Value>s_mirror.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Paint</Text>
+      <Value>sunshld.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sun Visor</Group>
+      <Text>Paint 2022</Text>
+      <Value>sunshld.shape2p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Horn</Group>
+      <Text>Paint Left</Text>
+      <Value>l_horn.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Horn</Group>
+      <Text>Paint Right</Text>
+      <Value>r_horn.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Window Deflector</Group>
+      <Text>Paint</Text>
+      <Value>s_wind.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Window Trim</Group>
+      <Text>Paint</Text>
+      <Value>windowtrim.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Stripe</Group>
+      <Text>Paint</Text>
+      <Value>s_strip.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Door Handle</Group>
+      <Text>Paint</Text>
+      <Value>doorhndl.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Door Bottom (Covers Steps)</Group>
+      <Text>Paint</Text>
+      <Value>door_bot.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint</Text>
+      <Value>f_fender_cab.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Door Steps</Group>
+      <Text>Paint</Text>
+      <Value>doorstep.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Door Steps</Group>
+      <Text>Paint (Top Step)</Text>
+      <Value>doorstp_cab.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Desflector</Group>
+      <Text>Stock</Text>
+      <Value>r_deflector.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Desflector</Group>
+      <Text>Stock 4.00m</Text>
+      <Value>r_deflector.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Desflector</Group>
+      <Text>Stock 4.20m</Text>
+      <Value>r_deflector.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Desflector</Group>
+      <Text>Stock (No Side Deflecotr)</Text>
+      <Value>r_deflector.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Desflector</Group>
+      <Text>Stock 4.00m (No Side Deflector)</Text>
+      <Value>r_deflector.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Roof Desflector</Group>
+      <Text>Stock 4.20m (No Side Deflector)</Text>
+      <Value>r_deflector.shape6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflector</Group>
+      <Text>Stock</Text>
+      <Value>s_deflector.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Side Deflector</Group>
+      <Text>Stock (8x Chassis)</Text>
+      <Value>s_deflector.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Steps</Group>
+      <Text>4x Paint</Text>
+      <Value>steps.shape2p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Steps</Group>
+      <Text>6x Short Paint</Text>
+      <Value>steps.shape6p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Steps</Group>
+      <Text>6x Long Paint</Text>
+      <Value>steps.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Steps</Group>
+      <Text>8x Long Paint</Text>
+      <Value>steps.shape3p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>4x Paint</Text>
+      <Value>chas_p.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>6x2-4 Short Paint</Text>
+      <Value>chas_p.shape5p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>6x2-2 Paint</Text>
+      <Value>chas_p.shape2p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>6x4 Paint</Text>
+      <Value>chas_p.shape3p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>8x4 Paint</Text>
+      <Value>chas_p.shape4p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>4x Paint (Rigid)</Text>
+      <Value>chas_p.shape6p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>6x Paint (Rigid)</Text>
+      <Value>chas_p.shape7p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>4x Paint 490L + 370L</Text>
+      <Value>tank.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>4x Paint 580L + 580L</Text>
+      <Value>tank.shape2p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>6x Short Paint 460L</Text>
+      <Value>tank.shape7p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>6x Long Paint 390L</Text>
+      <Value>tank.shape5p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>6x Long xl Paint 490L</Text>
+      <Value>tank.shape3p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>6x Long xl Paint 580L</Text>
+      <Value>tank.shape4p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>4x/6x Paint 580L + 580L (Rigid)</Text>
+      <Value>tank.shape2p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>8x Paint 1200L</Text>
+      <Value>tank.shape6p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fuel Tank</Group>
+      <Text>4/6L Paint 580L + 580L (Rigid)</Text>
+      <Value>tank.shape8p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Tank fixing (Strap)</Group>
+      <Text>4x Paint</Text>
+      <Value>tank_fix.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Tank fixing (Strap)</Group>
+      <Text>4x Paint (580L + 580L)</Text>
+      <Value>tank_fix.shape2p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Tank fixing (Strap)</Group>
+      <Text>6x2-4 Paint</Text>
+      <Value>tank_fix.shape6p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Tank fixing (Strap)</Group>
+      <Text>6x2-2 Paint</Text>
+      <Value>tank_fix.shape3p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Tank fixing (Strap)</Group>
+      <Text>6x2-2 Paint (580L + 580L)</Text>
+      <Value>tank_fix.shape3p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Tank fixing (Strap)</Group>
+      <Text>6x4 Paint</Text>
+      <Value>tank_fix.shape5p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Tank fixing (Strap)</Group>
+      <Text>4x/6x Paint (Rigid)</Text>
+      <Value>tank_fix.shape7p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>External Top (Fuel tank top cover right side)</Group>
+      <Text>Paint</Text>
+      <Value>ex_top.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x/6x XL Paint</Text>
+      <Value>sideskirt.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Short Paint</Text>
+      <Value>sideskirt.shape4p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Long Paint</Text>
+      <Value>sideskirt.shape2p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>8x Paint</Text>
+      <Value>sideskirt.shape3p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Paint (Rigid)</Text>
+      <Value>sideskirt.shape5p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Paint (Rigid)</Text>
+      <Value>sideskirt.shape6p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirt logo (Left Side)</Group>
+      <Text>4x Paint</Text>
+      <Value>s_logo.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirt logo (Left Side)</Group>
+      <Text>4x Paint (Rigid)</Text>
+      <Value>s_logo.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirt logo (Left Side)</Group>
+      <Text>6x Paint (Rigid)</Text>
+      <Value>s_logo.shape2p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Sideskirt Cover (Right Side)</Group>
+      <Text>Paint</Text>
+      <Value>ex_cover.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>4x Paint</Text>
+      <Value>r_fender.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>4x Paint FR</Text>
+      <Value>r_fender.shape2p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>4x Paint FR Sans Logo</Text>
+      <Value>r_fender.shape3p</Value>
+    </ListItem>
+		<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Short Paint</Text>
+      <Value>r_fender.shape13p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Short Paint FR</Text>
+      <Value>r_fender.shape14p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Short Paint FR Sans Logo</Text>
+      <Value>r_fender.shape15p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Long Paint</Text>
+      <Value>r_fender.shape7p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Long Paint FR</Text>
+      <Value>r_fender.shape8p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Long Paint FR Sans Logo</Text>
+      <Value>r_fender.shape9p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x XL Paint</Text>
+      <Value>r_fender.shape4p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x XL Paint FR</Text>
+      <Value>r_fender.shape5p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x XL Paint FR Sans Logo</Text>
+      <Value>r_fender.shape6p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>8x Paint</Text>
+      <Value>r_fender.shape10p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>8x Paint FR</Text>
+      <Value>r_fender.shape11p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>8x Paint FR Sans Logo</Text>
+      <Value>r_fender.shape12p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>4x Paint (Rigid)</Text>
+      <Value>r_fender.shape16p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Paint (Rigid)</Text>
+      <Value>r_fender.shape17p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>4x Paint</Text>
+      <Value>r_fendr_top.shape1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Short Paint</Text>
+      <Value>r_fendr_top.shape7p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Short Paint Solo</Text>
+      <Value>r_fendr_top.shape8p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x Long Paint</Text>
+      <Value>r_fendr_top.shape4p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x XL Paint</Text>
+      <Value>r_fendr_top.shape2p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender Top</Group>
+      <Text>6x XL Paint Solo</Text>
+      <Value>r_fendr_top.shape3p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>8x Paint</Text>
+      <Value>r_fendr_top.shape5p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>8X Paint Duo</Text>
+      <Value>r_fendr_top.shape6p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Fender</Group>
+      <Text>6x Paint (Rigid)</Text>
+      <Value>r_fendr_top.shape9p</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.ombelis.man.tgx.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>man.tgxftm</InternalName>
+  <VehicleAuthor>Ombelis</VehicleAuthor>
+  <VehicleName>MAN TGX 2022</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>gx_cab.man.tgxftm.cabin</InternalName>
+      <Name>GX</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay</XmlDefinitionAuthor>
+</Variable>

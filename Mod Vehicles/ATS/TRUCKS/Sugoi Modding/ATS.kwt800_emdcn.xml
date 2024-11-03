@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>f9d8c58d-800e-4412-8100-ae20d8b8e53e</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS.kwt800_emdcn.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>kwt800_emdcn</InternalName>
+  <VehicleAuthor>Sugoi Modding</VehicleAuthor>
+  <VehicleName>Kenworth T800</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>cabin_b.kwt800_emdcn.cabin</InternalName>
+      <Name>Flattop 72'</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>cabin_a.kwt800_emdcn.cabin</InternalName>
+      <Name>Aero Cab 72'</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

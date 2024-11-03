@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>d73aa29a-619b-40e7-9957-bde4f3696602</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Double Radiant</Text>
+      <Value>beacon.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Duty Radiant</Text>
+      <Value>beacon.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Duty Radiant</Text>
+      <Value>beacon.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Duty Radiant</Text>
+      <Value>beacon.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 'Standard'</Text>
+      <Value>bumper.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 'Shield'</Text>
+      <Value>bumper.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 'Iluminator'</Text>
+      <Value>bumper.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 'Standard Wedged'</Text>
+      <Value>bumper.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 'Shield Wedged'</Text>
+      <Value>bumper.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 'Iluminator Wedged'</Text>
+      <Value>bumper.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 'Classic'</Text>
+      <Value>bumper.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 'Firefly'</Text>
+      <Value>bumper.shape08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 'Outback'</Text>
+      <Value>bumper.shape09</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 'Tactical'</Text>
+      <Value>bumper.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 'Aerolite'</Text>
+      <Value>bumper.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 'Aerodyne'</Text>
+      <Value>bumper.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper 'Aerochrome'</Text>
+      <Value>bumper.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Adapter</Text>
+      <Value>cabflares.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>GTM Quality Plate</Text>
+      <Value>codrv_plate.gtmledplate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>codrv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal Deflector</Text>
+      <Value>deflector.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>GTM Quality Plate</Text>
+      <Value>drv_plate.gtmledplate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>drv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Exhaust</Text>
+      <Value>exhaust.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Exhaust</Text>
+      <Value>exhaust.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plain Stacks</Text>
+      <Value>exhaust.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plain Stacks</Text>
+      <Value>exhaust.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fender Extenders</Text>
+      <Value>fendertrim.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Super Duty Fender Extenders</Text>
+      <Value>fendertrim.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fender Extenders</Text>
+      <Value>fendertrim.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Super Duty Fender Extenders</Text>
+      <Value>fendertrim.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Basic Air Filters</Text>
+      <Value>filters.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Air Filters With Light Bars</Text>
+      <Value>filters.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Basic Air Intake</Text>
+      <Value>filters.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Cover Air Intake</Text>
+      <Value>filters.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Left Hood Mirror</Text>
+      <Value>fl_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Right Hood Mirror</Text>
+      <Value>fr_mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oversize Load</Text>
+      <Value>f_banner.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oversize Load</Text>
+      <Value>f_banner.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oversize Load</Text>
+      <Value>f_banner.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oversize Load</Text>
+      <Value>f_banner.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oversize Load</Text>
+      <Value>f_banner.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oversize Load</Text>
+      <Value>f_banner.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Logging Rack</Text>
+      <Value>headache_r.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern High Logging Rack</Text>
+      <Value>headache_r.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern Logging Rack</Text>
+      <Value>headache_r.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack 'Oversized'</Text>
+      <Value>headache_r.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headache Rack</Text>
+      <Value>headache_r.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>hood.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>hood.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Horn Adapter</Text>
+      <Value>horns.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal Fender Guards</Text>
+      <Value>lghfender.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Headlight Trim</Text>
+      <Value>lghfender.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal Fender Guards + Headlight Trim</Text>
+      <Value>lghfender.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Mudflaps</Text>
+      <Value>mflaps.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Mudflaps</Text>
+      <Value>mflaps.shape01n</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White Mudflaps</Text>
+      <Value>mflaps.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White Mudflaps</Text>
+      <Value>mflaps.shape02n</Value>
+    </ListItem>
+    <ListItem>
+      <Text>SCS Mudflaps</Text>
+      <Value>mflaps.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>SCS Mudflaps</Text>
+      <Value>mflaps.shape03n</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Mudflaps</Text>
+      <Value>mflaps.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Mudflaps</Text>
+      <Value>mflaps.shape04n</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Duty</Text>
+      <Value>mirror.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Double</Text>
+      <Value>mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors Modern</Text>
+      <Value>mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Mudflaps</Text>
+      <Value>mudflaps.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White Mudflaps</Text>
+      <Value>mudflaps.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>SCS Mudflaps</Text>
+      <Value>mudflaps.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Mudflaps</Text>
+      <Value>mudflaps.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Mudguards</Text>
+      <Value>mudguard.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dash Set</Text>
+      <Value>set_dashbrd.dash</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Jewel</Text>
+      <Value>set_glass.glass_set1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>In-Line</Text>
+      <Value>set_glass.glass_set2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Arrow</Text>
+      <Value>set_glass.glass_set3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Terminus</Text>
+      <Value>set_glass.glass_set4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cab Panel, 12 inch LC</Text>
+      <Value>sideflares.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cab Panel, 5 inch LC</Text>
+      <Value>sideflares.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Cab Trim</Text>
+      <Value>sideflares.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Modern</Text>
+      <Value>steering_w.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Classic</Text>
+      <Value>steering_w.exclusive</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Sunshield</Text>
+      <Value>sunshield.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blind Mount Visor</Text>
+      <Value>sunshield.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Sunshield</Text>
+      <Value>sunshield.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Passenger Side Mirror</Text>
+      <Value>s_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Adapter</Text>
+      <Value>topflares.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Turbo Wing</Text>
+      <Value>wing.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Spoiler</Text>
+      <Value>wing.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Spoiler</Text>
+      <Value>wing.shape03</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\My PC\Desktop\Mods_Studio_2_v.2021.02\Data\ModData\SCS\Vehicles\my_xmls\All GTM.kenworth.t800_gtm.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>kenworth.t800_gtm</InternalName>
+  <VehicleAuthor>GTM Team</VehicleAuthor>
+  <VehicleName>Kenworth T800</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>duty.kenworth.t800_gtm.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>exclusive.kenworth.t800_gtm.cabin</InternalName>
+      <Name>AeroCab Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standard.kenworth.t800_gtm.cabin</InternalName>
+      <Name>Studio Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

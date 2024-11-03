@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>279d2a49-9400-4d32-b836-93ed7e8ca04b</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\xmls_new style\ATS.fruehauf40.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>fruehauf40</InternalName>
+  <VehicleAuthor>Selonik</VehicleAuthor>
+  <VehicleName>Fruehauf FB 40ft Reefer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.fruehauf40.body</InternalName>
+      <Name>Body Paint</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

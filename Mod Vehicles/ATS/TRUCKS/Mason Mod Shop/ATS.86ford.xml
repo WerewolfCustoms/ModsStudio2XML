@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>affa3488-046b-4b3d-bee2-445a44e3a96e</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.86ford.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>86ford</InternalName>
+  <VehicleAuthor>Masons Mod Shop</VehicleAuthor>
+  <VehicleName>1986 Ford F-350</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>crewcab.86ford.cabin</InternalName>
+      <Name>Crewcab</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

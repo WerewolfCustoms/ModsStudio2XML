@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>9ce3280a-d4f6-49fb-af3f-f86ddcabe085</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS.bison.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>bison</InternalName>
+  <VehicleAuthor>Selonik Company Models</VehicleAuthor>
+  <VehicleName>GMC/Chevy</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template UV2( 1 Sided Template )</Group>
+      <InternalName>cab_b_dc.bison.cabin</InternalName>
+      <Name>Day Cab Front Axles</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template UV2( 1 Sided Template )</Group>
+      <InternalName>cab_b_dc_uk.bison.cabin</InternalName>
+      <Name>Day Cab Front Axles (Rightside Steering Wheel)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template UV2( 1 Sided Template )</Group>
+      <InternalName>cab_b_uk.bison.cabin</InternalName>
+      <Name>Day Cab Front Axles + Sleeper (rightside steering wheel)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template UV2( 1 Sided Template )</Group>
+      <InternalName>duty.bison.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template UV2( 1 Sided Template )</Group>
+      <InternalName>dutyuk.bison.cabin</InternalName>
+      <Name>Day Cab (rightside steering wheel)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template UV2( 1 Sided Template )</Group>
+      <InternalName>sleeper.bison.cabin</InternalName>
+      <Name>Day Cab + Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template UV2( 1 Sided Template )</Group>
+      <InternalName>sleeperuk.bison.cabin</InternalName>
+      <Name>Day Cab + Sleeper (rightside steering wheel)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template UV2( 1 Sided Template )</Group>
+      <InternalName>sleeperc.bison.cabin</InternalName>
+      <Name>Day Cab + Pan Am Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template UV2( 1 Sided Template )</Group>
+      <InternalName>sleeperuk.bison.cabin</InternalName>
+      <Name>Day Cab + Pan Am Sleeper (rightside steering wheel)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template UV2( 1 Sided Template )</Group>
+      <InternalName>sleepers.bison.cabin</InternalName>
+      <Name>Day Cab + Ablebody Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template UV2( 1 Sided Template )</Group>
+      <InternalName>sleepersuk.bison.cabin</InternalName>
+      <Name>Day Cab + Ablebody Sleeper(rightside steering wheel)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template UV2( 1 Sided Template )</Group>
+      <InternalName>custom.bison.cabin</InternalName>
+      <Name>Day Cab + Sleeper Benz (Big Flattop Sleeper)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template UV2( 1 Sided Template )</Group>
+      <InternalName>customuk.bison.cabin</InternalName>
+      <Name>Day Cab right SW + Sleeper Benz(Big Flattop Sleeper)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template UV2( 1 Sided Template )</Group>
+      <InternalName>cab_b.bison.cabin</InternalName>
+      <Name>Day Cab Front Axles + Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template 1 </Group>
+      <InternalName>cab_b.bison.cabin</InternalName>
+      <Name>Day Cab Front Axles + Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template 1 </Group>
+      <InternalName>cab_b_dc.bison.cabin</InternalName>
+      <Name>Day Cab Front Axles</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template 1 </Group>
+      <InternalName>cab_b_dc_uk.bison.cabin</InternalName>
+      <Name>Day Cab Front Axles (Rightside Steering Wheel)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template 1 </Group>
+      <InternalName>cab_b_uk.bison.cabin</InternalName>
+      <Name>Day Cab Front Axles + Sleeper (rightside steering wheel)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template 1 </Group>
+      <InternalName>duty.bison.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template 1 </Group>
+      <InternalName>dutyuk.bison.cabin</InternalName>
+      <Name>Day Cab (rightside steering wheel)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template 1 </Group>
+      <InternalName>sleeper.bison.cabin</InternalName>
+      <Name>Day Cab + Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template 1 </Group>
+      <InternalName>sleeperuk.bison.cabin</InternalName>
+      <Name>Day Cab + Sleeper (rightside steering wheel)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template 1 </Group>
+      <InternalName>sleeperc.bison.cabin</InternalName>
+      <Name>Day Cab + Pan Am Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template 1 </Group>
+      <InternalName>sleeperuk.bison.cabin</InternalName>
+      <Name>Day Cab + Pan Am Sleeper (rightside steering wheel)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template 2</Group>
+      <InternalName>sleepers.bison.cabin</InternalName>
+      <Name>Day Cab + Ablebody Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template 2</Group>
+      <InternalName>sleepersuk.bison.cabin</InternalName>
+      <Name>Day Cab + Ablebody Sleeper(rightside steering wheel)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template 3</Group>
+      <InternalName>custom.bison.cabin</InternalName>
+      <Name>Day Cab + Sleeper Benz (Big Flattop Sleeper)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Template 3</Group>
+      <InternalName>customuk.bison.cabin</InternalName>
+      <Name>Day Cab right SW + Sleeper Benz(Big Flattop Sleeper)</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

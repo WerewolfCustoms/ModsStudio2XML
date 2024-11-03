@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>7a1a151f-fff3-453c-8073-14553efa0369</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Red Bottom Lighting (as Beacon light)</Text>
+      <Value>bottomlight.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blue Bottom Lighting (as Beacon light)</Text>
+      <Value>bottomlight.shape1b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Green Bottom Lighting (as Beacon light)</Text>
+      <Value>bottomlight.shape1g</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Orange Bottom Lighting (as Beacon light)</Text>
+      <Value>bottomlight.shape1o</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Bottom Lighting (as Parking light)</Text>
+      <Value>bottomlight.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blue Bottom Lighting (as Parking light)</Text>
+      <Value>bottomlight.shape2b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Green Bottom Lighting (as Parking light)</Text>
+      <Value>bottomlight.shape2g</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Orange Bottom Lighting (as Parking light)</Text>
+      <Value>bottomlight.shape2o</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Optional</Text>
+      <Value>markers.optional</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>markers.std</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Your Mudflaps@@</Text>
+      <Value>mudguards.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Metal Tandem@@</Text>
+      <Value>mudguards.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chrome Tandem@@</Text>
+      <Value>mudguards.shape3chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Metal Separate@@</Text>
+      <Value>mudguards.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chrome Separate@@</Text>
+      <Value>mudguards.shape4chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Paint Tandem@@</Text>
+      <Value>mudguards.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Paint Separate@@</Text>
+      <Value>mudguards.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>mudguards.std</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Nebraska</Text>
+      <Value>plate.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Massachusetts</Text>
+      <Value>plate.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Minnesota</Text>
+      <Value>plate.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mississippi</Text>
+      <Value>plate.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>New Mexico</Text>
+      <Value>plate.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>New York</Text>
+      <Value>plate.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oregon</Text>
+      <Value>plate.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pennsylvania</Text>
+      <Value>plate.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Text>South Dakota</Text>
+      <Value>plate.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tennessee</Text>
+      <Value>plate.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Texas</Text>
+      <Value>plate.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ohio</Text>
+      <Value>plate.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Utah</Text>
+      <Value>plate.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Washington</Text>
+      <Value>plate.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Default(not showing up in configurator)</Text>
+      <Value>plate.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Text>California</Text>
+      <Value>plate.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Arizona</Text>
+      <Value>plate.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Florida</Text>
+      <Value>plate.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Georgia</Text>
+      <Value>plate.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Illinois</Text>
+      <Value>plate.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Maine</Text>
+      <Value>plate.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Manitoba</Text>
+      <Value>plate.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>side.chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>side.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Hogebuilt@@</Text>
+      <Value>wings.hoge</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>wings.std</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.wilson.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>wilson</InternalName>
+  <VehicleAuthor>jon-ruda</VehicleAuthor>
+  <VehicleName>Wilson Hopper Bottom</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>hopper43.wilson.body</InternalName>
+      <Name>43` Standard Connectors</Name>
+    </Variant>
+    <Variant>
+      <InternalName>hopper43c.wilson.body</InternalName>
+      <Name>43` Custom Connectors</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

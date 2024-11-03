@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>0585a009-551c-4d7f-9918-3a48992135c1</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>wielton.cistern</InternalName>
+  <VehicleAuthor>Schumi</VehicleAuthor>
+  <VehicleName>Wielton Cistern</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>x</Description>
+      <Image>wielton_trailers.jpg</Image>
+      <InternalName>body.cistern</InternalName>
+      <Name>Wielton Cistern</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>2301-19-146__cistern.png</XmlDefinitionAuthor>
+</Variable>

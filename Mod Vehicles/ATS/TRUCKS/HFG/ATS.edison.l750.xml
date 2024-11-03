@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>79459d12-e8e9-4d00-a947-f07e35fe7ed9</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Description>Shield</Description>
+      <Group>Bumper</Group>
+      <Text>Shield</Text>
+      <Value>bumper.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Oilfield Tube Style</Description>
+      <Group>Bumper</Group>
+      <Text>Oilfield Tube Style</Text>
+      <Value>bumper.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Oilfield Tube Style with bumper lollipops</Description>
+      <Group>Bumper</Group>
+      <Text>Oilfield Tube Style with bumper lollipops</Text>
+      <Value>bumper.shape06a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Quarterback</Description>
+      <Group>Bumper</Group>
+      <Text>Quarterback</Text>
+      <Value>bumper.shape05</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS.edison.l750.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>edison.l750</InternalName>
+  <VehicleAuthor>guidot</VehicleAuthor>
+  <VehicleName>Edison L750</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>day.edison.l750.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

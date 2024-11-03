@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>56baac73-078f-43df-9ec8-abf05b968d51</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.gmc.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>gmc</InternalName>
+  <VehicleAuthor>Cory Watson</VehicleAuthor>
+  <VehicleName>GMC Astro</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>1978 Cab Small front Grill</Group>
+      <InternalName>cab_d.gmc.cabin</InternalName>
+      <Name>Astro 95 1978 Day Cab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>1978 Cab Small front Grill</Group>
+      <InternalName>standard.gmc.cabin</InternalName>
+      <Name>Astro 95 1978</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>1978 Cab Small front Grill</Group>
+      <InternalName>cab_i78.gmc.cabin</InternalName>
+      <Name>Astro 95 1978 Indiana Super Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>1978 Cab Small front Grill</Group>
+      <InternalName>day2sleeper.gmc.cabin</InternalName>
+      <Name>Astro 95 1978 Day Cab Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>1980 Cab Large front Grill</Group>
+      <InternalName>cab_d2.gmc.cabin</InternalName>
+      <Name>Astro 95 1980 Day Cab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>1980 Cab Large front Grill</Group>
+      <InternalName>cab_b.gmc.cabin</InternalName>
+      <Name>Astro 95 1980</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>1980 Cab Large front Grill</Group>
+      <InternalName>cab_s.gmc.cabin</InternalName>
+      <Name>Astro 95 1980 Step</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>1980 Cab Large front Grill</Group>
+      <InternalName>cab_i.gmc.cabin</InternalName>
+      <Name>Astro 95 1980 Indiana Super Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>1980 Cab Large front Grill</Group>
+      <InternalName>daysleeper.gmc.cabin</InternalName>
+      <Name>Astro 95 1980 Day Cab Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>1980 Cab Large front Grill</Group>
+      <InternalName>cab_c.gmc.cabin</InternalName>
+      <Name>Astro 95 1980 Double bunk</Name>
+    </Variant>
+	<Variant>
+      <AccessoryDependencies />
+      <Group>1984 Aero Astro</Group>
+      <InternalName>cab_e.gmc.cabin</InternalName>
+      <Name>1984 Aero Astro Cab</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

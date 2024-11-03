@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>337911fe-50a2-4616-b835-4836c66ae8cc</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Tank 01 colour</Text>
+      <Value>bak.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tank 02 colour</Text>
+      <Value>bak.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tank 03 colour</Text>
+      <Value>bak.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper-1 color</Text>
+      <Value>bamper.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper-2 color</Text>
+      <Value>bamper.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper-3 color</Text>
+      <Value>bamper.shape6</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>@@Wing color@@</Text>
+      <Value>krilo.shape2</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Grille 1 color</Text>
+      <Value>reshotka.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grille 2 color</Text>
+      <Value>reshotka.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grille 3 color</Text>
+      <Value>reshotka.shape6</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Eyelash 1</Text>
+      <Value>resnica.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Eyelash 2</Text>
+      <Value>resnica.shape2</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Spoiler 1</Text>
+      <Value>spoler.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Spoiler 2</Text>
+      <Value>spoler.shape2</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Visor color</Text>
+      <Value>suns.shape1</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Visor color 2</Text>
+      <Value>suns.shape6</Value>
+    </ListItem>
+	
+	
+	<ListItem>
+      <Text>exhaust simple 4</Text>
+      <Value>tryba_1.shape5</Value>
+    </ListItem>
+    
+  </AccessoryItems>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\My modded xml\All RTA.ken104.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>ken104</InternalName>
+  <VehicleAuthor>RTA</VehicleAuthor>
+  <VehicleName>Kenworth K104</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>sleep_a.ken104.cabin</InternalName>
+      <Name>AERODYNE A</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sleep_b.ken104.cabin</InternalName>
+      <Name>AERODYNE B</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

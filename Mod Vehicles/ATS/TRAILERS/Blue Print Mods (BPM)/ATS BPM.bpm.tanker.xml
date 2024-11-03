@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>3d38a960-6c19-4599-a68d-efd46805fc9e</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+   
+    <ListItem>
+      <Text>Standart lights</Text>
+      <Value>bodylights.lights_def_p</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Standart Lights Painted</Text>
+      <Value>bodylights.lights_st_pt</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Hose Tubes Painted</Text>
+      <Value>hose_tube.hose_tube_pt</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Rear Lights</Text>
+      <Value>rear_lights.ford_butt_p</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Rear Side Lights</Text>
+      <Value>rear_lights.ford_side_p</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\ATS BPM.bpm.tanker.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>bpm.tanker</InternalName>
+  <VehicleAuthor>Virat8</VehicleAuthor>
+  <VehicleName>BPM Tanker</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.tanker_22_p</InternalName>
+      <Name>Vintage Tanker Body </Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

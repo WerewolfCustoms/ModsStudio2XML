@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>3fb76ab7-1e37-4cdb-b246-758dbfe1b736</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Painted Dolly </Text>
+      <Value>chassis.dolly</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Text>Painted Lead Chassis</Text>
+      <Value>chassis.tautlead</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Text>Painted Tag Chassis</Text>
+      <Value>chassis.tauttag</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Text>Painted Tug Chassis</Text>
+      <Value>chassis.tauttug</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Painted Dolly Fenders</Text>
+      <Value>guards.guards2</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text> Lead Nose Painted</Text>
+      <Value>nose.lead01</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>TagTug Nose Painted</Text>
+      <Value>nose.nose01</Value>
+    </ListItem>
+    
+    
+    <ListItem>
+      <Text>Lead ToolBox Painted</Text>
+      <Value>toolbox.lead</Value>
+    </ListItem>
+   
+    <ListItem>
+      <Text>Tag ToolBox Painted</Text>
+      <Value>toolbox.tag</Value>
+    </ListItem>
+    
+    <ListItem>
+      <Text>Lead ToolBox Doors Painted</Text>
+      <Value>tooldoors.leadpaint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tag ToolBox Doors Painted</Text>
+      <Value>tooldoors.paintdoor</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\My modded xml\ATS.freighter.droptaut.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>freighter.droptaut</InternalName>
+  <VehicleAuthor>Custom Aussie Mods</VehicleAuthor>
+  <VehicleName>TSA Drop Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.tautlead</InternalName>
+      <Name>Lead Trailer</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.tauttag</InternalName>
+      <Name>Tag Trailer</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>e4d7d2d3-240b-4b5d-812e-b0531688ed3f</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>GPS Garmin</Text>
+      <Value>1gps.gps1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>GPS Garmin</Text>
+      <Value>2gps.gps1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rejstrator samochodowy</Text>
+      <Value>2gps.rejstrator</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Setup - 1</Text>
+      <Value>2gps.setup1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Setup - 2</Text>
+      <Value>2gps.setup2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Setup - 3 - Christmas setup</Text>
+      <Value>2gps.setup3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Setup - 4</Text>
+      <Value>2gps.setup4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Setup - 5</Text>
+      <Value>2gps.setup5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Setup - 6</Text>
+      <Value>2gps.setup6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Obrysy</Text>
+      <Value>backcab.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Setup 1</Text>
+      <Value>backcab.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Obrysy + Belka ze swiatlami</Text>
+      <Value>backcab.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Belka ze swiatlami</Text>
+      <Value>backcab.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Setup 2</Text>
+      <Value>backcab.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Setup 3</Text>
+      <Value>backcab.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Setup 4</Text>
+      <Value>backcab.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Miejsce ne Twoją reklamę</Text>
+      <Value>backtruck.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Scania 2</Text>
+      <Value>backtruck.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Scania 3</Text>
+      <Value>backtruck.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Scania 4</Text>
+      <Value>backtruck.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Scania Biler</Text>
+      <Value>backtruck.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Scania Vabis</Text>
+      <Value>backtruck.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ekualizer Garage</Text>
+      <Value>backtruck.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Eurocares</Text>
+      <Value>backtruck.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Posped</Text>
+      <Value>backtruck.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ITCC</Text>
+      <Value>backtruck.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tree ET</Text>
+      <Value>backtruck.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>FCP</Text>
+      <Value>backtruck.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>WGCC</Text>
+      <Value>backtruck.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kaarfor</Text>
+      <Value>backtruck.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Scania 1</Text>
+      <Value>backtruck.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Banner</Text>
+      <Value>banner.reklama</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kaarfor</Text>
+      <Value>banner.reklama2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>WGCC</Text>
+      <Value>banner.reklama3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>FCP</Text>
+      <Value>banner.reklama4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tree - ET</Text>
+      <Value>banner.reklama5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>ITCC</Text>
+      <Value>banner.reklama6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Posped</Text>
+      <Value>banner.reklama7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Euro Goodies</Text>
+      <Value>banner.reklama8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Twoja Reklama</Text>
+      <Value>banner.reklama9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>roof rack</Text>
+      <Value>beacon.roof_rack</Value>
+    </ListItem>
+    <ListItem>
+      <Text>roof rack + side ladders</Text>
+      <Value>beacon.roof_rack1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bonfire</Text>
+      <Value>beacon.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Space</Text>
+      <Value>beacon.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Side ladders</Text>
+      <Value>beacon.sledders</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Klimatyzacja - Waeco</Text>
+      <Value>beacon.weaco</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Waeco + Side ladders</Text>
+      <Value>beacon.weacolddr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Waeco + Side ladders &amp; leds</Text>
+      <Value>beacon.weacolddrled</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black - single white lights</Text>
+      <Value>bumper.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painting - double white lights</Text>
+      <Value>bumper.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black - double white lights</Text>
+      <Value>bumper.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painting - double yellow lights</Text>
+      <Value>bumper.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black - double yellow lights</Text>
+      <Value>bumper.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrom - double yellow lights</Text>
+      <Value>bumper.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painting - single white lights</Text>
+      <Value>bumper.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrom - single white lights</Text>
+      <Value>bumper.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painting - single yellow lights</Text>
+      <Value>bumper.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom</Text>
+      <Value>bumper.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrom - double white lights</Text>
+      <Value>bumper.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143M Biler Moodflaps + Halogen</Text>
+      <Value>b_grill.shap143m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143M Biler Moodflaps + Halogen + led</Text>
+      <Value>b_grill.shap143ma</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143M Scania Moodflaps + Halogen + led</Text>
+      <Value>b_grill.shap143ma2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143M Biler Moodflaps + Mirage</Text>
+      <Value>b_grill.shap143ma3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143M Scania Moodflaps + Mirage</Text>
+      <Value>b_grill.shap143ma4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sting</Text>
+      <Value>b_grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sting - painting</Text>
+      <Value>b_grill.shape1a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirage</Text>
+      <Value>b_grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirage - painting</Text>
+      <Value>b_grill.shape2a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Momentum</Text>
+      <Value>b_grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Momentum - painting</Text>
+      <Value>b_grill.shape3a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Accent</Text>
+      <Value>b_grill.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Accent - painting</Text>
+      <Value>b_grill.shape4a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Samurai</Text>
+      <Value>b_grill.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Samurai - painting</Text>
+      <Value>b_grill.shape6a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>codrv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Curtain - 1</Text>
+      <Value>curtain_f.set1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Curtain - 2</Text>
+      <Value>curtain_f.set2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plastic@@</Text>
+      <Value>doorhndl.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>doorhndl.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrom@@</Text>
+      <Value>doorhndl.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>doorstep.scania1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Serpent</Text>
+      <Value>doorstep.scania2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ranger</Text>
+      <Value>doorstep.scania3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Nexus</Text>
+      <Value>doorstep.scania4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ninja</Text>
+      <Value>doorstep.scania5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>drv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>exhaust_l.exh0</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>exhaust_l.exh0a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>exhaust_l.exh0b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Highpipes S</Text>
+      <Value>exhaust_l.exh1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Highpipes L</Text>
+      <Value>exhaust_l.exh2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Highpipe S</Text>
+      <Value>exhaust_l.exh3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Highpipe L</Text>
+      <Value>exhaust_l.exh4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Claw</Text>
+      <Value>f_grill.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Claw - painting</Text>
+      <Value>f_grill.shape10a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Claw - painting V8</Text>
+      <Value>f_grill.shape10b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Claw - painting b</Text>
+      <Value>f_grill.shape10c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Claw - painting V8 b</Text>
+      <Value>f_grill.shape10d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Joker</Text>
+      <Value>f_grill.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Joker - painting</Text>
+      <Value>f_grill.shape11a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Champion</Text>
+      <Value>f_grill.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Champion - painting</Text>
+      <Value>f_grill.shape13a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Accent</Text>
+      <Value>f_grill.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Accent - painting</Text>
+      <Value>f_grill.shape15a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Accent - painting v8</Text>
+      <Value>f_grill.shape15b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Accent - painting b</Text>
+      <Value>f_grill.shape15c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Accent - painting V8 b</Text>
+      <Value>f_grill.shape15d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Accent - 1990</Text>
+      <Value>f_grill.shape15e</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Dragonfly</Text>
+      <Value>f_grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Dragonfly - painting</Text>
+      <Value>f_grill.shape3a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Goliath</Text>
+      <Value>f_grill.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Goliath - painting</Text>
+      <Value>f_grill.shape6a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Goliath - painting V8</Text>
+      <Value>f_grill.shape6b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Goliath - painting b</Text>
+      <Value>f_grill.shape6c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Goliath - painting V8 b</Text>
+      <Value>f_grill.shape6d</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Viking</Text>
+      <Value>f_grill.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m Viking - painting</Text>
+      <Value>f_grill.shape7a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ranger</Text>
+      <Value>f_grill.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ranger - painting</Text>
+      <Value>f_grill.shape8a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>f_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Owiewki</Text>
+      <Value>glass1.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Owiewki + Logo</Text>
+      <Value>glass1.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Owiewki + logo + ornament</Text>
+      <Value>glass1.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ornament</Text>
+      <Value>glass1.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Owiewki + logo + przyciemniana szyba</Text>
+      <Value>glass1.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Przyciemniane szyby boczne</Text>
+      <Value>glass1.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Zegarek cyfrowy</Text>
+      <Value>gornapolka.zegarek</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>grill_c.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom</Text>
+      <Value>grill_c.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Maggie</Text>
+      <Value>grill_c.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Special</Text>
+      <Value>grill_c.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Josephine</Text>
+      <Value>grill_c.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Paint - Mk I</Text>
+      <Value>grill_c.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black mat</Text>
+      <Value>grill_c.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Paint - MkII</Text>
+      <Value>grill_c.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roar</Text>
+      <Value>horn_1.horn1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tone</Text>
+      <Value>horn_1.horn2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Thunder</Text>
+      <Value>horn_1.horn3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Tube</Text>
+      <Value>horn_1.horn4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roar</Text>
+      <Value>horn_2.horn1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tone</Text>
+      <Value>horn_2.horn2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Thunder</Text>
+      <Value>horn_2.horn3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Tube</Text>
+      <Value>horn_2.horn4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roar</Text>
+      <Value>horn_3.horn1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tone</Text>
+      <Value>horn_3.horn2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Thunder</Text>
+      <Value>horn_3.horn3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Tube</Text>
+      <Value>horn_3.horn4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roar</Text>
+      <Value>horn_4.horn1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tone</Text>
+      <Value>horn_4.horn2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Thunder</Text>
+      <Value>horn_4.horn3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Tube</Text>
+      <Value>horn_4.horn4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roar</Text>
+      <Value>horn_5.horn1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tone</Text>
+      <Value>horn_5.horn2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Thunder</Text>
+      <Value>horn_5.horn3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Tube</Text>
+      <Value>horn_5.horn4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Lights</Text>
+      <Value>lumen.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Green Lights</Text>
+      <Value>lumen.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blue Lights</Text>
+      <Value>lumen.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White Lights</Text>
+      <Value>lumen.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Yellow Lights</Text>
+      <Value>lumen.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Orange Lights</Text>
+      <Value>lumen.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Blue Lights</Text>
+      <Value>lumen.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Michelin</Text>
+      <Value>michelin_1.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Michelin</Text>
+      <Value>michelin_2.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Plastic@@</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Plastic + antena CB@@</Text>
+      <Value>mirror.shape1a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Plastic 2 + antena CB@@</Text>
+      <Value>mirror.shape1ab</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Plastic 2 + antena CB &amp; leds@@</Text>
+      <Value>mirror.shape1ac</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Plasitc 2@@</Text>
+      <Value>mirror.shape1b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Paint@@</Text>
+      <Value>mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Paint + antena CB@@</Text>
+      <Value>mirror.shape2a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Paint 2 + antena CB@@</Text>
+      <Value>mirror.shape2ab</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Paint 2 + antena CB &amp; leds@@</Text>
+      <Value>mirror.shape2ac</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Paint 2@@</Text>
+      <Value>mirror.shape2b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chrom@@</Text>
+      <Value>mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chrom + antena CB@@</Text>
+      <Value>mirror.shape3a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chrom 2 + antena CB@@</Text>
+      <Value>mirror.shape3ab</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chrom 2 + antena CB &amp; leds@@</Text>
+      <Value>mirror.shape3ac</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chrom 2@@</Text>
+      <Value>mirror.shape3b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Josephine</Text>
+      <Value>neons.setup4a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Christmas</Text>
+      <Value>neons.setup4ac</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vabis 1</Text>
+      <Value>neons.setup7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Jazzy</Text>
+      <Value>neons.setup8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vabis 2</Text>
+      <Value>neons.setup9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Owiewki - 1</Text>
+      <Value>owiewki.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Owiewki - 2</Text>
+      <Value>owiewki.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Owiewki - 3</Text>
+      <Value>owiewki.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Setup - 1</Text>
+      <Value>proporce1.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Setup - 2</Text>
+      <Value>proporce1.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Setup - 3</Text>
+      <Value>proporce1.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Setup - 4</Text>
+      <Value>proporce1.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirage</Text>
+      <Value>r_grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sting</Text>
+      <Value>r_grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sting - long</Text>
+      <Value>r_grill.shape2a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Two Points</Text>
+      <Value>r_grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dash - 143m</Text>
+      <Value>set_dashbrd.glass_set1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>143m</Text>
+      <Value>set_glass.glass_set1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Jewel</Text>
+      <Value>set_glass.glass_set1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>In-Line</Text>
+      <Value>set_glass.glass_set2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Arrow</Text>
+      <Value>set_glass.glass_set3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Terminus</Text>
+      <Value>set_glass.glass_set4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Custom@@</Text>
+      <Value>sideskirt.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Custom@@</Text>
+      <Value>sideskirt.shape1s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>sideskirt.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>sideskirt.shape2s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Custom V8@@</Text>
+      <Value>sideskirt.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Custom V8@@</Text>
+      <Value>sideskirt.shape3s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ranger</Text>
+      <Value>sideskirt.side_stripe1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ranger - short</Text>
+      <Value>sideskirt.side_stripe2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ranger painting</Text>
+      <Value>sideskirt.side_stripe3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ranger painting - short</Text>
+      <Value>sideskirt.side_stripe4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Stock@@</Text>
+      <Value>sunshld.shape0</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Painting@@</Text>
+      <Value>sunshld.shape0c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Josephine@@</Text>
+      <Value>sunshld.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Maggie@@</Text>
+      <Value>sunshld.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Custom@@</Text>
+      <Value>sunshld.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Poland@@</Text>
+      <Value>sunshld.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Holland@@</Text>
+      <Value>sunshld.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Scotland@@</Text>
+      <Value>sunshld.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chrome@@</Text>
+      <Value>sunshld.shapecr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Power by V8@@</Text>
+      <Value>sygnat_1.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Power by V8@@</Text>
+      <Value>sygnat_2.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>s_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Torba</Text>
+      <Value>toybig.set1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mapa</Text>
+      <Value>toybig.set2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lodówka</Text>
+      <Value>toybig.set3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lodówka</Text>
+      <Value>toyseat.set1</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ETS2.scania.143m.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>scania.143m</InternalName>
+  <VehicleAuthor>Ekualizer</VehicleAuthor>
+  <VehicleName>Scania 143 M</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>topline.scania.143m.cabin</InternalName>
+      <Name>Streamline</Name>
+    </Variant>
+    <Variant>
+      <InternalName>toplinec.scania.143m.cabin</InternalName>
+      <Name>Custom</Name>
+    </Variant>
+    <Variant>
+      <InternalName>toplined.scania.143m.cabin</InternalName>
+      <Name>Maggie</Name>
+    </Variant>
+    <Variant>
+      <InternalName>toplinee.scania.143m.cabin</InternalName>
+      <Name>Special</Name>
+    </Variant>
+    <Variant>
+      <InternalName>toplinef.scania.143m.cabin</InternalName>
+      <Name>Josephine</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>480f246d-f3b8-47ad-a2cd-a168df95d36f</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>LED Bar 1 orange</Text>
+      <Value>beacon.ledbar_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Bar 1 white</Text>
+      <Value>beacon.ledbar_01_w</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Bar 2 orange</Text>
+      <Value>beacon.ledbar_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Bar 2 white</Text>
+      <Value>beacon.ledbar_02_w</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Bar 3 orange</Text>
+      <Value>beacon.ledbar_03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Bar 3 white</Text>
+      <Value>beacon.ledbar_03_w</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Nova</Text>
+      <Value>beacon.ledbar_04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Star</Text>
+      <Value>beacon.ledbar_05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Double Radiant</Text>
+      <Value>beacon.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Double Radiant</Text>
+      <Value>beacon.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Double Radiant</Text>
+      <Value>beacon_1.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Black</Text>
+      <Value>bumper.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Pintavel</Text>
+      <Value>bumper.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Chrome</Text>
+      <Value>bumper.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Chrome</Text>
+      <Value>bumper_t.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Black+ Chrome</Text>
+      <Value>bumper_t.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Black+ Paint</Text>
+      <Value>bumper_t.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Chrome+ Paint</Text>
+      <Value>bumper_t.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Paint</Text>
+      <Value>bumper_t.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ambulance General</Text>
+      <Value>carga.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ambulance General</Text>
+      <Value>carga.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Trator</Text>
+      <Value>carga.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Black</Text>
+      <Value>carroceria.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Chrome</Text>
+      <Value>carroceria.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Chrome</Text>
+      <Value>carroceria.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Chrome</Text>
+      <Value>carroceria.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Chrome</Text>
+      <Value>carroceria.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Door handles Black</Text>
+      <Value>doorhand.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Door handles Pintavel</Text>
+      <Value>doorhand.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Door handles Chrome</Text>
+      <Value>doorhand.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>hitch</Text>
+      <Value>engate.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>hitch 2</Text>
+      <Value>engate_2.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@oversize_load@@</Text>
+      <Value>f_banner.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Chrome</Text>
+      <Value>f_grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Black</Text>
+      <Value>f_grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Chrome</Text>
+      <Value>f_grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Black</Text>
+      <Value>f_grill.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>f_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Black</Text>
+      <Value>grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Chrome</Text>
+      <Value>grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill Pintavel</Text>
+      <Value>grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Hood</Text>
+      <Value>hood.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lona</Text>
+      <Value>lona.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors (Required)</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors cromo</Text>
+      <Value>mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirrors pintavel</Text>
+      <Value>mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>protetor</Text>
+      <Value>protetor_b.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rack</Text>
+      <Value>rack.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rack</Text>
+      <Value>rack.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rack</Text>
+      <Value>rack.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>steering_w.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Steps mod 01</Text>
+      <Value>steps.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Steps mod 02</Text>
+      <Value>steps.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Steps mod 03</Text>
+      <Value>steps.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Steps mod 04</Text>
+      <Value>steps.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Toolbox</Text>
+      <Value>toolbox.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Toolbox</Text>
+      <Value>toolbox.shape2</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>D:\Mods Studio 2\Data\ModData\SCS\Vehicles\My xml\All.ford.f350.frankbr.xml</FilePath>
+  <Game>All</Game>
+  <InternalName>ford.f350.frankbr</InternalName>
+  <VehicleAuthor>Frank Brasil</VehicleAuthor>
+  <VehicleName>Ford F350 By FrankBr</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>f2h1.ford.f350.frankbr.cabin</InternalName>
+      <Name>Crew Cab Lifted</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h1.ford.f350.frankbr.cabin</InternalName>
+      <Name>Crew Cab</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

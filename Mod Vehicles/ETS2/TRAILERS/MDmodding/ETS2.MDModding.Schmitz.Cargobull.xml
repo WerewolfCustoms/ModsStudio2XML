@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>4b1c2e13-a493-402d-851d-4a1dea82e7e9</Id>
+  <IsEnabled>true</IsEnabled>
+  <MS2LibraryVersion>
+   <Major>2020</Major>
+   <Minor>7</Minor>
+  </MS2LibraryVersion>
+  <InternalName>mdm_pack</InternalName>
+  <VehicleName>Schmitz Cargobull</VehicleName>
+  <VehicleAuthor>MDModding</VehicleAuthor>
+  <VehicleType>Trailers</VehicleType>
+  <Game>ETS2</Game>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>base.mdm_pack.body</InternalName>
+      <Name>Schmitz Cargobull</Name>
+    </Variant>
+  </VehicleVariants>
+   
+  <AccessoryItems>  
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSI SIDES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chs_f_l.base</Text>
+      <Value>chs_f_l.base</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+	
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSI SIDES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chs_f_l.cust1</Text>
+      <Value>chs_f_l.cust1</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+	
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSI SIDES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chs_f_r.base</Text>
+      <Value>chs_f_r.base</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+	
+    <ListItem>	
+      <ChildVariables />
+      <Group>CHASSI SIDES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>chs_f_r.cust1</Text>
+      <Value>chs_f_r.cust1</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+	
+    <ListItem>	
+      <ChildVariables />
+      <Group>ACCESSORIES</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>f_body.fire</Text>
+      <Value>f_body.fire</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+	
+    <ListItem>	
+      <ChildVariables />
+      <Group>BUMPER</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>r_bumper.base</Text>
+      <Value>r_bumper.base</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+	
+    <ListItem>	
+      <ChildVariables />
+      <Group>MUDFLAPS</Group>
+      <Id>8a736bae-13b4-4a3b-b1c0-1dee8238dc38</Id>
+      <IsEnabled>true</IsEnabled>
+      <Text>r_mudflap.paint</Text>
+      <Value>r_mudflap.paint</Value>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </ListItem> 
+	
+  </AccessoryItems>
+</Variable>

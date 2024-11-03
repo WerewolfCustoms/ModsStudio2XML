@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>b4bd7f56-e5b2-4560-9d4c-ff798405a3d4</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>aero_glas.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive</Text>
+      <Value>aero_glas.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive Chrom</Text>
+      <Value>aero_glas.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@fishing_bag@@</Text>
+      <Value>bckpanel.f_bag</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@hockey_stick@@</Text>
+      <Value>bckpanel.h_stick</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@usa_flag@@</Text>
+      <Value>bckpanel.usa_flag</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Double Radiant</Text>
+      <Value>beacon.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Duty</Text>
+      <Value>bumgrill.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>bumgrill.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chromed</Text>
+      <Value>bumgrill.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Duty</Text>
+      <Value>bumper.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>bumper.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chromed</Text>
+      <Value>bumper.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Daycab Roof Deflector</Text>
+      <Value>cabdefl.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Adapter</Text>
+      <Value>cabflares.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Door</Text>
+      <Value>cabwindow.stgr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Window</Text>
+      <Value>cabwindow.wingr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrom</Text>
+      <Value>chrom_1.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrom</Text>
+      <Value>chrom_2.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrom</Text>
+      <Value>chrom_3.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrom</Text>
+      <Value>chrom_4.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrom</Text>
+      <Value>chrom_4.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrom</Text>
+      <Value>chrom_5.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrom</Text>
+      <Value>chrom_5.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrom</Text>
+      <Value>chrom_6.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrom</Text>
+      <Value>chrom_6.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrom</Text>
+      <Value>chrom_7.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Door Handle Standard</Text>
+      <Value>doorhndl.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Door Handle Trim</Text>
+      <Value>doorhndl.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Door Handle Chrome</Text>
+      <Value>doorhndl.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Caliber</Text>
+      <Value>exhaust.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Double Caliber</Text>
+      <Value>exhaust.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Caliber</Text>
+      <Value>exhaust.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Double Caliber</Text>
+      <Value>exhaust.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>SCR Eco</Text>
+      <Value>exhaust.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>SCR Eco</Text>
+      <Value>exhaust.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@elite@@</Text>
+      <Value>filtchrom.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Painted@@</Text>
+      <Value>filtchrom.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>filtchrom.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@elite@@</Text>
+      <Value>filters.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Painted@@</Text>
+      <Value>filters.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>filters.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@elite@@</Text>
+      <Value>fl_mirror.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Paint elite@@</Text>
+      <Value>fl_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>fl_mirror.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@elite@@</Text>
+      <Value>fr_mirror.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Paint elite@@</Text>
+      <Value>fr_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>fr_mirror.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Painted@@</Text>
+      <Value>f_light_chs.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chrome@@</Text>
+      <Value>f_light_chs.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Plastic@@</Text>
+      <Value>f_light_chs.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@elite@@</Text>
+      <Value>grill.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Painted@@</Text>
+      <Value>grill.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>grill.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>hood.alum</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Alum</Text>
+      <Value>hood.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted</Text>
+      <Value>hood.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic</Text>
+      <Value>hood.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Horn Adapter</Text>
+      <Value>horns.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@wise_heart_pillow@@</Text>
+      <Value>l_pillow.pill_xmas_20</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@duty@@</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard cam digital@@</Text>
+      <Value>mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@exclusive cam digital@@</Text>
+      <Value>mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@duty cam digital@@</Text>
+      <Value>mirror.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard cam digital@@</Text>
+      <Value>mirror.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@exclusive cam digital@@</Text>
+      <Value>mirror.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Mudflaps</Text>
+      <Value>mudflaps.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White Mudflaps</Text>
+      <Value>mudflaps.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive Mudflaps</Text>
+      <Value>mudflaps.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Mudflaps Paint</Text>
+      <Value>mudflaps.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White Mudflaps Paint</Text>
+      <Value>mudflaps.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive Mudflaps Paint</Text>
+      <Value>mudflaps.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Mudflaps chrome</Text>
+      <Value>mudflaps.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White Mudflaps chrome</Text>
+      <Value>mudflaps.shape08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive Mudflaps chrome</Text>
+      <Value>mudflaps.shape09</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrom@@</Text>
+      <Value>mudguard.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>mudguard.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrom@@</Text>
+      <Value>mudlat.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>mudlat.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>mudlat.pet</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>mudlat.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@cabinet@@</Text>
+      <Value>set_cabinet.set_exc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@cup_holder@@</Text>
+      <Value>set_cuphold.close</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dash</Text>
+      <Value>set_dashbrd.dashbrd_set1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oval Side Flares</Text>
+      <Value>sideflares.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round Side Flares</Text>
+      <Value>sideflares.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oval Side Flares</Text>
+      <Value>sideflares.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round Side Flares</Text>
+      <Value>sideflares.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive Baterry Paint Sideskirts</Text>
+      <Value>sideskirt.shape0</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Painted Sideskirts</Text>
+      <Value>sideskirt.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive Chrome Sideskirts</Text>
+      <Value>sideskirt.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Plastic Sideskirts</Text>
+      <Value>sideskirt.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Painted Sideskirts</Text>
+      <Value>sideskirt.shape04m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive Chrome Sideskirts</Text>
+      <Value>sideskirt.shape05m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Plastic Sideskirts</Text>
+      <Value>sideskirt.shape06m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Duty Sideskirts</Text>
+      <Value>sideskirt.shape07s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Duty Sideskirts</Text>
+      <Value>sideskirt.shape08s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Duty Sideskirts</Text>
+      <Value>sideskirt.shape09s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Duty Sideskirts</Text>
+      <Value>sideskirt.short01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Duty Sideskirts</Text>
+      <Value>sideskirt.short02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Duty Sideskirts</Text>
+      <Value>sideskirt.short03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@aerox@@</Text>
+      <Value>sideskrt_bar.long</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@aerox@@</Text>
+      <Value>sideskrt_bar.lng_aerox</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@aerox@@</Text>
+      <Value>sideskrt_bar.mid_aerox</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@aerox@@</Text>
+      <Value>sideskrt_bar.shr_aerox</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Peterbilt Prestige</Text>
+      <Value>steering_w.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Peterbilt Platinum</Text>
+      <Value>steering_w.exclusive</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Peterbilt Prestige</Text>
+      <Value>steering_w.ngde01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Peterbilt Prestige Alumin</Text>
+      <Value>steering_w.ngde05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Peterbilt Platinum</Text>
+      <Value>steering_w.ngex02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Peterbilt Platinum</Text>
+      <Value>steering_w.ngex03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Peterbilt Platinum wood</Text>
+      <Value>steering_w.ngex04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Peterbilt Platinum Alumin</Text>
+      <Value>steering_w.ngex06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Peterbilt Platinum Alumin</Text>
+      <Value>steering_w.ngex07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Peterbilt Platinum wood Alumin</Text>
+      <Value>steering_w.ngex08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Sunshield</Text>
+      <Value>sunshield.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive Sunshield</Text>
+      <Value>sunshield.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive Chrome Sunshield</Text>
+      <Value>sunshield.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Sun Visor Lux</Text>
+      <Value>sunshield.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Sun Visor Sharp</Text>
+      <Value>sunshield.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Sunshield</Text>
+      <Value>sunshield.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive Sunshield</Text>
+      <Value>sunshield.shape08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive Chrome Sunshield</Text>
+      <Value>sunshield.shape09</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive Side Fairings Chrome</Text>
+      <Value>s_deflector.day_chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>s_mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@power_inverter@@</Text>
+      <Value>toyback.invertor</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@blanket_beige@@</Text>
+      <Value>toybed.blanket_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@blanket_square@@</Text>
+      <Value>toybed.blanket_sq</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@blanket_stars@@</Text>
+      <Value>toybed.blanket_st</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@holy_field_blanket@@</Text>
+      <Value>toybed.blan_xmas_20</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@tablet@@</Text>
+      <Value>toybed.tablet</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@power_inverter@@</Text>
+      <Value>toybig.invertor</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@cellphone@@</Text>
+      <Value>toydash.cellphone</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chewing_gums@@</Text>
+      <Value>toydash.gum_set1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@peppermints@@</Text>
+      <Value>toydash.mints_pepper</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@spearmints@@</Text>
+      <Value>toydash.mints_spear</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@pilot_sunglasses@@</Text>
+      <Value>toydash.pilot_glass</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@sport_sunglasses@@</Text>
+      <Value>toydash.sport_glass</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@map@@</Text>
+      <Value>toyseat.map</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@tablet@@</Text>
+      <Value>toyseat.tablet</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.peterbilt.ng579.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>peterbilt.ng579</InternalName>
+  <VehicleAuthor>Frank_Peru</VehicleAuthor>
+  <VehicleName>Peterbilt_579_nextgen</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>duty.peterbilt.ng579.cabin</InternalName>
+      <Name>Duty Cabin</Name>
+    </Variant>
+    <Variant>
+      <InternalName>exclusive.peterbilt.ng579.cabin</InternalName>
+      <Name>Hi Rise Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>65020813-5b1b-470f-8ca6-b75da7ca920d</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>codrv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>drv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Jewel</Text>
+      <Value>set_glass.glass_set1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>In-Line</Text>
+      <Value>set_glass.glass_set2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Arrow</Text>
+      <Value>set_glass.glass_set3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Terminus</Text>
+      <Value>set_glass.glass_set4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 1</Text>
+      <Value>steering_w.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Type 2</Text>
+      <Value>steering_w.exclusive</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\All.4800w.xml</FilePath>
+  <Game>All</Game>
+  <InternalName>4800w</InternalName>
+  <VehicleAuthor>RTA</VehicleAuthor>
+  <VehicleName>WS4800</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>a_cab_8x4_eu.4800w.cabin</InternalName>
+      <Name>A_EU 8x4</Name>
+    </Variant>
+    <Variant>
+      <InternalName>a_cab_eu.4800w.cabin</InternalName>
+      <Name>A_EU</Name>
+    </Variant>
+    <Variant>
+      <InternalName>b_cab_8x4_eu.4800w.cabin</InternalName>
+      <Name>B_EU 8x4</Name>
+    </Variant>
+    <Variant>
+      <InternalName>b_cab_eu.4800w.cabin</InternalName>
+      <Name>B_EU</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>7191a7f6-7740-44ff-a558-6da34e2f132b</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Plastic</Text>
+      <Value>5thwheel.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>5thwheel.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>5thwheel.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>No Cover</Text>
+      <Value>5thwheel.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Stock</Text>
+      <Value>aero.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint-Wide Plus</Text>
+      <Value>aero.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint-Extra Wide Plus</Text>
+      <Value>aero.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic Stock</Text>
+      <Value>aero.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Stock</Text>
+      <Value>aero.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint-Wide</Text>
+      <Value>aero.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome-Wide</Text>
+      <Value>aero.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic-Wide</Text>
+      <Value>aero.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint-Extra Wide</Text>
+      <Value>aero.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome-Extra Wide</Text>
+      <Value>aero.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic-Extra Wide</Text>
+      <Value>aero.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>air_in.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>air_in.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic</Text>
+      <Value>air_in.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic Roof Antenna</Text>
+      <Value>anten.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Roof Antenna</Text>
+      <Value>anten.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Roof Antenna</Text>
+      <Value>anten.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>3 Slots</Text>
+      <Value>bcklght.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>4 Slots</Text>
+      <Value>bcklght.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>5 Slots</Text>
+      <Value>bcklght.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>bcklght.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Police Ohaha</Text>
+      <Value>beacon.ohaha1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bonfire</Text>
+      <Value>beacon.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Space</Text>
+      <Value>beacon.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Beacon</Text>
+      <Value>beacon.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Skinnable/Plastic</Text>
+      <Value>bug_shld.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>bug_shld.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Glass</Text>
+      <Value>bug_shld.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>bug_shld.shape3a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint with Logo</Text>
+      <Value>bug_shld.shape3b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Eagle</Text>
+      <Value>bug_shld.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tiger</Text>
+      <Value>bug_shld.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Horn</Text>
+      <Value>bug_shld.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Jet</Text>
+      <Value>bug_shld.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Bar</Text>
+      <Value>b_grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Bar</Text>
+      <Value>b_grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Without Bar</Text>
+      <Value>b_grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Without Bar</Text>
+      <Value>b_grill.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Bar</Text>
+      <Value>b_grill.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Bar</Text>
+      <Value>b_grill.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Bar</Text>
+      <Value>b_grill.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Bar</Text>
+      <Value>b_grill.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Without Bar</Text>
+      <Value>b_grill.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cab Slots</Text>
+      <Value>cab_light.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>codrv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Glass</Text>
+      <Value>deflect.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>deflect.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>deflect.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic</Text>
+      <Value>door_h.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>door_h.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>door_h.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>drv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Extra slots on left</Text>
+      <Value>exhaust_l.side_stripe1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Extra slots on right</Text>
+      <Value>exhaust_r.side_stripe1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>EU Fenders Plastic</Text>
+      <Value>fenders.eu1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>EU Fenders Chrome</Text>
+      <Value>fenders.eu2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>EU Fenders Chrome2</Text>
+      <Value>fenders.eu3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>EU Fenders Paint</Text>
+      <Value>fenders.eu4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Small Fenders Plastic</Text>
+      <Value>fenders.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Small Fenders Paint</Text>
+      <Value>fenders.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Chrome Fenders</Text>
+      <Value>fenders.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Paint/Skinnable Fenders</Text>
+      <Value>fenders.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Half Bright Chrome Fenders</Text>
+      <Value>fenders.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Fenders Paint</Text>
+      <Value>fenders.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Fenders Chrome</Text>
+      <Value>fenders.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full Fenders Bright Chrome</Text>
+      <Value>fenders.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Small Fenders Chrome</Text>
+      <Value>fenders.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Small Fenders Bright Chrome</Text>
+      <Value>fenders.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic Fender(EU)</Text>
+      <Value>fen_lift.eu1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Fender(EU)</Text>
+      <Value>fen_lift.eu2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome2 Fender(EU)</Text>
+      <Value>fen_lift.eu3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Fender(EU)</Text>
+      <Value>fen_lift.eu4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic Fender(EU)</Text>
+      <Value>fen_lift.eu5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Fender(EU)</Text>
+      <Value>fen_lift.eu6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome2 Fender(EU)</Text>
+      <Value>fen_lift.eu7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Fender(EU)</Text>
+      <Value>fen_lift.eu8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic Fender(Single)</Text>
+      <Value>fen_lift.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Fender(Single)</Text>
+      <Value>fen_lift.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome2 Fender(Single)</Text>
+      <Value>fen_lift.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Fender(Single)</Text>
+      <Value>fen_lift.shape3a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic Fender(Double)</Text>
+      <Value>fen_lift.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Fender(Double)</Text>
+      <Value>fen_lift.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome2 Fender(Double)</Text>
+      <Value>fen_lift.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Fender(Double)</Text>
+      <Value>fen_lift.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Left Bonnet Mirror</Text>
+      <Value>fl_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Left Bonnet Mirror</Text>
+      <Value>fl_mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>VNL Left Bonnet Mirror Plastic</Text>
+      <Value>fl_mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>VNL Left Bonnet Mirror Chrome</Text>
+      <Value>fl_mirror.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>VNL Left Bonnet Mirror Paint</Text>
+      <Value>fl_mirror.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Right Bonnet Mirror</Text>
+      <Value>fr_mirror.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Right Bonnet Mirror</Text>
+      <Value>fr_mirror.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>VNL Right Bonnet Mirror Plastic</Text>
+      <Value>fr_mirror.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>VNL Right Bonnet Mirror Chrome</Text>
+      <Value>fr_mirror.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>VNL Right Bonnet Mirror Paint</Text>
+      <Value>fr_mirror.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic</Text>
+      <Value>f_bumper.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>f_bumper.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome with Fog Lights</Text>
+      <Value>f_bumper.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic with Fog Lights</Text>
+      <Value>f_bumper.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint with Fog Lights</Text>
+      <Value>f_bumper.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>f_bumper.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>f_bumper_f.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic Low</Text>
+      <Value>f_bumper_f.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>f_bumper_f.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic</Text>
+      <Value>f_bumper_f.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Heavy-Duty Bumper Full Chrome</Text>
+      <Value>f_bumper_f.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Heavy-Duty Bumper Full Paint</Text>
+      <Value>f_bumper_f.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Heavy-Duty Bumper Painted Bullbar</Text>
+      <Value>f_bumper_f.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Heavy-Duty Bumper Painted Bumper</Text>
+      <Value>f_bumper_f.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint Low</Text>
+      <Value>f_bumper_f.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Low</Text>
+      <Value>f_bumper_f.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>extra slots</Text>
+      <Value>f_grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Joker</Text>
+      <Value>f_grill.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vortex</Text>
+      <Value>f_grill.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sting</Text>
+      <Value>f_grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dragonfly</Text>
+      <Value>f_grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Samurai</Text>
+      <Value>f_grill.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Twister</Text>
+      <Value>f_grill.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Goliath</Text>
+      <Value>f_grill.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom License Plate(US)</Text>
+      <Value>f_lplate.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>WOT License Plate(US)</Text>
+      <Value>f_lplate.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom License Plate with Light(US)</Text>
+      <Value>f_lplate.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>WOT License Plate with Light(US)</Text>
+      <Value>f_lplate.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom License Plate(EU)</Text>
+      <Value>f_lplate.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>WOT License Plate(EU)</Text>
+      <Value>f_lplate.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom License Plate with Light(EU)</Text>
+      <Value>f_lplate.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>WOT License Plate with Light(EU)</Text>
+      <Value>f_lplate.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic</Text>
+      <Value>grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Paint</Text>
+      <Value>grill.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Chrome</Text>
+      <Value>grill.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic</Text>
+      <Value>g_frame.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>g_frame.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>g_frame.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>headlight.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black/Skinnable</Text>
+      <Value>headlight.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Truck Colour</Text>
+      <Value>headlight.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>No Tint</Text>
+      <Value>headlight_g.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Yellow Tint</Text>
+      <Value>headlight_g.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Low Black Tint</Text>
+      <Value>headlight_g.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>High Black Tint</Text>
+      <Value>headlight_g.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Highpipes Standard Black</Text>
+      <Value>highpipes.shape0b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Highpipes Standard Chrome</Text>
+      <Value>highpipes.shape0c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Highpipe with Lights</Text>
+      <Value>highpipes.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Double Highpipe with Lights</Text>
+      <Value>highpipes.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Triple Highpipe with Lights</Text>
+      <Value>highpipes.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Highpipe New Long 2</Text>
+      <Value>highpipes.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Highpipe New Long</Text>
+      <Value>highpipes.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Highpipe New Short</Text>
+      <Value>highpipes.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Highpipe New Short 2</Text>
+      <Value>highpipes.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Old Logo</Text>
+      <Value>logo.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>New Logo</Text>
+      <Value>logo.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom License Plate with Lights(US)</Text>
+      <Value>lplate.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>WOT License Plate with Lights(US)</Text>
+      <Value>lplate.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>WOT License Plate(US)</Text>
+      <Value>lplate.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom License Plate(US)</Text>
+      <Value>lplate.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom License Plate with Lights(EU)</Text>
+      <Value>lplate.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>WOT License Plate with Lights(EU)</Text>
+      <Value>lplate.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>WOT License Plate(EU)</Text>
+      <Value>lplate.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom License Plate(EU)</Text>
+      <Value>lplate.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic with Antennas</Text>
+      <Value>mirror.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome with Antennas</Text>
+      <Value>mirror.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint with Antennas</Text>
+      <Value>mirror.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Girl on Bomb</Text>
+      <Value>mud_flap.bomb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Like A Boss</Text>
+      <Value>mud_flap.boss</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Keep Calm</Text>
+      <Value>mud_flap.calm</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Captain America</Text>
+      <Value>mud_flap.captain</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Girl</Text>
+      <Value>mud_flap.cgirl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Darth Vader</Text>
+      <Value>mud_flap.darth</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Badass Dog</Text>
+      <Value>mud_flap.dog</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Badass Duck</Text>
+      <Value>mud_flap.duck</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Eagle</Text>
+      <Value>mud_flap.eagle</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Elvis Presley</Text>
+      <Value>mud_flap.elvis</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Loud Pipes</Text>
+      <Value>mud_flap.loud</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Passing Side, Suicide</Text>
+      <Value>mud_flap.pass</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Punisher</Text>
+      <Value>mud_flap.punish</Value>
+    </ListItem>
+    <ListItem>
+      <Text>SCS Motto</Text>
+      <Value>mud_flap.scs</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Volvo Text</Text>
+      <Value>mud_flap.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Volvo Logo</Text>
+      <Value>mud_flap.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Girl</Text>
+      <Value>mud_flap.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Route 66</Text>
+      <Value>mud_flap.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Volvo Deer</Text>
+      <Value>mud_flap.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Smoke</Text>
+      <Value>mud_flap.smoke</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Speed Camera</Text>
+      <Value>mud_flap.speed</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Turkiye 1</Text>
+      <Value>mud_flap.turkiye</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Turkiye 2</Text>
+      <Value>mud_flap.turkiye2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>USA Flag</Text>
+      <Value>mud_flap.usaflag</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Volvo Text</Text>
+      <Value>mud_flap.vlv6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Volvo Text 2</Text>
+      <Value>mud_flap.vlv7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic</Text>
+      <Value>mud_hang.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>mud_hang.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>mud_hang.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic</Text>
+      <Value>roof_wf.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint/Skinnable</Text>
+      <Value>roof_wf.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roofbar with Lightbox (Ohaha)</Text>
+      <Value>r_grill.ohaha3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirage</Text>
+      <Value>r_grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>VNL Only Slots</Text>
+      <Value>r_grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Viking</Text>
+      <Value>r_grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>VNL Chrome Bar</Text>
+      <Value>r_grill.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dragonfly</Text>
+      <Value>r_grill.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Samurai</Text>
+      <Value>r_grill.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>VNL Painted Bar</Text>
+      <Value>r_grill.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>VNL Lightbox</Text>
+      <Value>r_grill.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic</Text>
+      <Value>r_window.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>r_window.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Glass</Text>
+      <Value>r_window.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Sideskirt Plastic Trim</Text>
+      <Value>sdskrt.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Short Sideskirt Plastic Trim</Text>
+      <Value>sdskrt.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Sideskirt Chrome Trim</Text>
+      <Value>sdskrt.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Short Sideskirt Chrome Trim</Text>
+      <Value>sdskrt.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Big Tanks</Text>
+      <Value>sdskrt.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Long Sideskirt Painted Trim</Text>
+      <Value>sdskrt.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Big Tanks with Painted Trims</Text>
+      <Value>sdskrt.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Big Tanks with Full Paint</Text>
+      <Value>sdskrt.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Short Sideskirt Painted Trim</Text>
+      <Value>sdskrt.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>VNL Dash</Text>
+      <Value>set_dashbrd.dashbrd_set1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>One</Text>
+      <Value>set_glass.glass_set1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Two</Text>
+      <Value>set_glass.glass_set2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Three</Text>
+      <Value>set_glass.glass_set3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Four</Text>
+      <Value>set_glass.glass_set4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Elegant</Text>
+      <Value>steering_w.elegant</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Elegant New Logo</Text>
+      <Value>steering_w.elegant1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive</Text>
+      <Value>steering_w.exclusive</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive New Logo</Text>
+      <Value>steering_w.exclusive1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Luxurious</Text>
+      <Value>steering_w.luxurious</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Luxurious New Logo</Text>
+      <Value>steering_w.luxurious1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>steering_w.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard New Logo</Text>
+      <Value>steering_w.standard1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Unique</Text>
+      <Value>steering_w.unique</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Unique New Logo</Text>
+      <Value>steering_w.unique1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>VNL Only Lights</Text>
+      <Value>sunshld.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Sunshield</Text>
+      <Value>sunshld.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive Sunshield</Text>
+      <Value>sunshld.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive Chrome Sunshield</Text>
+      <Value>sunshld.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Samurai</Text>
+      <Value>sunshld.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@ Luxury</Text>
+      <Value>sunshld.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Titan</Text>
+      <Value>sunshld.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dragonfly</Text>
+      <Value>sunshld.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mirage</Text>
+      <Value>sunshld.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sting</Text>
+      <Value>sunshld.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Viking</Text>
+      <Value>sunshld.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ranger</Text>
+      <Value>sunshld.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic</Text>
+      <Value>s_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>s_mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>s_mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plastic</Text>
+      <Value>s_window.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paint</Text>
+      <Value>s_window.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Glass</Text>
+      <Value>s_window.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Both</Text>
+      <Value>trim.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Side</Text>
+      <Value>trim.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Front</Text>
+      <Value>trim.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Flags on Dash</Text>
+      <Value>vimpel.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Flags on Glass</Text>
+      <Value>vimpel.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Windows Decal</Text>
+      <Value>wdecal.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Windows Decal 2</Text>
+      <Value>wdecal.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Windows Decal 3</Text>
+      <Value>wdecal.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Windows Decal 4</Text>
+      <Value>wdecal.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>wshld.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Low Tint</Text>
+      <Value>wshld.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>High Tint</Text>
+      <Value>wshld.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Extreme Tint</Text>
+      <Value>wshld.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>US Dashboard</Text>
+      <Value>dash.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>EU Dashboard</Text>
+      <Value>dash.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blue Interior Light</Text>
+      <Value>int_light.blue</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Green Interior Light</Text>
+      <Value>int_light.green</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Orange Interior Light</Text>
+      <Value>int_light.orange</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pink Interior Light</Text>
+      <Value>int_light.pink</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Purple Interior Light</Text>
+      <Value>int_light.purple</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Interior Light</Text>
+      <Value>int_light.red</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Turquoise Interior Light</Text>
+      <Value>int_light.turq</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White Interior Light</Text>
+      <Value>int_light.white</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Yellow Interior Light</Text>
+      <Value>int_light.yellow</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Full</Text>
+      <Value>zartzurt.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light+Logo</Text>
+      <Value>zartzurt.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light+Bar</Text>
+      <Value>zartzurt.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bar+Logo</Text>
+      <Value>zartzurt.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Only Hand Bars</Text>
+      <Value>zartzurt.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Only Logos</Text>
+      <Value>zartzurt.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Only Side Lights</Text>
+      <Value>zartzurt.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Only Plastics</Text>
+      <Value>zartzurt.shape8</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\xmls_new style\All Aradeth.volvo_vnl.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>volvo_vnl</InternalName>
+  <VehicleAuthor>Aradeth</VehicleAuthor>
+  <VehicleName>Volvo VNL670</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>l2h1.volvo_vnl.cabin</InternalName>
+      <Name>Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

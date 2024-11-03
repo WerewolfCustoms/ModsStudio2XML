@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>b81e4808-944d-4af2-942d-242538bb2741</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\xmls_new style\ETS2.volvo.f12.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>volvo.f12</InternalName>
+  <VehicleAuthor>Mahyar Ghasemi</VehicleAuthor>
+  <VehicleName>Volvo F12 </VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>l2h1.volvo.f12.cabin</InternalName>
+      <Name>Sleeper Old</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h2.volvo.f12.cabin</InternalName>
+      <Name>Sleeper New</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h3.volvo.f12.cabin</InternalName>
+      <Name>Sleeper Old + Spoiler</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h4.volvo.f12.cabin</InternalName>
+      <Name>Sleeper New + Spoiler</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h5.volvo.f12.cabin</InternalName>
+      <Name>Globetrotter</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h6.volvo.f12.cabin</InternalName>
+      <Name>Globetrotter XL</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

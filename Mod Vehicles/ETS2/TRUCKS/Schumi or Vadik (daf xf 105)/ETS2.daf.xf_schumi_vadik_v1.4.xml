@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>e198c55b-43b3-467d-b626-caa5d67ccada</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+  <!-- Default SCS DAF 105 XF ms2 v2022.01 -->
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sunshld.lights_p_bc.jpg</Image>
+      <Text>Albedo Paint (Space Cabs) * DLC *</Text>
+      <Value>sunshld.lights_p_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sunshld.lights_paint.jpg</Image>
+      <Text>Albedo Paint (Super Space Cab) * DLC *</Text>
+      <Value>sunshld.lights_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sunshld.paint_4l_bc.jpg</Image>
+      <Text>Gaze (Space Cabs) * DLC *</Text>
+      <Value>sunshld.paint_4l_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sunshld.paint_4light.jpg</Image>
+      <Text>Gaze (Super Space Cab) * DLC *</Text>
+      <Value>sunshld.paint_4light</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sunshld.shape2_bc.jpg</Image>
+      <Text>Samurai (Space Cabs)</Text>
+      <Value>sunshld.shape2_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sunshld.shape2.jpg</Image>
+      <Text>Samurai (Super Space Cab)</Text>
+      <Value>sunshld.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sunshld.simple_p_bc.jpg</Image>
+      <Text>Aphelion Paint (Space Cabs) * DLC *</Text>
+      <Value>sunshld.simple_p_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sunshld.simple_paint.jpg</Image>
+      <Text>Aphelion Paint (Super Space Cab) * DLC *</Text>
+      <Value>sunshld.simple_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sunshld.stk_paint_bc.jpg</Image>
+      <Text>Stock Paint (Space Cabs) * DLC *</Text>
+      <Value>sunshld.stk_paint_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sunshld.stk_paint.jpg</Image>
+      <Text>Stock Paint (Super Space Cab) * DLC *</Text>
+      <Value>sunshld.stk_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\mirror.shape2.jpg</Image>
+      <Text>Paint</Text>
+      <Value>mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Window Frame</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\f_wnd_frame.carpaint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_wnd_frame.carpaint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Badge</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\f_badge.paint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_badge.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\f_intake_cab.carpaint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_intake_cab.carpaint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Lower Grille Guard</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\b_grill.paint.jpg</Image>
+      <Text>Prospector Paint * DLC *</Text>
+      <Value>b_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mudflap</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\f_mudflap.new_paint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_mudflap.new_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Handle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\doorhndl.shape2.jpg</Image>
+      <Text>Paint</Text>
+      <Value>doorhndl.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\f_fender.carpaint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_fender.carpaint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\f_fender.carpaint_ext.jpg</Image>
+      <Text>Paint Plus * DLC *</Text>
+      <Value>f_fender.carpaint_ext</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sideskirt.4x2_paint.jpg</Image>
+      <Text>Basic Paint 4x2 * DLC *</Text>
+      <Value>sideskirt.4x2_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sideskirt.4x2_tool_p.jpg</Image>
+      <Text>Double Toolbox Paint 4x2 * DLC *</Text>
+      <Value>sideskirt.4x2_tool_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sideskirt.4x2_tool_pt.jpg</Image>
+      <Text>Single Toolbox Paint 4x2 * DLC *</Text>
+      <Value>sideskirt.4x2_tool_pt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sideskirt.6x2_paint.jpg</Image>
+      <Text>Basic Paint 6x2 * DLC *</Text>
+      <Value>sideskirt.6x2_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sideskirt.6x2_tool_pt.jpg</Image>
+      <Text>Single Toolbox Paint 6x2 * DLC *</Text>
+      <Value>sideskirt.6x2_tool_pt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sideskirt.6x4_paint.jpg</Image>
+      <Text>Basic Paint 6x4 * DLC *</Text>
+      <Value>sideskirt.6x4_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sideskirt.6x4_tool_pt.jpg</Image>
+      <Text>Single Toolbox Paint 6x4 * DLC *</Text>
+      <Value>sideskirt.6x4_tool_pt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sideskirt.shape1.jpg</Image>
+      <Text>Full Protection 4x2</Text>
+      <Value>sideskirt.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sideskirt.shape3.jpg</Image>
+      <Text>Full Protection 6x2</Text>
+      <Value>sideskirt.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\sideskirt.shape4.jpg</Image>
+      <Text>Full Protection 6x4</Text>
+      <Value>sideskirt.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\exhaust_m.exhaust1.jpg</Image>
+      <Text>Gibbus (Space Cabs) * DLC *</Text>
+      <Value>exhaust_m.exhaust1_sc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\exhaust_m.exhaust1.jpg</Image>
+      <Text>Gibbus (Super Space Cab) * DLC *</Text>
+      <Value>exhaust_m.exhaust1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\exhaust_m.exhaust2.jpg</Image>
+      <Text>Collimation (Space Cabs) * DLC *</Text>
+      <Value>exhaust_m.exhaust2_sc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\exhaust_m.exhaust2.jpg</Image>
+      <Text>Collimation (Super Space Cab) * DLC *</Text>
+      <Value>exhaust_m.exhaust2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\exhaust_m.exhaust3.jpg</Image>
+      <Text>DAF Eindhoven (Space Cabs) * DLC *</Text>
+      <Value>exhaust_m.exhaust3_sc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\exhaust_m.exhaust3.jpg</Image>
+      <Text>DAF Eindhoven (Super Space Cab) * DLC *</Text>
+      <Value>exhaust_m.exhaust3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\r_chs_cover.ch_4x2_et_p.jpg</Image>
+      <Text>Diva 4x2 Extra Tank * DLC *</Text>
+      <Value>r_chs_cover.ch_4x2_et_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\r_chs_cover.ch_4x2_p.jpg</Image>
+      <Text>Diva 4x2 * DLC *</Text>
+      <Value>r_chs_cover.ch_4x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\r_chs_cover.ch_6x2_p.jpg</Image>
+      <Text>Diva 6x2 * DLC *</Text>
+      <Value>r_chs_cover.ch_6x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\r_chs_cover.ch_6x4_p.jpg</Image>
+      <Text>Diva 6x4 * DLC *</Text>
+      <Value>r_chs_cover.ch_6x4_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\r_bumper.chrome.jpg</Image>
+      <Text>Centurion * DLC *</Text>
+      <Value>r_bumper.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\r_bumper.steel.jpg</Image>
+      <Text>Thor * DLC *</Text>
+      <Value>r_bumper.steel</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxf105\r_bumper.paint.jpg</Image>
+      <Text>Celeritas * DLC *</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+	<!-- Schumi DAF 105 XF last check v3.4 -->
+	<ListItem>
+      <Group>Schumi - Sun Shield</Group>
+      <Text>DAF Ultimate (Space Cabs)</Text>
+      <Value>sunshld.logo_bc</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Mirrors</Group>
+      <Text>Paint Euro6</Text>
+      <Value>mirror.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Front Bumper</Group>
+      <Text>Paint</Text>
+      <Value>f_bumper.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Front Bumper</Group>
+      <Text>Paint and Plastic</Text>
+      <Value>f_bumper.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Front Bumper</Group>
+      <Text>Paint and Plastic v2</Text>
+      <Value>f_bumper.shape6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Front Bumper</Group>
+      <Text>Paint and Plastic v3</Text>
+      <Value>f_bumper.shape7</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Front Bumper</Group>
+      <Text>Paint and Plastic v4</Text>
+      <Value>f_bumper.shape8</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Front Bumper</Group>
+      <Text>Paint v2</Text>
+      <Value>f_bumper.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Front Bumper</Group>
+      <Text>Paint v2</Text>
+      <Value>f_bumper.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Front Bumper</Group>
+      <Text>Paint v2</Text>
+      <Value>f_bumper.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Front Fender</Group>
+      <Text>Paint Mid</Text>
+      <Value>f_fender.carpaint_pl.nosp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Front Fender</Group>
+      <Text>Paint Mid</Text>
+      <Value>f_fender.carpaint.nosp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Front Fender</Group>
+      <Text>Paint Plus Mid</Text>
+      <Value>f_fender.carpaint_ext.nosp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Schumi - Front Fender</Group>
+      <Text>Paint</Text>
+      <Value>f_fender.carpaint_pl</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 4x</Text>
+      <Value>r_fendr_top.4x_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 4x e6</Text>
+      <Value>r_fendr_top.4x_paint_e6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 6x Long</Text>
+      <Value>r_fendr_top.6x_paint_lng</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 6x Long e6</Text>
+      <Value>r_fendr_top.6x_paint_lng.e6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 6x Long e62</Text>
+      <Value>r_fendr_top.6x_paint_lng.e62</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 6x Long e63</Text>
+      <Value>r_fendr_top.6x_paint_lng.e63</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 6x Long 2</Text>
+      <Value>r_fendr_top.6x_paint_lng.2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 6x Long 3</Text>
+      <Value>r_fendr_top.6x_paint_lng.3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 6x Short</Text>
+      <Value>r_fendr_top.6x_paint_sh</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 6x Short e6</Text>
+      <Value>r_fendr_top.6x_paint_sh.e6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 6x Short e62</Text>
+      <Value>r_fendr_top.6x_paint_sh.e62</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 6x Short e63</Text>
+      <Value>r_fendr_top.6x_paint_sh.e63</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 6x Short 2</Text>
+      <Value>r_fendr_top.6x_paint_sh.2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 6x Short 3</Text>
+      <Value>r_fendr_top.6x_paint_sh.3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 8x</Text>
+      <Value>r_fendr_top.8x_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 8x e6</Text>
+      <Value>r_fendr_top.8x_paint_e6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 8x e62</Text>
+      <Value>r_fendr_top.8x_paint_e6.2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 8x e63</Text>
+      <Value>r_fendr_top.8x_paint_e6.3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 8x e64</Text>
+      <Value>r_fendr_top.8x_paint_e6.4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 8x e65</Text>
+      <Value>r_fendr_top.8x_paint_e6.5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 8x e66</Text>
+      <Value>r_fendr_top.8x_paint_e6.6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 8x e67</Text>
+      <Value>r_fendr_top.8x_paint_e6.7</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 8x 2</Text>
+      <Value>r_fendr_top.8x_paint.2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 8x 3</Text>
+      <Value>r_fendr_top.8x_paint.3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 8x 4</Text>
+      <Value>r_fendr_top.8x_paint.4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 8x 5</Text>
+      <Value>r_fendr_top.8x_paint.5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 8x 6</Text>
+      <Value>r_fendr_top.8x_paint.6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender Top</Group>
+      <Text>Paint 8x 7</Text>
+      <Value>r_fendr_top.8x_paint.7</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender</Group>
+      <Text>Paint 4x</Text>
+      <Value>r_fender.4x2_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender</Group>
+      <Text>Paint 4x e6</Text>
+      <Value>r_fender.4x2_p_e6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender</Group>
+      <Text>Paint 6x Long</Text>
+      <Value>r_fender.6x_p_lng</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender</Group>
+      <Text>Paint 6x Long e6</Text>
+      <Value>r_fender.6x_p_lng_e6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender</Group>
+      <Text>Paint 6x Short</Text>
+      <Value>r_fender.6x_p_shrt</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender</Group>
+      <Text>Paint 6x Short e6</Text>
+      <Value>r_fender.6x_p_shrt_e6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender</Group>
+      <Text>Paint 8x</Text>
+      <Value>r_fender.8x_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Schumi - Rear Fender</Group>
+      <Text>Paint 8x e6</Text>
+      <Value>r_fender.8x_paint_e6</Value>
+    </ListItem>
+	<!-- vadik DAF 105 XF last check v7.9 -->
+	<ListItem>
+      <Group>Vadik - r_hatch</Group>
+      <Text>Minicool Compact Paint</Text>
+      <Value>r_hatch.minicool2</Value>
+	  <Description>Located on the top of the cabin roof.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Light Bar</Group>
+      <Text>Mirage Paint (Super Space)</Text>
+      <Value>r_grill.01_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Light Bar</Group>
+      <Text>Mirage Paint (Space and Space Cab Plus)</Text>
+      <Value>r_grill.01_paint_bc</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Light Bar</Group>
+      <Text>Sting Paint (Super Space)</Text>
+      <Value>r_grill.02_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Light Bar</Group>
+      <Text>Sting Paint (Space and Space Cab Plus)</Text>
+      <Value>r_grill.02_paint_bc</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Light Bar</Group>
+      <Text>Viking Paint (Super Space)</Text>
+      <Value>r_grill.03_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Light Bar</Group>
+      <Text>Viking Paint (Space and Space Cab Plus)</Text>
+      <Value>r_grill.03_paint_bc</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Light Bar</Group>
+      <Text>Ranger Paint (Super Space)</Text>
+      <Value>r_grill.04_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Light Bar</Group>
+      <Text>Ranger Paint (Space and Space Cab Plus)</Text>
+      <Value>r_grill.04_paint_bc</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Light Bar</Group>
+      <Text>Dragonfly Paint (Super Space)</Text>
+      <Value>r_grill.05_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Light Bar</Group>
+      <Text>Dragonfly Paint (Space and Space Cab Plus)</Text>
+      <Value>r_grill.05_paint_bc</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Light Bar</Group>
+      <Text>Samurai Paint (Super Space)</Text>
+      <Value>r_grill.06_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Light Bar</Group>
+      <Text>Samurai Paint (Space and Space Cab Plus)</Text>
+      <Value>r_grill.06_paint_bc</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Light Box</Group>
+      <Text>Lightbox Paint</Text>
+      <Value>lightbox.lightbox_4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Sun Shield</Group>
+      <Text>Samurai 2 (Super Space)</Text>
+      <Value>sunshld.shape21</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Sun Shield</Group>
+      <Text>Samurai 2 (Space and Space Cab Plus)</Text>
+      <Value>sunshld.shape21_bc</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Front Mirror</Group>
+      <Text>Paint euro6</Text>
+      <Value>f_mirror.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Mirrors</Group>
+      <Text>Paint euro6</Text>
+      <Value>mirror.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Windshield Frame</Group>
+      <Text>Paint</Text>
+      <Value>f_wnd_frame.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Front Badge</Group>
+      <Text>Paint 2</Text>
+      <Value>f_badge.paint2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Front Mask</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_cab.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Front Mask</Group>
+      <Text>Paint Light</Text>
+      <Value>f_intake_cab.paintl</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - f_line</Group>
+      <Text>Paint</Text>
+      <Value>f_line.paint</Value>
+	  <Description>Located on the very top of the front bottom mask. Above the bull bar selector.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Bull Bar</Group>
+      <Text>Paint Heavy</Text>
+      <Value>f_grill.heavy_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Bull Bar</Group>
+      <Text>Paint Heavy (abnormal load plate)</Text>
+      <Value>f_grill.heavy_p_pl</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Bull Bar</Group>
+      <Text>Samurai Paint</Text>
+      <Value>f_grill.04_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Bull Bar</Group>
+      <Text>Dragonfly Paint</Text>
+      <Value>f_grill.03_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Bull Bar</Group>
+      <Text>Twister Paint</Text>
+      <Value>f_grill.01_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Bull Bar</Group>
+      <Text>Sting Paint</Text>
+      <Value>f_grill.02_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Bull Bar</Group>
+      <Text>Joker Paint</Text>
+      <Value>f_grill.11_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Bull Bar</Group>
+      <Text>Champion Paint</Text>
+      <Value>f_grill.13_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Bull Bar</Group>
+      <Text>Mirage Paint</Text>
+      <Value>f_grill.05_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Bull Bar</Group>
+      <Text>Viking Paint</Text>
+      <Value>f_grill.07_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Bull Bar</Group>
+      <Text>Claw Paint</Text>
+      <Value>f_grill.10_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Bull Bar</Group>
+      <Text>Bull Rider Paint</Text>
+      <Value>f_grill.12_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Bull Bar</Group>
+      <Text>Accent Paint</Text>
+      <Value>f_grill.15_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Bull Bar</Group>
+      <Text>Goliath Paint</Text>
+      <Value>f_grill.06_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Bull Bar</Group>
+      <Text>Ranger Paint</Text>
+      <Value>f_grill.08_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Bull Bar</Group>
+      <Text>Wrestler Paint</Text>
+      <Value>f_grill.09_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Bull Bar</Group>
+      <Text>Vortex Paint</Text>
+      <Value>f_grill.14_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Front Mask Bottom</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_chs.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Front Mask Bottom</Group>
+      <Text>Paint DLC</Text>
+      <Value>f_intake_chs.carpaint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Front Mask Bottom</Group>
+      <Text>Paint Light</Text>
+      <Value>f_intake_chs.paintl</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Front Bumper</Group>
+      <Text>No Lamps</Text>
+      <Value>f_bumper.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Front Bumper</Group>
+      <Text>No Lamps without washer</Text>
+      <Value>f_bumper.shape4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Front Bumper</Group>
+      <Text>Stock</Text>
+      <Value>f_bumper.shape1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Front Bumper</Group>
+      <Text>Stock without washer</Text>
+      <Value>f_bumper.shape3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Lower Grille Guard</Group>
+      <Text>Momentum Paint</Text>
+      <Value>b_grill.03_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Lower Grille Guard</Group>
+      <Text>Samurai Paint</Text>
+      <Value>b_grill.06_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Lower Grille Guard</Group>
+      <Text>Mirage Paint</Text>
+      <Value>b_grill.02_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Lower Grille Guard</Group>
+      <Text>Sting Paint</Text>
+      <Value>b_grill.01_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Lower Grille Guard</Group>
+      <Text>Accent Paint</Text>
+      <Value>b_grill.04_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Lower Grille Guard</Group>
+      <Text>Dragonfly Paint</Text>
+      <Value>b_grill.05_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Lower Grille Guard</Group>
+      <Text>Viking Paint</Text>
+      <Value>b_grill.07_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Lower Grille Guard</Group>
+      <Text>Ranger Paint</Text>
+      <Value>b_grill.08_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Side Mirror</Group>
+      <Text>Paint</Text>
+      <Value>s_mirror.shape2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Side Mirror</Group>
+      <Text>Paint Stock Long</Text>
+      <Value>s_mirror.shape2_long</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Front Fender</Group>
+      <Text>Paint</Text>
+      <Value>f_fender.stock_sh_p</Value>
+	  <Description>Rigid Cabs, Space 2, Space Plus 2 and Super Space 2</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Front Fender</Group>
+      <Text>Paint</Text>
+      <Value>f_fender.stock_paint</Value>
+	  <Description>Space, Space 3, Space Plus, Super Space and Super Space 3</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - f_mudguard</Group>
+      <Text>Paint</Text>
+      <Value>f_mudguard.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - s_equip</Group>
+      <Text>Paint</Text>
+      <Value>s_equip.paint</Value>
+	  <Description>Underneath rear of front fender. Right side of truck covering DAF tank.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - fuel_tanks</Group>
+      <Text>Paint (6x4, 6x2 taglift)</Text>
+      <Value>fuel_tanks.paint_6l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - fuel_tanks</Group>
+      <Text>Paint (6x2, 6x2 midlift)</Text>
+      <Value>fuel_tanks.paint_6s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - fuel_tanks</Group>
+      <Text>Paint (8x4 midlift)</Text>
+      <Value>fuel_tanks.paint_8</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - fuel_tanks</Group>
+      <Text>Paint (4x2 extra tank)</Text>
+      <Value>fuel_tanks.paint_42</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - fuel_tanks</Group>
+      <Text>Paint (4x2 ld et and 4x2 st et)</Text>
+      <Value>fuel_tanks.paint_42ld</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - fuel_tanks</Group>
+      <Text>Paint (4x2 low deck and small tank)</Text>
+      <Value>fuel_tanks.t_42ld_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - fuel_tanks</Group>
+      <Text>Paint (4x2)</Text>
+      <Value>fuel_tanks.tp42</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Side Skirts</Group>
+      <Text>BDF Stock Plates 1</Text>
+      <Value>sideskirt.bdf1</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Side Skirts</Group>
+      <Text>BDF Stock Plates 2</Text>
+      <Value>sideskirt.bdf2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Side Skirts</Group>
+      <Text>BDF Stock Plates 3</Text>
+      <Value>sideskirt.bdf3</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Side Skirts</Group>
+      <Text>BDF Stock Plates 4</Text>
+      <Value>sideskirt.bdf4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Side Skirts</Group>
+      <Text>Ranger Paint (4x)</Text>
+      <Value>sideskirt.shape7</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Side Skirts</Group>
+      <Text>50k DAF Full Stock Plates</Text>
+      <Value>sideskirt.shape5k</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Side Skirts</Group>
+      <Text>50k DAF Full Stock Plates</Text>
+      <Value>sideskirt.shape7k</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Side Skirts</Group>
+      <Text>Full Protection Side skirts Full (6x)</Text>
+      <Value>sideskirt.shape3_full</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Side Skirts</Group>
+      <Text>Full Protection Side skirts (8x)</Text>
+      <Value>sideskirt.shape8</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Side Skirts</Group>
+      <Text>Full Protection Side skirts Full (8x)</Text>
+      <Value>sideskirt.shape8_full</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - chassis_acc</Group>
+      <Text>Spare Tyre Paint (4x2 chassis)</Text>
+      <Value>chassis_acc.sp_wh_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - chassis_acc</Group>
+      <Text>Paint (6x2a, 6x4 chassis)</Text>
+      <Value>chassis_acc.paint_6l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - r_mudguard (Rear Fender)</Group>
+      <Text>Paint Euro6 (4x2)</Text>
+      <Value>r_mudguard.paint_euro6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - r_mudguard (Rear Fender)</Group>
+      <Text>Paint Euro6 (6x4 and 6x2 taglift)</Text>
+      <Value>r_mudguard.paint_euro6l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - r_mudguard (Rear Fender)</Group>
+      <Text>Paint Euro6 (6x2 midlift)</Text>
+      <Value>r_mudguard.paint_euro6s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - r_mudguard (Rear Fender)</Group>
+      <Text>Paint Euro6 (8x4 midlift)</Text>
+      <Value>r_mudguard.paint_euro68</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - r_mudguard (Rear Fender)</Group>
+      <Text>Paint Low (4x2)</Text>
+      <Value>r_mudguard.stock42_p_ld</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - r_mudguard (Rear Fender)</Group>
+      <Text>Paint Low Open (4x2)</Text>
+      <Value>r_mudguard.stock42_pold</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - r_mudguard (Rear Fender)</Group>
+      <Text>Paint 2 Low (6x4 and 6x2 taglift)</Text>
+      <Value>r_mudguard.paint_op6lld</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - r_mudguard (Rear Fender)</Group>
+      <Text>Paint 2 Low (6x2 midlift)</Text>
+      <Value>r_mudguard.paint_op6sld</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - r_mudguard (Rear Fender)</Group>
+      <Text>Paint 2 (6x4 and 6x2 taglift)</Text>
+      <Value>r_mudguard.paint_open6l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - r_mudguard (Rear Fender)</Group>
+      <Text>Paint 2 (6x2 midlift)</Text>
+      <Value>r_mudguard.paint_open6s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - r_mudguard (Rear Fender)</Group>
+      <Text>Paint (4x2)</Text>
+      <Value>r_mudguard.stock42_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - r_mudguard (Rear Fender)</Group>
+      <Text>Paint (6x4 and 6x2 taglift)</Text>
+      <Value>r_mudguard.paint6l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - r_mudguard (Rear Fender)</Group>
+      <Text>Paint (6x2 midlift)</Text>
+      <Value>r_mudguard.paint6s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - r_mudguard (Rear Fender)</Group>
+      <Text>Paint (8x4 midlift)</Text>
+      <Value>r_mudguard.paint8</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - r_mudguard (Rear Fender)</Group>
+      <Text>Paint Open (4x2)</Text>
+      <Value>r_mudguard.stock42_po</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - r_mudguard (Rear Fender)</Group>
+      <Text>Paint Open (6x4 and 6x2 taglift)</Text>
+      <Value>r_mudguard.po6l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - r_mudguard (Rear Fender)</Group>
+      <Text>Paint Open (6x2 midlift)</Text>
+      <Value>r_mudguard.po6s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - w_chocks_r</Group>
+      <Text>Wheel Chocks Paint</Text>
+      <Value>w_chocks_r.chock_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - w_chocks_r</Group>
+      <Text>Wheel Holder Paint</Text>
+      <Value>w_chocks_r.holder_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - w_chocks_l</Group>
+      <Text>Wheel Chocks Paint</Text>
+      <Value>w_chocks_l.chock_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - w_chocks_l</Group>
+      <Text>Wheel Holder Paint</Text>
+      <Value>w_chocks_l.holder_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - windshield (Filter)</Group>
+      <Text>Paint</Text>
+      <Value>windshield.shape2</Value>
+	  <Description>Air intake on the back of the cab.</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Chassis Cover</Group>
+      <Text>Slab Paint (4x2)</Text>
+      <Value>r_chs_cover.paint_slab</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Chassis Cover</Group>
+      <Text>Slab Paint Full (4x2)</Text>
+      <Value>r_chs_cover.paint_slab_f</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Chassis Cover</Group>
+      <Text>Slab Paint (6l)</Text>
+      <Value>r_chs_cover.pnt_slab_6l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Chassis Cover</Group>
+      <Text>Slab Paint Full (6l)</Text>
+      <Value>r_chs_cover.pnt_slab_6lf</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Chassis Cover</Group>
+      <Text>Slab Paint (6s)</Text>
+      <Value>r_chs_cover.pnt_slab_6s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Chassis Cover</Group>
+      <Text>Slab Paint Full (6s)</Text>
+      <Value>r_chs_cover.pnt_slab_6sf</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Chassis</Group>
+      <Text>Paint (4x2)</Text>
+      <Value>chassis_t.4x2_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Chassis</Group>
+      <Text>Paint (6x4)</Text>
+      <Value>chassis_t.paint_6l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Chassis</Group>
+      <Text>Paint (6x2 taglift)</Text>
+      <Value>chassis_t.paint_6l_tl</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Chassis</Group>
+      <Text>Paint (6x2a)</Text>
+      <Value>chassis_t.paint_6s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Chassis</Group>
+      <Text>Paint (6x2 midlift)</Text>
+      <Value>chassis_t.paint_6s_4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Chassis</Group>
+      <Text>Paint (8x4 midlift)</Text>
+      <Value>chassis_t.paint_8</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Chassis</Group>
+      <Text>Paint (4x2 extra tank)</Text>
+      <Value>chassis_t.paint_42</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Chassis</Group>
+      <Text>Paint (4x2 low deck extra tank)</Text>
+      <Value>chassis_t.paint_ld_42</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Chassis</Group>
+      <Text>Paint (4x2 low deck)</Text>
+      <Value>chassis_t.paint_ld_42t</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Chassis</Group>
+      <Text>Paint (4x2 small tanks extra tank)</Text>
+      <Value>chassis_t.paint_st_42</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Chassis</Group>
+      <Text>Paint (4x2 small tanks)</Text>
+      <Value>chassis_t.paint_st_42t</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Rear Bumper</Group>
+      <Text>Paint euro6</Text>
+      <Value>r_bumper.paint_euro6</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Rear Bumper</Group>
+      <Text>Paint euro6l</Text>
+      <Value>r_bumper.paint_euro6l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Rear Bumper</Group>
+      <Text>Paint euro6s</Text>
+      <Value>r_bumper.paint_euro6s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Rear Bumper</Group>
+      <Text>Paint ld</Text>
+      <Value>r_bumper.paint_ld</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Rear Bumper</Group>
+      <Text>Paint ld l</Text>
+      <Value>r_bumper.paint_ld_l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Rear Bumper</Group>
+      <Text>Paint ld s</Text>
+      <Value>r_bumper.paint_ld_s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Rear Bumper</Group>
+      <Text>Paint ld l</Text>
+      <Value>r_bumper.paint_ld_l</Value>
+    </ListItem>
+  <ListItem>
+      <Group>Vadik - Rear Bumper</Group>
+      <Text>Paint Exclusive (Rigid)</Text>
+      <Value>r_bumper.paint_d</Value>
+      <Description>Exclusive rear bumper located on some Rigid bodies</Description>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Rear Bumper</Group>
+      <Text>Paint ld l</Text>
+      <Value>r_bumper.paint_ld_l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Rear Bumper</Group>
+      <Text>Stock Paint</Text>
+      <Value>r_bumper.paintable</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Rear Bumper</Group>
+      <Text>Stock Paint l</Text>
+      <Value>r_bumper.paintable_l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Rear Bumper</Group>
+      <Text>Stock Paint s</Text>
+      <Value>r_bumper.paintable_s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - Rear Bumper</Group>
+      <Text>DAF Paint</Text>
+      <Value>r_bumper.tuning_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - panel_c (Internal Cabin)</Group>
+      <Text>Paint (bottom middle panel)</Text>
+      <Value>panel_c.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - panel_d_top (Internal Cabin)</Group>
+      <Text>Paint (top middle panel)</Text>
+      <Value>panel_d_top.shape5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - panel_dash (Internal Cabin)</Group>
+      <Text>Paint (drivers dashboard panel)</Text>
+      <Value>panel_dash.shape4m</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Vadik - panel_dash (Internal Cabin)</Group>
+      <Text>Paint (drivers dashboard panel exclusive)</Text>
+      <Value>panel_dash.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vadik - rigid_acc (Rigid Only)</Group>
+      <Text>Thermo Box Cooler Paint</Text>
+      <Value>rigid_acc.t_box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vadik - Rigid Body</Group>
+      <Text>Rigid Carrier Chassis</Text>
+      <Value>body.body_rgd6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vadik - Rigid Body</Group>
+      <Text>Curtainsider Chassis</Text>
+      <Value>body.body_curtain</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vadik - Rigid Body</Group>
+      <Text>Dryfreighter</Text>
+      <Value>body.body_dry_van</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vadik - Rigid Body</Group>
+      <Text>Dryfreighter Insulated</Text>
+      <Value>body.dry_van_ins</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vadik - Rigid Body</Group>
+      <Text>Dryfreighter Refridgerated</Text>
+      <Value>body.dry_van_ref</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vadik - Rigid Body</Group>
+      <Text>Dryfreighter Moving Floor</Text>
+      <Value>body.body_m_floor</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vadik - Rigid Body</Group>
+      <Text>Dryfreighter Side Doors</Text>
+      <Value>body.body_dry_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vadik - Rigid Body</Group>
+      <Text>Dryfreighter Side Doors Insulated</Text>
+      <Value>body.dry_s_ins</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vadik - Rigid Body</Group>
+      <Text>Dryfreighter Side Doors Refridgerated</Text>
+      <Value>body.dry_s_ref</Value>
+    </ListItem>
+    <!-- Krone and profi body don't seem to get their paintjob this way, so commented out
+    <ListItem>
+      <Group>Vadik - Rigid Body</Group>
+      <Text>Krone Carrier</Text>
+      <Value>body.body_krone6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vadik - Rigid Body</Group>
+      <Text>Profi Carrier</Text>
+      <Value>body.body_profi6</Value>
+    </ListItem> -->
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>daf.xf</InternalName>
+  <VehicleAuthor>SCS Software, Schumi, Vadik</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xf_super.jpg</VehicleImage>
+  <VehicleName>DAF XF 105 Schumi v3.4, Vadik v7.9 (xml v1.4)</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xf_space.jpg</Image>
+      <InternalName>space_cab.daf.xf.cabin</InternalName>
+      <Name>Space (scs, schumi, vadik)</Name>
+    </Variant>
+	<Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xf_space.jpg</Image>
+      <InternalName>space_cab2.daf.xf.cabin</InternalName>
+      <Name>Space 2 (vadik)</Name>
+    </Variant>
+	<Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xf_space.jpg</Image>
+      <InternalName>space_cab3.daf.xf.cabin</InternalName>
+      <Name>Space 3 (vadik)</Name>
+    </Variant>
+	<Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xf_space.jpg</Image>
+      <InternalName>rspace_cab.daf.xf.cabin</InternalName>
+      <Name>Space Rigid (vadik)</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xf_spaceplus.jpg</Image>
+      <InternalName>s_cab_plus.daf.xf.cabin</InternalName>
+      <Name>Space Cab Plus (scs, schumi, vadik)</Name>
+    </Variant>
+	<Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xf_spaceplus.jpg</Image>
+      <InternalName>s_cab_plus2.daf.xf.cabin</InternalName>
+      <Name>Space Cab Plus 2 (vadik)</Name>
+    </Variant>
+	<Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xf_spaceplus.jpg</Image>
+      <InternalName>rs_cab_plus.daf.xf.cabin</InternalName>
+      <Name>Space Cab Plus Rigid (vadik)</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xf_super.jpg</Image>
+      <InternalName>super_s_cab.daf.xf.cabin</InternalName>
+      <Name>Super Space (scs, schumi, vadik)</Name>
+    </Variant>
+	<Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xf_super.jpg</Image>
+      <InternalName>super_s_cab2.daf.xf.cabin</InternalName>
+      <Name>Super Space 2 (vadik)</Name>
+    </Variant>
+	<Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xf_super.jpg</Image>
+      <InternalName>super_s_cab3.daf.xf.cabin</InternalName>
+      <Name>Super Space 3 (vadik)</Name>
+    </Variant>
+	<Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xf_super.jpg</Image>
+      <InternalName>rsuper_s_cab.daf.xf.cabin</InternalName>
+      <Name>Super Space Rigid (vadik)</Name>
+    </Variant>
+	<Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xf_super.jpg</Image>
+      <InternalName>super_s_cab2.daf.xf.cabin</InternalName>
+      <Name>Super Space (schumi small top lights)</Name>
+    </Variant>
+	<Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xf_super.jpg</Image>
+      <InternalName>ss_8x4.daf.xf.cabin</InternalName>
+      <Name>8x4 Super Space (schumi)</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_someguy, Taede (rigid)</XmlDefinitionAuthor>
+</Variable>

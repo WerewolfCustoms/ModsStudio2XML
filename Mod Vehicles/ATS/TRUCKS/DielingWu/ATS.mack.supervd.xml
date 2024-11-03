@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>1f993319-4d3b-4938-bd8b-b33176a78e5d</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.mack.supervd.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>mack.supervd</InternalName>
+  <VehicleAuthor>DielingWu</VehicleAuthor>
+  <VehicleName>Mack Superliner</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>superday.mack.supervd.cabin</InternalName>
+      <Name>Superliner Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>superday70.mack.supervd.cabin</InternalName>
+      <Name>Superliner 77 Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>superday70f.mack.supervd.cabin</InternalName>
+      <Name>Superliner 77 Day Cab with Filters</Name>
+    </Variant>
+    <Variant>
+      <InternalName>superdayf.mack.supervd.cabin</InternalName>
+      <Name>Superliner Day Cab with Filters</Name>
+    </Variant>
+    <Variant>
+      <InternalName>superslp.mack.supervd.cabin</InternalName>
+      <Name>Superliner Custom Sleeper Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>superslp70.mack.supervd.cabin</InternalName>
+      <Name>Superliner 77 Custom Sleeper Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>superslp70f.mack.supervd.cabin</InternalName>
+      <Name>Superliner 77 Custom Sleeper Cab with Filters</Name>
+    </Variant>
+    <Variant>
+      <InternalName>superslpf.mack.supervd.cabin</InternalName>
+      <Name>Superliner Custom Sleeper Cab with Filters</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

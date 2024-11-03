@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>60eb8c43-8c22-4529-976b-93e15ef37a1d</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>f_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>steering_w.default</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\salon\Desktop\ETS2.e63_amg_w212.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>e63_amg_w212</InternalName>
+  <VehicleAuthor>Nimit, Azorax Modding, HRS-Mods, Slav Jerry</VehicleAuthor>
+  <VehicleName>Mercedes-Benz E63 AMG S</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>w212.e63_amg_w212.cabin</InternalName>
+      <Name>W212 2016</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>MohSkinner</XmlDefinitionAuthor>
+</Variable>

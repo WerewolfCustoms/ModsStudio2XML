@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ea1a733b-1fed-4f1d-b799-243a7ce072f9</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS.ford.ltl9000.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>ford.ltl9000</InternalName>
+  <VehicleAuthor>Warrior 3D</VehicleAuthor>
+  <VehicleName>Ford LTL9000</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>daycab.ford.ltl9000.cabin</InternalName>
+      <Name>DayCab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>aerodyne.ford.ltl9000.cabin</InternalName>
+      <Name>Aerodyne sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>standard.ford.ltl9000.cabin</InternalName>
+      <Name>Standard Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>flattop.ford.ltl9000.cabin</InternalName>
+      <Name>Flattop Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

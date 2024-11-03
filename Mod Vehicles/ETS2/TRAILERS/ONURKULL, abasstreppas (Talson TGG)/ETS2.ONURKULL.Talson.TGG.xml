@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>734f21a3-65b6-4c41-ae7d-ec1de4203f82</Id>
+  <IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2021</Major>
+	 <Minor>3</Minor>
+	</MS2LibraryVersion>
+  <Game>ETS2</Game>
+  <InternalName>talson.tgg</InternalName>
+  <VehicleAuthor>ONURKULL</VehicleAuthor>
+  <VehicleName>Talson TGG</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>x</Description>
+      <Image>x</Image>
+      <InternalName>body.tgg</InternalName>
+      <Name>TGG</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <AccessoryItems>
+    <ListItem>
+      <Description>x</Description>
+      <Group>FRAME</Group>
+      <Image>x</Image>
+      <Text>Painted Frame</Text>
+      <Value>frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>FRAME</Group>
+      <Image>x</Image>
+      <Text>Rear Doors Frame Painted</Text>
+      <Value>r_frame.paint</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI LEFT SIDE</Group>
+      <Image>x</Image>
+      <Text>Painted Stock Cage + Spare Tire + Box</Text>
+      <Value>chs_f_l.all_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI LEFT SIDE</Group>
+      <Image>x</Image>
+      <Text>Painted Stock Cage Long + Spare Tire</Text>
+      <Value>chs_f_l.cage_lp_t</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI LEFT SIDE</Group>
+      <Image>x</Image>
+      <Text>Painted Stock Cage Long</Text>
+      <Value>chs_f_l.cage_l_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI LEFT SIDE</Group>
+      <Image>x</Image>
+      <Text>Painted Stock Cage</Text>
+      <Value>chs_f_l.cage_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI LEFT SIDE</Group>
+      <Image>x</Image>
+      <Text>Painted Stock Cage + Box</Text>
+      <Value>chs_f_l.cage_p_b</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI LEFT SIDE</Group>
+      <Image>x</Image>
+      <Text>Painted Stock Cage + Spare Tire</Text>
+      <Value>chs_f_l.cage_p_t</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI LEFT SIDE</Group>
+      <Image>x</Image>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_f_l.pbox_paint</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI RIGHT SIDE</Group>
+      <Image>x</Image>
+      <Text>Painted Stock Cage + Spare Tire + Box</Text>
+      <Value>chs_f_r.all_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI RIGHT SIDE</Group>
+      <Image>x</Image>
+      <Text>Painted Stock Cage Long + Spare Tire</Text>
+      <Value>chs_f_r.cage_lp_t</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI RIGHT SIDE</Group>
+      <Image>x</Image>
+      <Text>Painted Stock Cage Long</Text>
+      <Value>chs_f_r.cage_l_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI RIGHT SIDE</Group>
+      <Image>x</Image>
+      <Text>Painted Stock Cage</Text>
+      <Value>chs_f_r.cage_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI RIGHT SIDE</Group>
+      <Image>x</Image>
+      <Text>Painted Stock Cage + Box</Text>
+      <Value>chs_f_r.cage_p_b</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI RIGHT SIDE</Group>
+      <Image>x</Image>
+      <Text>Painted Stock Cage + Spare Tire</Text>
+      <Value>chs_f_r.cage_p_t</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>CHASSI RIGHT SIDE</Group>
+      <Image>x</Image>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_f_r.pbox_paint</Value>
+    </ListItem>
+
+    <ListItem>
+      <Description>Skinnable License Plate (Use of Template)</Description>
+      <Group>LICENSE PLATE</Group>
+      <Image>x</Image>
+      <Text>License Plate</Text>
+      <Value>l_plate.skin</Value>
+    </ListItem>
+
+    <ListItem>
+      <Description>x</Description>
+      <Group>BUMPER</Group>
+      <Image>x</Image>
+      <Text>Painted Top Section Stock Bumper</Text>
+      <Value>r_bumper.paint_s</Value>
+    </ListItem>
+    <ListItem>
+      <Description>x</Description>
+      <Group>BUMPER</Group>
+      <Image>x</Image>
+      <Text>Painted Lower Section Stock Bumper</Text>
+      <Value>r_bumper.stock_p</Value>
+    </ListItem>	
+    <ListItem>
+      <Description>x</Description>
+      <Group>BUMPER</Group>
+      <Image>x</Image>
+      <Text>Fully Painted Bumper</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>

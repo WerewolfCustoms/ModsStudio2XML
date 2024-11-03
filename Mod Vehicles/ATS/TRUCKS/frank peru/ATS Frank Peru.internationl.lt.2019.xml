@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>61998a85-cbaf-4098-92b4-a34531503439</Id>
+  <IsEnabled>true</IsEnabled>
+  
+  <FilePath>C:\Users\My PC\Documents\Mods Studio 2\UserVehicles\xmls_new style\ATS Frank Peru.internationl.lt.2019.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>internationl.lt.2019</InternalName>
+  <VehicleAuthor>Frank Peru</VehicleAuthor>
+  <VehicleName>International LT 2019</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>56_hi_rise.internationl.lt.2019.cabin</InternalName>
+      <Name>56'' Hi-Rise Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>56_low_roof.internationl.lt.2019.cabin</InternalName>
+      <Name>56'' Low Roof Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>73_hi_rise.internationl.lt.2019.cabin</InternalName>
+      <Name>73'' Hi-Rise Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>73_sky_rise.internationl.lt.2019.cabin</InternalName>
+      <Name>73'' Sky-Rise Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>day.internationl.lt.2019.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

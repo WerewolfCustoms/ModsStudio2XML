@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>b1b05b03-15ad-441b-a114-6475d67f5455</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Xenon on High</Text>
+      <Value>b_grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Xenon on Low</Text>
+      <Value>b_grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Xenon off</Text>
+      <Value>b_grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Antenna CB 1</Text>
+      <Value>cb.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Antenna CB 2</Text>
+      <Value>cb.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>f_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill type 1</Text>
+      <Value>grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill type 2</Text>
+      <Value>grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill type 3</Text>
+      <Value>grill.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grill type 4</Text>
+      <Value>grill.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tow Hook</Text>
+      <Value>hak.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>lusterka.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>lusterka.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Police 1</Text>
+      <Value>r_grill.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Police 3</Text>
+      <Value>r_grill.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Police 2</Text>
+      <Value>r_grill.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pilot</Text>
+      <Value>r_grill.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Police 4</Text>
+      <Value>r_grill.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Taxi 1</Text>
+      <Value>r_grill.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>steering_w.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>szyba1.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tint 25%</Text>
+      <Value>szyba1.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tint 50%</Text>
+      <Value>szyba1.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tint 75%</Text>
+      <Value>szyba1.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>szyba2.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tint 25%</Text>
+      <Value>szyba2.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tint 50%</Text>
+      <Value>szyba2.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tint 75%</Text>
+      <Value>szyba2.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>szyba3.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tint 25%</Text>
+      <Value>szyba3.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tint 50%</Text>
+      <Value>szyba3.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tint 75%</Text>
+      <Value>szyba3.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>szyba4.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tint 25%</Text>
+      <Value>szyba4.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tint 50%</Text>
+      <Value>szyba4.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tint 75%</Text>
+      <Value>szyba4.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>szyba5.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tint 25%</Text>
+      <Value>szyba5.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tint 50%</Text>
+      <Value>szyba5.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tint 75%</Text>
+      <Value>szyba5.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Taxi Meter</Text>
+      <Value>taxi.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exhaust type 1</Text>
+      <Value>tlumik.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exhaust type 2</Text>
+      <Value>tlumik.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exhaust type 3</Text>
+      <Value>tlumik.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exhaust type 4</Text>
+      <Value>tlumik.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exhaust type 5</Text>
+      <Value>tlumik.shape5</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\salon\Documents\Mods Studio 2\UserVehicles\ATS.audi.a8.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>audi.a8</InternalName>
+  <VehicleAuthor>Nimit, Enes Çakır, Mert İrşi, PolishTruckDriver, Diablo</VehicleAuthor>
+  <VehicleName>Audi A8</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>a8_d3.audi.a8.cabin</InternalName>
+      <Name>D3</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>MohSkinner</XmlDefinitionAuthor>
+</Variable>

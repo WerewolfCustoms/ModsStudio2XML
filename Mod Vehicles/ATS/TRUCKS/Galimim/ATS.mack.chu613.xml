@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ed0bdd56-c9cd-41c8-935b-df93ad9d7d48</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.mack.chu613.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>mack.chu613</InternalName>
+  <VehicleAuthor>galimim,scs,franck_peru,yekkoyek</VehicleAuthor>
+  <VehicleName>MACK CHU613</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>exclusive.mack.chu613.cabin</InternalName>
+      <Name>48-inch Flat Top Sleeper With Spoiler</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standard.mack.chu613.cabin</InternalName>
+      <Name>48-inch Flat Top Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

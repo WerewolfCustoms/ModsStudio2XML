@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>4d93c96c-1e44-4c1f-9da7-134d992792d7</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ETS2.vabis.bdf.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>vabis.bdf</InternalName>
+  <VehicleAuthor>Antonio62</VehicleAuthor>
+  <VehicleName>Vabis BDF</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.10</InternalName>
+      <Name>Telonato</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.13</InternalName>
+      <Name>Refrigerato</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.14</InternalName>
+      <Name>Cisterna Inox</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.15</InternalName>
+      <Name>Cisterna CEMENT</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.box</InternalName>
+      <Name>Box</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.dolly</InternalName>
+      <Name>Dolly</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.frigo</InternalName>
+      <Name>Frigo</Name>
+    </Variant>
+    <Variant>
+      <InternalName>tanker.tanker</InternalName>
+      <Name>Cisterna</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

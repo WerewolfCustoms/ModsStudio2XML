@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>1afc0776-0420-4335-a31c-c3cdd7f71232</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>kogel.c</InternalName>
+  <VehicleAuthor>Schumi</VehicleAuthor>
+  <VehicleName>Kögel Curtain V2</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>x</Description>
+      <Image>kogel.c.jpg</Image>
+      <InternalName>body.curtain</InternalName>
+      <Name>Kögel Curtain V2</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>2301-19-145__curtain2.png</XmlDefinitionAuthor>
+</Variable>

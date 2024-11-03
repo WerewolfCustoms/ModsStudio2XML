@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>8c573b20-a738-4a2a-827d-8039a7f4be26</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Description>Chassi.</Description>
+      <Group>4x2</Group>
+      <Image />
+      <Text>4x2 X-Low D13 E4/E5/EEV</Text>
+      <Value>chassis.4x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassi.</Description>
+      <Group>Chassi 4x2</Group>
+      <Image />
+      <Text>4x2 D13</Text>
+      <Value>chassis.4x2d13e3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassi.</Description>
+      <Group>Chassi 4x2</Group>
+      <Image />
+      <Text>4x2 D13 E4/E5/EEV</Text>
+      <Value>chassis.4x2d13e3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassi.</Description>
+      <Group>Chassi 4x2</Group>
+      <Image />
+      <Text>4X2 D16 E3</Text>
+      <Value>chassis.4x2d13e3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassi.</Description>
+      <Group>Chassi 4x2</Group>
+      <Image />
+      <Text>4X2 D16 E4/E5</Text>
+      <Value>chassis.4x2d13e4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassi.</Description>
+      <Group>Chassi 4x2</Group>
+      <Image />
+      <Text>4X2 D16 E5/EEV</Text>
+      <Value>chassis.4x2d13e5</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassi.</Description>
+      <Group>Chassi 4x2</Group>
+      <Image />
+      <Text>4X2 DME</Text>
+      <Value>chassis.4x2dme</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassi.</Description>
+      <Group>Chassi 6x2</Group>
+      <Image />
+      <Text>6X2 Pusher D13 E3</Text>
+      <Value>chassis.6x2p_mld13e3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassi.</Description>
+      <Group>Chassi 6x2</Group>
+      <Image />
+      <Text>6X2 Pusher D13 E4/E5/EEV</Text>
+      <Value>chassis.6x2p_ml</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassi.</Description>
+      <Group>Chassi 6x2</Group>
+      <Image />
+      <Text>6X2 Pusher D16 E3</Text>
+      <Value>chassis.6x2p_mld16e3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassi.</Description>
+      <Group>Chassi 6x2</Group>
+      <Image />
+      <Text>6X2 Pusher D16 E4/E5</Text>
+      <Value>chassis.6x2p_mld16e4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassi.</Description>
+      <Group>Chassi 6x2</Group>
+      <Image />
+      <Text>6X2 Pusher D16 E5/EEV</Text>
+      <Value>chassis.6x2p_mld16e5</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassi.</Description>
+      <Group>Chassi 6x4</Group>
+      <Image />
+      <Text>6X4 D13 E3</Text>
+      <Value>chassis.6x4d13e3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassi.</Description>
+      <Group>Chassi 6x4</Group>
+      <Image />
+      <Text>6X4 D13 E4/E5/EEV</Text>
+      <Value>chassis.6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassi.</Description>
+      <Group>Chassi 6x4</Group>
+      <Image />
+      <Text>6X4 D16 E3</Text>
+      <Value>chassis.6x4d16e3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassi.</Description>
+      <Group>Chassi 6x4</Group>
+      <Image />
+      <Text>6X4 D16 E4/E5</Text>
+      <Value>chassis.6x4d16e4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassi.</Description>
+      <Group>Chassi 6x4</Group>
+      <Image />
+      <Text>6X4 Pusher D16 E5/EEV</Text>
+      <Value>chassis.6x4d16e5</Value>
+    </ListItem>
+    <ListItem>
+      <Description>CAB</Description>
+      <Group>Front Bumber</Group>
+      <Image />
+      <Text>High paint</Text>
+      <Value>f_bumper.painth</Value>
+    </ListItem>
+    <ListItem>
+      <Description>CAB</Description>
+      <Group>Front Bumber</Group>
+      <Image />
+      <Text>Low paint</Text>
+      <Value>f_bumper.painte</Value>
+    </ListItem>
+    <ListItem>
+      <Description>CAB</Description>
+      <Group>CAB</Group>
+      <Image />
+      <Text>Front Grille</Text>
+      <Value>f_inlay_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>CAB</Description>
+      <Group>CAB</Group>
+      <Image />
+      <Text>Front Grille</Text>
+      <Value>f_inlay_chs.paint16</Value>
+    </ListItem>
+    <ListItem>
+      <Description>CAB</Description>
+      <Group>CAB</Group>
+      <Image />
+      <Text>ACC sensor</Text>
+      <Value>f_acc.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>CAB</Group>
+      <Image />
+      <Text>Headlight washer</Text>
+      <Value>f_washer.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>CAB</Group>
+      <Image />
+      <Text>Corner Deflectors</Text>
+      <Value>cor_def.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>CAB</Group>
+      <Image />
+      <Text>Door handles</Text>
+      <Value>doorhandl.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>CAB</Group>
+      <Image />
+      <Text>Door handles FH16</Text>
+      <Value>doorhandl.paint16</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Side deflectors</Group>
+      <Image />
+      <Text>L2H1</Text>
+      <Value>s_deflector.paint_h1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Side deflectors</Group>
+      <Image />
+      <Text>L2H2</Text>
+      <Value>s_deflector.paint_h2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Side deflectors Raised</Group>
+      <Image />
+      <Text>L2H2</Text>
+      <Value>s_deflector.paint_h2r</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Side deflectors</Group>
+      <Image />
+      <Text>L2H3/L3H3</Text>
+      <Value>s_deflector.paint_h3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Sideskirts</Group>
+      <Image />
+      <Text>4x2</Text>
+      <Value>sideskirt.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Sideskirts</Group>
+      <Image />
+      <Text>4x2</Text>
+      <Value>sideskirt.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Sideskirts</Group>
+      <Image />
+      <Text>4x2 markeronly</Text>
+      <Value>sideskirt.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Sideskirts</Group>
+      <Image />
+      <Text>L3H3 4x2</Text>
+      <Value>sideskirt.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Sideskirts</Group>
+      <Image />
+      <Text>6x2</Text>
+      <Value>sideskirt.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Sideskirts</Group>
+      <Image />
+      <Text>4x2 x-low markeronly</Text>
+      <Value>sideskirt.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Fenders</Group>
+      <Image />
+      <Text>Front Fender Paint</Text>
+      <Value>f_fender_cab.stockp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Fenders</Group>
+      <Image />
+      <Text>Front Fender paint Bulged</Text>
+      <Value>f_fender_cab.fatp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Fenders</Group>
+      <Image />
+      <Text>Front Fender paint Trimmed</Text>
+      <Value>f_fender_cab.thinp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Fenders</Group>
+      <Image />
+      <Text>Rear Fender stock 6x2 Pusher</Text>
+      <Value>r_fender_top.stock_6x2p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Fenders</Group>
+      <Image />
+      <Text>Rear Fender stock 6x4</Text>
+      <Value>r_fender_top.stock_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Fenders</Group>
+      <Image />
+      <Text>Rear Fender stock 6x4</Text>
+      <Value>r_fender_top.stock_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Decal</Group>
+      <Image />
+      <Text>Decal L2H2</Text>
+      <Value>decals.custom</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Decal L2H3/L3H3</Group>
+      <Image />
+      <Text>Decal</Text>
+      <Value>decals.customxl</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\egna saker\dokument\Mods Studio 2\UserVehicles\ETS2.Johnny244.Volvo.FH3.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>volvo.fh3</InternalName>
+  <VehicleAuthor>johnny244</VehicleAuthor>
+  <VehicleName>Volvo FH3 2009</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>l2h1.volvo.fh3.cabin</InternalName>
+      <Name>Sleeper (L2H1)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>l2h2.volvo.fh3.cabin</InternalName>
+      <Name>Globetrotter (L2H2)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>l2h3.volvo.fh3.cabin</InternalName>
+      <Name>Globetrotter XL (L2H3)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>l3h3.volvo.fh3.cabin</InternalName>
+      <Name>Globetrotter XXL (L3H3)</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Mr Jp</XmlDefinitionAuthor>
+</Variable>

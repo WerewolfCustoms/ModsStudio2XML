@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>a6ec3978-e319-4d1f-a9b2-63c081398192</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS.f3d.389.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>f3d.389</InternalName>
+  <VehicleAuthor>F3D Modding</VehicleAuthor>
+  <VehicleName>Peterbilt 389 Car Hauler</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>cabin.f3d.389.cabin</InternalName>
+      <Name>choptop cabin</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

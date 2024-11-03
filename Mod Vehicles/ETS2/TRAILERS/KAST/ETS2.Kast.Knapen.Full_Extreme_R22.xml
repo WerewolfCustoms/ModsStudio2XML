@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>25833451-5aab-4fa7-ad97-4584b5bef169</Id>
+  <IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2020</Major>
+	 <Minor>7</Minor>
+	</MS2LibraryVersion>
+  <Game>ETS2</Game>
+  <InternalName>knapen.full_extr22</InternalName>
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>Knapen Full Extreme R22</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+	<Variant>
+      <InternalName></InternalName>
+      <Name>•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</Name>
+    </Variant>  
+    <Variant>
+      <InternalName>body.4_box</InternalName>
+      <Name>Knapen Full Extreme</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.body_dolly</InternalName>
+      <Name>Dolly (You HAVE to TICK THIS BOX TO ENABLE THE DOLLY !!)</Name>
+    </Variant>
+	<Variant>
+      <InternalName></InternalName>
+      <Name>•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</Name>
+    </Variant>	
+  </VehicleVariants>
+  
+  <AccessoryItems>
+    <ListItem>
+      <Group>AXLES</Group>
+      <Text>axles.axles_2</Text>
+      <Value>axles.axles_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>AXLES</Group>
+      <Text>axles.axles_2_scan</Text>
+      <Value>axles.axles_2_scan</Value>
+    </ListItem>
+
+    <ListItem>
+      <Group>FRAME</Group>
+      <Text>Chassi Paint Dolly</Text>
+      <Value>frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FRAME</Group>
+      <Text>frame.chassis_2</Text>
+      <Value>frame.chassis_2</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>FRONT BODY</Group>
+      <Text>Painted Ladder</Text>
+      <Value>f_body.paint</Value>
+    </ListItem>
+
+    <ListItem>
+      <Group>LICENSE PLATE</Group>
+      <Text>custom_lp.custom_lp</Text>
+      <Value>custom_lp.custom_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LICENSE PLATE</Group>
+      <Text>custom_lp.spain_lp</Text>
+      <Value>custom_lp.spain_lp</Value>
+    </ListItem>
+
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Paint Parlok Fenders A</Text>
+      <Value>knap_fend_a.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FENDERS</Group>
+      <Text>Paint Parlok Fenders B</Text>
+      <Value>knap_fend_b.parlok_p</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>chs_f_l.paint_rail</Text>
+      <Value>chs_f_l.paint_rail</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>chs_f_l.paint</Text>
+      <Value>chs_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>chs_f_r.paint_rail</Text>
+      <Value>chs_f_r.paint_rail</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SIDECOVERS</Group>
+      <Text>chs_f_r.paint</Text>
+      <Value>chs_f_r.paint</Value>
+    </ListItem>
+
+    <ListItem>
+      <Group>REAR BUMPER</Group>
+      <Text>Standard Custom License Plate</Text>
+      <Value>r_bumper.standard</Value>
+    </ListItem>	
+    <ListItem>
+      <Group>REAR BUMPER</Group>
+      <Text>r_bumper.paint</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>MUDFLAP</Group>
+      <Text>r_mudflap.paint_new</Text>
+      <Value>r_mudflap.paint_new</Value>
+    </ListItem>
+  </AccessoryItems>
+  
+</Variable>

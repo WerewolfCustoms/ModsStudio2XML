@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>5ca6b1ce-3f0f-47fe-b929-e0c17a724875</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\All.pete.jc.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>pete.jc</InternalName>
+  <VehicleAuthor>jon-ruda</VehicleAuthor>
+  <VehicleName>Pete 389/379</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>389 Glider standard chassis</Group>
+      <InternalName>36.pete.jc.cabin</InternalName>
+      <Name>389 36` Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>379 standard chassis</Group>
+      <InternalName>36_379.pete.jc.cabin</InternalName>
+      <Name>379 36` Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>389 8x6 long chassis</Group>
+      <InternalName>3686.pete.jc.cabin</InternalName>
+      <Name>389 36` Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>379 8x6 long chassis</Group>
+      <InternalName>3686_379.pete.jc.cabin</InternalName>
+      <Name>379 36` Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>389 Long chassis</Group>
+      <InternalName>36l.pete.jc.cabin</InternalName>
+      <Name>389 36` Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>379 Long chassis</Group>
+      <InternalName>36l_379.pete.jc.cabin</InternalName>
+      <Name>379 36` Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>389 Glider standard chassis</Group>
+      <InternalName>48.pete.jc.cabin</InternalName>
+      <Name>389 48` Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>379 standard chassis</Group>
+      <InternalName>48_379.pete.jc.cabin</InternalName>
+      <Name>379 48` Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>389 8x6 long chassis</Group>
+      <InternalName>4886.pete.jc.cabin</InternalName>
+      <Name>389 48` Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>379 8x6 long chassis</Group>
+      <InternalName>4886_379.pete.jc.cabin</InternalName>
+      <Name>379 48` Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>389 Long chassis</Group>
+      <InternalName>48l.pete.jc.cabin</InternalName>
+      <Name>389 48` Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>379 Long chassis</Group>
+      <InternalName>48l_379.pete.jc.cabin</InternalName>
+      <Name>379 48` Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>389 Glider standard chassis</Group>
+      <InternalName>daycab.pete.jc.cabin</InternalName>
+      <Name>389 Daycab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>379 standard chassis</Group>
+      <InternalName>daycab_379.pete.jc.cabin</InternalName>
+      <Name>379 Daycab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>389 8x6 long chassis</Group>
+      <InternalName>daycab86.pete.jc.cabin</InternalName>
+      <Name>389 Daycab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>379 8x6 long chassis</Group>
+      <InternalName>daycab86_379.pete.jc.cabin</InternalName>
+      <Name>379 Daycab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>389 Glider short chassis</Group>
+      <InternalName>daycabd.pete.jc.cabin</InternalName>
+      <Name>389 Daycab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>379 short chassis</Group>
+      <InternalName>daycabd_379.pete.jc.cabin</InternalName>
+      <Name>379 Daycab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>389 Long chassis</Group>
+      <InternalName>daycabl.pete.jc.cabin</InternalName>
+      <Name>389 Daycab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>379 Long chassis</Group>
+      <InternalName>daycabl_379.pete.jc.cabin</InternalName>
+      <Name>379 Daycab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>389 Glider standard chassis</Group>
+      <InternalName>flattop.pete.jc.cabin</InternalName>
+      <Name>389 72` Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>379 standard chassis</Group>
+      <InternalName>flattop_379.pete.jc.cabin</InternalName>
+      <Name>379 63` Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>389 8x6 long chassis</Group>
+      <InternalName>flattop86.pete.jc.cabin</InternalName>
+      <Name>389 72` Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>379 8x6 long chassis</Group>
+      <InternalName>flat86_379.pete.jc.cabin</InternalName>
+      <Name>379 63` Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>389 Long chassis</Group>
+      <InternalName>flattopl.pete.jc.cabin</InternalName>
+      <Name>389 72` Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>379 Long chassis</Group>
+      <InternalName>flatl_379.pete.jc.cabin</InternalName>
+      <Name>379 63` Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>389 Glider standard chassis</Group>
+      <InternalName>highroof.pete.jc.cabin</InternalName>
+      <Name>389 72` High Roof</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>379 standard chassis</Group>
+      <InternalName>highroof_379.pete.jc.cabin</InternalName>
+      <Name>379 63` High Roof</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>389 8x6 long chassis</Group>
+      <InternalName>highroof86.pete.jc.cabin</InternalName>
+      <Name>389 72` High Roof</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>379 8x6 long chassis</Group>
+      <InternalName>hroof86_379.pete.jc.cabin</InternalName>
+      <Name>379 63` High Roof</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>389 Long chassis</Group>
+      <InternalName>highroofl.pete.jc.cabin</InternalName>
+      <Name>389 72` High Roof</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>379 Long chassis</Group>
+      <InternalName>hroofl_379.pete.jc.cabin</InternalName>
+      <Name>379 63` High Roof</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Goggles56 and Pauly</XmlDefinitionAuthor>
+</Variable>

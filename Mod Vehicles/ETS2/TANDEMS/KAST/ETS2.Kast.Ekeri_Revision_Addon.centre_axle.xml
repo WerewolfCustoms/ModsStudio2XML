@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>3fc027db-e4e4-41e4-a5d2-a4cabf5b7659</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Trailer Front And Roof</Group>
+      <Text>4.0m</Text>
+      <Value>body.4_0x7_5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Front And Roof</Group>
+      <Text>4.2m</Text>
+      <Value>body.4_2x7_5</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Front And Roof</Group>
+      <Text>4.4m</Text>
+      <Value>body.4_4x7_5</Value>
+    </ListItem>
+	<ListItem>
+	  <Group>Trailer Roof</Group>
+      <Text>4.0m Tarpaulin</Text>
+      <Value>roof_1.roof_tarp</Value>
+    </ListItem>
+    <ListItem>
+	  <Group>Trailer Roof</Group>
+      <Text>4.2m Tarpaulin</Text>
+      <Value>roof_2.roof_tarp</Value>
+    </ListItem>
+    <ListItem>
+	  <Group>Trailer Roof</Group>
+      <Text>4.4m Tarpaulin</Text>
+      <Value>roof_3.roof_tarp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Left</Group>
+      <Text>4.0m Closed Side</Text>
+      <Value>l_body.4_0x7_5_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Left</Group>
+      <Text>4.0m Doors</Text>
+      <Value>l_body.4_0x7_5_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Left</Group>
+      <Text>4.2m Closed Side</Text>
+      <Value>l_body.4_2x7_5_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Left</Group>
+      <Text>4.2m Doors</Text>
+      <Value>l_body.4_2x7_5_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Left</Group>
+      <Text>4.4m Closed Side</Text>
+      <Value>l_body.4_4x7_5_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Left</Group>
+      <Text>4.4m Doors</Text>
+      <Value>l_body.4_4x7_5_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Right</Group>
+      <Text>4.0m Closed Side</Text>
+      <Value>r_body.4_0x7_5_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Right</Group>
+      <Text>4.0m Doors</Text>
+      <Value>r_body.4_0x7_5_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Right</Group>
+      <Text>4.2m Closed Side</Text>
+      <Value>r_body.4_2x7_5_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Right</Group>
+      <Text>4.2m Doors</Text>
+      <Value>r_body.4_2x7_5_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Right</Group>
+      <Text>4.4m Closed Side</Text>
+      <Value>r_body.4_4x7_5_c</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Right</Group>
+      <Text>4.4m Doors</Text>
+      <Value>r_body.4_4x7_5_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>4.0m Doors</Text>
+      <Value>rear_body.4_0x7_5_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>4.0m Open + Lift</Text>
+      <Value>rear_body.4_0x7_5_o</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>4.2m Doors</Text>
+      <Value>rear_body.4_2x7_5_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>4.2m Open + Lift</Text>
+      <Value>rear_body.4_2x7_5_o</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>4.4m Doors</Text>
+      <Value>rear_body.4_4x7_5_d</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>4.4m Open + Lift</Text>
+      <Value>rear_body.4_4x7_5_o</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Heater + Refrigerator Units</Group>
+      <Text>Paint (4m)</Text>
+      <Value>f_body_1.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Heater + Refrigerator Units</Group>
+      <Text>Paint (4.2m)</Text>
+      <Value>f_body_2.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Heater + Refrigerator Units</Group>
+      <Text>Paint (4.4m)</Text>
+      <Value>f_body_3.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Ventilation Hatch</Group>
+      <Text>Paint (4m)</Text>
+      <Value>f_vent_1.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Ventilation Hatch</Group>
+      <Text>Paint (4.2m)</Text>
+      <Value>f_vent_2.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Ventilation Hatch</Group>
+      <Text>Paint (4.4m)</Text>
+      <Value>f_vent_3.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Frame</Group>
+      <Text>Paint</Text>
+      <Value>frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Axle</Group>
+      <Text>Paint</Text>
+      <Value>axles.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Sideskirts</Group>
+      <Text>Front Sidecover</Text>
+      <Value>ekeri_rail_l.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Sideskirts</Group>
+      <Text>Front Box</Text>
+      <Value>ekeri_f_l.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Sideskirts</Group>
+      <Text>Middle Sidecover</Text>
+      <Value>chs_m_l.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Sideskirts</Group>
+      <Text>Rear Box</Text>
+      <Value>chs_r_l.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Sideskirts</Group>
+      <Text>Rear Box And Tank</Text>
+      <Value>chs_r_m.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Sideskirts</Group>
+      <Text>Front Sidecover</Text>
+      <Value>ekeri_rail_r.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Sideskirts</Group>
+      <Text>Middle Sidecover</Text>
+      <Value>chs_m_r.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Sideskirts</Group>
+      <Text>Rear Box</Text>
+      <Value>chs_r_r.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fenders</Group>
+      <Text>Front Paint</Text>
+      <Value>ekeri_fend_f.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fenders</Group>
+      <Text>Rear Paint</Text>
+      <Value>ekeri_fend_g.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Fenders</Group>
+      <Text>Extra Paint (3 Axles)</Text>
+      <Value>ekeri_fend_h.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Licence Plate</Group>
+      <Text>EU</Text>
+      <Value>custom_lp.3_eu</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Licence Plate</Group>
+      <Text>FIN</Text>
+      <Value>custom_lp.2_fin</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Licence Plate</Group>
+      <Text>UK</Text>
+      <Value>custom_lp.2_uk</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Guard</Group>
+      <Text>Paint</Text>
+      <Value>r_guard.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Guard</Group>
+      <Text>Moffett</Text>
+      <Value>r_guard.moffett</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Lights</Group>
+      <Text>Paint</Text>
+      <Value>r_lights.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Mudflap</Group>
+      <Text>Paint</Text>
+      <Value>r_mudflap.paint</Value>
+	</ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.Ekeri Revision Addon.centre_axle.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>ekeri.centre_axle</InternalName>
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>Ekeri Revision (Full Trailers Addon) - Centre-Axle r19.5</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.4_0x7_5</InternalName>
+      <Name>4.0m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.4_2x7_5</InternalName>
+      <Name>4.2m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.4_4x7_5</InternalName>
+      <Name>4.4m</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay, Taede</XmlDefinitionAuthor>
+</Variable>
