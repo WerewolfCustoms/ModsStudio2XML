@@ -12,7 +12,7 @@
   <VehicleVariants>
     <Variant>
       <InternalName>body.featherlite</InternalName>
-      <Name>Featherlite Hauler </Name>
+      <Name>Featherlite Hauler</Name>
     </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
