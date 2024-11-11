@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>25971e41-474b-41a1-b521-959085b679d2</Id>
+  <Id>25971e41-474b-41a1-b521-9590a5b679d2</Id>
   <IsEnabled>true</IsEnabled>
   <AccessoryItems />
   <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.dn.gsnck.xml</FilePath>
