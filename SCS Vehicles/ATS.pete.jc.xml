@@ -2,7 +2,7 @@
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
   <Id>fbf3ef30-2e80-4c82-a527-fc8397763a55</Id>
-  <IsEnabled>true</IsEnabled>
+  <IsEnabled>false</IsEnabled>
   <AccessoryItems />
   <Game>ATS</Game>
   <InternalName>pete.jc</InternalName>
