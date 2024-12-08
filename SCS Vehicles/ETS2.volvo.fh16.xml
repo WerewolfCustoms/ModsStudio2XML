@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>493c95ca-f53d-4187-8c52-0d5bb14f891b</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Light Bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\r_grill.paint1.jpg</Image>
+      <Text>Paint (Globetrotter Cabs) * DLC *</Text>
+      <Value>r_grill.paint1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Light Bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\r_grill.paint1_h1.jpg</Image>
+      <Text>Paint (Sleeper Cab) * DLC *</Text>
+      <Value>r_grill.paint1_h1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Lightbox</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\decals.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>decals.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\sunshld.shape2.jpg</Image>
+      <Text>Samurai</Text>
+      <Value>sunshld.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\sunshld.sunshield01.jpg</Image>
+      <Text>Exclusive Paint * DLC *</Text>
+      <Value>sunshld.sunshield01</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\sunshld.sunshield02.jpg</Image>
+      <Text>Exclusive Paint and Chrome * DLC *</Text>
+      <Value>sunshld.sunshield02</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\sunshld.sunshield03.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>sunshld.sunshield03</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\f_mirror.paint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\f_mirror.paintl.jpg</Image>
+      <Text>Paint long * DLC *</Text>
+      <Value>f_mirror.paintl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\mirror.shape3.jpg</Image>
+      <Text>Paint</Text>
+      <Value>mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\mirror.led3.jpg</Image>
+      <Text>Paint, 3 LED * DLC *</Text>
+      <Value>mirror.led3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\mirror.led4.jpg</Image>
+      <Text>Paint, 4 LED * DLC *</Text>
+      <Value>mirror.led4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Window Frame</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\f_wnd_frame.paint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_wnd_frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Window Frame</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\f_wnd_frame.paint_chr.jpg</Image>
+      <Text>Paint and chrome *DLC *</Text>
+      <Value>f_wnd_frame.paint_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\f_intake_cab.paint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_intake_cab.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bull Bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\f_grill.paint1.jpg</Image>
+      <Text>Quarterback * DLC *</Text>
+      <Value>f_grill.paint1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Grille Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\f_inlay_chs.paint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_inlay_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\f_bumper.stock2.jpg</Image>
+      <Text>Stock Paint</Text>
+      <Value>f_bumper.stock2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\f_bumper.paint1.jpg</Image>
+      <Text>High Paint * DLC *</Text>
+      <Value>f_bumper.paint1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\f_bumper.paint2.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_bumper.paint2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\f_bumper.paint3.jpg</Image>
+      <Text>Low Paint * DLC *</Text>
+      <Value>f_bumper.paint3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\r_deflector.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>r_deflector.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Air Filter</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\filter.paint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>filter.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\s_mirror.paint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>s_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\s_deflector.paint_h2.jpg</Image>
+      <Text>Paint (Globetrotter Cab)</Text>
+      <Value>s_deflector.paint_h2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\s_deflector.paint_h3.jpg</Image>
+      <Text>Paint (Globetrotter XL Cab)</Text>
+      <Value>s_deflector.paint_h3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\s_deflector.paint_h2_led.jpg</Image>
+      <Text>Paint LED (Globetrotter Cab) * DLC *</Text>
+      <Value>s_deflector.paint_h2_led</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\s_deflector.paint_h3_led.jpg</Image>
+      <Text>Paint LED (Globetrotter XL Cab) * DLC *</Text>
+      <Value>s_deflector.paint_h3_led</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Panel</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\s_panel.stock.jpg</Image>
+      <Text>Stock (paint)</Text>
+      <Value>s_panel.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Handle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\doorhndl.shape2.jpg</Image>
+      <Text>Paint</Text>
+      <Value>doorhndl.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Corner Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\cor_def.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>cor_def.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory overrides Front Fender (Chassis).</Description>
+      <Group>Front Fender (Cabin)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\f_fender_cab.paint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_fender_cab.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory is overriden by Front Fender (Cabin).</Description>
+      <Group>Front Fender (Chassis)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\f_fender_chs.paint.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_fender_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\sideskirt.flat.jpg</Image>
+      <Text>Flat 4x2 * DLC *</Text>
+      <Value>sideskirt.flat</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\sideskirt.flat_6x.jpg</Image>
+      <Text>Flat 6xn * DLC *</Text>
+      <Value>sideskirt.flat_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\sideskirt.hole.jpg</Image>
+      <Text>Elegance 4x2 * DLC *</Text>
+      <Value>sideskirt.hole</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\sideskirt.shape1.jpg</Image>
+      <Text>Full protection</Text>
+      <Value>sideskirt.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\exhaust_m.exh_m_02.jpg</Image>
+      <Text>Diva (Globetrotter XL Cab) * DLC *</Text>
+      <Value>exhaust_m.exh_m_02</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\exhaust_m.exh_m_02b.jpg</Image>
+      <Text>Diva (Globetrotter, Sleeper Cabs) * DLC *</Text>
+      <Value>exhaust_m.exh_m_02b</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\r_chs_cover.paint_4x.jpg</Image>
+      <Text>Diva 4x2 * DLC *</Text>
+      <Value>r_chs_cover.paint_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\r_chs_cover.paint_6x.jpg</Image>
+      <Text>Diva 6xn * DLC *</Text>
+      <Value>r_chs_cover.paint_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\r_chs_cover.paint_dia_4x.jpg</Image>
+      <Text>Centurion 4x2 * DLC *</Text>
+      <Value>r_chs_cover.paint_dia_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\r_chs_cover.paint_dia_6x.jpg</Image>
+      <Text>Centurion 6xn * DLC *</Text>
+      <Value>r_chs_cover.paint_dia_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\r_fendr_top.4x.jpg</Image>
+      <Text>Paint 4x2 * DLC *</Text>
+      <Value>r_fendr_top.paint_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\r_fendr_top.6x.jpg</Image>
+      <Text>Paint 6xn * DLC *</Text>
+      <Value>r_fendr_top.paint_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\r_fendr_top.4x.jpg</Image>
+      <Text>Paint and Chrome 4x2 * DLC *</Text>
+      <Value>r_fendr_top.paint_chr_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\r_fendr_top.6x.jpg</Image>
+      <Text>Paint and Chrome 6xn * DLC *</Text>
+      <Value>r_fendr_top.paint_chr_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\r_fender.paint_4x.jpg</Image>
+      <Text>Paint 4x2 * DLC *</Text>
+      <Value>r_fender.paint_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\r_fender.paint_6x.jpg</Image>
+      <Text>Paint 6xn * DLC *</Text>
+      <Value>r_fender.paint_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\r_bumper.shape1.jpg</Image>
+      <Text>Diva * DLC *</Text>
+      <Value>r_bumper.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\Volvo2009\r_bumper.shape2.jpg</Image>
+      <Text>Chariot * DLC *</Text>
+      <Value>r_bumper.shape2</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>volvo.fh16</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolvo\classic_globexl.jpg</VehicleImage>
+  <VehicleName>Volvo|FH16 (Classic)</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolvo\classic_sleeper.jpg</Image>
+      <InternalName>l2h1.volvo.fh16.cabin</InternalName>
+      <Name>Sleeper</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolvo\classic_globe.jpg</Image>
+      <InternalName>l2h2.volvo.fh16.cabin</InternalName>
+      <Name>Globetrotter</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolvo\classic_globexl.jpg</Image>
+      <InternalName>l2h3.volvo.fh16.cabin</InternalName>
+      <Name>Globetrotter XL</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

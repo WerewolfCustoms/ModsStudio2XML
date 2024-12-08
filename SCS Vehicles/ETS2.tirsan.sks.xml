@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>8ab645ae-319b-4ed8-be6f-38c67084320b</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanDP\r_bumper.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>tirsan.sks</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Tirsan\dumper.jpg</VehicleImage>
+  <VehicleName>Tirsan|T.SKS BS / 22 - 12 / 27 Dumper</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Tirsan\dumper.jpg</Image>
+      <InternalName>body.dumper</InternalName>
+      <Name>Dumper</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Tirsan\dumpersc.jpg</Image>
+      <InternalName>body.dumper_sc</InternalName>
+      <Name>Dumper with Sliding Cover</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>058cbf2b-e6fb-41d1-8f1f-5082aa3de696</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
+      <Group>Chassis</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\chassis3.jpg</Image>
+      <Text>3 Axel Double Aluminium Legs</Text>
+      <Value>chassis.ch_3_dal</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
+      <Group>Chassis</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\chassis3.jpg</Image>
+      <Text>3 Axel Double Steel Legs</Text>
+      <Value>chassis.ch_3_dsl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
+      <Group>Chassis</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\chassis3.jpg</Image>
+      <Text>3 Axel Single Steel Leg</Text>
+      <Value>chassis.ch_3_sl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
+      <Group>Chassis</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\chassis3.jpg</Image>
+      <Text>3 Axel Steerable</Text>
+      <Value>chassis.ch_3_sw</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
+      <Group>Chassis</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\chassis4.jpg</Image>
+      <Text>4 Axel Steerable</Text>
+      <Value>chassis.ch_4_sw</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Left (3 Axels)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\chs_f_l.cgp_3.jpg</Image>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_l.cgp_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Left (3 Axels)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\chs_f_l.cgp_ext_3.jpg</Image>
+      <Text>Painted Side Protection with Extinguisher</Text>
+      <Value>chs_f_l.cgp_ext_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Left (3 Axels)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\chs_f_l.cgp_wt_3.jpg</Image>
+      <Text>Painted Side Protection with Water Tank</Text>
+      <Value>chs_f_l.cgp_wt_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Left (4 Axels)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\chs_f_l.cgp_4.jpg</Image>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_l.cgp_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Left (4 Axels)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\chs_f_l.cgp_ext_4.jpg</Image>
+      <Text>Painted Side Protection with Extinguisher</Text>
+      <Value>chs_f_l.cgp_ext_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Left (4 Axels)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\chs_f_l.cgp_bpl_4.jpg</Image>
+      <Text>Painted Side Protection with Plastic Box</Text>
+      <Value>chs_f_l.cgp_bpl_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Left (4 Axels)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\chs_f_l.cgp_wt_4.jpg</Image>
+      <Text>Painted Side Protection with Water Tank</Text>
+      <Value>chs_f_l.cgp_wt_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Right (3 Axels)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\chs_f_r.cgp_3.jpg</Image>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_r.cgp_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Right (3 Axels)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\chs_f_r.cgp_st_3.jpg</Image>
+      <Text>Painted Side Protection with Spare Tyre</Text>
+      <Value>chs_f_r.cgp_st_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Right (4 Axels)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\chs_f_r.cgp_4.jpg</Image>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_r.cgp_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Right (4 Axels)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\chs_f_r.cgp_bpl_4.jpg</Image>
+      <Text>Painted Side Protection with Plastic Box</Text>
+      <Value>chs_f_r.cgp_bpl_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Right (4 Axels)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\chs_f_r.cgp_st_4.jpg</Image>
+      <Text>Painted Side Protection with Spare Tyre</Text>
+      <Value>chs_f_r.cgp_st_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Trailer Rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\rear_body.door_1.jpg</Image>
+      <Text>Flap Door</Text>
+      <Value>rear_body.door_1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Trailer Rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\rear_body.door_2.jpg</Image>
+      <Text>Flap Door with Chute</Text>
+      <Value>rear_body.door_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\r_bumper.simple.jpg</Image>
+      <Text>Standard</Text>
+      <Value>r_bumper.simple</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonSM\r_bumper.exclusive.jpg</Image>
+      <Text>Exclusive</Text>
+      <Value>r_bumper.exclusive</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>wielton.strongm</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Wielton\strong3.jpg</VehicleImage>
+  <VehicleName>Wielton|Strong Master</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Wielton\strong3.jpg</Image>
+      <InternalName>body.dumper3</InternalName>
+      <Name>Strong Master 3 Axels</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Wielton\strong4.jpg</Image>
+      <InternalName>body.dumper4</InternalName>
+      <Name>Strong Master 4 Axels</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

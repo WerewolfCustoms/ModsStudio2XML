@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>437e70a3-e586-4563-931c-5a96020795f4</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <Game>ETS2</Game>
+  <InternalName>vog</InternalName>
+  <VehicleAuthor>jon-ruda</VehicleAuthor>
+  <VehicleImage />
+  <VehicleName>Curtain Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>vog.body</InternalName>
+      <Name>Curtain Trailer</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

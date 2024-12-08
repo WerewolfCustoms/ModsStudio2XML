@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>19b20e12-e229-44ff-9961-b2c063b4bafe</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
+      <Group>Chassis</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonCM\chassis.jpg</Image>
+      <Text>3 Axels</Text>
+      <Value>chassis.ch_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: Even though the Dry Master trailer is shown, it is the same for the Curtain Master trailers.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDM\chs_f_l.cgp_3.jpg</Image>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_l.cgp_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: Even though the Dry Master trailer is shown, it is the same for the Curtain Master trailers.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDM\chs_f_l.cgp_ext_3.jpg</Image>
+      <Text>Painted Side Protection with Extinguisher</Text>
+      <Value>chs_f_l.cgp_ext_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: Even though the Dry Master trailer is shown, it is the same for the Curtain Master trailers.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDM\chs_f_l.cgp_bpl_3.jpg</Image>
+      <Text>Painted Side Protection with Plastic Box</Text>
+      <Value>chs_f_l.cgp_bpl_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: Even though the Dry Master trailer is shown, it is the same for the Curtain Master trailers.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDM\chs_f_l.cgp_st_3.jpg</Image>
+      <Text>Painted Side Protection with Spare Tyre</Text>
+      <Value>chs_f_l.cgp_st_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: Even though the Dry Master trailer is shown, it is the same for the Curtain Master trailers.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDM\chs_f_l.pb_3.jpg</Image>
+      <Text>Pallet Box</Text>
+      <Value>chs_f_l.pb_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: Even though the Dry Master trailer is shown, it is the same for the Curtain Master trailers.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDM\chs_f_r.cgp_3.jpg</Image>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_r.cgp_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: Even though the Dry Master trailer is shown, it is the same for the Curtain Master trailers.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDM\chs_f_r.cgp_ext_3.jpg</Image>
+      <Text>Painted Side Protection with Extinguisher</Text>
+      <Value>chs_f_r.cgp_ext_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: Even though the Dry Master trailer is shown, it is the same for the Curtain Master trailers.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDM\chs_f_r.cgp_bpl_3.jpg</Image>
+      <Text>Painted Side Protection with Plastic Box</Text>
+      <Value>chs_f_r.cgp_bpl_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: Even though the Dry Master trailer is shown, it is the same for the Curtain Master trailers.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDM\chs_f_r.cgp_st_3.jpg</Image>
+      <Text>Painted Side Protection with Spare Tyre</Text>
+      <Value>chs_f_r.cgp_st_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: Even though the Dry Master trailer is shown, it is the same for the Curtain Master trailers.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDM\chs_f_r.pb_3.jpg</Image>
+      <Text>Pallet Box</Text>
+      <Value>chs_f_r.pb_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: Even though the Dry Master trailer is shown, it is the same for the Curtain Master trailers.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDM\r_bumper.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>wielton.curtainm</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Wielton\curtain.jpg</VehicleImage>
+  <VehicleName>Wielton|Curtain Master</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Wielton\curtain.jpg</Image>
+      <InternalName>body.curtain</InternalName>
+      <Name>Curtain Master</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Wielton\curtainsb.jpg</Image>
+      <InternalName>body.curtain_sb</InternalName>
+      <Name>Curtain Master (side boards)</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

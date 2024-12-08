@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>90cfb30a-d4a5-45b8-8cf6-aebda73d5863</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <Game>ETS2</Game>
+  <InternalName>tgenscania</InternalName>
+  <VehicleAuthor>jon-ruda, CCT</VehicleAuthor>
+  <VehicleImage />
+  <VehicleName>Torpedo|NextGen</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>highline.tgenscania.cabin</InternalName>
+      <Name>Topline</Name>
+    </Variant>
+    <Variant>
+      <InternalName>low.tgenscania.cabin</InternalName>
+      <Name>Сustom Low Roof</Name>
+    </Variant>
+    <Variant>
+      <InternalName>normal.tgenscania.cabin</InternalName>
+      <Name>Normal Roof</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

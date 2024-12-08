@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>d4049195-090c-4112-9e4f-6b62c92273f0</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.sd1p_3_13.jpg</Image>
+      <Text>Painted Side Skirt</Text>
+      <Value>chs_f_l.sd1p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.sd2p_3_13.jpg</Image>
+      <Text>Painted Side Skirt II</Text>
+      <Value>chs_f_l.sd2p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.sd3p_3_13.jpg</Image>
+      <Text>Painted Side Skirt III</Text>
+      <Value>chs_f_l.sd3p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.sd4p_3_13.jpg</Image>
+      <Text>Painted Side Skirt IV</Text>
+      <Value>chs_f_l.sd4p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.sd9p_3_13.jpg</Image>
+      <Text>Painted Side Skirt IX</Text>
+      <Value>chs_f_l.sd9p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.sd5p_3_13.jpg</Image>
+      <Text>Painted Side Skirt V</Text>
+      <Value>chs_f_l.sd5p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.sd6p_3_13.jpg</Image>
+      <Text>Painted Side Skirt VI</Text>
+      <Value>chs_f_l.sd6p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.sd7p_3_13.jpg</Image>
+      <Text>Painted Side Skirt VII</Text>
+      <Value>chs_f_l.sd7p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.sd8p_3_13.jpg</Image>
+      <Text>Painted Side Skirt VIII</Text>
+      <Value>chs_f_l.sd8p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.cg_bp_3_13.jpg</Image>
+      <Text>Simple Side Protection and Painted Box</Text>
+      <Value>chs_f_l.cg_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.sd1_bp_3_13.jpg</Image>
+      <Text>Side Skirt and Painted Box</Text>
+      <Value>chs_f_l.sd1_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.sd2_bp_3_13.jpg</Image>
+      <Text>Side Skirt II and Painted Box</Text>
+      <Value>chs_f_l.sd2_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.sd3_bp_3_13.jpg</Image>
+      <Text>Side Skirt III and Painted Box</Text>
+      <Value>chs_f_l.sd3_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.sd4_bp_3_13.jpg</Image>
+      <Text>Side Skirt IV and Painted Box</Text>
+      <Value>chs_f_l.sd4_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.sd9_bp_3_13.jpg</Image>
+      <Text>Side Skirt IX and Painted Box</Text>
+      <Value>chs_f_l.sd9_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.sd5_bp_3_13.jpg</Image>
+      <Text>Side Skirt V and Painted Box</Text>
+      <Value>chs_f_l.sd5_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.sd6_bp_3_13.jpg</Image>
+      <Text>Side Skirt VI and Painted Box</Text>
+      <Value>chs_f_l.sd6_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.sd7_bp_3_13.jpg</Image>
+      <Text>Side Skirt VII and Painted Box</Text>
+      <Value>chs_f_l.sd7_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.sd8_bp_3_13.jpg</Image>
+      <Text>Side Skirt VIII and Painted Box</Text>
+      <Value>chs_f_l.sd8_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_l.palletb_3_13.jpg</Image>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_f_l.palletb_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.sd1p_3_13.jpg</Image>
+      <Text>Painted Side Skirt</Text>
+      <Value>chs_f_r.sd1p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.sd2p_3_13.jpg</Image>
+      <Text>Painted Side Skirt II</Text>
+      <Value>chs_f_r.sd2p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.sd3p_3_13.jpg</Image>
+      <Text>Painted Side Skirt III</Text>
+      <Value>chs_f_r.sd3p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.sd4p_3_13.jpg</Image>
+      <Text>Painted Side Skirt IV</Text>
+      <Value>chs_f_r.sd4p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.sd9p_3_13.jpg</Image>
+      <Text>Painted Side Skirt IX</Text>
+      <Value>chs_f_r.sd9p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.sd5p_3_13.jpg</Image>
+      <Text>Painted Side Skirt V</Text>
+      <Value>chs_f_r.sd5p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.sd6p_3_13.jpg</Image>
+      <Text>Painted Side Skirt VI</Text>
+      <Value>chs_f_r.sd6p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.sd7p_3_13.jpg</Image>
+      <Text>Painted Side Skirt VII</Text>
+      <Value>chs_f_r.sd7p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.sd8p_3_13.jpg</Image>
+      <Text>Painted Side Skirt VIII</Text>
+      <Value>chs_f_r.sd8p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.cg_bp_3_13.jpg</Image>
+      <Text>Simple Side Protection and Painted Box</Text>
+      <Value>chs_f_r.cg_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.sd1_bp_3_13.jpg</Image>
+      <Text>Side Skirt and Painted Box</Text>
+      <Value>chs_f_r.sd1_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.sd2_bp_3_13.jpg</Image>
+      <Text>Side Skirt II and Painted Box</Text>
+      <Value>chs_f_r.sd2_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.sd3_bp_3_13.jpg</Image>
+      <Text>Side Skirt III and Painted Box</Text>
+      <Value>chs_f_r.sd3_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.sd4_bp_3_13.jpg</Image>
+      <Text>Side Skirt IV and Painted Box</Text>
+      <Value>chs_f_r.sd4_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.sd9_bp_3_13.jpg</Image>
+      <Text>Side Skirt IX and Painted Box</Text>
+      <Value>chs_f_r.sd9_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.sd5_bp_3_13.jpg</Image>
+      <Text>Side Skirt V and Painted Box</Text>
+      <Value>chs_f_r.sd5_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.sd6_bp_3_13.jpg</Image>
+      <Text>Side Skirt VI and Painted Box</Text>
+      <Value>chs_f_r.sd6_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.sd7_bp_3_13.jpg</Image>
+      <Text>Side Skirt VII and Painted Box</Text>
+      <Value>chs_f_r.sd7_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.sd8_bp_3_13.jpg</Image>
+      <Text>Side Skirt VIII and Painted Box</Text>
+      <Value>chs_f_r.sd8_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_f_r.palletb_3_13.jpg</Image>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_f_r.palletb_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Rear Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_r_l.bp.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.bp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Chassis Rear Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\chs_r_r.bp.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.bp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nUse your main skin file here.</Description>
+      <Group>Trailer Rear (use main skin)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanRF\rear_body.door_1.jpg</Image>
+      <Text>Rear Door</Text>
+      <Value>rear_body.door_1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nUse your main skin file here.</Description>
+      <Group>Trailer Rear (use main skin)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanRF\rear_body.door_1_w.jpg</Image>
+      <Text>Rear Door with Window</Text>
+      <Value>rear_body.door_1_w</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nUse your main skin file here.</Description>
+      <Group>Trailer Rear (use main skin)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanRF\rear_body.door_2.jpg</Image>
+      <Text>Rear Door II</Text>
+      <Value>rear_body.door_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nUse your main skin file here.</Description>
+      <Group>Trailer Rear (use main skin)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanRF\rear_body.door_2_w.jpg</Image>
+      <Text>Rear Door II with Window</Text>
+      <Value>rear_body.door_2_w</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: SCS MR shown but it is the same for the SRI.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\TirsanCS\r_bumper.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>tirsan.sri</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Tirsan\reefer.jpg</VehicleImage>
+  <VehicleName>Tirsan|T.SRI C / 10 - 12 / 27 Reefer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Tirsan\reefer.jpg</Image>
+      <InternalName>body.reefer</InternalName>
+      <Name>T.SRI C / 10 - 12 / 27 Reefer</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

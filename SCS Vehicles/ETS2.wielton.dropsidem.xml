@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>e36ec981-d432-45b1-a59d-9b9146e20e14</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDS\chs_f_l.cgp_3.jpg</Image>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_l.cgp_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDS\chs_f_l.cgp_ext_3.jpg</Image>
+      <Text>Painted Side Protection with Extinguisher</Text>
+      <Value>chs_f_l.cgp_ext_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDS\chs_f_l.cgp_bpl_3.jpg</Image>
+      <Text>Painted Side Protection with Plastic Box</Text>
+      <Value>chs_f_l.cgp_bpl_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDS\chs_f_l.cgp_st_3.jpg</Image>
+      <Text>Painted Side Protection with Spare Tyre</Text>
+      <Value>chs_f_l.cgp_st_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDS\chs_f_r.cgp_3.jpg</Image>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_r.cgp_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDS\chs_f_r.cgp_ext_3.jpg</Image>
+      <Text>Painted Side Protection with Extinguisher</Text>
+      <Value>chs_f_r.cgp_ext_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDS\chs_f_r.cgp_bpl_3.jpg</Image>
+      <Text>Painted Side Protection with Plastic Box</Text>
+      <Value>chs_f_r.cgp_bpl_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDS\chs_f_r.cgp_st_3.jpg</Image>
+      <Text>Painted Side Protection with Spare Tyre</Text>
+      <Value>chs_f_r.cgp_st_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonDS\r_bumper.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>wielton.dropsidem</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Wielton\dropside.jpg</VehicleImage>
+  <VehicleName>Wielton|Dropside Master</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Wielton\dropside635.jpg</Image>
+      <InternalName>body.ds_635</InternalName>
+      <Name>Dropside 635 Master</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Wielton\dropside835.jpg</Image>
+      <InternalName>body.ds_835</InternalName>
+      <Name>Dropside 835 Master</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Wielton\dropside1035.jpg</Image>
+      <InternalName>body.ds_1035</InternalName>
+      <Name>Dropside 1035 Master</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

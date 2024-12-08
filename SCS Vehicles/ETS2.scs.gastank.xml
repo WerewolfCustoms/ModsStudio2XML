@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>e841d631-81a0-413b-ad56-45b9183e9a99</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on the 2 axel trailer only.</Description>
+      <Group>Markers (2 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\markers2a.jpg</Image>
+      <Text>Standard</Text>
+      <Value>markers.simple2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on the 2 axel trailer only.</Description>
+      <Group>Markers (2 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\markers2a.jpg</Image>
+      <Text>Exclusive</Text>
+      <Value>markers.exclusive2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on the 3 axel trailer only.</Description>
+      <Group>Markers (3 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\markers3a.jpg</Image>
+      <Text>Standard</Text>
+      <Value>markers.simple3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on the 3 axel trailer only.</Description>
+      <Group>Markers (3 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\markers3a.jpg</Image>
+      <Text>Exclusive</Text>
+      <Value>markers.exclusive3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailer.</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\chs_f_l.paint_box.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_f_l.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on the 3 axel trailer only.</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\chs_f_l.p_box_sidsk.jpg</Image>
+      <Text>Full Protection Sideskirts + Painted Box</Text>
+      <Value>chs_f_l.p_box_sidsk</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on the 3 axel trailer only.</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\chs_f_l.paint_box_2.jpg</Image>
+      <Text>Painted Box, 2x</Text>
+      <Value>chs_f_l.paint_box_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailer.</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\chs_f_r.side_short.jpg</Image>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_f_r.side_short</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailer.</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\chs_f_r.paint_box.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_f_r.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on the 3 axel trailer only.</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\chs_f_r.side_long.jpg</Image>
+      <Text>Full Protection Sideskirts (long)</Text>
+      <Value>chs_f_r.side_long</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on the 3 axel trailer only.</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\chs_f_r.p_box_sidsk.jpg</Image>
+      <Text>Full Protection Sideskirts + Painted Box</Text>
+      <Value>chs_f_r.p_box_sidsk</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on the 2 axel trailer only.</Description>
+      <Group>Left Side (2 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\l_body.spipe_pnt_2a.jpg</Image>
+      <Text>Hose, Paint</Text>
+      <Value>l_body.spipe_pnt_2a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on the 2 axel trailer only.</Description>
+      <Group>Left Side (2 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\l_body.dpipe_pnt_2a.jpg</Image>
+      <Text>Hose, Paint, 2x</Text>
+      <Value>l_body.dpipe_pnt_2a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on the 3 axel trailer only.</Description>
+      <Group>Left Side (3 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\l_body.spipe_pnt_3a.jpg</Image>
+      <Text>Hose, Paint</Text>
+      <Value>l_body.spipe_pnt_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on the 3 axel trailer only.</Description>
+      <Group>Left Side (3 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\l_body.dpipe_pnt_3a.jpg</Image>
+      <Text>Hose, Paint, 2x</Text>
+      <Value>l_body.dpipe_pnt_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on the 2 axel trailer only.</Description>
+      <Group>Right Side (2 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\r_body.spipe_pnt_2a.jpg</Image>
+      <Text>Hose, Paint</Text>
+      <Value>r_body.spipe_pnt_2a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on the 2 axel trailer only.</Description>
+      <Group>Right Side (2 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\r_body.dpipe_pnt_2a.jpg</Image>
+      <Text>Hose, Paint, 2x</Text>
+      <Value>r_body.dpipe_pnt_2a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on the 3 axel trailer only.</Description>
+      <Group>Right Side (3 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\r_body.spipe_pnt_3a.jpg</Image>
+      <Text>Hose, Paint</Text>
+      <Value>r_body.spipe_pnt_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on the 3 axel trailer only.</Description>
+      <Group>Right Side (3 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\r_body.dpipe_pnt_3a.jpg</Image>
+      <Text>Hose, Paint, 2x</Text>
+      <Value>r_body.dpipe_pnt_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nSingle cover over all axels.\nPresent on the 2 axel trailer only.</Description>
+      <Group>Rear Fender (2 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\r_fender.pt_sin_2a.jpg</Image>
+      <Text>Paint - Single Cover</Text>
+      <Value>r_fender.pt_sin_2a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nEach axel is covered.\nPresent on the 2 axel trailer only.</Description>
+      <Group>Rear Fender (2 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\r_fender.pt_mul_2a.jpg</Image>
+      <Text>Paint - Multi Cover</Text>
+      <Value>r_fender.pt_mul_2a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nSingle cover over all axels.\nPresent on the 3 axel trailer only.</Description>
+      <Group>Rear Fender (3 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\r_fender.pt_sin_3a.jpg</Image>
+      <Text>Paint - Single Cover</Text>
+      <Value>r_fender.pt_sin_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nEach axel is covered.\nPresent on the 3 axel trailer only.</Description>
+      <Group>Rear Fender (3 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\r_fender.pt_mul_3a.jpg</Image>
+      <Text>Paint - Multi Cover</Text>
+      <Value>r_fender.pt_mul_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailer.</Description>
+      <Group>Left Side Rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\chs_r_l.paintbox.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.paintbox</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailer.</Description>
+      <Group>Right Side Rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\chs_r_r.paintbox.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.paintbox</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailer.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\r_bumper.simple.jpg</Image>
+      <Text>Standard</Text>
+      <Value>r_bumper.simple</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailer.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\r_bumper.standard.jpg</Image>
+      <Text>Standard Eco</Text>
+      <Value>r_bumper.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailer.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\r_bumper.simple_led.jpg</Image>
+      <Text>Standard LED</Text>
+      <Value>r_bumper.simple_led</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailer.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\r_bumper.exe_white.jpg</Image>
+      <Text>Exclusive (white background)</Text>
+      <Value>r_bumper.exe_white</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailer.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\r_bumper.exe_black.jpg</Image>
+      <Text>Exclusive (black background)</Text>
+      <Value>r_bumper.exe_black</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nUse a 4x4 pixel coloured square here.\nPresent on the 2 axel trailer only.</Description>
+      <Group>Chassis (colour only)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\chassis.ch_2a.jpg</Image>
+      <Text>2 axel</Text>
+      <Value>chassis.ch_2a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nUse a 4x4 pixel coloured square here.\nPresent on the 3 axel trailer only.</Description>
+      <Group>Chassis (colour only)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSGasTank\chassis.ch_3a.jpg</Image>
+      <Text>3 axel</Text>
+      <Value>chassis.ch_3a</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>scs.gastank</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSGasTank\2apaint.jpg</VehicleImage>
+  <VehicleName>SCS|Gas Tank</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>Gas Tank</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSGasTank\2apaint.jpg</Image>
+      <InternalName>body.tank_10</InternalName>
+      <Name>Tank Paint 2 axle</Name>
+    </Variant>
+    <Variant>
+      <Group>Gas Tank</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSGasTank\3apaint.jpg</Image>
+      <InternalName>body.tank_12</InternalName>
+      <Name>Tank Paint 3 axle</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

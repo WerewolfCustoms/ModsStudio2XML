@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>c9b85c65-3589-4d58-a540-a653ef779e86</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Trailer Front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\f_body.sim_paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_body.sim_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Trailer Front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\f_body.tool_paint.jpg</Image>
+      <Text>Toolbox Paint</Text>
+      <Value>f_body.tool_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nNote: Right side shown.\nThis is the same for all chassis types.</Description>
+      <Group>Trailer Left</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\covers_paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>l_body.covers_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nNote: Right side shown.\nThis is the same for all chassis types.</Description>
+      <Group>Trailer Left</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\fans_paint.jpg</Image>
+      <Text>Fans, Paint</Text>
+      <Value>l_body.fans_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Trailer Right</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\covers_paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>r_body.covers_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Trailer Right</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\fans_paint.jpg</Image>
+      <Text>Fans, Paint</Text>
+      <Value>r_body.fans_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\chs_f_l.paint_box.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_f_l.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\chs_f_l.sideskirt_01.jpg</Image>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_f_l.sideskirt_01</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\chs_f_l.p_box_cage.jpg</Image>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_l.p_box_cage</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\chs_f_l.p_box_sidsk.jpg</Image>
+      <Text>Full Protection Sideskirts + Painted Box</Text>
+      <Value>chs_f_l.p_box_sidsk</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\chs_f_l.p_box_sidsk.jpg</Image>
+      <Text>Painted Box, 3x</Text>
+      <Value>chs_f_l.paint_box_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\chs_f_r.paint_box.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_f_r.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\chs_f_r.sideskirt_01.jpg</Image>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_f_r.sideskirt_01</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\chs_f_r.p_box_cage.jpg</Image>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_r.p_box_cage</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\chs_f_r.p_box_sidsk.jpg</Image>
+      <Text>Full Protection Sideskirts + Painted Box</Text>
+      <Value>chs_f_r.p_box_sidsk</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\chs_f_r.p_box_sidsk.jpg</Image>
+      <Text>Painted Box, 3x</Text>
+      <Value>chs_f_r.paint_box_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nSingle cover over all axels.\nThis is the same for all chassis types.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\r_fender.sin_paint.jpg</Image>
+      <Text>Single Cover - Paint</Text>
+      <Value>r_fender.sin_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nEach axel is covered using an aero panel.\nNormal chassis types only.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\r_fender.panel_paint.jpg</Image>
+      <Text>Panel Cover - Paint (Normal)</Text>
+      <Value>r_fender.panel_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nEach axel is covered using an aero panel.\nBelly chassis types only.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\r_fender.panel_paint.jpg</Image>
+      <Text>Panel Cover - Paint (Belly)</Text>
+      <Value>r_fender.panel_pnt_b</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nEach axel is covered by a round fender.\nThis is the same for all chassis types.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\r_fender.mul_paint.jpg</Image>
+      <Text>Multi Cover - Paint</Text>
+      <Value>r_fender.mul_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Left Side Rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\chs_r_l.sideskirt_01.jpg</Image>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_r_l.sideskirt_01</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Left Side Rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\chs_r_l.paint_box.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Right Side Rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\chs_r_r.sideskirt_01.jpg</Image>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_r_r.sideskirt_01</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Right Side Rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\chs_r_r.paint_box.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Trailer Rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\rear_body.sim_paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>rear_body.sim_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Trailer Rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\rear_body.sim_chrome.jpg</Image>
+      <Text>Chrome</Text>
+      <Value>rear_body.sim_chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\r_bumper.cl_paint_sim.jpg</Image>
+      <Text>Paint Standard</Text>
+      <Value>r_bumper.cl_paint_sim</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\r_bumper.pa_paint_sim.jpg</Image>
+      <Text>Paint Standard II</Text>
+      <Value>r_bumper.pa_paint_sim</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\r_bumper.pa_paint_exc.jpg</Image>
+      <Text>Paint Exclusive II</Text>
+      <Value>r_bumper.pa_paint_exc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same for all chassis types.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSLivestock\r_bumper.cl_paint_exc.jpg</Image>
+      <Text>Paint Exclusive</Text>
+      <Value>r_bumper.cl_paint_exc</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>scs.livestock</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSLivestock\paint.jpg</VehicleImage>
+  <VehicleName>SCS|Livestock</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>Belly Livestock</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSLivestock\bellypaint.jpg</Image>
+      <InternalName>body.belly_pnt</InternalName>
+      <Name>Paint</Name>
+    </Variant>
+    <Variant>
+      <Group>Belly Livestock</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSLivestock\bellysteel.jpg</Image>
+      <InternalName>body.belly_stl</InternalName>
+      <Name>Steel</Name>
+    </Variant>
+    <Variant>
+      <Group>Livestock</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSLivestock\paint.jpg</Image>
+      <InternalName>body.str_pnt</InternalName>
+      <Name>Paint</Name>
+    </Variant>
+    <Variant>
+      <Group>Livestock</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSLivestock\steel.jpg</Image>
+      <InternalName>body.str_stl</InternalName>
+      <Name>Steel</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

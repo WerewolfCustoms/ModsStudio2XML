@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>b97a7413-d5e8-40c6-a32e-f2629dc306ca</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailers.</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFoodTank\chs_f_l.paint_box.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_f_l.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailers.</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFoodTank\chs_f_l.side01_sh.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_f_l.side01_sh</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailers.</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFoodTank\chs_f_l.side01_sh_t.jpg</Image>
+      <Text>Side skirt + Spare Tyre</Text>
+      <Value>chs_f_l.side01_sh_t</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailers.</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFoodTank\chs_f_r.paint_box.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_f_r.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailers.</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFoodTank\chs_f_r.side01_sh.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_f_r.side01_sh</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailers.</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFoodTank\chs_f_r.side01_sh_t.jpg</Image>
+      <Text>Side skirt + Spare Tyre</Text>
+      <Value>chs_f_r.side01_sh_t</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailers.</Description>
+      <Group>Left Side rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFoodTank\chs_r_l.paint_box.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailers.</Description>
+      <Group>Right Side rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFoodTank\chs_r_r.paint_box.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailers.</Description>
+      <Group>Body Front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFoodTank\f_body.chrome.jpg</Image>
+      <Text>Chrome</Text>
+      <Value>f_body.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailers.</Description>
+      <Group>Body Front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFoodTank\f_body.paint.jpg</Image>
+      <Text>Painted</Text>
+      <Value>f_body.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailers.</Description>
+      <Group>Body Rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFoodTank\rear_body.chrome.jpg</Image>
+      <Text>Chrome</Text>
+      <Value>rear_body.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailers.</Description>
+      <Group>Body Rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFoodTank\rear_body.paint.jpg</Image>
+      <Text>Painted</Text>
+      <Value>rear_body.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailers.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFoodTank\r_bumper.led.jpg</Image>
+      <Text>Exclusive LED</Text>
+      <Value>r_bumper.led</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>scs.foodtank</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSFoodTank\2apaint.jpg</VehicleImage>
+  <VehicleName>SCS|Food Tanker</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>Tank 2 axle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSFoodTank\2achrome.jpg</Image>
+      <InternalName>body.tank_8_ch</InternalName>
+      <Name>Tank Chrome 2 axle</Name>
+    </Variant>
+    <Variant>
+      <Group>Tank 2 axle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSFoodTank\2apaint.jpg</Image>
+      <InternalName>body.tank_8_p</InternalName>
+      <Name>Tank Paint 2 axle</Name>
+    </Variant>
+    <Variant>
+      <Group>Tank 3 axle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSFoodTank\3achrome.jpg</Image>
+      <InternalName>body.tank_10_ch</InternalName>
+      <Name>Tank Chrome 3 axle</Name>
+    </Variant>
+    <Variant>
+      <Group>Tank 3 axle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSFoodTank\3apaint.jpg</Image>
+      <InternalName>body.tank_10_p</InternalName>
+      <Name>Tank Paint 3 axle</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

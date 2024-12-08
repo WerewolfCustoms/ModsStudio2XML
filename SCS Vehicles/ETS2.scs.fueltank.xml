@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>397c650b-0e47-4901-bfd9-b823d428cd02</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailer.</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFuelTank\chs_f_l.paint_box.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_f_l.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nThis is the same on the 3 axel trailer.</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFuelTank\chs_f_r.paint_box.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_f_r.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Body (2 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFuelTank\l_body.hose12.jpg</Image>
+      <Text>1x Hose</Text>
+      <Value>l_body.hose12</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Body (2 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFuelTank\l_body.hose22.jpg</Image>
+      <Text>2x Hose</Text>
+      <Value>l_body.hose22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Body (3 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFuelTank\l_body.hose13.jpg</Image>
+      <Text>1x Hose</Text>
+      <Value>l_body.hose13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Body (3 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFuelTank\l_body.hose23.jpg</Image>
+      <Text>2x Hose</Text>
+      <Value>l_body.hose23</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Body (2 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFuelTank\r_body.hose12.jpg</Image>
+      <Text>1x Hose</Text>
+      <Value>r_body.hose12</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Body (2 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFuelTank\r_body.hose22.jpg</Image>
+      <Text>2x Hose</Text>
+      <Value>r_body.hose22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Body (3 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFuelTank\r_body.hose13.jpg</Image>
+      <Text>1x Hose</Text>
+      <Value>r_body.hose13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Body (3 axel)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFuelTank\r_body.hose23.jpg</Image>
+      <Text>2x Hose</Text>
+      <Value>r_body.hose23</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side Rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFuelTank\chs_r_l.paint_box.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side Rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFuelTank\chs_r_r.paint_box.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFuelTank\r_bumper.paint.jpg</Image>
+      <Text>Exclusive</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFuelTank\chassis.ch_2.jpg</Image>
+      <Text>2 axels</Text>
+      <Value>chassis.ch_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSFuelTank\chassis.ch_3.jpg</Image>
+      <Text>3 axels</Text>
+      <Value>chassis.ch_3</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>scs.fueltank</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSFuelTank\3apaint.jpg</VehicleImage>
+  <VehicleName>SCS|Fuel Tanker</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>Fuel Tank</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSFuelTank\2apaint.jpg</Image>
+      <InternalName>body.tank_ch2</InternalName>
+      <Name>Tank Paint 2 axle</Name>
+    </Variant>
+    <Variant>
+      <Group>Fuel Tank</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSFuelTank\3apaint.jpg</Image>
+      <InternalName>body.tank_ch3</InternalName>
+      <Name>Tank Paint 3 axle</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

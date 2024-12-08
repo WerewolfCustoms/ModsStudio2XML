@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>09400bc7-fbc9-40c4-a7cc-aa63b93611fa</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
+      <Group>Chassis</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonBM\chassis.jpg</Image>
+      <Text>3 Axel Double Aluminium Legs</Text>
+      <Value>chassis.ch_3_dal</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
+      <Group>Chassis</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonBM\chassis.jpg</Image>
+      <Text>3 Axel Double Steel Legs</Text>
+      <Value>chassis.ch_3_dsl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
+      <Group>Chassis</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonBM\chassis.jpg</Image>
+      <Text>3 Axel Single Steel Leg</Text>
+      <Value>chassis.ch_3_sl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
+      <Group>Chassis</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonBM\chassis.jpg</Image>
+      <Text>3 Axel Steerable</Text>
+      <Value>chassis.ch_3_sw</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonBM\chs_f_l.cgp.jpg</Image>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_l.cgp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonBM\chs_f_l.cgp_ext.jpg</Image>
+      <Text>Painted Side Protection with Extinguisher</Text>
+      <Value>chs_f_l.cgp_ext</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonBM\chs_f_l.cgp_bpl.jpg</Image>
+      <Text>Painted Side Protection with Plastic Box</Text>
+      <Value>chs_f_l.cgp_bpl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonBM\chs_f_l.cgp_wt.jpg</Image>
+      <Text>Painted Side Protection with Water Tank</Text>
+      <Value>chs_f_l.cgp_wt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonBM\chs_f_l.cgp_st.jpg</Image>
+      <Text>Painted Side Protection with Spare Tyre</Text>
+      <Value>chs_f_l.cgp_st</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonBM\chs_f_r.cgp.jpg</Image>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_r.cgp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonBM\chs_f_r.cgp_ext.jpg</Image>
+      <Text>Painted Side Protection with Extinguisher</Text>
+      <Value>chs_f_r.cgp_ext</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonBM\chs_f_r.cgp_bpl.jpg</Image>
+      <Text>Painted Side Protection with Plastic Box</Text>
+      <Value>chs_f_r.cgp_bpl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonBM\chs_f_r.cgp_wt.jpg</Image>
+      <Text>Painted Side Protection with Water Tank</Text>
+      <Value>chs_f_r.cgp_wt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Front Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonBM\chs_f_r.cgp_st.jpg</Image>
+      <Text>Painted Side Protection with Spare Tyre</Text>
+      <Value>chs_f_r.cgp_st</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nUse your main skin file here.</Description>
+      <Group>Trailer Rear (use main skin file)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonBM\rear_body.door_1.jpg</Image>
+      <Text>Flap Door</Text>
+      <Value>rear_body.door_1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nUse your main skin file here.</Description>
+      <Group>Trailer Rear (use main skin file)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonBM\rear_body.door_2.jpg</Image>
+      <Text>Flap Door with Chute</Text>
+      <Value>rear_body.door_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonBM\r_bumper.simple.jpg</Image>
+      <Text>Standard</Text>
+      <Value>r_bumper.simple</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\WeiltonBM\r_bumper.exclusive.jpg</Image>
+      <Text>Exclusive</Text>
+      <Value>r_bumper.exclusive</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>wielton.bulkm</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Wielton\bulk.jpg</VehicleImage>
+  <VehicleName>Wielton|Bulk Master</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Wielton\bulk.jpg</Image>
+      <InternalName>body.dumper</InternalName>
+      <Name>Bulk Master</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

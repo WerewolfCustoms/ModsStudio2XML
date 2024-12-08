@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>4c529565-9ead-42ab-9bbe-c403beed07cc</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 5m only.</Description>
+      <Group>Front Body</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\f_body.ladder_pt.jpg</Image>
+      <Text>Ladder Paint (Silo 5m only)</Text>
+      <Value>f_body.ladder_pt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 5m (Double and HCT chassis types).</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chs_f_l.side_shr_d.jpg</Image>
+      <Text>Full Protection Sideskirts (Silo 5m)</Text>
+      <Value>chs_f_l.side_shr_d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 8m (all chassis types except for B Double).</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chs_f_l.side_short.jpg</Image>
+      <Text>Full Protection Sideskirts (Silo 8m)</Text>
+      <Value>chs_f_l.side_short</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 10m (all chassis types except for B Double).</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chs_f_l.side_long.jpg</Image>
+      <Text>Full Protection Sideskirts (Silo 10m)</Text>
+      <Value>chs_f_l.side_long</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 8m (B Double chassis types only).</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chs_f_l.side_shr_bd.jpg</Image>
+      <Text>Full Protection Sideskirts (Short, Silo 8m, B Double only)</Text>
+      <Value>chs_f_l.side_shr_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 8m (B Double chassis types only).</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chs_f_l.side_lng_bd.jpg</Image>
+      <Text>Full Protection Sideskirts (Long, Silo 8m, B Double only)</Text>
+      <Value>chs_f_l.side_lng_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 8m (B Double chassis types only).</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chs_f_l.side_lng_chb.jpg</Image>
+      <Text>Simple Side Protection and Chromed Box (Silo 8m, B Double only)</Text>
+      <Value>chs_f_l.side_lng_chb</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 8m (B Double chassis types only).</Description>
+      <Group>Left Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chs_f_l.side_lng_plb.jpg</Image>
+      <Text>Simple Side Protection and Plastic Box (Silo 8m, B Double only)</Text>
+      <Value>chs_f_l.side_lng_plb</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 5m (Double and HCT chassis types).</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chs_f_r.side_shr_d.jpg</Image>
+      <Text>Full Protection Sideskirts (Silo 5m)</Text>
+      <Value>chs_f_r.side_shr_d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 8m (all chassis types except for B Double).</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chs_f_r.side_short.jpg</Image>
+      <Text>Full Protection Sideskirts (Silo 8m)</Text>
+      <Value>chs_f_r.side_short</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 10m (all chassis types except for B Double).</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chs_f_r.side_long.jpg</Image>
+      <Text>Full Protection Sideskirts (Silo 10m)</Text>
+      <Value>chs_f_r.side_long</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 8m (B Double chassis types only).</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chs_f_r.side_shr_bd.jpg</Image>
+      <Text>Full Protection Sideskirts (Short, Silo 8m, B Double only)</Text>
+      <Value>chs_f_r.side_shr_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 8m (B Double chassis types only).</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chs_f_r.side_lng_bd.jpg</Image>
+      <Text>Full Protection Sideskirts (Long, Silo 8m, B Double only)</Text>
+      <Value>chs_f_r.side_lng_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 8m (B Double chassis types only).</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chs_f_r.side_lng_chb.jpg</Image>
+      <Text>Simple Side Protection and Chromed Box (Silo 8m, B Double only)</Text>
+      <Value>chs_f_r.side_lng_chb</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 8m (B Double chassis types only).</Description>
+      <Group>Right Side middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chs_f_r.side_lng_plb.jpg</Image>
+      <Text>Simple Side Protection and Plastic Box (Silo 8m, B Double only)</Text>
+      <Value>chs_f_r.side_lng_plb</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 5m only.</Description>
+      <Group>Left Body</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\l_body.tubes_pt_5.jpg</Image>
+      <Text>Hose Paint (Silo 5m only)</Text>
+      <Value>l_body.tubes_pt_5</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 8m only.</Description>
+      <Group>Left Body</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\l_body.tubes_pt_8.jpg</Image>
+      <Text>Hose Paint (Silo 8m only)</Text>
+      <Value>l_body.tubes_pt_8</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 10m only.</Description>
+      <Group>Left Body</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\l_body.tubes_pt_10.jpg</Image>
+      <Text>Hose Paint (Silo 10m only)</Text>
+      <Value>l_body.tubes_pt_10</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 5m only.</Description>
+      <Group>Right Body</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\r_body.tubes_pt_5.jpg</Image>
+      <Text>Hose Paint (Silo 5m only)</Text>
+      <Value>r_body.tubes_pt_5</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 8m only.</Description>
+      <Group>Right Body</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\r_body.tubes_pt_8.jpg</Image>
+      <Text>Hose Paint (Silo 8m only)</Text>
+      <Value>r_body.tubes_pt_8</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 10m only.</Description>
+      <Group>Right Body</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\r_body.tubes_pt_10.jpg</Image>
+      <Text>Hose Paint (Silo 10m only)</Text>
+      <Value>r_body.tubes_pt_10</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nEach axel is covered on Silo 5m.</Description>
+      <Group>Rear Fender - Multi Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\r_fender.pnt_mul_2.jpg</Image>
+      <Text>Paint (Silo 5m only)</Text>
+      <Value>r_fender.pnt_mul_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nEach axel is covered on Silo 8m and 10m.</Description>
+      <Group>Rear Fender - Multi Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\r_fender.pnt_mul_3.jpg</Image>
+      <Text>Paint (Silo 8m and 10m)</Text>
+      <Value>r_fender.pnt_mul_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nSingle cover over all axels on Silo 5m.</Description>
+      <Group>Rear Fender - Single Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\r_fender.pnt_sng_2.jpg</Image>
+      <Text>Paint (Silo 5m only)</Text>
+      <Value>r_fender.pnt_sng_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nSingle cover over all axels on Silo 8m and 10m.</Description>
+      <Group>Rear Fender - Single Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\r_fender.pnt_sng_3.jpg</Image>
+      <Text>Paint (Silo 8m and 10m)</Text>
+      <Value>r_fender.pnt_sng_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on non hook chassis types.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\r_bumper.paintable.jpg</Image>
+      <Text>Exclusive (non hook chassis types)</Text>
+      <Value>r_bumper.paintable</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on hook chassis types.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\r_bumper.paintable_h.jpg</Image>
+      <Text>Exclusive (hook chassis types)</Text>
+      <Value>r_bumper.paintable_h</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 8m only.</Description>
+      <Group>Rear Body</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\rear_body.paint_8.jpg</Image>
+      <Text>Ladder Paint (Silo 8m only)</Text>
+      <Value>rear_body.paint_8</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent on Silo 10m only.</Description>
+      <Group>Rear Body</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\rear_body.paint_10.jpg</Image>
+      <Text>Ladder Paint (Silo 10m only)</Text>
+      <Value>rear_body.paint_10</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent in double and HCT configs.</Description>
+      <Group>Chassis</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chassis.ch_5_2a_p.jpg</Image>
+      <Text>Silo 5m</Text>
+      <Value>chassis.ch_5_2a_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent in single and B Double configs.</Description>
+      <Group>Chassis</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chassis.ch_8_3a.jpg</Image>
+      <Text>Silo 8m (Single 3 axel)</Text>
+      <Value>chassis.ch_8_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent in double and HCT configs.</Description>
+      <Group>Chassis</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chassis.ch_8_3a_h.jpg</Image>
+      <Text>Silo 8m (Single 3 axel with hook)</Text>
+      <Value>chassis.ch_8_3a_h</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent in B Double and HCT configs.</Description>
+      <Group>Chassis</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chassis.ch_8_3a_l.jpg</Image>
+      <Text>Silo 8m (B Double Single 3 axel)</Text>
+      <Value>chassis.ch_8_3a_l</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent in single and B Double configs.</Description>
+      <Group>Chassis</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chassis.ch_10_3a.jpg</Image>
+      <Text>Silo 10m (Single 3 axel)</Text>
+      <Value>chassis.ch_10_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPresent in double and HCT configs.</Description>
+      <Group>Chassis</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSsilo\chassis.ch_10_3a_h.jpg</Image>
+      <Text>Silo 10m (Single 3 axel with hook)</Text>
+      <Value>chassis.ch_10_3a_h</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>scs.silo</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSsilo\silo8.jpg</VehicleImage>
+  <VehicleName>SCS|Silo</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>Silo</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSsilo\silo5.jpg</Image>
+      <InternalName>body.silo5</InternalName>
+      <Name>Silo 5m</Name>
+    </Variant>
+    <Variant>
+      <Group>Silo</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSsilo\silo8.jpg</Image>
+      <InternalName>body.silo8</InternalName>
+      <Name>Silo 8m</Name>
+    </Variant>
+    <Variant>
+      <Group>Silo</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSsilo\silo10.jpg</Image>
+      <InternalName>body.silo10</InternalName>
+      <Name>Silo 10m</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>
