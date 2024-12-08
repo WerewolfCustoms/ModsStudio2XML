@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>073790ef-6037-4488-8f9a-95c3b2ae144b</Id>
+  <Id>073790ef-6037-4488-8f9a-95c3baae144b</Id>
   <IsEnabled>true</IsEnabled>
   <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS.featherlite.hauler.xml</FilePath>
   <Game>ATS</Game>
