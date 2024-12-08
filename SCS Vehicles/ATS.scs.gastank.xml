@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>3afc914e-76de-4e44-8557-4333ed0e8c6e</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>Single 32ft long.\nUse a 4x4 pixel coloured square here.</Description>
+      <Group>Chassis (colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\chassis.ch_32_2a.jpg</Image>
+      <Text>32 Single</Text>
+      <Value>chassis.ch_32_2a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Single 32ft long.\nUse a 4x4 pixel coloured square here.</Description>
+      <Group>Chassis B-Double (colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\chassis.ch_32_2a_p.jpg</Image>
+      <Text>Rear 32 Single</Text>
+      <Value>chassis.ch_32_2a_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Single 32ft long.\nUse a 4x4 pixel coloured square here.</Description>
+      <Group>Chassis B-Double (colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\chassis.ch_32_3a_bd.jpg</Image>
+      <Text>Front 32 Single</Text>
+      <Value>chassis.ch_32_3a_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Single 43ft long.\nUse a 4x4 pixel coloured square here.</Description>
+      <Group>Chassis (colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\chassis.ch_43_2a.jpg</Image>
+      <Text>43 Single</Text>
+      <Value>chassis.ch_43_2a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Single 48ft long.\nUse a 4x4 pixel coloured square here.</Description>
+      <Group>Chassis (colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\chassis.ch_48_3a.jpg</Image>
+      <Text>48 Single</Text>
+      <Value>chassis.ch_48_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Single 53ft long.\nUse a 4x4 pixel coloured square here.</Description>
+      <Group>Chassis (colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\chassis.ch_53_4.jpg</Image>
+      <Text>53 Single</Text>
+      <Value>chassis.ch_53_4a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Single 53ft long (4th axel steerable).\nUse a 4x4 pixel coloured square here.</Description>
+      <Group>Chassis (colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\chassis.ch_53_4.jpg</Image>
+      <Text>53 Single 4th axel steerable</Text>
+      <Value>chassis.ch_53_4s</Value>
+    </ListItem>
+    <ListItem>
+      <Description>The same on all chassis types.</Description>
+      <Group>Front Fender</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\f_fender.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_fender.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Exclusive markers for the 32ft trailer.</Description>
+      <Group>Markers</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\markers.exc_p_32.jpg</Image>
+      <Text>Exclusive 32</Text>
+      <Value>markers.exc_p_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Exclusive markers for the 43ft trailer.\nNote: 32ft shown.</Description>
+      <Group>Markers</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\markers.exc_p_32.jpg</Image>
+      <Text>Exclusive 43</Text>
+      <Value>markers.exc_p_43</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Exclusive markers for the 48ft trailer.\nNote: 32ft shown.</Description>
+      <Group>Markers</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\markers.exc_p_32.jpg</Image>
+      <Text>Exclusive 48</Text>
+      <Value>markers.exc_p_48</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Exclusive markers for the 53ft trailer.\nNote: 32ft shown.</Description>
+      <Group>Markers</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\markers.exc_p_32.jpg</Image>
+      <Text>Exclusive 53</Text>
+      <Value>markers.exc_p_53</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Standard markers for the 32ft trailer.</Description>
+      <Group>Markers</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\markers.sim_p_32.jpg</Image>
+      <Text>Standard 32</Text>
+      <Value>markers.sim_p_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Standard markers for the 43ft trailer.\nNote: 32ft shown.</Description>
+      <Group>Markers</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\markers.sim_p_32.jpg</Image>
+      <Text>Standard 43</Text>
+      <Value>markers.sim_p_43</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Standard markers for the 48ft trailer.\nNote: 32ft shown.</Description>
+      <Group>Markers</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\markers.sim_p_32.jpg</Image>
+      <Text>Standard 48</Text>
+      <Value>markers.sim_p_48</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Standard markers for the 53ft trailer.\nNote: 32ft shown.</Description>
+      <Group>Markers</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\markers.sim_p_32.jpg</Image>
+      <Text>Standard 53</Text>
+      <Value>markers.sim_p_53</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Present on all chassis types.</Description>
+      <Group>Left Chassis Front</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\chs_f_l.pgpn.jpg</Image>
+      <Text>Pipeguard Paint</Text>
+      <Value>chs_f_l.pgpn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Present on all chassis types.</Description>
+      <Group>Left Chassis Front</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\chs_f_l.pgpn_ext.jpg</Image>
+      <Text>Pipeguard Paint + Fire Extinguisher</Text>
+      <Value>chs_f_l.pgpn_ext</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Present on chassis 43ft and above only.</Description>
+      <Group>Left Chassis Front</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\chs_f_l.pgpn_albox.jpg</Image>
+      <Text>Pipeguard Paint + Aluminium Box</Text>
+      <Value>chs_f_l.pgpn_albox</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Present on chassis 43ft and above only</Description>
+      <Group>Left Chassis Front</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\chs_f_l.pgpn_chbox.jpg</Image>
+      <Text>Pipeguard Paint + Chrome Box</Text>
+      <Value>chs_f_l.pgpn_chbox</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Present on all chassis types.</Description>
+      <Group>Right Chassis Front</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\chs_f_r.pgpn.jpg</Image>
+      <Text>Pipeguard Paint</Text>
+      <Value>chs_f_r.pgpn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Present on all chassis types.</Description>
+      <Group>Right Chassis Front</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\chs_f_r.pgpn_ext.jpg</Image>
+      <Text>Pipeguard Paint + Fire Extinguisher</Text>
+      <Value>chs_f_r.pgpn_ext</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Present on chassis 43ft and above only.</Description>
+      <Group>Right Chassis Front</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\chs_f_r.pgpn_albox.jpg</Image>
+      <Text>Pipeguard Paint + Aluminium Box</Text>
+      <Value>chs_f_r.pgpn_albox</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Present on chassis 43ft and above only.</Description>
+      <Group>Right Chassis Front</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\chs_f_r.pgpn_chbox.jpg</Image>
+      <Text>Pipeguard Paint + Chrome Box</Text>
+      <Value>chs_f_r.pgpn_chbox</Value>
+    </ListItem>
+    <ListItem>
+      <Description>32ft trailers only.</Description>
+      <Group>Trailer Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\l_body.hose2_pn_32.jpg</Image>
+      <Text>Hose Paint 2x, 32</Text>
+      <Value>l_body.hose2_pn_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>43ft trailers only.\nNote: 32ft shown.</Description>
+      <Group>Trailer Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\l_body.hose2_pn_32.jpg</Image>
+      <Text>Hose Paint 2x, 43</Text>
+      <Value>l_body.hose2_pn_43</Value>
+    </ListItem>
+    <ListItem>
+      <Description>48ft trailers only.\nNote: 32ft shown.</Description>
+      <Group>Trailer Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\l_body.hose2_pn_32.jpg</Image>
+      <Text>Hose Paint 2x, 48</Text>
+      <Value>l_body.hose2_pn_48</Value>
+    </ListItem>
+    <ListItem>
+      <Description>53ft trailers only.\nNote: 32ft shown.</Description>
+      <Group>Trailer Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\l_body.hose2_pn_32.jpg</Image>
+      <Text>Hose Paint 2x, 53</Text>
+      <Value>l_body.hose2_pn_53</Value>
+    </ListItem>
+    <ListItem>
+      <Description>32ft trailers only.</Description>
+      <Group>Trailer Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\l_body.hose1_pn_32.jpg</Image>
+      <Text>Hose Paint, 32</Text>
+      <Value>l_body.hose1_pn_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>43ft trailers only.\nNote: 32ft shown.</Description>
+      <Group>Trailer Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\l_body.hose1_pn_32.jpg</Image>
+      <Text>Hose Paint, 43</Text>
+      <Value>l_body.hose1_pn_43</Value>
+    </ListItem>
+    <ListItem>
+      <Description>48ft trailers only.\nNote: 32ft shown.</Description>
+      <Group>Trailer Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\l_body.hose1_pn_32.jpg</Image>
+      <Text>Hose Paint, 48</Text>
+      <Value>l_body.hose1_pn_48</Value>
+    </ListItem>
+    <ListItem>
+      <Description>53ft trailers only.\nNote: 32ft shown.</Description>
+      <Group>Trailer Left</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\l_body.hose1_pn_32.jpg</Image>
+      <Text>Hose Paint, 53</Text>
+      <Value>l_body.hose1_pn_53</Value>
+    </ListItem>
+    <ListItem>
+      <Description>32ft trailers only.</Description>
+      <Group>Trailer Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\r_body.hose2_pn_32.jpg</Image>
+      <Text>Hose Paint 2x, 32</Text>
+      <Value>r_body.hose2_pn_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>43ft trailers only.\nNote: 32ft shown.</Description>
+      <Group>Trailer Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\r_body.hose2_pn_32.jpg</Image>
+      <Text>Hose Paint 2x, 43</Text>
+      <Value>r_body.hose2_pn_43</Value>
+    </ListItem>
+    <ListItem>
+      <Description>48ft trailers only.\nNote: 32ft shown.</Description>
+      <Group>Trailer Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\r_body.hose2_pn_32.jpg</Image>
+      <Text>Hose Paint 2x, 48</Text>
+      <Value>r_body.hose2_pn_48</Value>
+    </ListItem>
+    <ListItem>
+      <Description>53ft trailers only.\nNote: 32ft shown.</Description>
+      <Group>Trailer Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\r_body.hose2_pn_32.jpg</Image>
+      <Text>Hose Paint 2x, 53</Text>
+      <Value>r_body.hose2_pn_53</Value>
+    </ListItem>
+    <ListItem>
+      <Description>32ft trailers only.</Description>
+      <Group>Trailer Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\r_body.hose1_pn_32.jpg</Image>
+      <Text>Hose Paint, 32</Text>
+      <Value>r_body.hose1_pn_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>43ft trailers only.\nNote: 32ft shown.</Description>
+      <Group>Trailer Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\r_body.hose1_pn_32.jpg</Image>
+      <Text>Hose Paint, 43</Text>
+      <Value>r_body.hose1_pn_43</Value>
+    </ListItem>
+    <ListItem>
+      <Description>48ft trailers only.\nNote: 32ft shown.</Description>
+      <Group>Trailer Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\r_body.hose1_pn_32.jpg</Image>
+      <Text>Hose Paint, 48</Text>
+      <Value>r_body.hose1_pn_48</Value>
+    </ListItem>
+    <ListItem>
+      <Description>53ft trailers only.\nNote: 32ft shown.</Description>
+      <Group>Trailer Right</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\r_body.hose1_pn_32.jpg</Image>
+      <Text>Hose Paint, 53</Text>
+      <Value>r_body.hose1_pn_53</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Each axel is covered.\n2 axel chassis types only.</Description>
+      <Group>Rear Fender</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\r_fender.pnt_mult_2.jpg</Image>
+      <Text>Multi Cover - Paint 2 axels</Text>
+      <Value>r_fender.pnt_mult_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Each axel is covered.\n3 axel chassis types only.</Description>
+      <Group>Rear Fender</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\r_fender.pnt_mult_3.jpg</Image>
+      <Text>Multi Cover - Paint 3 axels</Text>
+      <Value>r_fender.pnt_mult_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Each axel is covered.\n4 axel chassis types only.</Description>
+      <Group>Rear Fender</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\r_fender.pnt_mult_4.jpg</Image>
+      <Text>Multi Cover - Paint 4 axels</Text>
+      <Value>r_fender.pnt_mult_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Single cover over all axels.\n2 axel chassis types only.</Description>
+      <Group>Rear Fender</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\r_fender.pnt_sin_2.jpg</Image>
+      <Text>Single Cover - Paint 2 axels</Text>
+      <Value>r_fender.pnt_sin_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Single cover over all axels.\n3 axel chassis types only.</Description>
+      <Group>Rear Fender</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\r_fender.pnt_sin_3.jpg</Image>
+      <Text>Single Cover - Paint 3 axels</Text>
+      <Value>r_fender.pnt_sin_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Single cover over all axels.\n4 axel chassis types only.</Description>
+      <Group>Rear Fender</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\r_fender.pnt_sin_4.jpg</Image>
+      <Text>Single Cover - Paint 4 axels</Text>
+      <Value>r_fender.pnt_sin_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>The same on all chassis types.</Description>
+      <Group>Trailer Rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\rear_body.light_pn.jpg</Image>
+      <Text>Standard Paint</Text>
+      <Value>rear_body.light_pn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>The same on all chassis types.</Description>
+      <Group>Trailer Rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\rear_body.side_lamp_pn.jpg</Image>
+      <Text>Exclusive Paint</Text>
+      <Value>rear_body.side_lamp_pn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>The same on all chassis types.</Description>
+      <Group>Trailer Rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\rear_body.str_lamp_pn.jpg</Image>
+      <Text>Strobe Paint</Text>
+      <Value>rear_body.str_lamp_pn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>The same on all chassis types.</Description>
+      <Group>Trailer Rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\rear_body.wing_01.jpg</Image>
+      <Text>Wing Paint</Text>
+      <Value>rear_body.wing_01</Value>
+    </ListItem>
+    <ListItem>
+      <Description>The same on all chassis types.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\r_bumper.exc_paint.jpg</Image>
+      <Text>Exclusive Paint</Text>
+      <Value>r_bumper.exc_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>The same on all chassis types.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSGasTank\r_bumper.sim_paint.jpg</Image>
+      <Text>Standard Paint</Text>
+      <Value>r_bumper.sim_paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>scs.gastank</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSGasTank\gas43.jpg</VehicleImage>
+  <VehicleName>SCS|LP Gas Tank</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>32ft long</Description>
+      <Group>LP Gas Tank</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSGasTank\gas32.jpg</Image>
+      <InternalName>body.tank_32</InternalName>
+      <Name>Gas Tank 32</Name>
+    </Variant>
+    <Variant>
+      <Description>43ft long</Description>
+      <Group>LP Gas Tank</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSGasTank\gas43.jpg</Image>
+      <InternalName>body.tank_43</InternalName>
+      <Name>Gas Tank 43</Name>
+    </Variant>
+    <Variant>
+      <Description>48ft long</Description>
+      <Group>LP Gas Tank</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSGasTank\gas48.jpg</Image>
+      <InternalName>body.tank_48</InternalName>
+      <Name>Gas Tank 48</Name>
+    </Variant>
+    <Variant>
+      <Description>53ft long</Description>
+      <Group>LP Gas Tank</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSGasTank\gas53.jpg</Image>
+      <InternalName>body.tank_53</InternalName>
+      <Name>Gas Tank 53</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

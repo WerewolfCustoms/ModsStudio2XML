@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>67d3b56e-5dfa-4ece-a9fd-546ff03f3ed0</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\sunshld.shape2.jpg</Image>
+      <Text>Samurai</Text>
+      <Value>sunshld.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\sunshld.shape14.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>sunshld.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\sunshld.shape15.jpg</Image>
+      <Text>Paint Luxury * DLC *</Text>
+      <Value>sunshld.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\mirror.shape1.jpg</Image>
+      <Text>Paint</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Window Frame</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\f_wnd_frame.paint.jpg</Image>
+      <Text>Paint (MegaSpace Cab)</Text>
+      <Value>f_wnd_frame.paint_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Window Frame</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\f_wnd_frame.paint.jpg</Image>
+      <Text>Paint (Sleeper Cabs)</Text>
+      <Value>f_wnd_frame.paint_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\f_intake_cab.chrome_b_a.jpg</Image>
+      <Text>Paint and Chrome (MegaSpace Cab) * DLC *</Text>
+      <Value>f_intake_cab.chrome_b_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\f_intake_cab.chrome_b_bc.jpg</Image>
+      <Text>Paint and Chrome (Sleeper Cabs) * DLC *</Text>
+      <Value>f_intake_cab.chrome_b_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\f_intake_cab.chrome_f_a.jpg</Image>
+      <Text>Chrome and Paint (MegaSpace Cab) * DLC *</Text>
+      <Value>f_intake_cab.chrome_f_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\f_intake_cab.chrome_f_bc.jpg</Image>
+      <Text>Chrome and Paint (Sleeper Cabs) * DLC *</Text>
+      <Value>f_intake_cab.chrome_f_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\f_intake_cab.paint_a.jpg</Image>
+      <Text>Paint (MegaSpace Cab)</Text>
+      <Value>f_intake_cab.paint_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\f_intake_cab.paint_b_c.jpg</Image>
+      <Text>Paint (Sleeper Cabs)</Text>
+      <Value>f_intake_cab.paint_b_c</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\f_bumper.chrometrim_a.jpg</Image>
+      <Text>Paint and Chrome (MegaSpace Cab) * DLC *</Text>
+      <Value>f_bumper.chrometrim_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\f_bumper.chrometrimbc.jpg</Image>
+      <Text>Paint and Chrome (Sleeper Cabs) * DLC *</Text>
+      <Value>f_bumper.chrometrimbc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\f_bumper.paint_a.jpg</Image>
+      <Text>Paint (MegaSpace Cab)</Text>
+      <Value>f_bumper.paint_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\f_bumper.paint_bc.jpg</Image>
+      <Text>Paint (Sleeper Cabs)</Text>
+      <Value>f_bumper.paint_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\f_mudflap.mbp.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_mudflap.mbp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Strip</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\s_strip.paint_a.jpg</Image>
+      <Text>Paint (MegaSpace Cab) * DLC *</Text>
+      <Value>s_strip.paint_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Strip</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\s_strip.paint_bc.jpg</Image>
+      <Text>Paint (Sleeper Cabs) * DLC *</Text>
+      <Value>s_strip.paint_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Handle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\doorhndl.shape3.jpg</Image>
+      <Text>Paint and Chrome</Text>
+      <Value>doorhndl.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Corner Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\cor_def.chtrim_a.jpg</Image>
+      <Text>Paint and Chrome (MegaSpace Cab) * DLC *</Text>
+      <Value>cor_def.chtrim_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Corner Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\cor_def.chtrim_bc.jpg</Image>
+      <Text>Paint and Chrome (Sleeper Cabs) * DLC *</Text>
+      <Value>cor_def.chtrim_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Corner Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\cor_def.paint_a.jpg</Image>
+      <Text>Paint (MegaSpace Cab)</Text>
+      <Value>cor_def.paint_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Corner Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\cor_def.paint_bc.jpg</Image>
+      <Text>Paint (Sleeper Cabs)</Text>
+      <Value>cor_def.paint_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Corner Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\cor_def.plastic.jpg</Image>
+      <Text>Plastic (All Cabs) * DLC *</Text>
+      <Value>cor_def.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory overrides Paint (MegaSpace Cab) in Front Fender (Chassis).</Description>
+      <Group>Front Fender (Cabin)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\f_fender_cab.paint_a.jpg</Image>
+      <Text>Paint (MegaSpace Cab)</Text>
+      <Value>f_fender_cab.paint_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory overrides Paint (Sleeper Cabs) in Front Fender (Chassis).</Description>
+      <Group>Front Fender (Cabin)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\f_fender_cab.paint_bc.jpg</Image>
+      <Text>Paint (Sleeper Cabs)</Text>
+      <Value>f_fender_cab.paint_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory overrides Paint (MegaSpace Cab) in Front Fender (Chassis).</Description>
+      <Group>Front Fender (Cabin)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\f_fender_cab.plasticlip_a.jpg</Image>
+      <Text>Paint and Plastic (MegaSpace Cab) * DLC *</Text>
+      <Value>f_fender_cab.plasticlip_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory is overriden by (MegaSpace Cab) accessories in Front Fender (Cabin).</Description>
+      <Group>Front Fender (Chassis)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\f_fender_chs.paint_a.jpg</Image>
+      <Text>Paint (MegaSpace Cab)</Text>
+      <Value>f_fender_chs.paint_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory is overriden by Paint (Sleeper Cabs) in Front Fender (Cabin).</Description>
+      <Group>Front Fender (Chassis)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\f_fender_chs.paint_bc.jpg</Image>
+      <Text>Paint (Sleeper Cabs)</Text>
+      <Value>f_fender_chs.paint_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassis 4x2, 6x2, 6x2 Taglift and 6x4.\nSee screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\sideskirt.chrome_trim.jpg</Image>
+      <Text>Paint and chrome * DLC *</Text>
+      <Value>sideskirt.chrome_trim</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassis 6x2/4 and 6x2/4 Midlift.\nSee screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\sideskirt.chrome_trim2.jpg</Image>
+      <Text>Paint and chrome * DLC *</Text>
+      <Value>sideskirt.chrome_trim2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassis 4x2, 6x2, 6x2 Taglift and 6x4.\nSee screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\sideskirt.stock_4x2.jpg</Image>
+      <Text>Paint</Text>
+      <Value>sideskirt.stock_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassis 6x2/4 and 6x2/4 Midlift.\nSee screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\sideskirt.stock_6x2_4.jpg</Image>
+      <Text>Paint</Text>
+      <Value>sideskirt.stock_6x2_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\exhaust_m.exhaust1a.jpg</Image>
+      <Text>Thor (MegaSpace Cab) * DLC *</Text>
+      <Value>exhaust_m.exhaust1a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\exhaust_m.exhaust1b.jpg</Image>
+      <Text>Thor (Sleeper High Roof) * DLC *</Text>
+      <Value>exhaust_m.exhaust1b</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\exhaust_m.exhaust1c.jpg</Image>
+      <Text>Thor (Sleeper Low Roof) * DLC *</Text>
+      <Value>exhaust_m.exhaust1c</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_chs_cover.paint4x2.jpg</Image>
+      <Text>Diva 4x2 * DLC *</Text>
+      <Value>r_chs_cover.paint4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_chs_cover.paint6x24.jpg</Image>
+      <Text>Diva 6x2/4 * DLC *</Text>
+      <Value>r_chs_cover.paint6x24</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_chs_cover.paint6x4.jpg</Image>
+      <Text>Diva 6x4 * DLC *</Text>
+      <Value>r_chs_cover.paint6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_fendr_top.4x2paint.jpg</Image>
+      <Text>Paint 4x2 * DLC *</Text>
+      <Value>r_fendr_top.4x2paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_fendr_top.6x24paint.jpg</Image>
+      <Text>Paint 6x2/4 * DLC *</Text>
+      <Value>r_fendr_top.6x24paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_fendr_top.6x2paint.jpg</Image>
+      <Text>Paint 6x2 * DLC *</Text>
+      <Value>r_fendr_top.6x2paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_fender.4x2paint.jpg</Image>
+      <Text>Paint 4x2 * DLC *</Text>
+      <Value>r_fender.4x2paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_fender.6x24paint.jpg</Image>
+      <Text>Paint 6x2/4 * DLC *</Text>
+      <Value>r_fender.6x24paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_fender.6x2paint.jpg</Image>
+      <Text>Paint 6x2 * DLC *</Text>
+      <Value>r_fender.6x2paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_bumper.v1paint.jpg</Image>
+      <Text>Centurion Chrome 4x2 * DLC *</Text>
+      <Value>r_bumper.4x2v1chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_bumper.v1paint.jpg</Image>
+      <Text>Centurion Paint 4x2 * DLC *</Text>
+      <Value>r_bumper.4x2v1paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_bumper.v1paint.jpg</Image>
+      <Text>Centurion 4x2 * DLC *</Text>
+      <Value>r_bumper.4x2v1plate</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_bumper.v2paint.jpg</Image>
+      <Text>Thor Paint 4x2 * DLC *</Text>
+      <Value>r_bumper.4x2v2paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_bumper.v3paint.jpg</Image>
+      <Text>Diva Paint 4x2 * DLC *</Text>
+      <Value>r_bumper.4x2v3paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_bumper.paint.jpg</Image>
+      <Text>Paint 4x2 * DLC *</Text>
+      <Value>r_bumper.4x2paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_bumper.v1paint.jpg</Image>
+      <Text>Centurion Chrome 6x2/4 * DLC *</Text>
+      <Value>r_bumper.6x24v1chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_bumper.v1paint.jpg</Image>
+      <Text>Centurion Paint 6x2/4 * DLC *</Text>
+      <Value>r_bumper.6x24v1paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_bumper.v1paint.jpg</Image>
+      <Text>Centurion 6x2/4 * DLC *</Text>
+      <Value>r_bumper.6x24v1plate</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_bumper.v2paint.jpg</Image>
+      <Text>Thor Paint 6x2/4 * DLC *</Text>
+      <Value>r_bumper.6x24v2paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_bumper.v3paint.jpg</Image>
+      <Text>Diva Paint 6x2/4 * DLC *</Text>
+      <Value>r_bumper.6x24v3paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_bumper.paint.jpg</Image>
+      <Text>Paint 6x2/4 * DLC *</Text>
+      <Value>r_bumper.6x24paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_bumper.v1paint.jpg</Image>
+      <Text>Centurion Chrome 6x2 * DLC *</Text>
+      <Value>r_bumper.6x2v1chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_bumper.v1paint.jpg</Image>
+      <Text>Centurion Paint 6x2 * DLC *</Text>
+      <Value>r_bumper.6x2v1paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_bumper.v1paint.jpg</Image>
+      <Text>Centurion 6x2 * DLC *</Text>
+      <Value>r_bumper.6x2v1plate</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_bumper.v2paint.jpg</Image>
+      <Text>Thor Paint 6x2 * DLC *</Text>
+      <Value>r_bumper.6x2v2paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_bumper.v3paint.jpg</Image>
+      <Text>Diva Paint 6x2 * DLC *</Text>
+      <Value>r_bumper.6x2v3paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MBactros09\r_bumper.paint.jpg</Image>
+      <Text>Paint 6x2 * DLC *</Text>
+      <Value>r_bumper.6x2paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>mercedes.actros</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMerc\09_mega.jpg</VehicleImage>
+  <VehicleName>Mercedes|Actros (2009)</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMerc\09_low_sleep.jpg</Image>
+      <InternalName>cabin_l_lw.mercedes.actros.cabin</InternalName>
+      <Name>Low Roof Sleeper</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMerc\09_high_sleep.jpg</Image>
+      <InternalName>cabin_l.mercedes.actros.cabin</InternalName>
+      <Name>High Roof Sleeper</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMerc\09_mega.jpg</Image>
+      <InternalName>megaspace.mercedes.actros.cabin</InternalName>
+      <Name>Megaspace</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

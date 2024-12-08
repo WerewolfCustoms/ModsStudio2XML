@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>21e81427-ed3e-4079-a0b0-11a21a1b780c</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\sunshld.shape1.jpg</Image>
+      <Text>Stock (Topline Cab)</Text>
+      <Value>sunshld.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\sunshld.shape1bc.jpg</Image>
+      <Text>Stock (Normal and Highline)</Text>
+      <Value>sunshld.shape1bc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\sunshld.shape2.jpg</Image>
+      <Text>Samurai</Text>
+      <Value>sunshld.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\mirror.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory overrides Front Mask (Chassis).</Description>
+      <Group>Front Mask (Cabin)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\f_intake_cab.mg_carp.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_intake_cab.mg_carp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory is overriden by Front Mask (Cabin).</Description>
+      <Group>Front Mask (Chassis)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\f_intake_chs.mg_carp.jpg</Image>
+      <Text>Paint * DLC *</Text>
+      <Value>f_intake_chs.mg_carp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\f_mudflap.dflapsmgkotr.jpg</Image>
+      <Text>King of the Road Paint * DLC *</Text>
+      <Value>f_mudflap.dflapsmgkotr</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\f_mudflap.psmgmgscania.jpg</Image>
+      <Text>Scania Griffin Paint * DLC *</Text>
+      <Value>f_mudflap.psmgmgscania</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\f_mudflap.lapsmgscania.jpg</Image>
+      <Text>Scania Standard Paint * DLC *</Text>
+      <Value>f_mudflap.lapsmgscania</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\f_mudflap.mudflapsmgv8.jpg</Image>
+      <Text>Scania V8 Power Paint * DLC *</Text>
+      <Value>f_mudflap.mudflapsmgv8</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Handle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\doorhndl.shape2.jpg</Image>
+      <Text>Paint</Text>
+      <Value>doorhndl.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\sideskirt.shape1.jpg</Image>
+      <Text>Stock 4x2</Text>
+      <Value>sideskirt.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\sideskirt.shape2.jpg</Image>
+      <Text>Stock V8 4x2</Text>
+      <Value>sideskirt.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\sideskirt.stock_6x.jpg</Image>
+      <Text>Stock 6xn</Text>
+      <Value>sideskirt.stock_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\sideskirt.stock_6x_v8.jpg</Image>
+      <Text>Stock V8 6xn</Text>
+      <Value>sideskirt.stock_6x_v8</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\r_chs_cover.chscmg4x203.jpg</Image>
+      <Text>Diva 4x2 * DLC *</Text>
+      <Value>r_chs_cover.chscmg4x203</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\r_chs_cover.chscmg6x203.jpg</Image>
+      <Text>Diva 6x2 * DLC *</Text>
+      <Value>r_chs_cover.chscmg6x203</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\r_chs_cover.chscmg6x2403.jpg</Image>
+      <Text>Diva 6x2/4 * DLC *</Text>
+      <Value>r_chs_cover.chscmg6x2403</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\r_bumper.shape1.jpg</Image>
+      <Text>Stock</Text>
+      <Value>r_bumper.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\r_bumper.arbumpermg01.jpg</Image>
+      <Text>Diva * DLC *</Text>
+      <Value>r_bumper.arbumpermg01</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaR09\r_bumper.arbumpermg03.jpg</Image>
+      <Text>Thor * DLC *</Text>
+      <Value>r_bumper.arbumpermg03</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>scania.r</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Low power engine sound</Text>
+      <Value>sound_lo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>High power engine sound</Text>
+      <Value>sound_hi</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSScania\r09topline.jpg</VehicleImage>
+  <VehicleName>Scania|R Series</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSScania\r09normal.jpg</Image>
+      <InternalName>normal.scania.r.cabin</InternalName>
+      <Name>Normal</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSScania\r09highline.jpg</Image>
+      <InternalName>highline.scania.r.cabin</InternalName>
+      <Name>Highline</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSScania\r09topline.jpg</Image>
+      <InternalName>topline.scania.r.cabin</InternalName>
+      <Name>Topline</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSScania\r09_8x4.jpg</Image>
+      <InternalName>tl_8x4.scania.r.cabin</InternalName>
+      <Name>Topline 8x4</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

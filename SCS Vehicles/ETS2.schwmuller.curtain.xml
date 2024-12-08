@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>c4d4b200-768d-4963-90b3-2c9f636f6cc1</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_l.sp1p.jpg</Image>
+      <Text>Simple Painted Side Skirt</Text>
+      <Value>chs_f_l.sp1p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_l.sp2p.jpg</Image>
+      <Text>Painted Side Skirt</Text>
+      <Value>chs_f_l.sp2p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_l.sp2p_et.jpg</Image>
+      <Text>Painted Side Skirt + Tyre Rack</Text>
+      <Value>chs_f_l.sp2p_et</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_l.sp2p_b2.jpg</Image>
+      <Text>Painted Side Skirt + Store Box</Text>
+      <Value>chs_f_l.sp2p_b2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_l.sp2p_b4.jpg</Image>
+      <Text>Painted Side Skirt + Store Box 2</Text>
+      <Value>chs_f_l.sp2p_b4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_l.sp2p_b3.jpg</Image>
+      <Text>Painted Side Skirt + Stow Box</Text>
+      <Value>chs_f_l.sp2p_b3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_l.sp2_b1p.jpg</Image>
+      <Text>Side Skirt + Painted Store Box</Text>
+      <Value>chs_f_l.sp2_b1p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_l.sp2p_b1p.jpg</Image>
+      <Text>Painted Side Skirt + Painted Box</Text>
+      <Value>chs_f_l.sp2p_b1p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_l.sp2p_t.jpg</Image>
+      <Text>Painted Side Skirt + Spare Tyre</Text>
+      <Value>chs_f_l.sp2p_t</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_l.sp2p_b1.jpg</Image>
+      <Text>Painted Side Skirt + Chromed Box</Text>
+      <Value>chs_f_l.sp2p_b1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_l.pallet1p.jpg</Image>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_f_l.pallet1p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_r.sp1p.jpg</Image>
+      <Text>Simple Painted Side Skirt</Text>
+      <Value>chs_f_r.sp1p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_r.sp2p.jpg</Image>
+      <Text>Painted Side Skirt</Text>
+      <Value>chs_f_r.sp2p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_r.sp2p_et.jpg</Image>
+      <Text>Painted Side Skirt + Tyre Rack</Text>
+      <Value>chs_f_r.sp2p_et</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_r.sp2p_b2.jpg</Image>
+      <Text>Painted Side Skirt + Store Box</Text>
+      <Value>chs_f_r.sp2p_b2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_r.sp2p_b4.jpg</Image>
+      <Text>Painted Side Skirt + Store Box 2</Text>
+      <Value>chs_f_r.sp2p_b4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_r.sp2p_b3.jpg</Image>
+      <Text>Painted Side Skirt + Stow Box</Text>
+      <Value>chs_f_r.sp2p_b3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_r.sp2_b1p.jpg</Image>
+      <Text>Side Skirt + Painted Store Box</Text>
+      <Value>chs_f_r.sp2_b1p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_r.sp2p_b1p.jpg</Image>
+      <Text>Painted Side Skirt + Painted Box</Text>
+      <Value>chs_f_r.sp2p_b1p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_r.sp2p_t.jpg</Image>
+      <Text>Painted Side Skirt + Spare Tyre</Text>
+      <Value>chs_f_r.sp2p_t</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_r.sp2p_b1.jpg</Image>
+      <Text>Painted Side Skirt + Chromed Box</Text>
+      <Value>chs_f_r.sp2p_b1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_f_r.pallet1p.jpg</Image>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_f_r.pallet1p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwRF\chs_r_l.b1p.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.b1p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_r_l.b1p_et.jpg</Image>
+      <Text>Painted Box + Tyre Rack</Text>
+      <Value>chs_r_l.b1p_et</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_r_l.b1p_b4.jpg</Image>
+      <Text>Painted Box + Store Box</Text>
+      <Value>chs_r_l.b1p_b4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_r_l.b1p_b2.jpg</Image>
+      <Text>Painted Box + Store Box 2</Text>
+      <Value>chs_r_l.b1p_b2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_r_l.b1p_b3.jpg</Image>
+      <Text>Painted Box + Stow Box</Text>
+      <Value>chs_r_l.b1p_b3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_r_l.b1p_t.jpg</Image>
+      <Text>Painted Box + Spare Tyre</Text>
+      <Value>chs_r_l.b1p_t</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_r_r.b1p.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.b1p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_r_r.b1p_et.jpg</Image>
+      <Text>Painted Box + Tyre Rack</Text>
+      <Value>chs_r_r.b1p_et</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\chs_r_r.b1p_t.jpg</Image>
+      <Text>Painted Box + Spare Tyre</Text>
+      <Value>chs_r_r.b1p_t</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Body Rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\r_bumper.rbumper2p.jpg</Image>
+      <Text>Rear Bumper Paint</Text>
+      <Value>r_bumper.rbumper2p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Body Rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwCS\r_bumper.rbumper1p.jpg</Image>
+      <Text>Rear Bumper Exclusive Painted</Text>
+      <Value>r_bumper.rbumper1p</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>schwmuller.curtain</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Schwm\curtain.jpg</VehicleImage>
+  <VehicleName>Schwarzmüller|Platform Curtain Sider</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Schwm\curtain.jpg</Image>
+      <InternalName>body.curtain</InternalName>
+      <Name>Platform Curtain Sider</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

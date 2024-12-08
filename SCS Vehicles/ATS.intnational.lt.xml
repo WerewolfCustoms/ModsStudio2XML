@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>b589416b-d5aa-4e2c-ac2a-5d7234a93137</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bumpers</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntLT\bumper.lux.jpg</Image>
+      <Text>Painted Chromed</Text>
+      <Value>bumper.lux</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bumpers</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntLT\bumper.paint.jpg</Image>
+      <Text>Painted</Text>
+      <Value>bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bumpers</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntLT\bumper.paint_s13.jpg</Image>
+      <Text>Painted S13</Text>
+      <Value>bumper.paint_s13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bumpers</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntLT\bumper.paint_pl_s13.jpg</Image>
+      <Text>Painted S13 Plastic</Text>
+      <Value>bumper.paint_pl_s13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cab Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntLT\cabdefl.hi_ext.jpg</Image>
+      <Text>Hi Rise Extended</Text>
+      <Value>cabdefl.hi_ext</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cab Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntLT\cabdefl.hi_std.jpg</Image>
+      <Text>Hi Rise Standard</Text>
+      <Value>cabdefl.hi_std</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntLT\sideskirt.lng_fpn.jpg</Image>
+      <Text>Duty Paint Long</Text>
+      <Value>sideskirt.lng_fpn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntLT\sideskirt.lng_pn.jpg</Image>
+      <Text>Paint Long</Text>
+      <Value>sideskirt.lng_pn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntLT\sideskirt.lng_pn.jpg</Image>
+      <Text>Paint Long S13</Text>
+      <Value>sideskirt.lng_pn_s13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntLT\sideskirt.mid_fpn.jpg</Image>
+      <Text>Duty Paint Mid</Text>
+      <Value>sideskirt.mid_fpn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntLT\sideskirt.mid_pn.jpg</Image>
+      <Text>Paint Mid</Text>
+      <Value>sideskirt.mid_pn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntLT\sideskirt.mid_pn.jpg</Image>
+      <Text>Paint Mid S13</Text>
+      <Value>sideskirt.mid_pn_s13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntLT\sideskirt.shr_fpn.jpg</Image>
+      <Text>Duty Paint Short</Text>
+      <Value>sideskirt.shr_fpn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntLT\sideskirt.shr_pn.jpg</Image>
+      <Text>Paint Short</Text>
+      <Value>sideskirt.shr_pn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntLT\sideskirt.shr_pn.jpg</Image>
+      <Text>Paint Short S13</Text>
+      <Value>sideskirt.shr_pn_s13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntLT\mudflaps.aero_paint.jpg</Image>
+      <Text>Flow Bellow Paint</Text>
+      <Value>mudflaps.aero_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntLT\mudflaps.aero_paint.jpg</Image>
+      <Text>Flow Bellow Paint S13</Text>
+      <Value>mudflaps.aero_pnt_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sunshield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntLT\sunshield.standard.jpg</Image>
+      <Text>Standard Sunshield</Text>
+      <Value>sunshield.standard</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>intnational.lt</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSIntLoneStar\lt_sky.jpg</VehicleImage>
+  <VehicleName>International|LT</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSIntLT\lt_dc.jpg</Image>
+      <InternalName>day.intnational.lt.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSIntLT\lt_high.jpg</Image>
+      <InternalName>hirise.intnational.lt.cabin</InternalName>
+      <Name>High Rise Sleeper</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSIntLT\lt_sky.jpg</Image>
+      <InternalName>skyrise.intnational.lt.cabin</InternalName>
+      <Name>Sky Rise Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Lucasi and pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

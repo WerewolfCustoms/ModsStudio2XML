@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>bbcdcb24-2158-437f-9602-c67f070672ce</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ATS</Game>
+  <InternalName>kenworth.t680</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSKenT680\680_hi.jpg</VehicleImage>
+  <VehicleName>Kenworth|T680</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSKenT680\680_dc.jpg</Image>
+      <InternalName>duty.kenworth.t680.cabin</InternalName>
+      <Name>Duty Day Cabin</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSKenT680\680_mid.jpg</Image>
+      <InternalName>standard.kenworth.t680.cabin</InternalName>
+      <Name>Mid Roof Sleeper</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSKenT680\680_hi.jpg</Image>
+      <InternalName>exclusive.kenworth.t680.cabin</InternalName>
+      <Name>Hi Rise Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Lucasi</XmlDefinitionAuthor>
+</Variable>

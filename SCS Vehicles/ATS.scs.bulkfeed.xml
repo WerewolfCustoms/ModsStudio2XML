@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>07ad175d-427b-4dea-82a4-fe7ad72ac575</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>Chassis (colour only)</Group>
+      <Text>3 axels</Text>
+      <Value>chassis.ch_45_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>Chassis (colour only)</Group>
+      <Text>3 axels (single rear)</Text>
+      <Value>chassis.ch_45_3a2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>Chassis (colour only)</Group>
+      <Text>3 axels Steerable</Text>
+      <Value>chassis.ch_45_3as</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>Chassis (colour only)</Group>
+      <Text>3 axels Rear</Text>
+      <Value>chassis.ch_45_r</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>Chassis (colour only)</Group>
+      <Text>3 axels Spread</Text>
+      <Value>chassis.ch_45_sp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>Markers</Group>
+      <Text>Standard</Text>
+      <Value>markers.box_45</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>Markers</Group>
+      <Text>Exclusive</Text>
+      <Value>markers.box_45_us</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>Rear Bumper</Group>
+      <Text>Standard</Text>
+      <Value>r_bumper.simple</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>Rear Bumper</Group>
+      <Text>Exclusive</Text>
+      <Value>r_bumper.exclusive</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>Rear Mudflap</Group>
+      <Text>Standard</Text>
+      <Value>r_mudflap.simple</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>Rear Mudflap</Group>
+      <Text>Exclusive</Text>
+      <Value>r_mudflap.exclusive</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>scs.bulkfeed</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBFeed\bf45.jpg</VehicleImage>
+  <VehicleName>SCS|Bulk Feed</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBFeed\bf45.jpg</Image>
+      <InternalName>body.bulkfeed_45</InternalName>
+      <Name>Bulk Feed 45</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Lucasi and pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

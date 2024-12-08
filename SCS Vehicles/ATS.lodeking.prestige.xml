@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>8c530367-894c-49d6-aadd-743d12b829a3</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Chassis (solid colour only)</Group>
+      <Text>28 Front B Double</Text>
+      <Value>chassis.ch_28_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis (solid colour only)</Group>
+      <Text>28 Front B Double (liftable axels)</Text>
+      <Value>chassis.ch_28_3a_la</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis (solid colour only)</Group>
+      <Text>30 Rear B Double</Text>
+      <Value>chassis.ch_30_2a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis (solid colour only)</Group>
+      <Text>30 Rear B Double (liftable axels)</Text>
+      <Value>chassis.ch_30_2a_la</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis (solid colour only)</Group>
+      <Text>45 Single</Text>
+      <Value>chassis.ch_45_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis (solid colour only)</Group>
+      <Text>45 Single (liftable axels)</Text>
+      <Value>chassis.ch_45_3a_la</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Painted Wall</Group>
+      <Text>28 Painted Wall</Text>
+      <Value>f_body.paint_28</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Painted Wall</Group>
+      <Text>30 Painted Wall</Text>
+      <Value>f_body.paint_30</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Painted Wall</Group>
+      <Text>45 Painted Wall</Text>
+      <Value>f_body.paint_45</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>28 Standard</Text>
+      <Value>r_fender.plast_28</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>30 Standard</Text>
+      <Value>r_fender.plast_30</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>45 Standard</Text>
+      <Value>r_fender.plast_45</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>28 Aluminium</Text>
+      <Value>r_fender.alu_28</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>30 Aluminium</Text>
+      <Value>r_fender.alu_30</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>45 Aluminium</Text>
+      <Value>r_fender.alu_45</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>28 Classic</Text>
+      <Value>r_fender.plate_28</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>30 Classic</Text>
+      <Value>r_fender.plate_30</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>45 Classic</Text>
+      <Value>r_fender.plate_45</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Painted Wall</Group>
+      <Text>28 Painted Wall</Text>
+      <Value>rear_body.paint_28</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Painted Wall</Group>
+      <Text>30 Painted Wall</Text>
+      <Value>rear_body.paint_30</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Painted Wall</Group>
+      <Text>45 Painted Wall</Text>
+      <Value>rear_body.paint_45</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>lodeking.prestige</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\LodeKing\prestige45.jpg</VehicleImage>
+  <VehicleName>Lode King|Prestige</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>Grain Hopper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\LodeKing\prestige28.jpg</Image>
+      <InternalName>body.hopper_28</InternalName>
+      <Name>28 feet Front B Double</Name>
+    </Variant>
+    <Variant>
+      <Group>Grain Hopper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\LodeKing\prestige30.jpg</Image>
+      <InternalName>body.hopper_30</InternalName>
+      <Name>30 feet Rear B Double</Name>
+    </Variant>
+    <Variant>
+      <Group>Grain Hopper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\LodeKing\prestige45.jpg</Image>
+      <InternalName>body.hopper_45</InternalName>
+      <Name>45 feet Single</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>c5237bb0-5a53-4496-aaa2-bb1f802a041f</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ATS</Game>
+  <InternalName>peterbilt.579</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSPet579\579_hi.jpg</VehicleImage>
+  <VehicleName>Peterbilt|579</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSPet579\579_dc.jpg</Image>
+      <InternalName>duty.peterbilt.579.cabin</InternalName>
+      <Name>Duty Cab</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSPet579\579_standup.jpg</Image>
+      <InternalName>standard.peterbilt.579.cabin</InternalName>
+      <Name>Stand Up Sleeper</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSPet579\579_hi.jpg</Image>
+      <InternalName>exclusive.peterbilt.579.cabin</InternalName>
+      <Name>Hi Rise Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Lucasi</XmlDefinitionAuthor>
+</Variable>

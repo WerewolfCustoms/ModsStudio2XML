@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>48bfa1f7-857f-4741-9939-664425c3ae4b</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Front Fender (Solid Colour only)</Group>
+      <Text>Painted 28</Text>
+      <Value>f_fender.paint_28</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender (Solid Colour only)</Group>
+      <Text>Painted 45</Text>
+      <Value>f_fender.paint_45</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps (Solid Colour only)</Group>
+      <Text>Standard</Text>
+      <Value>f_mudflap.simple</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps (Solid Colour only)</Group>
+      <Text>Exclusive</Text>
+      <Value>f_mudflap.exclusive</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassis includes rear fenders, rear mudflap and rear bumper.</Description>
+      <Group>Chassis (Skin Template)</Group>
+      <Text>28 Single</Text>
+      <Value>chassis.ch_28</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassis includes rear fenders, rear mudflap and rear bumper.</Description>
+      <Group>Chassis (Skin Template)</Group>
+      <Text>28 (Double and Roucky Mountain Double)</Text>
+      <Value>chassis.ch_28_d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassis includes rear fenders, rear mudflap and rear bumper.</Description>
+      <Group>Chassis (Skin Template)</Group>
+      <Text>28 Double (with hook)</Text>
+      <Value>chassis.ch_28_dh</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassis includes rear fenders, rear mudflap and rear bumper.</Description>
+      <Group>Chassis (Skin Template)</Group>
+      <Text>28 Single (Double config)</Text>
+      <Value>chassis.ch_28_h</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassis includes rear fenders, rear mudflap and rear bumper.</Description>
+      <Group>Chassis (Skin Template)</Group>
+      <Text>40 2 axel (Single and Turnpike Double)</Text>
+      <Value>chassis.ch_40_2a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassis includes rear fenders, rear mudflap and rear bumper.</Description>
+      <Group>Chassis (Skin Template)</Group>
+      <Text>40 2 axel (Double and Turnpike Double)</Text>
+      <Value>chassis.ch_40_2a_h</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassis includes rear fenders, rear mudflap and rear bumper.</Description>
+      <Group>Chassis (Skin Template)</Group>
+      <Text>45 Single 3 axel</Text>
+      <Value>chassis.ch_45_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassis includes rear fenders, rear mudflap and rear bumper.</Description>
+      <Group>Chassis (Skin Template)</Group>
+      <Text>45 3 axel (Double config)</Text>
+      <Value>chassis.ch_45_3a_h</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassis includes rear fenders, rear mudflap and rear bumper.</Description>
+      <Group>Dolly Chassis (Skin Template)</Group>
+      <Text>Dolly (Double and Rocky Mountain Double)</Text>
+      <Value>chassis.dolly</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chassis includes rear fenders, rear mudflap and rear bumper.</Description>
+      <Group>Dolly Chassis (Skin Template)</Group>
+      <Text>Dolly 2 axel (Turnpike Double)</Text>
+      <Value>chassis.dolly_conv2a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Standard</Text>
+      <Value>r_bumper.simple</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Exclusive</Text>
+      <Value>r_bumper.exclusive</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>scs.bottomdumper</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBotDumper\horiz28.jpg</VehicleImage>
+  <VehicleName>SCS|Bottom Dumper</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>Horizontal Bottom Dumper (Solid Colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBotDumper\horiz28.jpg</Image>
+      <InternalName>body.horiz_28</InternalName>
+      <Name>Horizontal 28</Name>
+    </Variant>
+    <Variant>
+      <Group>Horizontal Bottom Dumper (Solid Colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBotDumper\horiz45.jpg</Image>
+      <InternalName>body.horiz_45</InternalName>
+      <Name>Horizontal 45</Name>
+    </Variant>
+    <Variant>
+      <Group>Vertical Bottom Dumper (Solid Colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBotDumper\vert28.jpg</Image>
+      <InternalName>body.vert_28</InternalName>
+      <Name>Vertical 28</Name>
+    </Variant>
+    <Variant>
+      <Group>Vertical Bottom Dumper (Solid Colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBotDumper\vert45.jpg</Image>
+      <InternalName>body.vert_45</InternalName>
+      <Name>Vertical 45</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Lucasi</XmlDefinitionAuthor>
+</Variable>

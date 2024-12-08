@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>a3bc6e0b-b0c1-453d-b315-87b7fbcec49b</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Main Mirrors (All Cabins)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\mirrors.main.jpg</Image>
+      <Text>Paint</Text>
+      <Value>mirror.pnt_pla</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nOnly applies to the Main Mirrors. Blind Spot Sensor is separate.</Description>
+      <Group>Main Mirrors (All Cabins)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\mirrors.main.jpg</Image>
+      <Text>Paint, Sensor (hover over for details)</Text>
+      <Value>mirror.pnt_pla_bs</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Main Mirrors (Cabin GN only)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\mirrors.maincam.jpg</Image>
+      <Text>Paint Camera</Text>
+      <Value>mirror.cam_pnt_gn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Main Mirrors (Cabin GM and GX only)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\mirrors.maincam.jpg</Image>
+      <Text>Paint Camera</Text>
+      <Value>mirror.cam_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\f_bumper.pnt_pla_duty.jpg</Image>
+      <Text>Duty Paint</Text>
+      <Value>f_bumper.pnt_pla_duty</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\f_bumper.pnt_pla_std.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_bumper.pnt_pla_std</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\f_bumper.indi_std.jpg</Image>
+      <Text>Individual Lion S</Text>
+      <Value>f_bumper.indi_std</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\r_deflector.gn.jpg</Image>
+      <Text>GN</Text>
+      <Value>r_deflector.gn</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\r_deflector.gm.jpg</Image>
+      <Text>GM</Text>
+      <Value>r_deflector.gm</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\r_deflector.gm.jpg</Image>
+      <Text>GM 2024</Text>
+      <Value>r_deflector.gm_2024</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\r_deflector.gx.jpg</Image>
+      <Text>GX</Text>
+      <Value>r_deflector.gx</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\r_deflector.gx.jpg</Image>
+      <Text>GX 2024</Text>
+      <Value>r_deflector.gx_2024</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\s_mirror.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>s_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Panel</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\s_panel.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>s_panel.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\s_deflector.pnt.jpg</Image>
+      <Text>Paint</Text>
+      <Value>s_deflector.pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Corner Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\cor_def.pnt.jpg</Image>
+      <Text>Paint</Text>
+      <Value>cor_def.pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\f_fender_cab.pnt.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_fender_cab.pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\f_fender_cab.pnt_pla.jpg</Image>
+      <Text>Paint Aero</Text>
+      <Value>f_fender_cab.pnt_pla</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\f_fender_chs.pnt_std.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_fender_chs.pnt_std</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Blind Spot Sensor</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\b_detector.pnt.jpg</Image>
+      <Text>Paint</Text>
+      <Value>b_detector.pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\sideskirt.fender_p.jpg</Image>
+      <Text>Paint Aero (short)</Text>
+      <Value>sideskirt.fender_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\sideskirt.fender_p_e.jpg</Image>
+      <Text>Paint (short)</Text>
+      <Value>sideskirt.fender_p_e</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\sideskirt.fender_s.jpg</Image>
+      <Text>Stock Aero (short)</Text>
+      <Value>sideskirt.fender_s</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\sideskirt.fender_s_e.jpg</Image>
+      <Text>Stock (short)</Text>
+      <Value>sideskirt.fender_s_e</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\sideskirt.4x2_p.jpg</Image>
+      <Text>Paint Aero (long, full)</Text>
+      <Value>sideskirt.4x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\sideskirt.4x2_p_e.jpg</Image>
+      <Text>Paint (long, full)</Text>
+      <Value>sideskirt.4x2_p_e</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\sideskirt.4x2.jpg</Image>
+      <Text>Stock Aero (long, not chassis steps)</Text>
+      <Value>sideskirt.4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\sideskirt.4x2_e.jpg</Image>
+      <Text>Stock (long, not chassis steps)</Text>
+      <Value>sideskirt.4x2_e</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\r_fendr_top.pnt_4x2.jpg</Image>
+      <Text>Paint 4x2</Text>
+      <Value>r_fendr_top.pnt_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\r_fendr_top.pnt_6x4.jpg</Image>
+      <Text>Paint 6x4</Text>
+      <Value>r_fendr_top.pnt_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\r_fendr_top.pnt_6x22.jpg</Image>
+      <Text>Paint 6x22</Text>
+      <Value>r_fendr_top.pnt_6x22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\r_fendr_top.pnt_8x4.jpg</Image>
+      <Text>Paint 8x4</Text>
+      <Value>r_fendr_top.pnt_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\r_fender.pnt_4x2.jpg</Image>
+      <Text>Paint 4x2</Text>
+      <Value>r_fender.pnt_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\r_fender.pnt_6x4.jpg</Image>
+      <Text>Paint 6x4</Text>
+      <Value>r_fender.pnt_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\r_fender.pnt_6x22.jpg</Image>
+      <Text>Paint 6x22</Text>
+      <Value>r_fender.pnt_6x22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\r_fender.pnt_8x4.jpg</Image>
+      <Text>Paint 8x4</Text>
+      <Value>r_fender.pnt_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Light</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\r_light.old_pnt.jpg</Image>
+      <Text>Paint (old)</Text>
+      <Value>r_light.old_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Light</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MAN2020\r_light.led_pnt.jpg</Image>
+      <Text>Paint (LED)</Text>
+      <Value>r_light.led_pnt</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>man.tgx_2020</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Low power engine sound</Text>
+      <Value>sound_lo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>High power engine sound</Text>
+      <Value>sound_hi</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMan\2020_gx.jpg</VehicleImage>
+  <VehicleName>MAN|TGX 2020</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMan\2020_gn.jpg</Image>
+      <InternalName>gn.man.tgx_2020.cabin</InternalName>
+      <Name>GN</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMan\2020_gm.jpg</Image>
+      <InternalName>gm.man.tgx_2020.cabin</InternalName>
+      <Name>GM</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMan\2020_gx.jpg</Image>
+      <InternalName>gx.man.tgx_2020.cabin</InternalName>
+      <Name>GX</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

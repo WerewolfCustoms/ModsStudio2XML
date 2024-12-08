@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>5747d4f6-7b93-46b2-aceb-fc7e8c7db24f</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Fridge Units</Group>
+      <Text>Chromed Cooler</Text>
+      <Value>f_body.ch_unit</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fridge Units</Group>
+      <Text>Cooler</Text>
+      <Value>f_body.cooler</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fridge Units</Group>
+      <Text>Turbo Cooler</Text>
+      <Value>f_body.king</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Painted</Text>
+      <Value>f_body.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Wind Deflector</Text>
+      <Value>f_body.wind_def</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>Standard Door</Text>
+      <Value>rear_body.simple</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>Standard Door With Deflector</Text>
+      <Value>rear_body.simple_a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>Roll Up Door</Text>
+      <Value>rear_body.roll_up</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>Roll Up Door,Lift Gate</Text>
+      <Value>rear_body.roll_up_g</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted SideSkirts Left Side</Group>
+      <Text>Painted Aero Sideskirt</Text>
+      <Value>chs_f_l.aero</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted SideSkirts Left Side</Group>
+      <Text>Painted Sideskirt 28</Text>
+      <Value>chs_f_l.paint_28</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted SideSkirts Left Side</Group>
+      <Text>Painted Sideskirt 28 with hole</Text>
+      <Value>chs_f_l.paint_28h</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted SideSkirts Left Side</Group>
+      <Text>Painted Sideskirt 45</Text>
+      <Value>chs_f_l.paint_45</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted SideSkirts Left Side</Group>
+      <Text>Painted Sideskirt 45 with hole</Text>
+      <Value>chs_f_l.paint_45h</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted SideSkirts Left Side</Group>
+      <Text>Painted Sideskirt 53</Text>
+      <Value>chs_f_l.paint_53</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted SideSkirts Left Side</Group>
+      <Text>Painted Sideskirt 53 with hole</Text>
+      <Value>chs_f_l.paint_53h</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted SideSkirts Right Side</Group>
+      <Text>Painted Aero Sideskirt</Text>
+      <Value>chs_f_r.aero</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted SideSkirts Right Side</Group>
+      <Text>Painted Sideskirt 28</Text>
+      <Value>chs_f_r.paint_28</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted SideSkirts Right Side</Group>
+      <Text>Painted Sideskirt 45</Text>
+      <Value>chs_f_r.paint_45</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted SideSkirts Right Side</Group>
+      <Text>Painted Sideskirt 53</Text>
+      <Value>chs_f_r.paint_53</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>scs.box</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBox\drybox_45.jpg</VehicleImage>
+  <VehicleName>SCS|Box Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>Dry Van</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBox\drybox_28.jpg</Image>
+      <InternalName>body.dryvan_28</InternalName>
+      <Name>Dry Van 28ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Dry Van</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBox\drybox_32.jpg</Image>
+      <InternalName>body.dryvan_32</InternalName>
+      <Name>Dry Van 32ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Dry Van</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBox\drybox_45.jpg</Image>
+      <InternalName>body.dryvan_45</InternalName>
+      <Name>Dry Van 45ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Dry Van</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBox\drybox_48.jpg</Image>
+      <InternalName>body.dryvan_48</InternalName>
+      <Name>Dry Van 48ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Dry Van</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBox\drybox_53.jpg</Image>
+      <InternalName>body.dryvan_53</InternalName>
+      <Name>Dry Van 53ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Insulated</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBox\insul_28.jpg</Image>
+      <InternalName>body.insulated_28</InternalName>
+      <Name>Insulated 28ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Insulated</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBox\insul_32.jpg</Image>
+      <InternalName>body.insulated_32</InternalName>
+      <Name>Insulated 32ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Insulated</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBox\insul_45.jpg</Image>
+      <InternalName>body.insulated_45</InternalName>
+      <Name>Insulated 45ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Insulated</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBox\insul_48.jpg</Image>
+      <InternalName>body.insulated_48</InternalName>
+      <Name>Insulated 48ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Insulated</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBox\insul_53.jpg</Image>
+      <InternalName>body.insulated_53</InternalName>
+      <Name>Insulated 53ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Refrigerated</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBox\reefer_28.jpg</Image>
+      <InternalName>body.reefer_28</InternalName>
+      <Name>Reefer 28ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Refrigerated</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBox\reefer_32.jpg</Image>
+      <InternalName>body.reefer_32</InternalName>
+      <Name>Reefer 32ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Refrigerated</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBox\reefer_45.jpg</Image>
+      <InternalName>body.reefer_45</InternalName>
+      <Name>Reefer 45ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Refrigerated</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBox\reefer_48.jpg</Image>
+      <InternalName>body.reefer_48</InternalName>
+      <Name>Reefer 48ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Refrigerated</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSBox\reefer_53.jpg</Image>
+      <InternalName>body.reefer_53</InternalName>
+      <Name>Reefer 53ft</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>

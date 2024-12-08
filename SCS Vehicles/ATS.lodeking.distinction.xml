@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>4ff50204-ec2f-4fbe-91ed-eeee95b1999d</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Front Painted Wall</Group>
+      <Text>40 Painted Wall</Text>
+      <Value>f_body.paint_40</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Painted Wall</Group>
+      <Text>50 Painted Wall</Text>
+      <Value>f_body.paint_50</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Painted Wall</Group>
+      <Text>40 Painted Wall</Text>
+      <Value>rear_body.paint_40</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Painted Wall</Group>
+      <Text>50 Painted Wall</Text>
+      <Value>rear_body.paint_50</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>lodeking.distinction</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\LodeKing\distinction40.jpg</VehicleImage>
+  <VehicleName>Lode King|Distinction</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>Grain Hopper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\LodeKing\distinction40.jpg</Image>
+      <InternalName>body.hopper_40</InternalName>
+      <Name>Grain Hopper 40 feet</Name>
+    </Variant>
+    <Variant>
+      <Group>Grain Hopper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\LodeKing\distinction50.jpg</Image>
+      <InternalName>body.hopper_50</InternalName>
+      <Name>Grain Hopper 50 feet</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

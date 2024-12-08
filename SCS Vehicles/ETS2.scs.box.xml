@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>fa94926c-e805-4991-996a-1ea4cc45c5ad</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side 78 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_l.paint_box.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_f_l.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side 78 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_l.sideskirt_02.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_f_l.sideskirt_02</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side 78 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_r.paint_box.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_f_r.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side 78 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_r.sideskirt_02.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_f_r.sideskirt_02</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nAlso present on:\nB-Double, 2+2 Axles, Spread.</Description>
+      <Group>Left Side 136 middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_l.sideskirt_01.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_f_l.sideskirt_01</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side 136 middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_l.p_box_cage.jpg</Image>
+      <Text>Protection + Painted Box</Text>
+      <Value>chs_f_l.p_box_cage</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side 136 middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_l.p_box_doubl.jpg</Image>
+      <Text>Painted Box x2</Text>
+      <Value>chs_f_l.p_box_doubl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side 136 middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_l.palletbox.jpg</Image>
+      <Text>Pallet Box</Text>
+      <Value>chs_f_l.palletbox</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side 136 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_r_l.sideskirt_01.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.sideskirt_01</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side 136 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_r_l.paint_box.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side 136 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_r_l.palletbox.jpg</Image>
+      <Text>Pallet Box</Text>
+      <Value>chs_r_l.palletbox</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nAlso present on:\nB-Double, 2+2 Axles, Spread.</Description>
+      <Group>Right Side 136 middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_r.sideskirt_01.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_f_r.sideskirt_01</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side 136 middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_r.p_box_cage.jpg</Image>
+      <Text>Protection + Painted Box</Text>
+      <Value>chs_f_r.p_box_cage</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side 136 middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_r.p_box_doubl.jpg</Image>
+      <Text>Painted Box x2</Text>
+      <Value>chs_f_r.p_box_doubl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side 136 middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_r.palletbox.jpg</Image>
+      <Text>Pallet Box</Text>
+      <Value>chs_f_r.palletbox</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side 136 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_r_r.sideskirt_01.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.sideskirt_01</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side 136 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_r_r.paint_box.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side 136 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_r_r.palletbox.jpg</Image>
+      <Text>Pallet Box</Text>
+      <Value>chs_r_r.palletbox</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nAlso present on:\nDouble 3+3 Steerable\nB-Double 2+2 and 2+2 Spread\nHTC Doubles (4+2+4 and 3+2+4).</Description>
+      <Group>Left Side 136 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_m_l.sideskirt_bd.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_m_l.sideskirt_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nAlso present on:\nDouble 3+3 Steerable\nB-Double 2+2 and 2+2 Spread\nHTC Doubles (4+2+4 and 3+2+4).</Description>
+      <Group>Left Side 136 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_m_l.paint_boxbd.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_m_l.paint_box_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nAlso present on:\nDouble 3+3 Steerable\nB-Double 2+2 and 2+2 Spread\nHTC Doubles (4+2+4 and 3+2+4).</Description>
+      <Group>Right Side 136 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_m_r.sideskirt_bd.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_m_r.sideskirt_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nAlso present on:\nDouble 3+3 Steerable\nB-Double 2+2 and 2+2 Spread\nHTC Doubles (4+2+4 and 3+2+4).</Description>
+      <Group>Right Side 136 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_m_r.paint_boxbd.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_m_r.paint_box_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side 136 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_m_l.sideskirt.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_m_l.sideskirt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side 136 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_m_l.paint_box_m.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_m_l.paint_box_m</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side 136 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_m_r.sideskirt.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_m_r.sideskirt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side 136 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_m_r.paint_box_m.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_m_r.paint_box_m</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side 78 front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_l.paint_box_d.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_f_l.paint_box_d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side 78 front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_l.sideskirt_1d.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_f_l.sideskirt_1d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side 78 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_r_l.sideskirt_02.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_r_l.sideskirt_02</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side 78 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_r_l.paint_box_d.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.paint_box_d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side 78 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_r_r.sideskirt_02.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_r_r.sideskirt_02</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side 78 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_r_r.paint_box_d.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.paint_box_d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side 78 front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_r.paint_box_d.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_f_r.paint_box_d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side 78 front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_r.sideskirt_1d.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_f_r.sideskirt_1d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side 78 front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_l.sideskirt_03.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_f_l.sideskirt_03</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side 78 front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_r.sideskirt_03.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_f_r.sideskirt_03</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side 136 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_m_l.sideskirt_d.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_m_l.sideskirt_d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side 78 middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_m_l.paint_box_d.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_m_l.paint_box_d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side 136 rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_m_r.sideskirt_d.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_m_r.sideskirt_d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side 78 middle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_m_r.paint_box_d.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_m_r.paint_box_d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side 78 front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_l.sideskirt_2d.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_f_l.sideskirt_2d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side 78 front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_r.sideskirt_2d.jpg</Image>
+      <Text>Side skirt</Text>
+      <Value>chs_f_r.sideskirt_2d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nAvailable only on refridgerated trailers.</Description>
+      <Group>Left Side 78 front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\chs_f_l.t_box.jpg</Image>
+      <Text>Thermo Box Cooler</Text>
+      <Value>chs_f_l.t_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nAvailable only on 136 moving floor refridgerated trailer.</Description>
+      <Group>Body Front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\f_body.cooler_mf.jpg</Image>
+      <Text>Cooler Victor (MF)</Text>
+      <Value>f_body.cooler_mf</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nAvailable only on 78 curtainsider trailers.</Description>
+      <Group>Body Front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\f_body.door_c.jpg</Image>
+      <Text>Front Door</Text>
+      <Value>f_body.door_c</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nAvailable only on 78 dry van, reefer and ins (double chassis types).</Description>
+      <Group>Body Front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\f_body.door_dv.jpg</Image>
+      <Text>Front Door</Text>
+      <Value>f_body.door_dv</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nAvailable only on 78 side door dry van, side door reefer and side door ins (double chassis types)..</Description>
+      <Group>Body Front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\f_body.door_dvsd.jpg</Image>
+      <Text>Front Door</Text>
+      <Value>f_body.door_dvsd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nAvailable only on curtainsider trailers.</Description>
+      <Group>Body Front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\f_body.f_toolbox.jpg</Image>
+      <Text>Toolbox</Text>
+      <Value>f_body.f_toolbox</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nAvailable only on moving floor 78 and 136 trailers.</Description>
+      <Group>Body Front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\f_body.ladder.jpg</Image>
+      <Text>Ladder</Text>
+      <Value>f_body.ladder</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nAvailable only on moving floor 78 B Double trailer.</Description>
+      <Group>Body Front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\f_body.ladder_bd.jpg</Image>
+      <Text>Ladder</Text>
+      <Value>f_body.ladder_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nAvailable only on 136 moving floor refridgerated trailer.</Description>
+      <Group>Body Front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\f_body.t_king_mf.jpg</Image>
+      <Text>Cooler Turbo King (MF)</Text>
+      <Value>f_body.t_king_mf</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nAvailable only on refridgerated trailers.</Description>
+      <Group>Body Front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\f_body.th_box_paint.jpg</Image>
+      <Text>Thermo Box Cooler (refeer)</Text>
+      <Value>f_body.th_box_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nAvailable only on moving floor 136 trailer.</Description>
+      <Group>Body Front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\f_body.th_box_p_mf.jpg</Image>
+      <Text>Thermo Box Cooler (MF)</Text>
+      <Value>f_body.th_box_p_mf</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nAvailable only on 78 curtainsider trailers.</Description>
+      <Group>Body Front</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\f_body.wall_c.jpg</Image>
+      <Text>Front Wall</Text>
+      <Value>f_body.wall_c</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Body Rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SCSBox\rear_body.wind_def.jpg</Image>
+      <Text>Wind Deflector</Text>
+      <Value>rear_body.wind_def</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear bumper. Found on:\nSingle chassis types\nDouble chassis types</Description>
+      <Group>Body Rear</Group>
+      <Image />
+      <Text>Rear Bumper (Exclusive)</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear bumper. Found on:\nDouble 3+3, Steerable\nB-Double chassis types\nHTC Double chassis types</Description>
+      <Group>Body Rear</Group>
+      <Image />
+      <Text>Rear Bumper (Exclusive)</Text>
+      <Value>r_bumper.paint_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear bumper. Found on:\nDouble chassis types\nHTC double (4+2+3 and 4+2+4)</Description>
+      <Group>Body Rear</Group>
+      <Image />
+      <Text>Rear Bumper (Exclusive)</Text>
+      <Value>r_bumper.paint_d</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>scs.box</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\curtain136.jpg</VehicleImage>
+  <VehicleName>SCS|Box Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>Curtainsider</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\curtain78.jpg</Image>
+      <InternalName>body.curtain_78</InternalName>
+      <Name>Curtainsider 78</Name>
+    </Variant>
+    <Variant>
+      <Group>Curtainsider</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\curtain78bd.jpg</Image>
+      <InternalName>body.curtain_78bd</InternalName>
+      <Name>Curtainsider 78 B-Double</Name>
+    </Variant>
+    <Variant>
+      <Group>Curtainsider</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\curtain136.jpg</Image>
+      <InternalName>body.curtain_136</InternalName>
+      <Name>Curtainsider 136</Name>
+    </Variant>
+    <Variant>
+      <Group>Dry Van</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\dryvan78.jpg</Image>
+      <InternalName>body.dry_van_78</InternalName>
+      <Name>Dry Van 78</Name>
+    </Variant>
+    <Variant>
+      <Group>Dry Van</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\dryvan78bd.jpg</Image>
+      <InternalName>body.dry_van_78bd</InternalName>
+      <Name>Dry Van 78 B-Double</Name>
+    </Variant>
+    <Variant>
+      <Group>Dry Van</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\dryvan136.jpg</Image>
+      <InternalName>body.dry_van_136</InternalName>
+      <Name>Dry Van 136</Name>
+    </Variant>
+    <Variant>
+      <Group>Dry Van Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\dryvanside78.jpg</Image>
+      <InternalName>body.dry_vans_78</InternalName>
+      <Name>Dry Van Side 78</Name>
+    </Variant>
+    <Variant>
+      <Group>Dry Van Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\dryvanside78bd.jpg</Image>
+      <InternalName>body.dry_vs_78bd</InternalName>
+      <Name>Dry Van Side 78 B-Double</Name>
+    </Variant>
+    <Variant>
+      <Group>Dry Van Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\dryvanside136.jpg</Image>
+      <InternalName>body.dry_vans_136</InternalName>
+      <Name>Dry Van Side 136</Name>
+    </Variant>
+    <Variant>
+      <Group>Insulated</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\insul78.jpg</Image>
+      <InternalName>body.ins_78</InternalName>
+      <Name>Insulated 78</Name>
+    </Variant>
+    <Variant>
+      <Group>Insulated</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\insul78bd.jpg</Image>
+      <InternalName>body.ins_78bd</InternalName>
+      <Name>Insulated 78 B-Double</Name>
+    </Variant>
+    <Variant>
+      <Group>Insulated</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\insul136.jpg</Image>
+      <InternalName>body.ins_136</InternalName>
+      <Name>Insulated 136</Name>
+    </Variant>
+    <Variant>
+      <Group>Insulated Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\insulside78.jpg</Image>
+      <InternalName>body.ins_s_78</InternalName>
+      <Name>Insulated Side 78</Name>
+    </Variant>
+    <Variant>
+      <Group>Insulated Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\insulside78bd.jpg</Image>
+      <InternalName>body.ins_s_78bd</InternalName>
+      <Name>Insulated Side 78 B-Double</Name>
+    </Variant>
+    <Variant>
+      <Group>Insulated Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\insulside136.jpg</Image>
+      <InternalName>body.ins_s_136</InternalName>
+      <Name>Insulated Side 136</Name>
+    </Variant>
+    <Variant>
+      <Group>Moving Floor</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\mfloor78.jpg</Image>
+      <InternalName>body.m_floor_78</InternalName>
+      <Name>Moving Floor 78</Name>
+    </Variant>
+    <Variant>
+      <Group>Moving Floor</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\mfloor78bd.jpg</Image>
+      <InternalName>body.m_floor_78bd</InternalName>
+      <Name>Moving Floor 78 B-Double</Name>
+    </Variant>
+    <Variant>
+      <Group>Moving Floor</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\mfloor136.jpg</Image>
+      <InternalName>body.m_floor_136</InternalName>
+      <Name>Moving Floor 136</Name>
+    </Variant>
+    <Variant>
+      <Group>Moving Floor Refrigerated</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\mfloor_reefer.jpg</Image>
+      <InternalName>body.m_floor_136r</InternalName>
+      <Name>Moving Floor Refrigerated 136</Name>
+    </Variant>
+    <Variant>
+      <Group>Refrigerated</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\reefer78.jpg</Image>
+      <InternalName>body.reefer_78</InternalName>
+      <Name>Refrigerated 78</Name>
+    </Variant>
+    <Variant>
+      <Group>Refrigerated</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\reefer78bd.jpg</Image>
+      <InternalName>body.reefer_78bd</InternalName>
+      <Name>Refrigerated 78 B-Double</Name>
+    </Variant>
+    <Variant>
+      <Group>Refrigerated</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\reefer136.jpg</Image>
+      <InternalName>body.reefer_136</InternalName>
+      <Name>Refrigerated 136</Name>
+    </Variant>
+    <Variant>
+      <Group>Refrigerated Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\reeferside78.jpg</Image>
+      <InternalName>body.reefers_78</InternalName>
+      <Name>Refrigerated Side 78</Name>
+    </Variant>
+    <Variant>
+      <Group>Refrigerated Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\reeferside78bd.jpg</Image>
+      <InternalName>body.reefers_78bd</InternalName>
+      <Name>Refrigerated Side 78 B-Double</Name>
+    </Variant>
+    <Variant>
+      <Group>Refrigerated Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\SCSBox\reeferside136.jpg</Image>
+      <InternalName>body.reefers_136</InternalName>
+      <Name>Refrigerated Side 136</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

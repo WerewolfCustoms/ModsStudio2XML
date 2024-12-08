@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ede197ca-1a24-4990-8bae-3c899754b477</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ATS</Game>
+  <InternalName>scs.chemtank</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSChemTank\chem_48d.jpg</VehicleImage>
+  <VehicleName>SCS|Chemical Tanker</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>D Shaped Tank</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSChemTank\chem_43d.jpg</Image>
+      <InternalName>body.tank_43_ds</InternalName>
+      <Name>Tank 43</Name>
+    </Variant>
+    <Variant>
+      <Group>D Shaped Tank</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSChemTank\chem_48d.jpg</Image>
+      <InternalName>body.tank_48_ds</InternalName>
+      <Name>Tank 48</Name>
+    </Variant>
+    <Variant>
+      <Group>D Shaped Tank</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSChemTank\chem_53d.jpg</Image>
+      <InternalName>body.tank_53_ds</InternalName>
+      <Name>Tank 53</Name>
+    </Variant>
+    <Variant>
+      <Group>Deep Drop Tank</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSChemTank\chem_43dd.jpg</Image>
+      <InternalName>body.tank_43_dd</InternalName>
+      <Name>Tank 43</Name>
+    </Variant>
+    <Variant>
+      <Group>Deep Drop Tank</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSChemTank\chem_48dd.jpg</Image>
+      <InternalName>body.tank_48_dd</InternalName>
+      <Name>Tank 48</Name>
+    </Variant>
+    <Variant>
+      <Group>Deep Drop Tank</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSChemTank\chem_53dd.jpg</Image>
+      <InternalName>body.tank_53_dd</InternalName>
+      <Name>Tank 53</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Lucasi</XmlDefinitionAuthor>
+</Variable>

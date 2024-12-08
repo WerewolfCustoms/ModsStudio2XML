@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>baa5364d-abb3-480b-8933-bf73de38a8be</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <Game>ETS2</Game>
+  <InternalName>broshcp.2con</InternalName>
+  <VehicleAuthor>jon-ruda</VehicleAuthor>
+  <VehicleImage />
+  <VehicleName>Container Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.body</InternalName>
+      <Name>Container Trailer</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.dl2con</InternalName>
+      <Name>Container Trailer 2</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

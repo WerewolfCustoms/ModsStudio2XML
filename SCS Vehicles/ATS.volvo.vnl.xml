@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>8c1d12e7-aa7c-4aa9-8925-9a779b4a4e29</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ATS</Game>
+  <InternalName>volvo.vnl</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolVNL\vnl_780.jpg</VehicleImage>
+  <VehicleName>Volvo|VNL 2014</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolVNL\vnl_300.jpg</Image>
+      <InternalName>duty.volvo.vnl.cabin</InternalName>
+      <Name>300</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolVNL\vnl_730.jpg</Image>
+      <InternalName>standard.volvo.vnl.cabin</InternalName>
+      <Name>730</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolVNL\vnl_780.jpg</Image>
+      <InternalName>exclusive.volvo.vnl.cabin</InternalName>
+      <Name>780</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Lucasi</XmlDefinitionAuthor>
+</Variable>

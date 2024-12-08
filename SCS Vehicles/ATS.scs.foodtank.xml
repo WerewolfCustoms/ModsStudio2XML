@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>e157b7aa-83e0-4073-8041-73f36213ffa0</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Dolly Fenders</Group>
+      <Text>Dolly Fenders</Text>
+      <Value>chassis.dolly</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Axle Fenders</Group>
+      <Text>Fenders 48 3 axle</Text>
+      <Value>chassis.ch_48_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Axle Fenders</Group>
+      <Text>Fenders 48 Spread Axle</Text>
+      <Value>chassis.ch_48_sp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Axle Fenders</Group>
+      <Text>Fenders 53 4 Axle</Text>
+      <Value>chassis.ch_53_4a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Axle Fenders</Group>
+      <Text>Fenders 53 4 Steer Axle</Text>
+      <Value>chassis.ch_53_4s</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>scs.foodtank</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSFoodTank\food_43.jpg</VehicleImage>
+  <VehicleName>SCS|Food Tanker</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSFoodTank\food_28.jpg</Image>
+      <InternalName>body.tank_28</InternalName>
+      <Name>Tank 28</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSFoodTank\food_28.jpg</Image>
+      <InternalName>body.tank_28_d</InternalName>
+      <Name>Tank 28 Doubles</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSFoodTank\food_43.jpg</Image>
+      <InternalName>body.tank_43</InternalName>
+      <Name>Tank 43</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSFoodTank\food_48.jpg</Image>
+      <InternalName>body.tank_48</InternalName>
+      <Name>Tank 48</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSFoodTank\food_53.jpg</Image>
+      <InternalName>body.tank_53</InternalName>
+      <Name>Tank 53</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Lucasi</XmlDefinitionAuthor>
+</Variable>

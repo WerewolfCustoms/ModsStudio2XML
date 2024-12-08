@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>6c920325-4bd2-4fb7-8d02-523c12badda2</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Trailer Front</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSSlide\f_body.wind_def.jpg</Image>
+      <Text>Wind Deflector</Text>
+      <Value>f_body.wind_def</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>scs.dropdeck</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSSlide\fb45.jpg</VehicleImage>
+  <VehicleName>SCS|Sliding Tarp Trailer (Drop Deck)</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>Drop Deck</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSSlide\dd48.jpg</Image>
+      <InternalName>body.curtain_48</InternalName>
+      <Name>Sliding Tarp 48ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Drop Deck</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSSlide\dd53.jpg</Image>
+      <InternalName>body.curtain_53</InternalName>
+      <Name>Sliding Tarp 53ft</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

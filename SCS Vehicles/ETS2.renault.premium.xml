@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>e04cabc7-ed12-4a56-891c-bb470310ac6d</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>renault.premium</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSRenault\pre_high_roof.jpg</VehicleImage>
+  <VehicleName>Renault|Premium</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSRenault\pre_normal.jpg</Image>
+      <InternalName>normal.renault.premium.cabin</InternalName>
+      <Name>Privilege</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSRenault\pre_high_roof.jpg</Image>
+      <InternalName>higher.renault.premium.cabin</InternalName>
+      <Name>Excellence</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>WerewolfCustoms</XmlDefinitionAuthor>
+</Variable>

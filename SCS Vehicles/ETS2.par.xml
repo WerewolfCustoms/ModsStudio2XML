@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>1fbad72d-34c1-49dd-a873-88c34c4ace46</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <Game>ETS2</Game>
+  <InternalName>par</InternalName>
+  <VehicleAuthor>jon-ruda</VehicleAuthor>
+  <VehicleImage />
+  <VehicleName>Food Tanker</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>par.body</InternalName>
+      <Name>Food Tanker</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

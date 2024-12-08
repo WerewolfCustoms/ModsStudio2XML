@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>c3e0ba95-59ca-46b8-9178-cf70017a8419</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <Game>ETS2</Game>
+  <InternalName>radiance.trlr</InternalName>
+  <VehicleAuthor>jon-ruda</VehicleAuthor>
+  <VehicleImage />
+  <VehicleName>Radiance Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.body_001</InternalName>
+      <Name>Radiance Concept</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

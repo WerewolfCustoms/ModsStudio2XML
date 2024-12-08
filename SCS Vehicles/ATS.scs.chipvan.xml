@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ebe6fb5c-a106-4ebc-8cb3-daac867fd4d0</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>f_body.paint</Text>
+      <Value>f_body.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>chs_f_l.aero</Text>
+      <Value>chs_f_l.aero</Value>
+    </ListItem>
+    <ListItem>
+      <Text>chs_f_r.aero</Text>
+      <Value>chs_f_r.aero</Value>
+    </ListItem>
+    <ListItem>
+      <Text>chs_f_l.paint_45</Text>
+      <Value>chs_f_l.paint_45</Value>
+    </ListItem>
+    <ListItem>
+      <Text>chs_f_r.paint_45</Text>
+      <Value>chs_f_r.paint_45</Value>
+    </ListItem>
+    <ListItem>
+      <Text>rear_body.simple</Text>
+      <Value>rear_body.simple</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>scs.chipvan</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSChip\chipvan.jpg</VehicleImage>
+  <VehicleName>SCS|Chip Van</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSChip\chipvan.jpg</Image>
+      <InternalName>body.van_48</InternalName>
+      <Name>48 feet</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSChip\chip_m_floor.jpg</Image>
+      <InternalName>body.m_floor_48</InternalName>
+      <Name>Moving Floor 48 feet</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSChip\chip_belly.jpg</Image>
+      <InternalName>body.belly_van_48</InternalName>
+      <Name>Belly Van 48 feet</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>WerewolfCustoms</XmlDefinitionAuthor>
+</Variable>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>41009e66-c987-42fe-8e9f-ce8a3cb9ae23</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>renault.magnum</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSRenault\magnum.jpg</VehicleImage>
+  <VehicleName>Renault|Magnum</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSRenault\magnum.jpg</Image>
+      <InternalName>solo.renault.magnum.cabin</InternalName>
+      <Name>Excellence</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>WerewolfCustoms</XmlDefinitionAuthor>
+</Variable>

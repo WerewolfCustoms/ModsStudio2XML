@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>09033bde-ec96-44f2-a85f-154cd7962a38</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\bumper.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cabin Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\cabdefl.day_aero.jpg</Image>
+      <Text>Aero (Day Cab)</Text>
+      <Value>cabdefl.day_aero</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cabin Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\cabdefl.day_std.jpg</Image>
+      <Text>Standard (Day Cab)</Text>
+      <Value>cabdefl.day_std</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cabin Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\cabdefl.s48_aero.jpg</Image>
+      <Text>Aero (S48 Cab)</Text>
+      <Value>cabdefl.s48_aero</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cabin Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\cabdefl.s48_std.jpg</Image>
+      <Text>Aero II (S48 Cab)</Text>
+      <Value>cabdefl.s48_std</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cabin Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\cabdefl.s72_rr_a.jpg</Image>
+      <Text>Aero (S72 RR Cab)</Text>
+      <Value>cabdefl.s72_rr_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cabin Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\cabdefl.s72_rr_ax.jpg</Image>
+      <Text>Aero X (S72 RR Cab)</Text>
+      <Value>cabdefl.s72_rr_ax</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cabin Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\cabdefl.s72_xt_a.jpg</Image>
+      <Text>Aero (S72 XT Cab)</Text>
+      <Value>cabdefl.s72_xt_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cabin Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\cabdefl.s72_xt_ax.jpg</Image>
+      <Text>Aero X (S72 XT Cab)</Text>
+      <Value>cabdefl.s72_xt_ax</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Corner Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\cor_def.aero.jpg</Image>
+      <Text>Aero</Text>
+      <Value>cor_def.aero</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Hood</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\hood.stock.jpg</Image>
+      <Text>Standard</Text>
+      <Value>hood.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\mudflaps.aero_pnt.jpg</Image>
+      <Text>FlowBelow</Text>
+      <Value>mudflaps.aero_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt L 200 Chassis</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\sideskirt.lng200_pt_a.jpg</Image>
+      <Text>Aero Painted</Text>
+      <Value>sideskirt.lng200_pt_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt L 240 Chassis</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\sideskirt.lng200_pt_a.jpg</Image>
+      <Text>Aero Painted</Text>
+      <Value>sideskirt.lng240_pt_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt M 200 Chassis</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\sideskirt.mid200_pt_a.jpg</Image>
+      <Text>Aero Painted</Text>
+      <Value>sideskirt.mid200_pt_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt M 220 Chassis</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\sideskirt.mid200_pt_a.jpg</Image>
+      <Text>Aero Painted</Text>
+      <Value>sideskirt.mid220_pt_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt S 120 Chassis</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\sideskirt.shr120_eal.jpg</Image>
+      <Text>Aluminium Tank</Text>
+      <Value>sideskirt.shr120_eal</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt S 120 Chassis</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\sideskirt.shr120_e.jpg</Image>
+      <Text>Chrome Tank</Text>
+      <Value>sideskirt.shr120_e</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt S 160 Chassis</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\sideskirt.shr160_eal.jpg</Image>
+      <Text>Aluminium Tank</Text>
+      <Value>sideskirt.shr160_eal</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt S 160 Chassis</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\sideskirt.shr160_e.jpg</Image>
+      <Text>Chrome Tank</Text>
+      <Value>sideskirt.shr160_e</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt S 160 Chassis</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\sideskirt.shr160_pt.jpg</Image>
+      <Text>Paint</Text>
+      <Value>sideskirt.shr160_pt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors (Day Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\s_deflector.day_aero.jpg</Image>
+      <Text>Aero</Text>
+      <Value>s_deflector.day_aero</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors (Day Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\s_deflector.day_aero2.jpg</Image>
+      <Text>Aero II</Text>
+      <Value>s_deflector.day_aero2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors (S48 Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\s_deflector.s48_aero.jpg</Image>
+      <Text>Aero</Text>
+      <Value>s_deflector.s48_aero</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors (S72 Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\s_deflector.s72_a.jpg</Image>
+      <Text>Aero</Text>
+      <Value>s_deflector.s72_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors (S72 Cab)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\s_deflector.s72_ax.jpg</Image>
+      <Text>Aero X</Text>
+      <Value>s_deflector.s72_ax</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>freightliner.cascadia2024</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSFLCascadia2024\cas_72rr.jpg</VehicleImage>
+  <VehicleName>Freightliner|Cascadia 2024</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSFLCascadia2024\cas_dc.jpg</Image>
+      <InternalName>day.freightliner.cascadia2024.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSFLCascadia2024\cas_48.jpg</Image>
+      <InternalName>s48.freightliner.cascadia2024.cabin</InternalName>
+      <Name>48 Sleeper</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSFLCascadia2024\cas_72xt.jpg</Image>
+      <InternalName>s72_xt.freightliner.cascadia2024.cabin</InternalName>
+      <Name>72 Sleeper XT</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSFLCascadia2024\cas_72rr.jpg</Image>
+      <InternalName>s72_rr.freightliner.cascadia2024.cabin</InternalName>
+      <Name>72 Sleeper RR</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Taede</XmlDefinitionAuthor>
+</Variable>

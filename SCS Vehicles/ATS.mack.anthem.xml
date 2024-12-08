@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>2ea7c81c-e66e-405b-b4a7-d71838568598</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cab deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\cabdefl.day.jpg</Image>
+      <Text>Roof Cap (Day cab)</Text>
+      <Value>cabdefl.day_rcap_bl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cab deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\cabdefl.day.jpg</Image>
+      <Text>Roof Cap Chrome (Day Cab)</Text>
+      <Value>cabdefl.day_rcap_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cab deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\cabdefl.s48.jpg</Image>
+      <Text>Roof Cab (S48 Cab)</Text>
+      <Value>cabdefl.s48_rcap_bl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cab deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\cabdefl.s48.jpg</Image>
+      <Text>Roof Cab Chrome (S48 Cab)</Text>
+      <Value>cabdefl.s48_rcap_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cab deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\cabdefl.s70_rcap.jpg</Image>
+      <Text>Roof Cab (S70 Cab)</Text>
+      <Value>cabdefl.s70_rcap</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cab deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\cabdefl.s70_rcap_ext.jpg</Image>
+      <Text>Exclusive Roof Cab (S70 Cab)</Text>
+      <Value>cabdefl.s70_rcap_ext</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Short</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.shr72_p.jpg</Image>
+      <Text>72 Paint</Text>
+      <Value>sideskirt.shr72_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Short</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.shr72_pc.jpg</Image>
+      <Text>72 Paint Chrome</Text>
+      <Value>sideskirt.shr72_pc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Short</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.shr72d_p.jpg</Image>
+      <Text>72 Paint D shape</Text>
+      <Value>sideskirt.shr72d_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Short</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.shr72d_pc.jpg</Image>
+      <Text>72 Paint Chrome D shape</Text>
+      <Value>sideskirt.shr72d_pc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Short</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.shr93_p.jpg</Image>
+      <Text>93 Paint</Text>
+      <Value>sideskirt.shr93_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Short</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.shr93_pc.jpg</Image>
+      <Text>93 Paint Chrome</Text>
+      <Value>sideskirt.shr93_pc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Short</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.shr93_pcs.jpg</Image>
+      <Text>93 Paint Chrome Step</Text>
+      <Value>sideskirt.shr93_pcs</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Short</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.shr93_ps.jpg</Image>
+      <Text>93 Paint Step</Text>
+      <Value>sideskirt.shr93_ps</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Short</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.shr93d_p.jpg</Image>
+      <Text>93 Paint D shape</Text>
+      <Value>sideskirt.shr93d_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Short</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.shr93d_pc.jpg</Image>
+      <Text>93 Paint Chrome D shape</Text>
+      <Value>sideskirt.shr93d_pc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Short</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.shr93d_pcs.jpg</Image>
+      <Text>93 Paint Chrome Step D shape</Text>
+      <Value>sideskirt.shr93d_pcs</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Short</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.shr93d_ps.jpg</Image>
+      <Text>93 Paint Step D shape</Text>
+      <Value>sideskirt.shr93d_ps</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Mid</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.mid93_p.jpg</Image>
+      <Text>93 Paint</Text>
+      <Value>sideskirt.mid93_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Mid</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.mid93_pc.jpg</Image>
+      <Text>93 Paint Chrome</Text>
+      <Value>sideskirt.mid93_pc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Mid</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.mid93d_p.jpg</Image>
+      <Text>93 Paint D shape</Text>
+      <Value>sideskirt.mid93d_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Mid</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.mid93d_pc.jpg</Image>
+      <Text>93 Paint Chrome D shape</Text>
+      <Value>sideskirt.mid93d_pc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Mid</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.mid117_p.jpg</Image>
+      <Text>117 Paint</Text>
+      <Value>sideskirt.mid117_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Mid</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.mid117_pc.jpg</Image>
+      <Text>117 Paint Chrome</Text>
+      <Value>sideskirt.mid117_pc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Mid</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.mid117_pcs.jpg</Image>
+      <Text>117 Paint Chrome Step</Text>
+      <Value>sideskirt.mid117_pcs</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Mid</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.mid117_ps.jpg</Image>
+      <Text>117 Paint Step</Text>
+      <Value>sideskirt.mid117_ps</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Mid</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.mid117d_p.jpg</Image>
+      <Text>117 Paint D shape</Text>
+      <Value>sideskirt.mid117d_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Mid</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.mid117d_pc.jpg</Image>
+      <Text>117 Paint Chrome D shape</Text>
+      <Value>sideskirt.mid117d_pc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Mid</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.mid117d_pcs.jpg</Image>
+      <Text>117 Paint Chrome Step D shape</Text>
+      <Value>sideskirt.mid117d_pcs</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Mid</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.mid117d_ps.jpg</Image>
+      <Text>117 Paint Step D shape</Text>
+      <Value>sideskirt.mid117d_ps</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Long</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.lng117_p.jpg</Image>
+      <Text>117 Paint</Text>
+      <Value>sideskirt.lng117_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Long</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.lng117_pc.jpg</Image>
+      <Text>117 Paint Chrome</Text>
+      <Value>sideskirt.lng117_pc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Long</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.lng117d_p.jpg</Image>
+      <Text>117 Paint D shape</Text>
+      <Value>sideskirt.lng117d_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Long</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.lng117d_pc.jpg</Image>
+      <Text>117 Paint Chrome D shape</Text>
+      <Value>sideskirt.lng117d_pc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Long</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.lng142_p.jpg</Image>
+      <Text>142 Paint</Text>
+      <Value>sideskirt.lng142_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Long</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.lng142_pc.jpg</Image>
+      <Text>142 Paint Chrome</Text>
+      <Value>sideskirt.lng142_pc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Long</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.lng142_pcs.jpg</Image>
+      <Text>142 Paint Chrome Step</Text>
+      <Value>sideskirt.lng142_pcs</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Long</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.lng142_ps.jpg</Image>
+      <Text>142 Paint Step</Text>
+      <Value>sideskirt.lng142_ps</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Long</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.lng142d_p.jpg</Image>
+      <Text>142 Paint D shape</Text>
+      <Value>sideskirt.lng142d_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Long</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.lng142d_pc.jpg</Image>
+      <Text>142 Paint Chrome D shape</Text>
+      <Value>sideskirt.lng142d_pc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Long</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.lng142d_pcs.jpg</Image>
+      <Text>142 Paint Chrome Step D shape</Text>
+      <Value>sideskirt.lng142d_pcs</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts Long</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\sideskirt.lng142d_ps.jpg</Image>
+      <Text>142 Paint Step D shape</Text>
+      <Value>sideskirt.lng142d_ps</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>mack.anthem</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMkAnthem\anthem_70.jpg</VehicleImage>
+  <VehicleName>MACK|Anthem</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMkAnthem\anthem_dc.jpg</Image>
+      <InternalName>day.mack.anthem.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMkAnthem\anthem_48.jpg</Image>
+      <InternalName>s48.mack.anthem.cabin</InternalName>
+      <Name>48 Sleeper</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMkAnthem\anthem_70.jpg</Image>
+      <InternalName>s70.mack.anthem.cabin</InternalName>
+      <Name>70 Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Lucasi and pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>a6d6ff91-2880-4a49-9b5c-38fc99885073</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.\n\nFlow Below (black text) with Black MF (white text).\n\nLocated under mudflaps in game.</Description>
+      <Group>Wheel Fairings</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\VolvoVNL18\mudflaps.pntb_aero.jpg</Image>
+      <Text>Flow Below (Aero, Paint only)</Text>
+      <Value>mudflaps.pntb_aero</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nFlow Below (black text) with Black MF (white logo, black text).\n\nLocated under mudflaps in game.</Description>
+      <Group>Wheel Fairings</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\VolvoVNL18\mudflaps.pntb_aero_l.jpg</Image>
+      <Text>Flow Below (Aero, Paint only)</Text>
+      <Value>mudflaps.pntb_aero_l</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nFlow Below (black text) with White MF (black text).\n\nLocated under mudflaps in game.</Description>
+      <Group>Wheel Fairings</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\VolvoVNL18\mudflaps.pntb_aero_w.jpg</Image>
+      <Text>Flow Below (Aero, Paint only)</Text>
+      <Value>mudflaps.pntb_aero_w</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nFlow Below (white text) with Black MF (white text).\n\nLocated under mudflaps in game.</Description>
+      <Group>Wheel Fairings</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\VolvoVNL18\mudflaps.pntw_aero.jpg</Image>
+      <Text>Flow Below (Aero, Paint only)</Text>
+      <Value>mudflaps.pntw_aero</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nFlow Below (white text) with Black MF (white logo, black text).\n\nLocated under mudflaps in game.</Description>
+      <Group>Wheel Fairings</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\VolvoVNL18\mudflaps.pntw_aero_l.jpg</Image>
+      <Text>Flow Below (Aero, Paint only)</Text>
+      <Value>mudflaps.pntw_aero_l</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nFlow Below (white text) with White MF (black text).\n\nLocated under mudflaps in game.</Description>
+      <Group>Wheel Fairings</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\VolvoVNL18\mudflaps.pntw_aero_w.jpg</Image>
+      <Text>Flow Below (Aero, Paint only)</Text>
+      <Value>mudflaps.pntw_aero_w</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nFlow Below (black text) with Black MF (white text).\n\nLocated under mudflaps in game.</Description>
+      <Group>Wheel Fairings</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\VolvoVNL18\mudflaps.pnt2b_aero.jpg</Image>
+      <Text>Flow Below (Aero, Paint and Plastic)</Text>
+      <Value>mudflaps.pnt2b_aero</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nFlow Below (black text) with Black MF (white logo, black text).\n\nLocated under mudflaps in game.</Description>
+      <Group>Wheel Fairings</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\VolvoVNL18\mudflaps.pnt2b_aero_l.jpg</Image>
+      <Text>Flow Below (Aero, Paint and Plastic)</Text>
+      <Value>mudflaps.pnt2b_aero_l</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nFlow Below (black text) with White MF (black text).\n\nLocated under mudflaps in game.</Description>
+      <Group>Wheel Fairings</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\VolvoVNL18\mudflaps.pnt2b_aero_w.jpg</Image>
+      <Text>Flow Below (Aero, Paint and Plastic)</Text>
+      <Value>mudflaps.pnt2b_aero_w</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nFlow Below (white text) with Black MF (white text).\n\nLocated under mudflaps in game.</Description>
+      <Group>Wheel Fairings</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\VolvoVNL18\mudflaps.pnt2w_aero.jpg</Image>
+      <Text>Flow Below (Aero, Paint and Plastic)</Text>
+      <Value>mudflaps.pnt2w_aero</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nFlow Below (white text) with Black MF (white logo, black text).\n\nLocated under mudflaps in game.</Description>
+      <Group>Wheel Fairings</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\VolvoVNL18\mudflaps.pnt2w_aero_l.jpg</Image>
+      <Text>Flow Below (Aero, Paint and Plastic)</Text>
+      <Value>mudflaps.pnt2w_aero_l</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nFlow Below (white text) with White MF (black text).\n\nLocated under mudflaps in game.</Description>
+      <Group>Wheel Fairings</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\VolvoVNL18\mudflaps.pnt2w_aero_w.jpg</Image>
+      <Text>Flow Below (Aero, Paint and Plastic)</Text>
+      <Value>mudflaps.pnt2w_aero_w</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>volvo.vnl2018</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolVNL\vnl18_s860.jpg</VehicleImage>
+  <VehicleName>Volvo|VNL 2018</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolVNL\vnl18_300.jpg</Image>
+      <InternalName>day.volvo.vnl2018.cabin</InternalName>
+      <Name>300 Day Cab</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolVNL\vnl18_s740.jpg</Image>
+      <InternalName>s740.volvo.vnl2018.cabin</InternalName>
+      <Name>740 Sleeper</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolVNL\vnl18_s860.jpg</Image>
+      <InternalName>s860.volvo.vnl2018.cabin</InternalName>
+      <Name>860 Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

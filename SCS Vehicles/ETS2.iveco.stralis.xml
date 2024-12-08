@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>08583115-760f-4c48-8509-de7c6a50ada6</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>iveco.stralis</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSIveco\stralis_superspace.jpg</VehicleImage>
+  <VehicleName>IVECO|Stralis</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSIveco\stralis_space.jpg</Image>
+      <InternalName>at.iveco.stralis.cabin</InternalName>
+      <Name>Active Space</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSIveco\stralis_super.jpg</Image>
+      <InternalName>at_higher.iveco.stralis.cabin</InternalName>
+      <Name>Active Super</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSIveco\stralis_superspace.jpg</Image>
+      <InternalName>as_higher.iveco.stralis.cabin</InternalName>
+      <Name>Active Space Super</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>WerewolfCustoms</XmlDefinitionAuthor>
+</Variable>

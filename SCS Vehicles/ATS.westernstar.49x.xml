@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>17826637-ad94-464e-8354-4ea2d9d2b953</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Hood</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar49x\hood.power.jpg</Image>
+      <Text>Power</Text>
+      <Value>hood.power</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar49x\bumper.paint.jpg</Image>
+      <Text>Painted Normal</Text>
+      <Value>bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar49x\bumper.pnt_log.jpg</Image>
+      <Text>Painted Logger Bumper</Text>
+      <Value>bumper.pnt_log</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar49x\bumper.paint_sb.jpg</Image>
+      <Text>Painted Bumper Short Hood</Text>
+      <Value>bumper.paint_sb</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar49x\bumper.paint2_sb.jpg</Image>
+      <Text>Painted Bumper 2 Short hood</Text>
+      <Value>bumper.paint2_sb</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar49x\bumper.pnt_log_sb.jpg</Image>
+      <Text>Painted Logger Bumper </Text>
+      <Value>bumper.pnt_log_sb</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar49x\bumper.pnt2_log_sb.jpg</Image>
+      <Text>Painted Logger Bumper 2</Text>
+      <Value>bumper.pnt2_log_sb</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Grill </Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar49x\f_grill.paint.jpg</Image>
+      <Text>Front Bull Bar Painted</Text>
+      <Value>f_grill.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>westernstar.49x</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSWest49X\ws_sfa_72.jpg</VehicleImage>
+  <VehicleName>Western Star|49x</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSWest49X\ws_sfa_dc.jpg</Image>
+      <InternalName>day.westernstar.49x.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSWest49X\ws_sba_dc.jpg</Image>
+      <InternalName>daysb.westernstar.49x.cabin</InternalName>
+      <Name>Day Cab sb</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSWest49X\ws_sfa_48.jpg</Image>
+      <InternalName>s48.westernstar.49x.cabin</InternalName>
+      <Name>48 Sleeper</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSWest49X\ws_sba_48.jpg</Image>
+      <InternalName>s48sb.westernstar.49x.cabin</InternalName>
+      <Name>48sb  Sleeper</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSWest49X\ws_sfa_72.jpg</Image>
+      <InternalName>s72.westernstar.49x.cabin</InternalName>
+      <Name>72 Sleeper</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSWest49X\ws_sba_72.jpg</Image>
+      <InternalName>s72sb.westernstar.49x.cabin</InternalName>
+      <Name>72sb Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Lucasi and pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

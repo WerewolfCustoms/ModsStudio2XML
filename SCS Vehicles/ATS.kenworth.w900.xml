@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>fd623af3-d994-484d-9662-19200bbb4513</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cab deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\cabdefl.s72_std.jpg</Image>
+      <Text>Roof Deflector (S72 cab)</Text>
+      <Value>cabdefl.s72_std</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cab deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\cabdefl.s86_std.jpg</Image>
+      <Text>Roof Deflector (S86 cab)</Text>
+      <Value>cabdefl.s86_std</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cab deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\cabdefl.whale_pnt.jpg</Image>
+      <Text>Whale Tail, Painted (S72 and S86 cabs)</Text>
+      <Value>cabdefl.whale_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cab deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\cabdefl.wing_pnt.jpg</Image>
+      <Text>Turbo Wing, Painted (S72 and S86 cabs)</Text>
+      <Value>cabdefl.wing_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Visor</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\sunshield.untie_pnt.jpg</Image>
+      <Text>Untie Paint</Text>
+      <Value>sunshield.untie_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Visor</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\sunshield.shape01_pnt.jpg</Image>
+      <Text>Standard Sunshield Paint</Text>
+      <Value>sunshield.shape01_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Visor</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\sunshield.shape03_pnt.jpg</Image>
+      <Text>Exclusive Sunshield Paint</Text>
+      <Value>sunshield.shape03_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Visor</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\sunshield.bat_pnt.jpg</Image>
+      <Text>Batvisor Paint</Text>
+      <Value>sunshield.bat_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Visor</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\sunshield.shape02_pnt.jpg</Image>
+      <Text>Blind Mount Visor Paint</Text>
+      <Value>sunshield.shape02_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bug Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\deflector.shape01_pnt.jpg</Image>
+      <Text>Metal Painted</Text>
+      <Value>deflector.shape01_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bug Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\deflector.aero_pnt.jpg</Image>
+      <Text>Aero Painted</Text>
+      <Value>deflector.aero_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Logo</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\f_logo.p.jpg</Image>
+      <Text>Black Longhorn Paint</Text>
+      <Value>f_logo.bull_black_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Logo</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\f_logo.p.jpg</Image>
+      <Text>Blue Longhorn Paint</Text>
+      <Value>f_logo.bull_blue_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Logo</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\f_logo.p.jpg</Image>
+      <Text>Red Longhorn Paint</Text>
+      <Value>f_logo.bull_red_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Logo</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\f_logo.p.jpg</Image>
+      <Text>Kenworth Black Paint</Text>
+      <Value>f_logo.kw_blk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Logo</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\f_logo.p.jpg</Image>
+      <Text>Kenworth Exclusive Paint</Text>
+      <Value>f_logo.kw_chr_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Logo</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\f_logo.p.jpg</Image>
+      <Text>Kenworth Paint</Text>
+      <Value>f_logo.kw_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Logo</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\f_logo.p.jpg</Image>
+      <Text>Kenworth Retro Black Paint</Text>
+      <Value>f_logo.kw_rtr_blk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Logo</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\f_logo.p.jpg</Image>
+      <Text>Kenworth Retro Paint</Text>
+      <Value>f_logo.kw_rtr_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\f_mirror.shape1_pnt.jpg</Image>
+      <Text>Front Right, Classic Paint</Text>
+      <Value>fr_mirror.shape1_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\f_mirror.shape2_pnt.jpg</Image>
+      <Text>Front Right, Standard Paint</Text>
+      <Value>fr_mirror.shape2_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\f_mirror.shape1_pnt.jpg</Image>
+      <Text>Front Left, Classic Paint</Text>
+      <Value>fl_mirror.shape1_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\f_mirror.shape2_pnt.jpg</Image>
+      <Text>Front Left, Standard Paint</Text>
+      <Value>fl_mirror.shape2_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Grille</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\grill.std_pnt.jpg</Image>
+      <Text>Standard Paint</Text>
+      <Value>grill.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Grille</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\grill.v18_pnt.jpg</Image>
+      <Text>V18 Paint</Text>
+      <Value>grill.v18_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Grille</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\grill.louver_pnt.jpg</Image>
+      <Text>Louvered Paint</Text>
+      <Value>grill.louver_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Grille</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\grill.diamond_cut.jpg</Image>
+      <Text>Diamond Cut</Text>
+      <Value>grill.diamond_cut</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Grille</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\grill.srd_pnt.jpg</Image>
+      <Text>Surround Paint</Text>
+      <Value>grill.srd_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Grille</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\grill.louver_a_pnt.jpg</Image>
+      <Text>Louvered Angle Paint</Text>
+      <Value>grill.louver_a_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\bumper.shape01_pnt.jpg</Image>
+      <Text>Standard Paint</Text>
+      <Value>bumper.shape01_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\bumper.ram_pnt.jpg</Image>
+      <Text>Ram Painted</Text>
+      <Value>bumper.ram_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\bumper.shape04_pnt.jpg</Image>
+      <Text>Modern Painted</Text>
+      <Value>bumper.shape04_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\bumper.shape02_pnt.jpg</Image>
+      <Text>Shield Painted</Text>
+      <Value>bumper.shape02_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\bumper.mirage_pnt.jpg</Image>
+      <Text>Mirage Painted</Text>
+      <Value>bumper.mirage_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\bumper.boxer_pnt.jpg</Image>
+      <Text>Boxer Painted</Text>
+      <Value>bumper.boxer_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\bumper.shape03_pnt.jpg</Image>
+      <Text>Firefly Painted</Text>
+      <Value>bumper.shape03_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\bumper.ranger_pnt.jpg</Image>
+      <Text>Ranger Painted</Text>
+      <Value>bumper.ranger_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\bumper.foreman_pnt.jpg</Image>
+      <Text>Foreman Painted</Text>
+      <Value>bumper.foreman_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\bumper.shape05_pnt.jpg</Image>
+      <Text>Quaterback Painted</Text>
+      <Value>bumper.shape05_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\bumper.storm_pnt.jpg</Image>
+      <Text>Storm Painted</Text>
+      <Value>bumper.storm_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\bumper.storm_chr.jpg</Image>
+      <Text>Storm Chrome</Text>
+      <Value>bumper.storm_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Main Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\mirror.shape1_pnt.jpg</Image>
+      <Text>Duty Paint</Text>
+      <Value>mirror.shape1_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Main Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\mirror.nxtgen1_pnt.jpg</Image>
+      <Text>Duty II Paint</Text>
+      <Value>mirror.nxtgen1_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Main Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\mirror.shape2_pnt.jpg</Image>
+      <Text>Standard Paint</Text>
+      <Value>mirror.shape2_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Main Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\mirror.nxtgen2_pnt.jpg</Image>
+      <Text>Standard II Paint</Text>
+      <Value>mirror.nxtgen2_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Main Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\mirror.modern1_pnt.jpg</Image>
+      <Text>Modern Paint</Text>
+      <Value>mirror.modern1_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Main Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\mirror.modern2_pnt.jpg</Image>
+      <Text>Modern Premium Paint</Text>
+      <Value>mirror.modern2_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\exhaust.day_sa_l_pnt.jpg</Image>
+      <Text>Bullhorn Long Paint</Text>
+      <Value>exhaust.day_sa_l_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\exhaust.day_sn_l_pnt.jpg</Image>
+      <Text>Curved Long Paint</Text>
+      <Value>exhaust.day_sn_l_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\exhaust.day_sn_s_pnt.jpg</Image>
+      <Text>Curved Short Paint</Text>
+      <Value>exhaust.day_sn_s_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\exhaust.day_ss_l_pnt.jpg</Image>
+      <Text>Standard Flattop Long Paint</Text>
+      <Value>exhaust.day_ss_l_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\exhaust.day_ss_s_pnt.jpg</Image>
+      <Text>Standard Flattop Short Paint</Text>
+      <Value>exhaust.day_ss_s_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\exhaust.slp_kn_l_pnt.jpg</Image>
+      <Text>Kenworth Curved Long Paint</Text>
+      <Value>exhaust.slp_kn_l_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Exhaust</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\exhaust.slp_ks_l_pnt.jpg</Image>
+      <Text>Kenworth Flattop Long Paint</Text>
+      <Value>exhaust.slp_ks_l_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fenders</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\r_fender.fiberg_full.jpg</Image>
+      <Text>Fiberglass Full</Text>
+      <Value>r_fender.fiberg_full</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fenders</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\r_fender.fiberg_half.jpg</Image>
+      <Text>Fiberglass Half</Text>
+      <Value>r_fender.fiberg_half</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fenders</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\r_fender.hump_cur_dbl.jpg</Image>
+      <Text>Hump Curved Double</Text>
+      <Value>r_fender.hump_cur_dbl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fenders</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\r_fender.hump_cur_tri.jpg</Image>
+      <Text>Hump Curved Triple</Text>
+      <Value>r_fender.hump_cur_tri</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fenders</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\r_fender.hump_dbl.jpg</Image>
+      <Text>Hump Double</Text>
+      <Value>r_fender.hump_dbl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fenders</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\r_fender.hump_tri.jpg</Image>
+      <Text>Hump Triple</Text>
+      <Value>r_fender.hump_tri</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fenders</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\r_fender.pnt_dbl.jpg</Image>
+      <Text>Painted Double</Text>
+      <Value>r_fender.pnt_dbl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fenders</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\r_fender.pnt_full.jpg</Image>
+      <Text>Painted Full</Text>
+      <Value>r_fender.pnt_full</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fenders</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\r_fender.pnt_half.jpg</Image>
+      <Text>Painted Half</Text>
+      <Value>r_fender.pnt_half</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fenders</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\r_fender.pnt_tri.jpg</Image>
+      <Text>Painted Triple</Text>
+      <Value>r_fender.pnt_tri</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fenders</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\r_fender.qrt_kw_pnt.jpg</Image>
+      <Text>Kenworth Quarter Painted</Text>
+      <Value>r_fender.qrt_kw_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fenders</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\r_fender.qrt_log_pnt.jpg</Image>
+      <Text>Logo Quarter Painted</Text>
+      <Value>r_fender.qrt_log_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fenders</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\r_fender.qrt_pnt.jpg</Image>
+      <Text>Quarter Painted</Text>
+      <Value>r_fender.qrt_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fenders</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\r_fender.storm_pnt.jpg</Image>
+      <Text>Storm Painted</Text>
+      <Value>r_fender.storm_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nChrome fixtures with Painted tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.100yp_ln260.jpg</Image>
+      <Text>100th yr Anniversary Paint 260 gal long</Text>
+      <Value>tank.100yp_ln260</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPaint fixtures with chrome tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.100yp2_ln260.jpg</Image>
+      <Text>100th yr Anniversary Paint and Chrome 260 gal long</Text>
+      <Value>tank.100yp2_ln260</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nChrome fixtures with Painted tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt_ln220n.jpg</Image>
+      <Text>Paint and Chrome 220 gal long (no default tank)</Text>
+      <Value>tank.pnt_ln220n</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nChrome fixtures with Painted tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt_ln235.jpg</Image>
+      <Text>Paint 235 gal long</Text>
+      <Value>tank.pnt_ln235</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nChrome fixtures with Painted tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt_ln260.jpg</Image>
+      <Text>Paint 260 gal long</Text>
+      <Value>tank.pnt_ln260</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nChrome fixtures with Painted tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt_ln300.jpg</Image>
+      <Text>Paint 300 gal long</Text>
+      <Value>tank.pnt_ln300</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nChrome fixtures with Painted tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt_ln300n.jpg</Image>
+      <Text>Paint 300 gal long (no default tank)</Text>
+      <Value>tank.pnt_ln300n</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nChrome fixtures with Painted tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt_ln220n.jpg</Image>
+      <Text>Paint 220 gal mid (no default tank)</Text>
+      <Value>tank.pnt_md220n</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nChrome fixtures with Painted tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt_ln235.jpg</Image>
+      <Text>Paint 235 gal mid</Text>
+      <Value>tank.pnt_md235</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nChrome fixtures with Painted tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt_ln260.jpg</Image>
+      <Text>Paint 260 gal mid</Text>
+      <Value>tank.pnt_md260</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nChrome fixtures with Painted tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt_ln300.jpg</Image>
+      <Text>Paint 300 gal mid</Text>
+      <Value>tank.pnt_md300</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nChrome fixtures with Painted tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt_ln300n.jpg</Image>
+      <Text>Paint 300 gal mid (no default tank)</Text>
+      <Value>tank.pnt_md300n</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nChrome fixtures with Painted tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt_sh120.jpg</Image>
+      <Text>Paint 120 gal short</Text>
+      <Value>tank.pnt_sh120</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nChrome fixtures with Painted tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt_sh150n.jpg</Image>
+      <Text>Paint 150 gal short (no default tank)</Text>
+      <Value>tank.pnt_sh150n</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nChrome fixtures with Painted tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt_sh180.jpg</Image>
+      <Text>Paint 180 gal short</Text>
+      <Value>tank.pnt_sh180</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nChrome fixtures with Painted tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt_sh220n.jpg</Image>
+      <Text>Paint 220 gal short (no default tank)</Text>
+      <Value>tank.pnt_sh220n</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPaint fixtures with chrome tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt2_ln220n.jpg</Image>
+      <Text>Paint and Chrome 220 gal long (no default tank)</Text>
+      <Value>tank.pnt2_ln220n</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPaint fixtures with chrome tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt2_ln235.jpg</Image>
+      <Text>Paint and Chrome 235 gal long</Text>
+      <Value>tank.pnt2_ln235</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPaint fixtures with chrome tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt2_ln260.jpg</Image>
+      <Text>Paint and Chrome 260 gal long</Text>
+      <Value>tank.pnt2_ln260</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPaint fixtures with chrome tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt2_ln300.jpg</Image>
+      <Text>Paint and Chrome 300 gal long</Text>
+      <Value>tank.pnt2_ln300</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPaint fixtures with chrome tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt2_ln300n.jpg</Image>
+      <Text>Paint and Chrome 300 gal long (no default tank)</Text>
+      <Value>tank.pnt2_ln300n</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPaint fixtures with chrome tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt2_md220n.jpg</Image>
+      <Text>Paint and Chrome 220 gal mid (no default tank)</Text>
+      <Value>tank.pnt2_md220n</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPaint fixtures with chrome tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt2_md235.jpg</Image>
+      <Text>Paint and Chrome 235 gal mid</Text>
+      <Value>tank.pnt2_md235</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPaint fixtures with chrome tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt2_md260.jpg</Image>
+      <Text>Paint and Chrome 260 gal mid</Text>
+      <Value>tank.pnt2_md260</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPaint fixtures with chrome tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt2_md300.jpg</Image>
+      <Text>Paint and Chrome 300 gal mid</Text>
+      <Value>tank.pnt2_md300</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPaint fixtures with chrome tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt2_md300n.jpg</Image>
+      <Text>Paint and Chrome 300 gal mid (no default tank)</Text>
+      <Value>tank.pnt2_md300n</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPaint fixtures with chrome tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt2_sh120.jpg</Image>
+      <Text>Paint and Chrome 120 gal short</Text>
+      <Value>tank.pnt2_sh120</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPaint fixtures with chrome tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt2_sh150n.jpg</Image>
+      <Text>Paint and Chrome 150 gal short (no default tank)</Text>
+      <Value>tank.pnt2_sh150n</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPaint fixtures with chrome tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt2_sh180.jpg</Image>
+      <Text>Paint and Chrome 180 gal short</Text>
+      <Value>tank.pnt2_sh180</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nPaint fixtures with chrome tanks.</Description>
+      <Group>Tank</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\tank.pnt2_sh220n.jpg</Image>
+      <Text>Paint and Chrome 220 gal short (no default tank)</Text>
+      <Value>tank.pnt2_sh220n</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Steps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\doorstep.pnt_120.jpg</Image>
+      <Text>Paint 120 gal</Text>
+      <Value>doorstep.pnt_120</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Steps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\doorstep.pnt_150.jpg</Image>
+      <Text>Paint 150 gal</Text>
+      <Value>doorstep.pnt_150</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Steps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\doorstep.pnt_180.jpg</Image>
+      <Text>Paint 180 gal</Text>
+      <Value>doorstep.pnt_180</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Steps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\doorstep.pnt_180b.jpg</Image>
+      <Text>Paint, Basic 180 gal</Text>
+      <Value>doorstep.pnt_180b</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Steps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\doorstep.pnt_235.jpg</Image>
+      <Text>Paint 235 gal</Text>
+      <Value>doorstep.pnt_235</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Steps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\doorstep.pnt_235b.jpg</Image>
+      <Text>Paint, Basic 235 gal</Text>
+      <Value>doorstep.pnt_235b</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Steps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\doorstep.pnt_260.jpg</Image>
+      <Text>Paint, Exclusive 260 gal</Text>
+      <Value>doorstep.pnt_260</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Steps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\doorstep.pnt2_120.jpg</Image>
+      <Text>Paint II 120 gal</Text>
+      <Value>doorstep.pnt2_120</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Steps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\doorstep.pnt2_150.jpg</Image>
+      <Text>Paint II 150 gal</Text>
+      <Value>doorstep.pnt2_150</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Steps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\doorstep.pnt2_180.jpg</Image>
+      <Text>Paint II 180 gal</Text>
+      <Value>doorstep.pnt2_180</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Steps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\doorstep.pnt2_180b.jpg</Image>
+      <Text>Paint II, Basic 180 gal</Text>
+      <Value>doorstep.pnt2_180b</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Steps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\doorstep.pnt2_235.jpg</Image>
+      <Text>Paint II 235 gal</Text>
+      <Value>doorstep.pnt2_235</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Steps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\doorstep.pnt2_235b.jpg</Image>
+      <Text>Paint II, Basic 235 gal</Text>
+      <Value>doorstep.pnt2_235b</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Steps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\doorstep.pnt2_260.jpg</Image>
+      <Text>Paint II, Exclusive 260 gal</Text>
+      <Value>doorstep.pnt2_260</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis Cover</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\r_chs_cover.pln_pnt_sng.jpg</Image>
+      <Text>Paint</Text>
+      <Value>r_chs_cover.pln_pnt_sng</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\r_bumper.chariot_pnt.jpg</Image>
+      <Text>Chariot Paint</Text>
+      <Value>r_bumper.chariot_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\KenW900\r_bumper.storm.jpg</Image>
+      <Text>Storm</Text>
+      <Value>r_bumper.storm</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>kenworth.w900</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSKenW900\w900_aero.jpg</VehicleImage>
+  <VehicleName>Kenworth|W900</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSKenW900\w900_dc.jpg</Image>
+      <InternalName>day.kenworth.w900.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSKenW900\w900_studio.jpg</Image>
+      <InternalName>s72.kenworth.w900.cabin</InternalName>
+      <Name>72 Studio Sleeper</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSKenW900\w900_aero.jpg</Image>
+      <InternalName>s86.kenworth.w900.cabin</InternalName>
+      <Name>86 Studio Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

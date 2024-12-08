@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>bfab990d-4fae-4598-8874-288a4271d1c3</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <Game>ETS2</Game>
+  <InternalName>renault.radiance</InternalName>
+  <VehicleAuthor>jon-ruda</VehicleAuthor>
+  <VehicleImage />
+  <VehicleName>Radiance Concept</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>solo.renault.radiance.cabin</InternalName>
+      <Name>High</Name>
+    </Variant>
+    <Variant>
+      <InternalName>wipers.renault.radiance.cabin</InternalName>
+      <Name>High Wipers</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

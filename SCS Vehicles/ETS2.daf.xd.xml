@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>9e5aa555-7654-4551-a588-e932693109cc</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxd\sunshield.paint_slh.jpg</Image>
+      <Text>Paint (Sleeper High Cab)</Text>
+      <Value>sunshield.paint_slh</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxd\mirror.cam_plast.jpg</Image>
+      <Text>Plastic Camera (Day and Sleeper cabins)</Text>
+      <Value>mirror.cam_plast</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxd\mirror.cam_semi.jpg</Image>
+      <Text>Plastic Paint Camera (Day and Sleeper cabins)</Text>
+      <Value>mirror.cam_semi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxd\mirror.cam_semi_h.jpg</Image>
+      <Text>Plastic Paint Camera (Sleeper High cabin)</Text>
+      <Value>mirror.cam_semi_h</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxd\mirror.semi.jpg</Image>
+      <Text>Plastic Paint (All cabins)</Text>
+      <Value>mirror.semi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxd\sideskirt.pnt_4x2s.jpg</Image>
+      <Text>Paint 4x2</Text>
+      <Value>sideskirt.pnt_4x2s</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>daf.xd</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xd_slph.jpg.jpg</VehicleImage>
+  <VehicleName>DAF|XD</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xd_day.jpg</Image>
+      <InternalName>day.daf.xd.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xd_slp.jpg</Image>
+      <InternalName>sl.daf.xd.cabin</InternalName>
+      <Name>Sleeper</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xd_slph.jpg</Image>
+      <InternalName>slh.daf.xd.cabin</InternalName>
+      <Name>Sleeper High</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

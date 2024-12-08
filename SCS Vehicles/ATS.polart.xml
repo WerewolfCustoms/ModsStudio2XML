@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>334e0397-8dcf-4e2c-847f-4cbc067f43b0</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <Game>ATS</Game>
+  <InternalName>polart</InternalName>
+  <VehicleAuthor>jon-ruda</VehicleAuthor>
+  <VehicleImage />
+  <VehicleName>Tanker Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.tanker</InternalName>
+      <Name>Standard Connectors</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.tankerc</InternalName>
+      <Name>Custom Connectors</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

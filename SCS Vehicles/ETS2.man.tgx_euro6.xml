@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ebe4ee7a-fead-4c7c-bd23-e81d84735b13</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\mirror.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Window Frame</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\f_wnd_frame.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_wnd_frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Badge Plate</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\f_intake_bar.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_intake_bar.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\f_intake_cab.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_intake_cab.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\f_bumper.stock.jpg</Image>
+      <Text>Plastic</Text>
+      <Value>f_bumper.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\f_bumper.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\f_bumper.stock_19.jpg</Image>
+      <Text>Plastic and Chrome 2019</Text>
+      <Value>f_bumper.stock_19</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\f_bumper.paint_19.jpg</Image>
+      <Text>Paint and Chrome 2019</Text>
+      <Value>f_bumper.paint_19</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\r_deflector.xxl_stock.jpg</Image>
+      <Text>Stock (XXL Cab)</Text>
+      <Value>r_deflector.xxl_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\r_deflector.xlx_stock.jpg</Image>
+      <Text>Stock (XLX Cab)</Text>
+      <Value>r_deflector.xlx_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\r_deflector.xl_stock.jpg</Image>
+      <Text>Stock (XL Cab)</Text>
+      <Value>r_deflector.xl_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Stripe</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\s_strip.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>s_strip.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Panel</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\s_panel.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>s_panel.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\s_deflector.stock.jpg</Image>
+      <Text>Stock</Text>
+      <Value>s_deflector.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Handle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\doorhndl.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>doorhndl.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Corner Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\cor_def.stock.jpg</Image>
+      <Text>Plastic</Text>
+      <Value>cor_def.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Corner Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\cor_def.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>cor_def.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory overrides Front Fender (Chassis).</Description>
+      <Group>Front Fender (Cabin)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\f_fender_cab.stock.jpg</Image>
+      <Text>Stock</Text>
+      <Value>f_fender_cab.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory is overriden by Front Fender (Cabin).</Description>
+      <Group>Front Fender (Chassis)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\f_fender_chs.stock.jpg</Image>
+      <Text>Stock</Text>
+      <Value>f_fender_chs.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\sideskirt.stock_4x2.jpg</Image>
+      <Text>Stock 4x2</Text>
+      <Value>sideskirt.stock_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\sideskirt.stock_6x2_2.jpg</Image>
+      <Text>Stock 6x2-2 Taglift</Text>
+      <Value>sideskirt.stock_6x2_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\sideskirt.stock_6x4.jpg</Image>
+      <Text>Stock 6x4</Text>
+      <Value>sideskirt.stock_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\sideskirt.stock_6x22.jpg</Image>
+      <Text>Stock 6x2/2 Midlift</Text>
+      <Value>sideskirt.stock_6x22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\sideskirt.stock_6x22.jpg</Image>
+      <Text>Stock 6x2/4 Midlift</Text>
+      <Value>sideskirt.stock_6x24</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\sideskirt.stock_8x4.jpg</Image>
+      <Text>Stock 8x4</Text>
+      <Value>sideskirt.stock_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\sideskirt.paint_4x2.jpg</Image>
+      <Text>Paint 4x2</Text>
+      <Value>sideskirt.paint_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\sideskirt.paint_6x2_2.jpg</Image>
+      <Text>Paint 6x2-2 Taglift</Text>
+      <Value>sideskirt.paint_6x2_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\sideskirt.paint_6x4.jpg</Image>
+      <Text>Paint 6x4</Text>
+      <Value>sideskirt.paint_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\sideskirt.paint_6x22.jpg</Image>
+      <Text>Paint_6x2/2 Midlift</Text>
+      <Value>sideskirt.paint_6x22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\sideskirt.paint_6x22.jpg</Image>
+      <Text>Paint 6x2/4 Midlift</Text>
+      <Value>sideskirt.paint_6x24</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\sideskirt.paint_8x4.jpg</Image>
+      <Text>Paint 8x4</Text>
+      <Value>sideskirt.paint_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Top Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\r_fendr_top.paint_4x2.jpg</Image>
+      <Text>Paint 4x2</Text>
+      <Value>r_fendr_top.paint_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Top Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\r_fendr_top.paint_6x2_2.jpg</Image>
+      <Text>Paint 6x2-2 Taglift</Text>
+      <Value>r_fendr_top.paint_6x2_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Top Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\r_fendr_top.paint_6x4.jpg</Image>
+      <Text>Paint 6x4</Text>
+      <Value>r_fendr_top.paint_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Top Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\r_fendr_top.paint_6x22.jpg</Image>
+      <Text>Paint_6x2/2 Midlift</Text>
+      <Value>r_fendr_top.paint_6x22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Top Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\r_fendr_top.paint_6x24.jpg</Image>
+      <Text>Paint_6x2/4 Midlift</Text>
+      <Value>r_fendr_top.paint_6x24</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Top Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\r_fendr_top.paint_8x4.jpg</Image>
+      <Text>Paint 8x4</Text>
+      <Value>r_fendr_top.paint_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\r_fender.paint_4x2.jpg</Image>
+      <Text>Paint 4x2</Text>
+      <Value>r_fender.paint_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\r_fender.paint_6x2_2.jpg</Image>
+      <Text>Paint 6x2-2 Taglift</Text>
+      <Value>r_fender.paint_6x2_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\r_fender.paint_6x4.jpg</Image>
+      <Text>Paint 6x4</Text>
+      <Value>r_fender.paint_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\r_fender.paint_6x22.jpg</Image>
+      <Text>Paint_6x2/2 Midlift</Text>
+      <Value>r_fender.paint_6x22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\r_fender.paint_6x24.jpg</Image>
+      <Text>Paint_6x2/4 Midlift</Text>
+      <Value>r_fender.paint_6x24</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\MANtgxE6\r_fender.paint_8x4.jpg</Image>
+      <Text>Paint 8x4</Text>
+      <Value>r_fender.paint_8x4</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>man.tgx_euro6</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Low power engine sound</Text>
+      <Value>sound_lo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>High power engine sound</Text>
+      <Value>sound_hi</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMan\eu6_xxl.jpg</VehicleImage>
+  <VehicleName>MAN|TGX Euro 6</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMan\eu6_xl.jpg</Image>
+      <InternalName>xl_cab.man.tgx_euro6.cabin</InternalName>
+      <Name>XL</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMan\eu6_xlx.jpg</Image>
+      <InternalName>xlx_cab.man.tgx_euro6.cabin</InternalName>
+      <Name>XLX</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMan\eu6_xxl.jpg</Image>
+      <InternalName>xxl_cab.man.tgx_euro6.cabin</InternalName>
+      <Name>XXL</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

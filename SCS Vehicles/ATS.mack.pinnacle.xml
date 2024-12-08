@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>4134bf99-e904-4e21-ac8b-f2f9a7fe3b71</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>70 Roof Cap</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackPinnacle\cabdefl.s70_rcap.jpg</Image>
+      <Text>Roof Cap 70</Text>
+      <Value>cabdefl.s70_rcap</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>70 Roof Cap</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackPinnacle\cabdefl.s70_rcap_ext.jpg</Image>
+      <Text>Roof Cap 70 Exclusive</Text>
+      <Value>cabdefl.s70_rcap_ext</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>mack.pinnacle</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMkPinnacle\pinnacle_70.jpg</VehicleImage>
+  <VehicleName>MACK|Pinnacle</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMkPinnacle\pinnacle_dc.jpg</Image>
+      <InternalName>day.mack.pinnacle.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMkPinnacle\pinnacle_48.jpg</Image>
+      <InternalName>s48.mack.pinnacle.cabin</InternalName>
+      <Name>48 Sleeper</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMkPinnacle\pinnacle_70.jpg</Image>
+      <InternalName>s70.mack.pinnacle.cabin</InternalName>
+      <Name>70 Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Lucasi &amp; Taede</XmlDefinitionAuthor>
+</Variable>

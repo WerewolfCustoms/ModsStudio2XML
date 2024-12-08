@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>6b1cca77-f24d-41eb-a202-737dd092c167</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>Use a 4x4 pixel colour only.\n\nPresent in:\n1x 30 Single 2 axels\n1x B Double 2 axels\n1x Turnpike Double</Description>
+      <Group>Chassis</Group>
+      <Text>30 Single 2 axels</Text>
+      <Value>chassis.ch_30</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use a 4x4 pixel colour only.\n\nPresent in:\n1x Turnpike Double</Description>
+      <Group>Chassis</Group>
+      <Text>30 Single 2 axels with hook</Text>
+      <Value>chassis.ch_30_hook</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use a 4x4 pixel colour only.\n\nPresent in:\n1x 36 Single 2 axels</Description>
+      <Group>Chassis</Group>
+      <Text>36 Single 2 axels</Text>
+      <Value>chassis.ch_36</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use a 4x4 pixel colour only.\n\nPresent in:\n1x 36 Single 3 axels</Description>
+      <Group>Chassis</Group>
+      <Text>36 Single 3 axels</Text>
+      <Value>chassis.ch_36_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use a 4x4 pixel colour only.\n\nPresent in:\n1x B Double 2 axels</Description>
+      <Group>Chassis</Group>
+      <Text>36 Single (B Double 2 axels)</Text>
+      <Value>chassis.ch_36_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use a 4x4 pixel colour only.\n\nPresent in:\n1x B Double 3 axels</Description>
+      <Group>Chassis</Group>
+      <Text>36 Single (B Double 3 axel)</Text>
+      <Value>chassis.ch_36_bd_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use a 4x4 pixel colour only.\n\nPresent in:\n1x Turnpike Double</Description>
+      <Group>Chassis</Group>
+      <Text>Dolly 2 axels</Text>
+      <Value>chassis.dolly_conv2a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>Standard (End Dumper)</Text>
+      <Value>rear_body.simple</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>Exclusive (End Dumper)</Text>
+      <Value>rear_body.exclusive</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>Standard (Side Dumper)</Text>
+      <Value>rear_body.simple_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>Exclusive (Side Dumper)</Text>
+      <Value>rear_body.exclusive_2</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>scs.dumper</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSDumper\end30.jpg</VehicleImage>
+  <VehicleName>SCS|Dumper</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>End Dumper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSDumper\end30.jpg</Image>
+      <InternalName>body.end_30</InternalName>
+      <Name>End Dumper 30</Name>
+    </Variant>
+    <Variant>
+      <Group>End Dumper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSDumper\end36.jpg</Image>
+      <InternalName>body.end_36</InternalName>
+      <Name>End Dumper 36</Name>
+    </Variant>
+    <Variant>
+      <Group>Live Floor Dumper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSDumper\live30.jpg</Image>
+      <InternalName>body.lfloor_30</InternalName>
+      <Name>Live Floor Dumper 30</Name>
+    </Variant>
+    <Variant>
+      <Group>Live Floor Dumper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSDumper\live36.jpg</Image>
+      <InternalName>body.lfloor_36</InternalName>
+      <Name>Live Floor Dumper 36</Name>
+    </Variant>
+    <Variant>
+      <Group>Side Dumper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSDumper\side30.jpg</Image>
+      <InternalName>body.side_30</InternalName>
+      <Name>Side Dumper 30</Name>
+    </Variant>
+    <Variant>
+      <Group>Side Dumper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSDumper\bdouble.jpg</Image>
+      <InternalName>body.side_30bd</InternalName>
+      <Name>Side Dumper B Double 30</Name>
+    </Variant>
+    <Variant>
+      <Group>Side Dumper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSDumper\side36.jpg</Image>
+      <InternalName>body.side_36</InternalName>
+      <Name>Side Dumper 36</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

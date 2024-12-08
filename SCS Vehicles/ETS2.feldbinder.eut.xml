@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>f34a6a73-a04c-4ec1-bf6c-9bd5ec32751e</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.\nUse your 35 m3 skin template here.\nPresent in Single 35 m3 config only.</Description>
+      <Group>35 m3 Chassis (Skin Template)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\chassis.ch_3_35.jpg</Image>
+      <Text>Single 35 m3</Text>
+      <Value>chassis.ch_3_35</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nUse your 35 m3 skin template here.\nPresent in double config (front trailer).</Description>
+      <Group>35 m3 Chassis (Skin Template)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\chassis.ch_3_35_hook.jpg</Image>
+      <Text>Single 35 m3 (with hook)</Text>
+      <Value>chassis.ch_3_35_hook</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nUse your 52 m3 skin template here.\nPresent in Single 52 m3 config only.</Description>
+      <Group>52 m3 Chassis (Skin Template)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\chassis.ch_3_52.jpg</Image>
+      <Text>Single 52 m3 Chassis</Text>
+      <Value>chassis.ch_3_52</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nUse a 4x4 pixel coloured square here.\nPresent in double config (in front of second trailer).</Description>
+      <Group>Chassis (Colour Only)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\chassis.dolly_c.jpg</Image>
+      <Text>Dolly Chassis</Text>
+      <Value>chassis.dolly_c</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side front (35 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\chs_f_l.cage_p_35.jpg</Image>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_l.cage_p_35</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side front (52 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\chs_f_l.cage_p_52.jpg</Image>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_l.cage_p_52</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side front (35 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\chs_f_l.cagep_bp_35.jpg</Image>
+      <Text>Painted Side Protection and Painted Box</Text>
+      <Value>chs_f_l.cagep_bp_35</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side front (52 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\chs_f_l.cagep_bp_52.jpg</Image>
+      <Text>Painted Side Protection and Painted Box</Text>
+      <Value>chs_f_l.cagep_bp_52</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side front (35 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\chs_f_l.cagep_st_35.jpg</Image>
+      <Text>Painted Side Protection and Spare Tyre</Text>
+      <Value>chs_f_l.cagep_st_35</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side front (35 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\chs_f_r.cage_p_35.jpg</Image>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_r.cage_p_35</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side front (52 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\chs_f_r.cage_p_52.jpg</Image>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_r.cage_p_52</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side front (35 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\chs_f_r.cagep_bp_35.jpg</Image>
+      <Text>Painted Side Protection and Painted Box</Text>
+      <Value>chs_f_r.cagep_bp_35</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side front (52 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\chs_f_r.cagep_bp_52.jpg</Image>
+      <Text>Painted Side Protection and Painted Box</Text>
+      <Value>chs_f_r.cagep_bp_52</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side front (35 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\chs_f_r.cagep_st_35.jpg</Image>
+      <Text>Painted Side Protection and Spare Tyre</Text>
+      <Value>chs_f_r.cagep_st_35</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side front (52 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\chs_f_r.cagep_st_52.jpg</Image>
+      <Text>Painted Side Protection and Spare Tyre</Text>
+      <Value>chs_f_r.cagep_st_52</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (35 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\l_body.t_1_p_35.jpg</Image>
+      <Text>Hose Paint</Text>
+      <Value>l_body.t_1_p_35</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (35 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\l_body.t_1_p_35.jpg</Image>
+      <Text>Hose Paint (new logo)</Text>
+      <Value>l_body.t_1_p_352</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (52 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\l_body.t_1_p_52.jpg</Image>
+      <Text>Hose Paint</Text>
+      <Value>l_body.t_1_p_52</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (52 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\l_body.t_1_p_52.jpg</Image>
+      <Text>Hose Paint (new logo)</Text>
+      <Value>l_body.t_1_p_522</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (35 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\l_body.t_2_p_35.jpg</Image>
+      <Text>Hose Paint x2</Text>
+      <Value>l_body.t_2_p_35</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (35 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\l_body.t_2_p_35.jpg</Image>
+      <Text>Hose Paint x2 (new logo)</Text>
+      <Value>l_body.t_2_p_352</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (52 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\l_body.t_2_p_52.jpg</Image>
+      <Text>Hose Paint x2</Text>
+      <Value>l_body.t_2_p_52</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (52 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\l_body.t_2_p_52.jpg</Image>
+      <Text>Hose Paint x2 (new logo)</Text>
+      <Value>l_body.t_2_p_522</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (35 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\l_body.t_3_p_35.jpg</Image>
+      <Text>Hose Paint x3</Text>
+      <Value>l_body.t_3_p_35</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (35 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\l_body.t_3_p_35.jpg</Image>
+      <Text>Hose Paint x3 (new logo)</Text>
+      <Value>l_body.t_3_p_352</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (52 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\l_body.t_3_p_52.jpg</Image>
+      <Text>Hose Paint x3</Text>
+      <Value>l_body.t_3_p_52</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (52 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\l_body.t_3_p_52.jpg</Image>
+      <Text>Hose Paint x3 (new logo)</Text>
+      <Value>l_body.t_3_p_522</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (35 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\r_body.t_1_p_35.jpg</Image>
+      <Text>Hose Paint</Text>
+      <Value>r_body.t_1_p_35</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (35 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\r_body.t_1_p_35.jpg</Image>
+      <Text>Hose Paint (new logo)</Text>
+      <Value>r_body.t_1_p_352</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (52 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\r_body.t_1_p_52.jpg</Image>
+      <Text>Hose Paint</Text>
+      <Value>r_body.t_1_p_52</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (52 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\r_body.t_1_p_52.jpg</Image>
+      <Text>Hose Paint (new logo)</Text>
+      <Value>r_body.t_1_p_522</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (35 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\r_body.t_2_p_35.jpg</Image>
+      <Text>Hose Paint x2</Text>
+      <Value>r_body.t_2_p_35</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (35 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\r_body.t_2_p_35.jpg</Image>
+      <Text>Hose Paint x2 (new logo)</Text>
+      <Value>r_body.t_2_p_352</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (52 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\r_body.t_2_p_52.jpg</Image>
+      <Text>Hose Paint x2</Text>
+      <Value>r_body.t_2_p_52</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (52 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\r_body.t_2_p_52.jpg</Image>
+      <Text>Hose Paint x2 (new logo)</Text>
+      <Value>r_body.t_2_p_522</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (35 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\r_body.t_3_p_35.jpg</Image>
+      <Text>Hose Paint x3</Text>
+      <Value>r_body.t_3_p_35</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (35 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\r_body.t_3_p_35.jpg</Image>
+      <Text>Hose Paint x3 (new logo)</Text>
+      <Value>r_body.t_3_p_352</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (52 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\r_body.t_3_p_52.jpg</Image>
+      <Text>Hose Paint x3</Text>
+      <Value>r_body.t_3_p_52</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (52 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\r_body.t_3_p_52.jpg</Image>
+      <Text>Hose Paint x3 (new logo)</Text>
+      <Value>r_body.t_3_p_522</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side rear (52 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\chs_r_r.bp.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.bp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nOnly present on the Dolly Chassis.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\r_fender.d_paint.jpg</Image>
+      <Text>Dolly Chassis Paint</Text>
+      <Value>r_fender.d_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nOnly present on the 35 m3 and 52 m3 Chassis types.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\r_fender.paint.jpg</Image>
+      <Text>35 m3 and 52 m3 Chassis Paint</Text>
+      <Value>r_fender.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: 35 m3 shown but it is the same for the 52 m3.</Description>
+      <Group>Markers (rear top)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\markers.simple_r1.jpg</Image>
+      <Text>Exclusive 1 (3 leds)</Text>
+      <Value>markers.simple_r1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: 35 m3 shown but it is the same for the 52 m3.</Description>
+      <Group>Markers (rear top)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\markers.simple_r2.jpg</Image>
+      <Text>Exclusive 2 (6 leds)</Text>
+      <Value>markers.simple_r2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nUse your 35 m3 skin template here.</Description>
+      <Group>Rear Body (Skin Template)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\rear_body.bp_35.jpg</Image>
+      <Text>35 m3 Painted Box</Text>
+      <Value>rear_body.bp_35</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nUse your 52 m3 skin template here.</Description>
+      <Group>Rear Body (Skin Template)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\rear_body.bp_52.jpg</Image>
+      <Text>52 m3 Painted Box</Text>
+      <Value>rear_body.bp_52</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldEUT\r_bumper.excl_paint.jpg</Image>
+      <Text>Exclusive Painted</Text>
+      <Value>r_bumper.excl_paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>feldbinder.eut</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldEUT\35gpaint.jpg</VehicleImage>
+  <VehicleName>Feldbinder|EUT Silo</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>EUT 35 m3 Silo</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldEUT\35gstand.jpg</Image>
+      <InternalName>body.silo_35_3_g</InternalName>
+      <Name>Standard</Name>
+    </Variant>
+    <Variant>
+      <Group>EUT 35 m3 Silo</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldEUT\35gadr.jpg</Image>
+      <InternalName>body.silo_35_3_g2</InternalName>
+      <Name>ADR Standard</Name>
+    </Variant>
+    <Variant>
+      <Group>EUT 35 m3 Silo</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldEUT\35gpaint.jpg</Image>
+      <InternalName>body.silo_35_3_p</InternalName>
+      <Name>Paint</Name>
+    </Variant>
+    <Variant>
+      <Group>EUT 52 m3 Silo</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldEUT\52gstand.jpg</Image>
+      <InternalName>body.silo_52_3_g</InternalName>
+      <Name>Standard</Name>
+    </Variant>
+    <Variant>
+      <Group>EUT 52 m3 Silo</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldEUT\52gadr.jpg</Image>
+      <InternalName>body.silo_52_3_g2</InternalName>
+      <Name>ADR Standard</Name>
+    </Variant>
+    <Variant>
+      <Group>EUT 52 m3 Silo</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldEUT\52gpaint.jpg</Image>
+      <InternalName>body.silo_52_3_p</InternalName>
+      <Name>Paint</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>a0c90ceb-cc0f-4fce-aa52-eb882124e5ea</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Profiliner Left Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_f_l.side01p.jpg</Image>
+      <Text>Simple Painted Side Skirt</Text>
+      <Value>chs_f_l.side01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Profiliner Left Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_f_l.side02p.jpg</Image>
+      <Text>Painted Side Skirt</Text>
+      <Value>chs_f_l.side02p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Profiliner Left Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_f_l.side02sp.jpg</Image>
+      <Text>Painted Side Skirt + Store Box</Text>
+      <Value>chs_f_l.side02sp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Profiliner Left Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_f_l.side02tp.jpg</Image>
+      <Text>Painted Side Skirt + Spare Tyre</Text>
+      <Value>chs_f_l.side02tp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Profiliner Left Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_f_l.side02tsp.jpg</Image>
+      <Text>Painted Side Skirt + Spare Tyre + Store Box</Text>
+      <Value>chs_f_l.side02tsp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Profiliner Left Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_f_l.pallet01p.jpg</Image>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_f_l.pallet01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Profiliner Right Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_f_r.side01p.jpg</Image>
+      <Text>Simple Painted Side Skirt</Text>
+      <Value>chs_f_r.side01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Profiliner Right Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_f_r.side02p.jpg</Image>
+      <Text>Painted Side Skirt</Text>
+      <Value>chs_f_r.side02p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Profiliner Right Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_f_r.side02sp.jpg</Image>
+      <Text>Painted Side Skirt + Store Box</Text>
+      <Value>chs_f_r.side02sp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Profiliner Right Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_f_r.side02tp.jpg</Image>
+      <Text>Painted Side Skirt + Spare Tyre</Text>
+      <Value>chs_f_r.side02tp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Profiliner Right Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_f_r.side02tsp.jpg</Image>
+      <Text>Painted Side Skirt + Spare Tyre + Store Box</Text>
+      <Value>chs_f_r.side02tsp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Profiliner Right Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_f_r.pallet01p.jpg</Image>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_f_r.pallet01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Profiliner Left Side rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_r_l.pallet01p.jpg</Image>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_r_l.pallet01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Profiliner Left Side rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_r_l.pallet01sp.jpg</Image>
+      <Text>Painted Pallet Box + Store Box</Text>
+      <Value>chs_r_l.pallet01sp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Profiliner Right Side rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_r_r.pallet01p.jpg</Image>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_r_r.pallet01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Profiliner Right Side rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_r_r.pallet01sp.jpg</Image>
+      <Text>Painted Pallet Box + Store Box</Text>
+      <Value>chs_r_r.pallet01sp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nNo Load Carrier attached.</Description>
+      <Group>Profiliner Body Rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\r_bumper.bumper01p.jpg</Image>
+      <Text>Rear Bumper Paint</Text>
+      <Value>r_bumper.bumper01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nNo Load Carrier attached.</Description>
+      <Group>Profiliner Body Rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\r_bumper.bumper01p.jpg</Image>
+      <Text>Rear Bumper Paint II</Text>
+      <Value>r_bumper.bumper02p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nLoad Carrier attached.</Description>
+      <Group>Profiliner Body Rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\r_bumper.lc_bumper01p.jpg</Image>
+      <Text>Rear Bumper Paint</Text>
+      <Value>r_bumper.bumperd01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Load Carrier Left Side front</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_f_l.lc_side01p.jpg</Image>
+      <Text>Simple Painted Side Skirt</Text>
+      <Value>chs_f_l.lc_side01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Load Carrier Left Side front</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_f_l.lc_side02sp.jpg</Image>
+      <Text>Painted Side Skirt + Store Box</Text>
+      <Value>chs_f_l.lc_side02sp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Load Carrier Right Side front</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_f_r.lc_side01p.jpg</Image>
+      <Text>Simple Painted Side Skirt</Text>
+      <Value>chs_f_r.lc_side01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Load Carrier Right Side front</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_f_r.lc_side02sp.jpg</Image>
+      <Text>Painted Side Skirt + Store Box</Text>
+      <Value>chs_f_r.lc_side02sp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Load Carrier Left Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_m_l.lc_side01p.jpg</Image>
+      <Text>Painted Side Skirt</Text>
+      <Value>chs_m_l.lc_side01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Load Carrier Right Side middle</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_m_r.lc_side01p.jpg</Image>
+      <Text>Painted Side Skirt</Text>
+      <Value>chs_m_r.lc_side01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Load Carrier Left Side rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_r_l.lc_pallet01p.jpg</Image>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_r_l.lc_pallet01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Load Carrier Right Side rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_r_r.lc_pallet01p.jpg</Image>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_r_r.lc_pallet01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Load Carrier Body rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\r_bumper.bumperd01p.jpg</Image>
+      <Text>Rear Bumper Paint</Text>
+      <Value>r_bumper.lc_bumper01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Load Carrier Body rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\r_bumper.bumperd01p.jpg</Image>
+      <Text>Rear Bumper Paint II</Text>
+      <Value>r_bumper.bumperd02p</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>krone.profiliner</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Krone\profi.jpg</VehicleImage>
+  <VehicleName>Krone|Profi Liner</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Krone\profi.jpg</Image>
+      <InternalName>body.curtain_136</InternalName>
+      <Name>Profi Liner (136)</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Krone\load_car.jpg</Image>
+      <InternalName>body.curtain_78</InternalName>
+      <Name>Load Carrier (78)</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>2e0ebab2-37a1-4f7e-8e86-c054853cfaa7</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See orange coloured chassis section in screenshot.\nUse a 4x4 pixel coloured square here.</Description>
+      <Group>Chassis (Colour Only)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\chassis.ch_3_38.jpg</Image>
+      <Text>Single 38 m3 Chassis</Text>
+      <Value>chassis.ch_3_38</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See orange coloured chassis section in screenshot.\nUse a 4x4 pixel coloured square here.</Description>
+      <Group>Chassis (Colour Only)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\chassis.ch_3_60.jpg</Image>
+      <Text>Single 60 m3 Chassis</Text>
+      <Value>chassis.ch_3_60</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side front (38 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\chs_f_l.bp_38.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_f_l.bp_38</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side front (38 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\chs_f_l.cage_p_38.jpg</Image>
+      <Text>Painted Simple Side Protection</Text>
+      <Value>chs_f_l.cage_p_38</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side front (60 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\chs_f_l.cage_p_60.jpg</Image>
+      <Text>Painted Simple Side Protection</Text>
+      <Value>chs_f_l.cage_p_60</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side front (60 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\chs_f_l.cagep_bp_60.jpg</Image>
+      <Text>Painted Simple Side Protection and Painted Box</Text>
+      <Value>chs_f_l.cagep_bp_60</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side front (60 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\chs_f_l.cagep_st_60.jpg</Image>
+      <Text>Painted Simple Side Protection and Spare Tyre</Text>
+      <Value>chs_f_l.cagep_st_60</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side front (38 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\chs_f_r.bp_38.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_f_r.bp_38</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side front (38 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\chs_f_r.cage_p_38.jpg</Image>
+      <Text>Painted Simple Side Protection</Text>
+      <Value>chs_f_r.cage_p_38</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side front (60 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\chs_f_r.cage_p_60.jpg</Image>
+      <Text>Painted Simple Side Protection</Text>
+      <Value>chs_f_r.cage_p_60</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side front (60 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\chs_f_r.cagep_bp_60.jpg</Image>
+      <Text>Painted Simple Side Protection and Painted Box</Text>
+      <Value>chs_f_r.cagep_bp_60</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side front (60 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\chs_f_r.cagep_st_60.jpg</Image>
+      <Text>Painted Simple Side Protection and Spare Tyre</Text>
+      <Value>chs_f_r.cagep_st_60</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: 38 m3 shown but it is the same for the 60 m3.</Description>
+      <Group>Markers (rear top)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\markers.simple_r1.jpg</Image>
+      <Text>Exclusive 1 (3 leds)</Text>
+      <Value>markers.simple_r1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: 38 m3 shown but it is the same for the 60 m3.</Description>
+      <Group>Markers (rear top)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\markers.simple_r2.jpg</Image>
+      <Text>Exclusive 2 (6 leds)</Text>
+      <Value>markers.simple_r2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: 60 m3 shown but it is the same for the 38 m3.</Description>
+      <Group>Left Side</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\l_body.t_1_p_60.jpg</Image>
+      <Text>Hose Paint</Text>
+      <Value>l_body.t_1_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: 60 m3 shown but it is the same for the 38 m3.</Description>
+      <Group>Left Side</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\l_body.t_1_p_60.jpg</Image>
+      <Text>Hose Paint (new logo)</Text>
+      <Value>l_body.t_1_p2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: 60 m3 shown but it is the same for the 38 m3.</Description>
+      <Group>Left Side</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\l_body.t_2_p_60.jpg</Image>
+      <Text>Hose Paint x2</Text>
+      <Value>l_body.t_2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: 60 m3 shown but it is the same for the 38 m3.</Description>
+      <Group>Left Side</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\l_body.t_2_p_60.jpg</Image>
+      <Text>Hose Paint x2 (new logo)</Text>
+      <Value>l_body.t_2_p2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: 60 m3 shown but it is the same for the 38 m3.</Description>
+      <Group>Right Side</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\r_body.t_1_p_60.jpg</Image>
+      <Text>Hose Paint</Text>
+      <Value>r_body.t_1_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: 60 m3 shown but it is the same for the 38 m3.</Description>
+      <Group>Right Side</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\r_body.t_1_p_60.jpg</Image>
+      <Text>Hose Paint (new logo)</Text>
+      <Value>r_body.t_1_p2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: 60 m3 shown but it is the same for the 38 m3.</Description>
+      <Group>Right Side</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\r_body.t_2_p_60.jpg</Image>
+      <Text>Hose Paint x2</Text>
+      <Value>r_body.t_2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: 60 m3 shown but it is the same for the 38 m3.</Description>
+      <Group>Right Side</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\r_body.t_2_p_60.jpg</Image>
+      <Text>Hose Paint x2 (new logo)</Text>
+      <Value>r_body.t_2_p2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\r_fender.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>r_fender.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\chs_r_l.bp.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.bp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\chs_r_r.bp.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.bp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\r_bumper.excl_pnt_38.jpg</Image>
+      <Text>Exclusive Painted 38 m3</Text>
+      <Value>r_bumper.excl_pnt_38</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\n\nNote: 38 m3 shown but it is the same for the 60 m3.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldKIP\r_bumper.excl_pnt_38.jpg</Image>
+      <Text>Exclusive Painted 60 m3</Text>
+      <Value>r_bumper.excl_pnt_60</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>feldbinder.kip</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldKIP\38paint.jpg</VehicleImage>
+  <VehicleName>Feldbinder|KIP Silo</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>KIP 38 m3 Silo</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldKIP\38gstand.jpg</Image>
+      <InternalName>body.silo_38_3_g</InternalName>
+      <Name>Standard</Name>
+    </Variant>
+    <Variant>
+      <Group>KIP 38 m3 Silo</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldKIP\38gadr.jpg</Image>
+      <InternalName>body.silo_38_3_g2</InternalName>
+      <Name>ADR Standard</Name>
+    </Variant>
+    <Variant>
+      <Group>KIP 38 m3 Silo</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldKIP\38paint.jpg</Image>
+      <InternalName>body.silo_38_3_p</InternalName>
+      <Name>Paint</Name>
+    </Variant>
+    <Variant>
+      <Group>KIP 60 m3 Silo</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldKIP\60gstand.jpg</Image>
+      <InternalName>body.silo_60_3_g</InternalName>
+      <Name>Standard</Name>
+    </Variant>
+    <Variant>
+      <Group>KIP 60 m3 Silo</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldKIP\60gadr.jpg</Image>
+      <InternalName>body.silo_60_3_g2</InternalName>
+      <Name>ADR Standard</Name>
+    </Variant>
+    <Variant>
+      <Group>KIP 60 m3 Silo</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldKIP\60paint.jpg</Image>
+      <InternalName>body.silo_60_3_p</InternalName>
+      <Name>Paint</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

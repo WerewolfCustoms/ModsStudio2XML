@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ab00e3e9-4c1a-4df0-94b7-bee66f5abdd3</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>1x Single 22.</Description>
+      <Group>22 Chassis Skin</Group>
+      <Text>22 Single</Text>
+      <Value>chassis.ch_22_1a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x in STAA Double and 1x in Rocky Mountain Double (including 5 axel).</Description>
+      <Group>22 Chassis Skin</Group>
+      <Text>22 Double</Text>
+      <Value>chassis.ch_22_1a_d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x in STAA Double.</Description>
+      <Group>22 Chassis Skin</Group>
+      <Text>22 Hook</Text>
+      <Value>chassis.ch_22_1a_h</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x 32 Single.</Description>
+      <Group>32 Chassis Skin</Group>
+      <Text>32 Single (2 axel)</Text>
+      <Value>chassis.ch_32_2a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x in B Double.</Description>
+      <Group>32 Chassis Skin</Group>
+      <Text>32 B Double Pull (2 axel)</Text>
+      <Value>chassis.ch_32_2a_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x in B Double.</Description>
+      <Group>32 Chassis Skin</Group>
+      <Text>32 B Double (3 axel)</Text>
+      <Value>chassis.ch_32_3a_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x Single 42.</Description>
+      <Group>42 Chassis Skin</Group>
+      <Text>42 Single (2 axel)</Text>
+      <Value>chassis.ch_42_2a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x in Rocky Mountain Double.</Description>
+      <Group>42 Chassis Skin</Group>
+      <Text>42 Hook (2 axel)</Text>
+      <Value>chassis.ch_42_2a_h</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x Single 42 and 1x in Turnpike Double.</Description>
+      <Group>42 Chassis Skin</Group>
+      <Text>42 Single (3 axel)</Text>
+      <Value>chassis.ch_42_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x in Rocky Mountain Double (5 axel only) and 1x in Turnpike Double.</Description>
+      <Group>42 Chassis Skin</Group>
+      <Text>42 Hook (3 axel)</Text>
+      <Value>chassis.ch_42_3a_h</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x Single 48.</Description>
+      <Group>48 Chassis Skin</Group>
+      <Text>48 Single (2 axel)</Text>
+      <Value>chassis.ch_48_2a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x Single 48.</Description>
+      <Group>48 Chassis Skin</Group>
+      <Text>48 Single (3 axel)</Text>
+      <Value>chassis.ch_48_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x Single 48.</Description>
+      <Group>48 Chassis Skin</Group>
+      <Text>48 Single (4 axel)</Text>
+      <Value>chassis.ch_48_4a</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>scs.drybulk</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSDryBulk\dryb32.jpg</VehicleImage>
+  <VehicleName>SCS|Dry Bulk</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>Use a 4x4 pixel colour only</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSDryBulk\dryb22.jpg</Image>
+      <InternalName>body.hopper_22</InternalName>
+      <Name>Dry Bulk 22</Name>
+    </Variant>
+    <Variant>
+      <Group>Use a 4x4 pixel colour only</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSDryBulk\dryb32.jpg</Image>
+      <InternalName>body.hopper_32</InternalName>
+      <Name>Dry Bulk 32</Name>
+    </Variant>
+    <Variant>
+      <Group>Use a 4x4 pixel colour only</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSDryBulk\dryb42.jpg</Image>
+      <InternalName>body.hopper_42</InternalName>
+      <Name>Dry Bulk 42</Name>
+    </Variant>
+    <Variant>
+      <Group>Use a 4x4 pixel colour only</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSDryBulk\dryb48.jpg</Image>
+      <InternalName>body.hopper_48</InternalName>
+      <Name>Dry Bulk 48</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

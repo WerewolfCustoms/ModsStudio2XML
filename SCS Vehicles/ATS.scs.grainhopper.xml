@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ceab2ea3-1b9c-4c4d-aa0a-c4d00c496b3c</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>f_body.paint</Text>
+      <Value>f_body.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>rear_body.simple</Text>
+      <Value>rear_body.simple</Value>
+    </ListItem>
+    <ListItem>
+      <Text>rear_body.simple1</Text>
+      <Value>rear_body.simple1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>rear_body.simple2</Text>
+      <Value>rear_body.simple2</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>scs.grainhopper</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSGrain\grain_hopper_40.jpg</VehicleImage>
+  <VehicleName>SCS|Grain Hopper</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>Hopper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSGrain\grain_hopper_28.jpg</Image>
+      <InternalName>body.hopper_28</InternalName>
+      <Name>Hopper 28 feet</Name>
+    </Variant>
+    <Variant>
+      <Group>Hopper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSGrain\grain_hopper_40.jpg</Image>
+      <InternalName>body.hopper_40</InternalName>
+      <Name>Hopper 40 feet</Name>
+    </Variant>
+    <Variant>
+      <Group>Hopper</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSGrain\grain_hopper_50.jpg</Image>
+      <InternalName>body.hopper_50</InternalName>
+      <Name>Hopper 50 feet</Name>
+    </Variant>
+    <Variant>
+      <Group>Belt</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSGrain\grain_belt_40.jpg</Image>
+      <InternalName>body.belt_40</InternalName>
+      <Name>Belt 40 feet</Name>
+    </Variant>
+    <Variant>
+      <Group>Belt</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSGrain\grain_belt_50.jpg</Image>
+      <InternalName>body.belt_50</InternalName>
+      <Name>Belt 50 feet</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>WerewolfCustoms</XmlDefinitionAuthor>
+</Variable>

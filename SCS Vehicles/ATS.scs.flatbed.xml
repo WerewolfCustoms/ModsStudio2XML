@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>751c466c-36b6-4941-b3f8-fe55a549efba</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Trailer Front</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ATS\SCSSlide\f_body.wind_def.jpg</Image>
+      <Text>Wind Deflector</Text>
+      <Value>f_body.wind_def</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>scs.flatbed</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSSlide\fb45.jpg</VehicleImage>
+  <VehicleName>SCS|Sliding Tarp Trailer (Flatbed)</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>Flatbed</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSSlide\fb28.jpg</Image>
+      <InternalName>body.curtain_28</InternalName>
+      <Name>Sliding Tarp 28ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Flatbed</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSSlide\fb28bd.jpg</Image>
+      <InternalName>body.curtain_28bd</InternalName>
+      <Name>Sliding Tarp 28ft B-Double</Name>
+    </Variant>
+    <Variant>
+      <Group>Flatbed</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSSlide\fb32.jpg</Image>
+      <InternalName>body.curtain_32</InternalName>
+      <Name>Sliding Tarp 32ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Flatbed</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSSlide\fb45.jpg</Image>
+      <InternalName>body.curtain_45</InternalName>
+      <Name>Sliding Tarp 45ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Flatbed</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSSlide\fb48.jpg</Image>
+      <InternalName>body.curtain_48</InternalName>
+      <Name>Sliding Tarp 48ft</Name>
+    </Variant>
+    <Variant>
+      <Group>Flatbed</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSSlide\fb53.jpg</Image>
+      <InternalName>body.curtain_53</InternalName>
+      <Name>Sliding Tarp 53ft</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

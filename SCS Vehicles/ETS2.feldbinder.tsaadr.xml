@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>7a4cb45f-b219-4e63-9cb1-38da3abcca00</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See orange coloured chassis section in screenshot.\nUse a 4x4 pixel coloured square here.</Description>
+      <Group>Chassis (Colour Only)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\chassis.ch_3_22_al.jpg</Image>
+      <Text>Single 22 m3 Aluminium Chassis</Text>
+      <Value>chassis.ch_3_22_al</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See orange coloured chassis section in screenshot.\nUse a 4x4 pixel coloured square here.</Description>
+      <Group>Chassis (Colour Only)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\chassis.ch_3_22_st.jpg</Image>
+      <Text>Single 22 m3 Steel Chassis</Text>
+      <Value>chassis.ch_3_22_st</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side front (22 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\chs_f_l.cage_p_22.jpg</Image>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_l.cage_p_22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side front (32 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\chs_f_l.cage_p_32.jpg</Image>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_l.cage_p_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side front (22 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\chs_f_l.cagep_bp_22.jpg</Image>
+      <Text>Painted Side Protection and Painted Box</Text>
+      <Value>chs_f_l.cagep_bp_22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side front (32 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\chs_f_l.cagep_bp_32.jpg</Image>
+      <Text>Painted Side Protection and Painted Box</Text>
+      <Value>chs_f_l.cagep_bp_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side front (22 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\chs_f_l.cagep_st_22.jpg</Image>
+      <Text>Painted Side Protection and Spare Tyre</Text>
+      <Value>chs_f_l.cagep_st_22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side front (32 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\chs_f_l.cagep_st_32.jpg</Image>
+      <Text>Painted Side Protection and Spare Tyre</Text>
+      <Value>chs_f_l.cagep_st_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side front (22 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\chs_f_r.cage_p_22.jpg</Image>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_r.cage_p_22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side front (32 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\chs_f_r.cage_p_32.jpg</Image>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_r.cage_p_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side front (22 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\chs_f_r.cagep_bp_22.jpg</Image>
+      <Text>Painted Side Protection and Painted Box</Text>
+      <Value>chs_f_r.cagep_bp_22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side front (32 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\chs_f_r.cagep_bp_32.jpg</Image>
+      <Text>Painted Side Protection and Painted Box</Text>
+      <Value>chs_f_r.cagep_bp_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side front (22 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\chs_f_r.cagep_st_22.jpg</Image>
+      <Text>Painted Side Protection and Spare Tyre</Text>
+      <Value>chs_f_r.cagep_st_22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side front (32 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\chs_f_r.cagep_st_32.jpg</Image>
+      <Text>Painted Side Protection and Spare Tyre</Text>
+      <Value>chs_f_r.cagep_st_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Markers (rear top)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\markers.simple_22_r1.jpg</Image>
+      <Text>22 m3 Exclusive (2 leds)</Text>
+      <Value>markers.simple_22_r1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Markers (rear top)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\markers.simple_32_r1.jpg</Image>
+      <Text>32 m3 Exclusive (2 leds)</Text>
+      <Value>markers.simple_32_r1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (22 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\l_body.t_1_p_22.jpg</Image>
+      <Text>Hose Paint</Text>
+      <Value>l_body.t_1_p_22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (22 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\l_body.t_1_p_22.jpg</Image>
+      <Text>Hose Paint (new logo)</Text>
+      <Value>l_body.t_1_p_222</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (32 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\l_body.t_1_p_32.jpg</Image>
+      <Text>Hose Paint</Text>
+      <Value>l_body.t_1_p_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (32 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\l_body.t_1_p_32.jpg</Image>
+      <Text>Hose Paint (new logo)</Text>
+      <Value>l_body.t_1_p_322</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (22 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\l_body.t_2_p_22.jpg</Image>
+      <Text>Hose Paint x2</Text>
+      <Value>l_body.t_2_p_22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (22 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\l_body.t_2_p_22.jpg</Image>
+      <Text>Hose Paint x2 (new logo)</Text>
+      <Value>l_body.t_2_p_222</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (32 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\l_body.t_2_p_32.jpg</Image>
+      <Text>Hose Paint x2</Text>
+      <Value>l_body.t_2_p_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (32 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\l_body.t_2_p_32.jpg</Image>
+      <Text>Hose Paint x2 (new logo)</Text>
+      <Value>l_body.t_2_p_322</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (22 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\l_body.t_bp_22.jpg</Image>
+      <Text>Hose Paint Box</Text>
+      <Value>l_body.t_bp_22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side (32 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\l_body.t_bp_32.jpg</Image>
+      <Text>Hose Paint Box</Text>
+      <Value>l_body.t_bp_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (22 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\r_body.t_1_p_22.jpg</Image>
+      <Text>Hose Paint</Text>
+      <Value>r_body.t_1_p_22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (22 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\r_body.t_1_p_22.jpg</Image>
+      <Text>Hose Paint (new logo)</Text>
+      <Value>r_body.t_1_p_222</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (32 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\r_body.t_1_p_32.jpg</Image>
+      <Text>Hose Paint</Text>
+      <Value>r_body.t_1_p_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (32 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\r_body.t_1_p_32.jpg</Image>
+      <Text>Hose Paint (new logo)</Text>
+      <Value>r_body.t_1_p_322</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (22 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\r_body.t_2_p_22.jpg</Image>
+      <Text>Hose Paint x2</Text>
+      <Value>r_body.t_2_p_22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (22 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\r_body.t_2_p_22.jpg</Image>
+      <Text>Hose Paint x2 (new logo)</Text>
+      <Value>r_body.t_2_p_222</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (32 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\r_body.t_2_p_32.jpg</Image>
+      <Text>Hose Paint x2</Text>
+      <Value>r_body.t_2_p_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (32 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\r_body.t_2_p_32.jpg</Image>
+      <Text>Hose Paint x2 (new logo)</Text>
+      <Value>r_body.t_2_p_322</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (22 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\r_body.t_bp_22.jpg</Image>
+      <Text>Hose Paint Box</Text>
+      <Value>r_body.t_bp_22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side (32 m3)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\r_body.t_bp_32.jpg</Image>
+      <Text>Hose Paint Box</Text>
+      <Value>r_body.t_bp_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nEach axel is covered.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\r_fender.paint.jpg</Image>
+      <Text>Paint - Multi Cover</Text>
+      <Value>r_fender.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nSingle cover over all axels.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\r_fender.six_wheelp.jpg</Image>
+      <Text>Paint - Single Cover</Text>
+      <Value>r_fender.six_wheelp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\chs_r_l.bp.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.bp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Right Side rear</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\chs_r_r.bp.jpg</Image>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.bp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nUse your 32 m3 skin template here.</Description>
+      <Group>Rear Body 32 m3 (Skin Template)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\rear_body.cw_excl32.jpg</Image>
+      <Text>Exclusive Left</Text>
+      <Value>rear_body.cw_excl32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location\n(left shown).\nUse your 32 m3 skin template here.</Description>
+      <Group>Rear Body 32 m3 (Skin Template)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\rear_body.cw_excl32.jpg</Image>
+      <Text>Exclusive Right</Text>
+      <Value>rear_body.cw_excl32r</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nUse your 22 m3 skin template here.</Description>
+      <Group>Rear Body 22 m3 (Skin Template)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\rear_body.cw_simple_22.jpg</Image>
+      <Text>Simple Left</Text>
+      <Value>rear_body.cw_simple_22</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location\n(left shown).\nUse your 22 m3 skin template here.</Description>
+      <Group>Rear Body 22 m3 (Skin Template)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\rear_body.cw_simple_22.jpg</Image>
+      <Text>Simple Right</Text>
+      <Value>rear_body.cw_simple_22r</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nUse your 32 m3 skin template here.</Description>
+      <Group>Rear Body 32 m3 (Skin Template)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\rear_body.cw_simple32.jpg</Image>
+      <Text>Simple Left</Text>
+      <Value>rear_body.cw_simple32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location\n(left shown).\nUse your 32 m3 skin template here.</Description>
+      <Group>Rear Body 32 m3 (Skin Template)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\rear_body.cw_simple32.jpg</Image>
+      <Text>Simple Right</Text>
+      <Value>rear_body.cw_simple32r</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\r_bumper.excl_paint.jpg</Image>
+      <Text>Exclusive Paint</Text>
+      <Value>r_bumper.excl_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\FeldTSAadr\r_bumper.excl_paint2.jpg</Image>
+      <Text>Exclusive Paint (new logo)</Text>
+      <Value>r_bumper.excl_paint2</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>feldbinder.tsaadr</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldTSAadr\22_2m1c.jpg</VehicleImage>
+  <VehicleName>Feldbinder|TSA ADR Chemical Tank</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>TSA ADR 22 m3 Tanker</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldTSAadr\22_2m1c.jpg</Image>
+      <InternalName>body.22_2_1</InternalName>
+      <Name>2 manholes and 1 compartment</Name>
+    </Variant>
+    <Variant>
+      <Group>TSA ADR 22 m3 Tanker</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldTSAadr\22_3m1c.jpg</Image>
+      <InternalName>body.22_3_1</InternalName>
+      <Name>3 manholes and 1 compartment</Name>
+    </Variant>
+    <Variant>
+      <Group>TSA ADR 32 m3 Tanker</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldTSAadr\32_1m1c.jpg</Image>
+      <InternalName>body.32_1_1</InternalName>
+      <Name>1 manhole and 1 compartment</Name>
+    </Variant>
+    <Variant>
+      <Group>TSA ADR 32 m3 Tanker</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\FeldTSAadr\32_4m1c.jpg</Image>
+      <InternalName>body.32_4_1</InternalName>
+      <Name>4 manholes and 1 compartment</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

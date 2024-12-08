@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>758a7103-953b-4f02-94d7-7aa4ac5cd275</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <Game>ATS</Game>
+  <InternalName>freight.casca</InternalName>
+  <VehicleAuthor>jon-ruda</VehicleAuthor>
+  <VehicleImage />
+  <VehicleName>Freightshaker|Cascadia</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>daycab.freight.casca.cabin</InternalName>
+      <Name>DayCab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sleeper48.freight.casca.cabin</InternalName>
+      <Name>48" Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sleeper72.freight.casca.cabin</InternalName>
+      <Name>72" Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>

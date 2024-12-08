@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>85cc45a5-f6cb-49cd-b63c-d0f59907df83</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>1x Single 28, 1x in STAA Double Pup, 1x in Rocky Mountain Double Pup and 1x in Tripple Pup.</Description>
+      <Group>28 Chassis Skin</Group>
+      <Text>28 Single</Text>
+      <Value>chassis.ch_28</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x in STAA Double, 1x in Rocky Mountain Double and 2x in Tripple.</Description>
+      <Group>28 Chassis Skin</Group>
+      <Text>28 Double</Text>
+      <Value>chassis.ch_28_d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x in STAA Double, 1x STAA Double Pup, 1x in Tripple and 2x in Tripple Pup.</Description>
+      <Group>28 Chassis Skin</Group>
+      <Text>28 Hook</Text>
+      <Value>chassis.ch_28_hook</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x Single 32 and 1x in B Double.</Description>
+      <Group>32 Chassis Skin</Group>
+      <Text>32 Single</Text>
+      <Value>chassis.ch_32</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x in B Double.</Description>
+      <Group>32 Chassis Skin</Group>
+      <Text>32 B Double</Text>
+      <Value>chassis.ch_32_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x in Rocky Mountain Double, 1x in Rocky Mountain Double Pup and 1x in Turnpike Double (including 6 axel).</Description>
+      <Group>43 Chassis Skin</Group>
+      <Text>43 Hook</Text>
+      <Value>chassis.ch_43_hook</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x Single 43 (Rear) and 1x in Turnpike Double (including 6 axel).</Description>
+      <Group>43 Chassis Skin</Group>
+      <Text>43 Single Rear</Text>
+      <Value>chassis.ch_43_r</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x Single 48 (3 axels).</Description>
+      <Group>48 Chassis Skin</Group>
+      <Text>48 Single 3 axels</Text>
+      <Value>chassis.ch_48_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x Single 53 (4 axels).</Description>
+      <Group>53 Chassis Skin</Group>
+      <Text>53 Single 4 axels</Text>
+      <Value>chassis.ch_53_4a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>1x Single 53 (4th axel steerable).</Description>
+      <Group>53 Chassis Skin</Group>
+      <Text>53 Single 4th axel steerable</Text>
+      <Value>chassis.ch_53_4s</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>scs.fueltank</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSFuelTank\fuel48.jpg</VehicleImage>
+  <VehicleName>SCS|Fuel Tanker</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>1 Compartment (colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSFuelTank\fuel28.jpg</Image>
+      <InternalName>body.tank_28_c1</InternalName>
+      <Name>Fuel Tank 28</Name>
+    </Variant>
+    <Variant>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>1 Compartment (colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSFuelTank\fuel32.jpg</Image>
+      <InternalName>body.tank_32_c1</InternalName>
+      <Name>Fuel Tank 32</Name>
+    </Variant>
+    <Variant>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>1 Compartment (colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSFuelTank\fuel43.jpg</Image>
+      <InternalName>body.tank_43_c1</InternalName>
+      <Name>Fuel Tank 43</Name>
+    </Variant>
+    <Variant>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>4 Compartments (colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSFuelTank\fuel4_43.jpg</Image>
+      <InternalName>body.tank_43_c4</InternalName>
+      <Name>Fuel Tank 43</Name>
+    </Variant>
+    <Variant>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>1 Compartment (colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSFuelTank\fuel48.jpg</Image>
+      <InternalName>body.tank_48_c1</InternalName>
+      <Name>Fuel Tank 48</Name>
+    </Variant>
+    <Variant>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>4 Compartments (colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSFuelTank\fuel4_48.jpg</Image>
+      <InternalName>body.tank_48_c4</InternalName>
+      <Name>Fuel Tank 48</Name>
+    </Variant>
+    <Variant>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>1 Compartment (colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSFuelTank\fuel53.jpg</Image>
+      <InternalName>body.tank_53_c1</InternalName>
+      <Name>Fuel Tank 53</Name>
+    </Variant>
+    <Variant>
+      <Description>Use a 4x4 pixel colour only.</Description>
+      <Group>4 Compartments (colour only)</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ATS\SCSFuelTank\fuel4_53.jpg</Image>
+      <InternalName>body.tank_53_c4</InternalName>
+      <Name>Fuel Tank 53</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

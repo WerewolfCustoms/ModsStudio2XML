@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>a8b2458e-357c-4be9-a0b3-d937cc7826a4</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntEagle\cabdefl.day.jpg</Image>
+      <Text>Daycab Roof Deflector</Text>
+      <Value>cabdefl.day</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\IntEagle\sunshield.standard.jpg</Image>
+      <Text>Daycab Sunshield</Text>
+      <Value>sunshield.standard</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>intnational.9900i</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSIntEagle\72sleeper.jpg</VehicleImage>
+  <VehicleName>International|Eagle 9900i</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSIntEagle\day.jpg</Image>
+      <InternalName>day.intnational.9900i.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSIntEagle\51sleeper.jpg</Image>
+      <InternalName>s51.intnational.9900i.cabin</InternalName>
+      <Name>51 Sleeper</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSIntEagle\72sleeper.jpg</Image>
+      <InternalName>s72.intnational.9900i.cabin</InternalName>
+      <Name>72 Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Lucasi and pete_agreatguy</XmlDefinitionAuthor>
+</Variable>

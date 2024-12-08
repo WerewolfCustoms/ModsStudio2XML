@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>7440038f-8ed1-4019-b2ad-26669ae56def</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\bumper.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cabin Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\cabdefl.day_std.jpg</Image>
+      <Text>Day Standard</Text>
+      <Value>cabdefl.day_std</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cabin Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\cabdefl.day_aero.jpg</Image>
+      <Text>Day Aero</Text>
+      <Value>cabdefl.day_aero</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cabin Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\cabdefl.day_aero.jpg</Image>
+      <Text>Day Aero II</Text>
+      <Value>cabdefl.day_aero2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cabin Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\cabdefl.s72_rr_a.jpg</Image>
+      <Text>72 Sleeper Aero</Text>
+      <Value>cabdefl.s72_rr_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Cabin Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\cabdefl.s72_rr_ax.jpg</Image>
+      <Text>72 Sleeper AeroX</Text>
+      <Value>cabdefl.s72_rr_ax</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Visor</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\sunshield.stock.jpg</Image>
+      <Text>Standard Sunshield</Text>
+      <Value>sunshield.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\s_deflector.day_aero.jpg</Image>
+      <Text>Day Aero</Text>
+      <Value>s_deflector.day_aero</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\s_deflector.day_aero.jpg</Image>
+      <Text>Day Aero II</Text>
+      <Value>s_deflector.day_aero2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\s_deflector.s72_a.jpg</Image>
+      <Text>72 Sleeper Aero</Text>
+      <Value>s_deflector.s72_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\s_deflector.s72_ax.jpg</Image>
+      <Text>72 Sleeper AeroX</Text>
+      <Value>s_deflector.s72_ax</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Main Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\mirror.paint.jpg</Image>
+      <Text>Paint</Text>
+      <Value>mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mirrors (hood mirrors)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\f_mirror.paint.jpg</Image>
+      <Text>Front Left Paint</Text>
+      <Value>fl_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mirrors (hood mirrors)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\f_mirror.paint_chrome.jpg</Image>
+      <Text>Front Left Paint and Chrome</Text>
+      <Value>fl_mirror.paint_chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mirrors (hood mirrors)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\f_mirror.paint.jpg</Image>
+      <Text>Front Right Paint</Text>
+      <Value>fr_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mirrors (hood mirrors)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\f_mirror.paint_chrome.jpg</Image>
+      <Text>Front Right Paint and Chrome</Text>
+      <Value>fr_mirror.paint_chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts (72 Sleeper)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\sideskirt.lng_fnd_pt.jpg</Image>
+      <Text>Duty Paint (rear of front fenders only, all tanks)</Text>
+      <Value>sideskirt.lng_fnd_pt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts (72 Sleeper)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\sideskirt.lng_hlf_pt.jpg</Image>
+      <Text>Paint (half length, all tanks)</Text>
+      <Value>sideskirt.lng_hlf_pt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts (72 Sleeper)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\sideskirt.lng20_pt.jpg</Image>
+      <Text>Paint (full length, 200gal tanks)</Text>
+      <Value>sideskirt.lng20_pt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts (72 Sleeper)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\sideskirt.lng24_pt.jpg</Image>
+      <Text>Paint (full length, 240gal tanks)</Text>
+      <Value>sideskirt.lng24_pt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts (Day)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\sideskirt.shr_pt.jpg</Image>
+      <Text>Paint (full length, 120gal alum tank no steps only)</Text>
+      <Value>sideskirt.shr_pt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts (Day)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\sideskirt.shr12_fnd_pt.jpg</Image>
+      <Text>Duty Paint (rear of front fenders, 120gal tanks)</Text>
+      <Value>sideskirt.shr12_fnd_pt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts (Day)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\WestStar57x\sideskirt.shr16_fnd_pt.jpg</Image>
+      <Text>Duty Paint (rear of front fenders, 160gal tanks)</Text>
+      <Value>sideskirt.shr16_fnd_pt</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>westernstar.57x</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSWest57X\s72rr.jpg</VehicleImage>
+  <VehicleName>Western Star|57x</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSWest57X\day.jpg</Image>
+      <InternalName>day.westernstar.57x.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSWest57X\s72rr.jpg</Image>
+      <InternalName>s72_rr.westernstar.57x.cabin</InternalName>
+      <Name>72 Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Lucasi and pete_agreatguy</XmlDefinitionAuthor>
+</Variable>
