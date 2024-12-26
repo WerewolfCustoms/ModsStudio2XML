@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>b2b30dab-96e6-4b12-a2d9-eca14d1c378e</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description />
+      <Group>Door Handles</Group>
+      <Image />
+      <Text>Paint</Text>
+      <Value>doorhndl.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Door Handles</Group>
+      <Image />
+      <Text>Exclusive</Text>
+      <Value>doorhndl.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Bumper</Group>
+      <Image />
+      <Text>Stock</Text>
+      <Value>f_bumper.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Bumper</Group>
+      <Image />
+      <Text>Stock II</Text>
+      <Value>f_bumper.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Bumper</Group>
+      <Image />
+      <Text>Stock (Aero)</Text>
+      <Value>f_bumper.stock_aero</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Grille Bottom</Group>
+      <Image />
+      <Text>Paint (Aero)</Text>
+      <Value>f_inlay_chs.paint_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Badge Plate</Group>
+      <Image />
+      <Text>Paint (Aero)</Text>
+      <Value>f_intake_bar.exc_aero</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Badge Plate</Group>
+      <Image />
+      <Text>Paint (Aero) (Camera)</Text>
+      <Value>f_intake_bar.exc_aero_d</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Mask (Cabin)</Group>
+      <Image />
+      <Text>Paint &amp; Plastic</Text>
+      <Value>f_intake_cab.pnt_fgrd</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Mask (Cabin)</Group>
+      <Image />
+      <Text>Stock (Aero)</Text>
+      <Value>f_intake_cab.stock_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Mask (Cabin)</Group>
+      <Image />
+      <Text>Paint (Aero)</Text>
+      <Value>f_intake_cab.paint_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Mask (Chassis)</Group>
+      <Image />
+      <Text>Paint &amp; Plastic</Text>
+      <Value>f_intake_chs.pnt_fgrd</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Mask (Chassis)</Group>
+      <Image />
+      <Text>Stock (Aero)</Text>
+      <Value>f_intake_chs.stock_aero</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Mask (Chassis)</Group>
+      <Image />
+      <Text>Paint (Aero)</Text>
+      <Value>f_intake_chs.paint_aero</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Mask (Chassis)</Group>
+      <Image />
+      <Text>Exclusive (Aero)</Text>
+      <Value>f_intake_chs.fh16_aero</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Headlights</Group>
+      <Image />
+      <Text>Stock</Text>
+      <Value>f_light_chs.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Headlights</Group>
+      <Image />
+      <Text>Stock II</Text>
+      <Value>f_light_chs.stock_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Headlights</Group>
+      <Image />
+      <Text>Exclusive</Text>
+      <Value>f_light_chs.fh16</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Headlights</Group>
+      <Image />
+      <Text>Exclusive II</Text>
+      <Value>f_light_chs.fh16_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Headlights</Group>
+      <Image />
+      <Text>Heavy Duty</Text>
+      <Value>f_light_chs.hvy_duty</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Headlights</Group>
+      <Image />
+      <Text>Stock (Aero)</Text>
+      <Value>f_light_chs.stock_aero</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Headlights</Group>
+      <Image />
+      <Text>Exclusive (Aero)</Text>
+      <Value>f_light_chs.fh16_aero</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Main Mirrors</Group>
+      <Image />
+      <Text>Paint</Text>
+      <Value>mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Main Mirrors</Group>
+      <Image />
+      <Text>Paint (Aero)</Text>
+      <Value>mirror.shape3_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Main Mirrors</Group>
+      <Image />
+      <Text>Camera</Text>
+      <Value>mirror.cam_digi</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Main Mirrors</Group>
+      <Image />
+      <Text>Camera (Aero)</Text>
+      <Value>mirror.cam_digi_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Roof Deflectors</Group>
+      <Image />
+      <Text>Paint (Sleeper)</Text>
+      <Value>r_deflector.stock_slp</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Roof Deflectors</Group>
+      <Image />
+      <Text>Paint (Globetrotter)</Text>
+      <Value>r_deflector.stock_gt</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Roof Deflectors</Group>
+      <Image />
+      <Text>Paint (Globetrotter XL)</Text>
+      <Value>r_deflector.stock_gtxl</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Roof Deflectors</Group>
+      <Image />
+      <Text>Paint (Globetrotter XXL)</Text>
+      <Value>r_deflector.stock_gtxxl</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Roof Deflectors</Group>
+      <Image />
+      <Text>Paint (8x4) (XL)</Text>
+      <Value>r_deflector.stock_8x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Roof Deflectors</Group>
+      <Image />
+      <Text>Paint (8x4) (XXL)</Text>
+      <Value>r_deflector.stock_8x_xxl</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Sideskirts</Group>
+      <Image />
+      <Text>Aero (4x)</Text>
+      <Value>sideskirt.stock_4x_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Sideskirts</Group>
+      <Image />
+      <Text>Aero (6x)</Text>
+      <Value>sideskirt.stock_6x_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Sun Visor</Group>
+      <Image />
+      <Text>Samurai</Text>
+      <Value>sunshld.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Sun Visor</Group>
+      <Image />
+      <Text>Paint</Text>
+      <Value>sunshld.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Deflectors</Group>
+      <Image />
+      <Text>Paint</Text>
+      <Value>s_deflector.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Deflectors</Group>
+      <Image />
+      <Text>Paint (XXL)</Text>
+      <Value>s_deflector.stock_gtxxl</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Deflectors</Group>
+      <Image />
+      <Text>Paint 8x4 (Chassis 8x4)</Text>
+      <Value>chassis.8x4</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>volvo.fh_2024</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage />
+  <VehicleName>Volvo|FH6 Aero</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>l2h1_aero.volvo.fh_2024.cabin</InternalName>
+      <Name>Aero Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h1.volvo.fh_2024.cabin</InternalName>
+      <Name>Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h2_aero.volvo.fh_2024.cabin</InternalName>
+      <Name>Aero Globetrotter</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h2.volvo.fh_2024.cabin</InternalName>
+      <Name>Globetrotter</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h3_aero.volvo.fh_2024.cabin</InternalName>
+      <Name>Aero Globetrotter XL</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h3.volvo.fh_2024.cabin</InternalName>
+      <Name>Globetrotter XL</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l3h3_aero.volvo.fh_2024.cabin</InternalName>
+      <Name>Aero Globetrotter XXL</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l3h3.volvo.fh_2024.cabin</InternalName>
+      <Name>Globetrotter XXL</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h3_8x4_a.volvo.fh_2024.cabin</InternalName>
+      <Name>Aero Globetrotter XL (8x4)</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h3_8x4.volvo.fh_2024.cabin</InternalName>
+      <Name>Globetrotter XL (8x4)</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l3h3_8x4_a.volvo.fh_2024.cabin</InternalName>
+      <Name>Aero Globetrotter XXL (8x4)</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l3h3_8x4.volvo.fh_2024.cabin</InternalName>
+      <Name>Globetrotter XXL (8x4)</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Taede</XmlDefinitionAuthor>
+</Variable>

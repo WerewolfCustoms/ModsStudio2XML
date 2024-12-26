@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>1fbad72d-34c1-49dd-a873-88c34c4ace46</Id>
+  <Id>a0cc7a78-8916-4162-9d2b-90a527e1ea34</Id>
   <IsEnabled>true</IsEnabled>
   <AccessoryItems />
   <Game>ETS2</Game>

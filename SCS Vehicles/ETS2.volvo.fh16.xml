@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>493c95ca-f53d-4187-8c52-0d5bb14f891b</Id>
+  <Id>f7bc2389-3b72-4122-a4d0-e72c70eb7e0a</Id>
   <IsEnabled>true</IsEnabled>
   <AccessoryItems>
     <ListItem>
@@ -373,7 +373,7 @@
   </SoundItems>
   <VehicleAuthor>SCS Software</VehicleAuthor>
   <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSVolvo\classic_globexl.jpg</VehicleImage>
-  <VehicleName>Volvo|FH16 (Classic)</VehicleName>
+  <VehicleName>Volvo|FH 2009</VehicleName>
   <VehicleType>AllTrucks</VehicleType>
   <VehicleVariants>
     <Variant>

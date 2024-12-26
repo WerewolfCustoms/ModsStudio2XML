@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>dc797042-a481-4df3-8da2-20b9f3b5c5e7</Id>
+  <Id>d06529cf-0dc9-4040-98fe-bad34d6fb4d1</Id>
   <IsEnabled>true</IsEnabled>
   <AccessoryItems>
     <ListItem>
