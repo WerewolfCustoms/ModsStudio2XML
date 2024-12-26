@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>ede197ca-1a24-4990-8bae-3c899754b477</Id>
+  <Id>b63571b9-5649-4a4b-a6e1-307af5cf7fae</Id>
   <IsEnabled>true</IsEnabled>
   <Game>ATS</Game>
   <InternalName>scs.chemtank</InternalName>

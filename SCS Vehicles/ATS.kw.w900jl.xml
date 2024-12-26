@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>55b923d6-7c4f-4e70-bdbb-228fd206be2e</Id>
+  <Id>45707e33-b652-44a0-935d-49c0ea6053de</Id>
   <IsEnabled>true</IsEnabled>
   <AccessoryItems />
   <Game>ATS</Game>

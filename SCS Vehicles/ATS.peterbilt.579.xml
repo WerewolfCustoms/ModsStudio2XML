@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>c5237bb0-5a53-4496-aaa2-bb1f802a041f</Id>
+  <Id>b0d7d292-7907-4ffb-826e-c0e69e2323c6</Id>
   <IsEnabled>true</IsEnabled>
   <Game>ATS</Game>
   <InternalName>peterbilt.579</InternalName>
