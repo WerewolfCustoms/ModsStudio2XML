@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>bbcdcb24-2158-437f-9602-c67f070672ce</Id>
+  <Id>fd6f32ad-ab7c-45aa-87c5-33248dba20c0</Id>
   <IsEnabled>true</IsEnabled>
   <Game>ATS</Game>
   <InternalName>kenworth.t680</InternalName>

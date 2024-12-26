@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>fbf3ef30-2e80-4c82-a527-fc8397763a55</Id>
-  <IsEnabled>false</IsEnabled>
+  <Id>4ea5e4d6-91be-4208-8915-c5670c19c2e3</Id>
+  <IsEnabled>true</IsEnabled>
   <AccessoryItems />
   <Game>ATS</Game>
   <InternalName>pete.jc</InternalName>
