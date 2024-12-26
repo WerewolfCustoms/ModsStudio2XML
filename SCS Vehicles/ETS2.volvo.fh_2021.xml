@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ab2e025e-cfcb-4b96-8418-ed3ba9ff40de</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description />
+      <Group>Corner Deflectors</Group>
+      <Image />
+      <Text>Paint * DLC *</Text>
+      <Value>cor_def.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Decal</Group>
+      <Image />
+      <Text>Paint * DLC *</Text>
+      <Value>decals.paint_h2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Decal</Group>
+      <Image />
+      <Text>Paint Globetrotter * DLC *</Text>
+      <Value>decals.p3_h2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Decal</Group>
+      <Image />
+      <Text>Paint Globetrotter XL * DLC *</Text>
+      <Value>decals.p4_h2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Decal</Group>
+      <Image />
+      <Text>Paint FH16 550 XL * DLC *</Text>
+      <Value>decals.p5_h2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Decal</Group>
+      <Image />
+      <Text>Paint FH16 650 XL * DLC *</Text>
+      <Value>decals.p6_h2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Decal</Group>
+      <Image />
+      <Text>Paint FH16 750 * DLC *</Text>
+      <Value>decals.p1_h2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Decal</Group>
+      <Image />
+      <Text>Paint FH16 750 XL * DLC *</Text>
+      <Value>decals.p2_h2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Decal</Group>
+      <Image />
+      <Text>Paint * DLC *</Text>
+      <Value>decals.paint_h3</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Decal</Group>
+      <Image />
+      <Text>Paint Globetrotter * DLC *</Text>
+      <Value>decals.p3_h3</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Decal</Group>
+      <Image />
+      <Text>Paint Globetrotter XL * DLC *</Text>
+      <Value>decals.p4_h3</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Decal</Group>
+      <Image />
+      <Text>Paint FH16 550 XL * DLC *</Text>
+      <Value>decals.p5_h3</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Decal</Group>
+      <Image />
+      <Text>Paint FH16 650 XL * DLC *</Text>
+      <Value>decals.p6_h3</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Decal</Group>
+      <Image />
+      <Text>Paint FH16 750 * DLC *</Text>
+      <Value>decals.p1_h3</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Decal</Group>
+      <Image />
+      <Text>Paint FH16 750 XL * DLC *</Text>
+      <Value>decals.p2_h3</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Windshield Frame</Group>
+      <Image />
+      <Text>Paint * DLC *</Text>
+      <Value>f_wnd_frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Door Handles</Group>
+      <Image />
+      <Text>Paint</Text>
+      <Value>doorhndl.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Door Handles</Group>
+      <Image />
+      <Text>Exclusive</Text>
+      <Value>doorhndl.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Exhaust</Group>
+      <Image />
+      <Text>Diva * DLC *</Text>
+      <Value>exhaust_m.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Exhaust</Group>
+      <Image />
+      <Text>Centurion * DLC *</Text>
+      <Value>exhaust_m.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Air Filter</Group>
+      <Image />
+      <Text>Paint (Sleeper) * DLC *</Text>
+      <Value>filter.paint_h1</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Air Filter</Group>
+      <Image />
+      <Text>Paint (Globetrotter) * DLC *</Text>
+      <Value>filter.paint_h2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Air Filter</Group>
+      <Image />
+      <Text>Paint (Globetrotter XL) * DLC *</Text>
+      <Value>filter.paint_h3</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Bumper</Group>
+      <Image />
+      <Text>Stock</Text>
+      <Value>f_bumper.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Bumper</Group>
+      <Image />
+      <Text>Low * DLC *</Text>
+      <Value>f_bumper.paint3</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Bumper</Group>
+      <Image />
+      <Text>Stock II</Text>
+      <Value>f_bumper.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Bumper</Group>
+      <Image />
+      <Text>Low LED * DLC *</Text>
+      <Value>f_bumper.paint1</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Bumper</Group>
+      <Image />
+      <Text>Exclusive LED * DLC *</Text>
+      <Value>f_bumper.paint2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Fender</Group>
+      <Image />
+      <Text>Paint * DLC *</Text>
+      <Value>f_fender_cab.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>You must check this part with Font Fender</Description>
+      <Group>Front Fender Chassis</Group>
+      <Image />
+      <Text>Paint * DLC *</Text>
+      <Value>f_fender_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Bull Bar</Group>
+      <Image />
+      <Text>Paint Net * DLC *</Text>
+      <Value>f_grill.net</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Grille Bottom</Group>
+      <Image />
+      <Text>Paint &amp; Plastic * DLC *</Text>
+      <Value>f_inlay_chs.painted_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Grille Bottom</Group>
+      <Image />
+      <Text>Paint * DLC *</Text>
+      <Value>f_inlay_chs.exclusive_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Grille Bottom</Group>
+      <Image />
+      <Text>Chrome * DLC *</Text>
+      <Value>f_inlay_chs.exclusive_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Badge Plate</Group>
+      <Image />
+      <Text>Paint * DLC *</Text>
+      <Value>f_intake_bar.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Badge Plate</Group>
+      <Image />
+      <Text>Chrome * DLC *</Text>
+      <Value>f_intake_bar.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Mask (Cab)</Group>
+      <Image />
+      <Text>Paint * DLC *</Text>
+      <Value>f_intake_cab.fgrid01</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Mask (Cab)</Group>
+      <Image />
+      <Text>Paint &amp; Plastic * DLC *</Text>
+      <Value>f_intake_cab.pnt_fgrd</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Mask (Chassis)</Group>
+      <Image />
+      <Text>Paint * DLC *</Text>
+      <Value>f_intake_chs.fgrid01</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Mask (Chassis)</Group>
+      <Image />
+      <Text>Paint &amp; Plastic * DLC *</Text>
+      <Value>f_intake_chs.pnt_fgrd</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Headlights</Group>
+      <Image />
+      <Text>Stock</Text>
+      <Value>f_light_chs.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Headlights</Group>
+      <Image />
+      <Text>Stock II</Text>
+      <Value>f_light_chs.stock_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Headlights</Group>
+      <Image />
+      <Text>Exclusive</Text>
+      <Value>f_light_chs.fh16</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Headlights</Group>
+      <Image />
+      <Text>Exclusive II</Text>
+      <Value>f_light_chs.fh16_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Headlights</Group>
+      <Image />
+      <Text>Heavy Duty</Text>
+      <Value>f_light_chs.hvy_duty</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Mirror</Group>
+      <Image />
+      <Text>Paint * DLC *</Text>
+      <Value>f_mirror.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Front Mirror</Group>
+      <Image />
+      <Text>Paint Long * DLC *</Text>
+      <Value>f_mirror.paintedl</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Mirror</Group>
+      <Image />
+      <Text>Paint * DLC *</Text>
+      <Value>s_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Main Mirrors</Group>
+      <Image />
+      <Text>Paint</Text>
+      <Value>mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Main Mirrors</Group>
+      <Image />
+      <Text>Paint, LED * DLC *</Text>
+      <Value>mirror.chrome_led</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Main Mirrors</Group>
+      <Image />
+      <Text>Paint &amp; Chrome * DLC *</Text>
+      <Value>mirror.chrome_logo</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Main Mirrors</Group>
+      <Image />
+      <Text>Chrome Luxury * DLC *</Text>
+      <Value>mirror.chrom_spec</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Bumper</Group>
+      <Image />
+      <Text>Chariot * DLC *</Text>
+      <Value>r_bumper.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Bumper</Group>
+      <Image />
+      <Text>Diva * DLC *</Text>
+      <Value>r_bumper.smoth</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Bumper</Group>
+      <Image />
+      <Text>Thor * DLC *</Text>
+      <Value>r_bumper.bend</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis Cover</Group>
+      <Image />
+      <Text>Diva 4x2 (520+315 L Tanks) * DLC *</Text>
+      <Value>r_chs_cover.painted_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis Cover</Group>
+      <Image />
+      <Text>Diva 4x2 (640 + 340 L Tanks) * DLC *</Text>
+      <Value>r_chs_cover.painted_4x_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis Cover</Group>
+      <Image />
+      <Text>Diva 6x2/4 * DLC *</Text>
+      <Value>r_chs_cover.painted_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis Cover</Group>
+      <Image />
+      <Text>Centurion 4x2 (520+315 L Tanks) * DLC *</Text>
+      <Value>r_chs_cover.mix_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis Cover</Group>
+      <Image />
+      <Text>Centurion 4x2 (640 + 340 L Tanks) * DLC *</Text>
+      <Value>r_chs_cover.mix_4x_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis Cover</Group>
+      <Image />
+      <Text>Centurion 6x2/4 * DLC *</Text>
+      <Value>r_chs_cover.mix_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Roof Deflectors</Group>
+      <Image />
+      <Text>Paint (Sleeper)</Text>
+      <Value>r_deflector.stock_h1</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Roof Deflectors</Group>
+      <Image />
+      <Text>Paint (Globetrotter)</Text>
+      <Value>r_deflector.stock_h2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Roof Deflectors</Group>
+      <Image />
+      <Text>Paint (Globetrotter XL)</Text>
+      <Value>r_deflector.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Roof Deflectors</Group>
+      <Image />
+      <Text>Paint (Globetrotter XL 8x4)</Text>
+      <Value>r_deflector.stock_8x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Roof Deflectors</Group>
+      <Image />
+      <Text>Paint, LED (Sleeper) * DLC *</Text>
+      <Value>r_deflector.light_h1</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Roof Deflectors</Group>
+      <Image />
+      <Text>Paint, LED (GLobetrotter) * DLC *</Text>
+      <Value>r_deflector.light_h2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Roof Deflectors</Group>
+      <Image />
+      <Text>Paint, LED (Globetrotter XL) * DLC *</Text>
+      <Value>r_deflector.light_h3</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Fender</Group>
+      <Image />
+      <Text>Paint (4x) * DLC *</Text>
+      <Value>r_fender.paint_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Fender</Group>
+      <Image />
+      <Text>Paint (6x) * DLC *</Text>
+      <Value>r_fender.paint_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Fender</Group>
+      <Image />
+      <Text>Paint (8x) * DLC *</Text>
+      <Value>r_fender.paint_8x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Fender Top</Group>
+      <Image />
+      <Text>Paint (4x) * DLC *</Text>
+      <Value>r_fendr_top.paint_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Fender Top</Group>
+      <Image />
+      <Text>Paint (6x) * DLC *</Text>
+      <Value>r_fendr_top.paint_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Fender Top</Group>
+      <Image />
+      <Text>Paint (8x) * DLC *</Text>
+      <Value>r_fendr_top.paint_8x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Fender Top</Group>
+      <Image />
+      <Text>Paint &amp; Chrome (4x) * DLC *</Text>
+      <Value>r_fendr_top.chrome_p_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Fender Top</Group>
+      <Image />
+      <Text>Paint &amp; Chrome (6x) * DLC *</Text>
+      <Value>r_fendr_top.chrome_p_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Fender Top</Group>
+      <Image />
+      <Text>Paint &amp; Chrome (8x) * DLC *</Text>
+      <Value>r_fendr_top.chrome_p_8x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Sideskirts</Group>
+      <Image />
+      <Text>Paint &amp; Chrome (4x) * DLC *</Text>
+      <Value>sideskirt.chrome_s4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Sideskirts</Group>
+      <Image />
+      <Text>Aero (4x)</Text>
+      <Value>sideskirt.stock_4x_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Sideskirts</Group>
+      <Image />
+      <Text>Paint &amp; Chrome II (4x) * DLC *</Text>
+      <Value>sideskirt.chrome_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Sideskirts</Group>
+      <Image />
+      <Text>Paint &amp; Chrome (6x) * DLC *</Text>
+      <Value>sideskirt.chrome_s6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Sideskirts</Group>
+      <Image />
+      <Text>Aero (6x)</Text>
+      <Value>sideskirt.stock_6x_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Sideskirts</Group>
+      <Image />
+      <Text>Paint &amp; Chrome II (6x) * DLC *</Text>
+      <Value>sideskirt.chrome_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Sun Visor</Group>
+      <Image />
+      <Text>Samurai * DLC *</Text>
+      <Value>sunshld.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Sun Visor</Group>
+      <Image />
+      <Text>Paint</Text>
+      <Value>sunshld.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Sun Visor</Group>
+      <Image />
+      <Text>Paint * DLC *</Text>
+      <Value>sunshld.dual</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Sun Visor</Group>
+      <Image />
+      <Text>Exclusive Painted * DLC *</Text>
+      <Value>sunshld.quatro</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Sun Visor</Group>
+      <Image />
+      <Text>Paint Luxury * DLC *</Text>
+      <Value>sunshld.triangle</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Deflectors</Group>
+      <Image />
+      <Text>Paint</Text>
+      <Value>s_deflector.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Deflectors</Group>
+      <Image />
+      <Text>Paint, LED * DLC *</Text>
+      <Value>s_deflector.light</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Deflectors</Group>
+      <Image />
+      <Text>Paint 8x4 (Chassis 8x4)</Text>
+      <Value>chassis.8x4</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>volvo.fh_2021</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage />
+  <VehicleName>Volvo|FH5</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>l2h1.volvo.fh_2021.cabin</InternalName>
+      <Name>Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h2.volvo.fh_2021.cabin</InternalName>
+      <Name>Globetrotter</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h3.volvo.fh_2021.cabin</InternalName>
+      <Name>Globetrotter XL</Name>
+    </Variant>
+    <Variant>
+      <InternalName>l2h3_8x4.volvo.fh_2021.cabin</InternalName>
+      <Name>Globetrotter XL 8x4</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Taede</XmlDefinitionAuthor>
+</Variable>

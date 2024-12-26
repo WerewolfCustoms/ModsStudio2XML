@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>41009e66-c987-42fe-8e9f-ce8a3cb9ae23</Id>
+  <Id>ff04b463-b1c5-4168-8735-0dc0da857c4f</Id>
   <IsEnabled>true</IsEnabled>
   <Game>ETS2</Game>
   <InternalName>renault.magnum</InternalName>

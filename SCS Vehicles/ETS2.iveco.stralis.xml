@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>08583115-760f-4c48-8509-de7c6a50ada6</Id>
+  <Id>b80b4560-4b37-4b65-a7fd-c300a8a4b002</Id>
   <IsEnabled>true</IsEnabled>
   <Game>ETS2</Game>
   <InternalName>iveco.stralis</InternalName>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>5f5d44b3-e528-41b3-b320-638a2c729ea3</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\IvecoSway\f_bumper.pnt.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_bumper.pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\IvecoSway\f_fender_chs.pnt.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_fender_chs.pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\IvecoSway\f_intake_cab.gls_pnt.jpg</Image>
+      <Text>Glossy</Text>
+      <Value>f_intake_cab.gls_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\IvecoSway\f_intake_cab.gun_mtl_ln.jpg</Image>
+      <Text>Gun Metal Lines</Text>
+      <Value>f_intake_cab.gun_mtl_ln</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\IvecoSway\f_intake_cab.str_s.jpg</Image>
+      <Text>Body Colour Streams</Text>
+      <Value>f_intake_cab.str_s</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\IvecoSway\f_intake_cab.pnt.jpg</Image>
+      <Text>Full Body Colour</Text>
+      <Value>f_intake_cab.pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\IvecoSway\f_intake_chs.gls_pnt.jpg</Image>
+      <Text>Glossy</Text>
+      <Value>f_intake_chs.gls_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\IvecoSway\f_intake_chs.gun_mtl_ln.jpg</Image>
+      <Text>Gun Metal Lines</Text>
+      <Value>f_intake_chs.gun_mtl_ln</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\IvecoSway\f_intake_chs.str_s.jpg</Image>
+      <Text>Body Colour Streams</Text>
+      <Value>f_intake_chs.str_s</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Mask Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\IvecoSway\f_intake_chs.pnt.jpg</Image>
+      <Text>Full Body Colour</Text>
+      <Value>f_intake_chs.pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Main Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\IvecoSway\mirror.std_pnt.jpg</Image>
+      <Text>Paint</Text>
+      <Value>mirror.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Main Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\IvecoSway\mirror.cam_pnt.jpg</Image>
+      <Text>Camera, Paint</Text>
+      <Value>mirror.cam_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\IvecoSway\r_deflector.pnt.jpg</Image>
+      <Text>Paint</Text>
+      <Value>r_deflector.pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\IvecoSway\s_deflector.pnt.jpg</Image>
+      <Text>Paint</Text>
+      <Value>s_deflector.pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\IvecoSway\sideskirt.pnt_4x2.jpg</Image>
+      <Text>Paint</Text>
+      <Value>sideskirt.pnt_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\IvecoSway\sideskirt.pnt_4x2_a.jpg</Image>
+      <Text>Paint, Aero</Text>
+      <Value>sideskirt.pnt_4x2_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Accessory required to fix inside cabin door mapping issue.</Description>
+      <Group>Sunshield (Interior Fix)</Group>
+      <Text>None</Text>
+      <Value>sunshield.empty</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Accessory required to fix inside cabin door mapping issue.</Description>
+      <Group>Sunshield (Interior Fix)</Group>
+      <Text>Stock</Text>
+      <Value>sunshield.std</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>iveco.sway</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSIveco\sway_as.jpg</VehicleImage>
+  <VehicleName>IVECO|S-Way</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSIveco\sway_as.jpg</Image>
+      <InternalName>as.iveco.sway.cabin </InternalName>
+      <Name>Active Space</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Taede</XmlDefinitionAuthor>
+</Variable>

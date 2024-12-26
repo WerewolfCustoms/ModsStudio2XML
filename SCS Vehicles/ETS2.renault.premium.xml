@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>e04cabc7-ed12-4a56-891c-bb470310ac6d</Id>
+  <Id>9120f077-bc0b-4490-ac57-791d3cc82a25</Id>
   <IsEnabled>true</IsEnabled>
   <Game>ETS2</Game>
   <InternalName>renault.premium</InternalName>
