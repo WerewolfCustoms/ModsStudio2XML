@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>b2cb37e0-cab1-4172-8072-6adc67ba32c7</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Painted Bumpers</Group>
+      <Text>Standard Paint</Text>
+      <Value>bumper.pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Bumpers</Group>
+      <Text>Vent Paint</Text>
+      <Value>bumper.vent_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Parts</Group>
+      <Text>Bull Bar</Text>
+      <Value>f_grill.pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Parts</Group>
+      <Text>Front Turn signal painted cover</Text>
+      <Value>f_turn_light.pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Grill</Group>
+      <Text>Paint Basic</Text>
+      <Value>grill.pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Grill</Group>
+      <Text>Paint Mesh</Text>
+      <Value>grill.pnt2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Grill</Group>
+      <Text>Paint Mesh II</Text>
+      <Value>grill.pnt3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Grill</Group>
+      <Text>Painted grill with chrome-no mesh</Text>
+      <Value>grill.chr3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Grill</Group>
+      <Text>Painted grill with chrome</Text>
+      <Value>grill.chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Parts</Group>
+      <Text>Hood</Text>
+      <Value>hood.std</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Parts</Group>
+      <Text>Sunshield</Text>
+      <Value>sunshield.lund</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front fender</Group>
+      <Text>Painted front fender</Text>
+      <Value>f_fender.sng_rnd</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS.intnational.5070_scr.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>intnational.5070_scr</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Smarty</VehicleAuthor>
+  <VehicleName>International|5070</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>daycab.intnational.5070_scr.cabin</InternalName>
+      <Name>Daycab</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>
