@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>e078e41f-6ec3-4c2a-8f04-4191b58d70ee</Id>
+  <IsEnabled>true</IsEnabled>
+   <!-- Created with v2024.03 Modversion 1.2.5 -->
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <Game>ETS2</Game>
+  <InternalName>mt_eksjo.flis_semi</InternalName>
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>Kast|Eksjövagnen FT-45  SEMIS</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>Image ONLY shows a visual model.</Description>
+      <Group>MT-Rulltäckning</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\MTEksjo\Semis\40_roll.jpg</Image>
+      <InternalName>body.roll_4_0</InternalName>
+      <Name>MT Eksjö 4m</Name>
+    </Variant>
+    <Variant>
+      <Description>Image ONLY shows a visual model.</Description>
+      <Group>MT-Rulltäckning</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\MTEksjo\Semis\42_roll.jpg</Image>
+      <InternalName>body.roll_4_2</InternalName>
+      <Name>MT Eksjö 4.2m</Name>
+    </Variant>
+    <Variant>
+      <Description>Image ONLY shows a visual model.</Description>
+      <Group>MT-Rulltäckning</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\MTEksjo\Semis\44_roll.jpg</Image>
+      <InternalName>body.roll_4_4</InternalName>
+      <Name>MT Eksjö 4.4m</Name>
+    </Variant>
+    <Variant>
+      <Description>Image ONLY shows a visual model.</Description>
+      <Group>MT-Taklock</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\MTEksjo\Semis\40_tak.jpg</Image>
+      <InternalName>body.tak_4_0</InternalName>
+      <Name>MT Eksjö 4m</Name>
+    </Variant>
+    <Variant>
+      <Description>Image ONLY shows a visual model.</Description>
+      <Group>MT-Taklock</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\MTEksjo\Semis\42_tak.jpg</Image>
+      <InternalName>body.tak_4_2</InternalName>
+      <Name>MT Eksjö 4.2m</Name>
+    </Variant>
+    <Variant>
+      <Description>Image ONLY shows a visual model.</Description>
+      <Group>MT-Taklock</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\MTEksjo\Semis\44_tak.jpg</Image>
+      <InternalName>body.tak_4_4</InternalName>
+      <Name>MT Eksjö 4.4m</Name>
+    </Variant>
+  </VehicleVariants>
+  <AccessoryItems>
+    <ListItem>
+      <Description>Image ONLY shows a model.\nDifferent Lenght/Axles.</Description>
+      <Group>Frame</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\chassis_s3ax.jpg</Image>
+      <Text>Chassis Painted</Text>
+      <Value>frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Multiple Variants.\nUse a single color.</Description>
+      <Group>Front Body</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\ladder_multiple_variants.jpg</Image>
+      <Text>Ladder</Text>
+      <Value>ladder_1.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Multiple Variants.\nUse a single color.</Description>
+      <Group>Front Body</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\ladder_multiple_variants.jpg</Image>
+      <Text>Ladder</Text>
+      <Value>ladder_2.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Multiple Variants.\nUse a single color.</Description>
+      <Group>Front Body</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\ladder_multiple_variants.jpg</Image>
+      <Text>Ladder</Text>
+      <Value>ladder_3.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Two Variants.\nFlat or Loaded.\nUse a single color.</Description>
+      <Group>Roof ROLL</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\roll_roof_flat.jpg</Image>
+      <Text>4m Flat/Loaded</Text>
+      <Value>roof_1.roll</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Taklock</Description>
+      <Group>Roof TAK</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\tak_roof.jpg</Image>
+      <Text>4m TAK</Text>
+      <Value>roof_1.taklock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Two Variants.\nFlat or Loaded.\nUse a single color.</Description>
+      <Group>Roof ROLL</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\roll_roof_flat.jpg</Image>
+      <Text>4.2m Flat/Loaded</Text>
+      <Value>roof_2.roll</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Taklock</Description>
+      <Group>Roof TAK</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\tak_roof.jpg</Image>
+      <Text>4.2m TAK</Text>
+      <Value>roof_2.taklock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Two Variants.\nFlat or Loaded.\nUse a single color.</Description>
+      <Group>Roof ROLL</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\roll_roof_flat.jpg</Image>
+      <Text>4.4m Flat/Loaded</Text>
+      <Value>roof_3.roll</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Taklock</Description>
+      <Group>Roof TAK</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\tak_roof.jpg</Image>
+      <Text>4.4m TAK</Text>
+      <Value>roof_3.taklock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Custom License Plate</Description>
+      <Group>License Plate</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\cstm_lp.jpg</Image>
+      <Text>Custom LP</Text>
+      <Value>custom_lp.custom_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer 1st</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\sf_d.jpg</Image>
+      <Text>Painted Parlok Fenders D</Text>
+      <Value>eksjo_fend_d.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer 1st</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\sf_d.jpg</Image>
+      <Text>Painted Parlok Fenders D with Reflector</Text>
+      <Value>eksjo_fend_d.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer 2nd</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\sf_e.jpg</Image>
+      <Text>Painted Parlok Fenders E</Text>
+      <Value>eksjo_fend_e.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer 2nd</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\sf_e.jpg</Image>
+      <Text>Painted Parlok Fenders E with Reflector</Text>
+      <Value>eksjo_fend_e.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer 3rd</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\sf_f.jpg</Image>
+      <Text>Painted Parlok Fenders F</Text>
+      <Value>eksjo_fend_f.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer 3rd</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\sf_f.jpg</Image>
+      <Text>Painted Parlok Fenders F with Reflector</Text>
+      <Value>eksjo_fend_f.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Multiple Variants.Same Setup Both Sides\nShares the same value.\nUse a single color.</Description>
+      <Group>Trailerparts Left Side</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\2stpl.jpg</Image>
+      <Text>2x small toolbox, Paint</Text>
+      <Value>eksjo_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Multiple Variants.Same Setup Both Sides\nShares the same value.\nUse a single color.</Description>
+      <Group>Trailerparts Left Side</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\ltpl.jpg</Image>
+      <Text>Long toolbox, Paint</Text>
+      <Value>eksjo_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Multiple Variants.Same Setup Both Sides\nShares the same value.\nUse a single color.</Description>
+      <Group>Trailerparts Left Side</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\lstpl.jpg</Image>
+      <Text>Long+Short toolbox, Paint</Text>
+      <Value>eksjo_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Multiple Variants.Same Setup Both Sides\nShares the same value.\nUse a single color.</Description>
+      <Group>Trailerparts Left Side</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\pl.jpg</Image>
+      <Text>Paint</Text>
+      <Value>eksjo_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Multiple Variants.Same Setup Both Sides\nShares the same value.\nUse a single color.</Description>
+      <Group>Trailerparts Left Side</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\stpl.jpg</Image>
+      <Text>Small toolbox, Paint</Text>
+      <Value>eksjo_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Multiple Variants.Same Setup Both Sides\nShares the same value.\nUse a single color.</Description>
+      <Group>Trailerparts Right Side</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\2stpr.jpg</Image>
+      <Text>2x small toolbox, Paint</Text>
+      <Value>eksjo_f_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Multiple Variants.Same Setup Both Sides\nShares the same value.\nUse a single color.</Description>
+      <Group>Trailerparts Right Side</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\ltpr.jpg</Image>
+      <Text>Long toolbox, Paint</Text>
+      <Value>eksjo_f_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Multiple Variants.Same Setup Both Sides\nShares the same value.\nUse a single color.</Description>
+      <Group>Trailerparts Right Side</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\lstpr.jpg</Image>
+      <Text>Long+Short toolbox, Paint</Text>
+      <Value>eksjo_f_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Multiple Variants.Same Setup Both Sides\nShares the same value.\nUse a single color.</Description>
+      <Group>Trailerparts Right Side</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\pr.jpg</Image>
+      <Text>Paint</Text>
+      <Value>eksjo_f_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Multiple Variants.Same Setup Both Sides\nShares the same value.\nUse a single color.</Description>
+      <Group>Trailerparts Right Side</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\stpr.jpg</Image>
+      <Text>Small toolbox, Paint</Text>
+      <Value>eksjo_f_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>All Bumpers\nshares the same value.\nUse a single color.</Description>
+      <Group>Rear Bumper</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\p_std_bumper.jpg</Image>
+      <Text>Paint Standard</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>All Bumpers\nshares the same value.\nUse a single color.</Description>
+      <Group>Rear Bumper</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\fp_std_bumper.jpg</Image>
+      <Text>Full Paint Standard</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>All Bumpers\nshares the same value.\nUse a single color.</Description>
+      <Group>Rear Bumper</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\p_dbl_280.jpg</Image>
+      <Text>Paint Double for L280</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>All Bumpers\nshares the same value.\nUse a single color.</Description>
+      <Group>Rear Bumper</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\fp_dbl_280.jpg</Image>
+      <Text>Full Paint Double for L280</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>All Bumpers\nshares the same value.\nUse a single color.</Description>
+      <Group>Rear Bumper</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\p_dbl_940.jpg</Image>
+      <Text>Paint Double for L940/custom</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>All Bumpers\nshares the same value.\nUse a single color.</Description>
+      <Group>Rear Bumper</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\fp_dbl_940.jpg</Image>
+      <Text>Full Paint Double for L940/custom</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>	
+    <ListItem>
+      <Description>Mudflap Customizeable</Description>
+      <Group>Mudflap</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\MTEksjo\mudflap.jpg</Image>
+      <Text>Custom Mudflap</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>
