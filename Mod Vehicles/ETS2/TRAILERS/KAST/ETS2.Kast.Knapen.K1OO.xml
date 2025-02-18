@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>e25066b8-2ff7-49de-a228-914d8654346d</Id>
+  <IsEnabled>true</IsEnabled>
+   <!-- Created with v2024.03 Modversion 1.4.3 -->
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <Game>ETS2</Game>
+  <InternalName>knapen</InternalName>
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>Kast|Knapen K100 w Dolly Option</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>4m K1OO</Description>
+      <Group></Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\Knapen\knapen_knapen.dds</Image>
+      <InternalName>body.4_box</InternalName>
+      <Name>Knapen 4m</Name>
+    </Variant>
+    <Variant>
+      <Description>4m LKW</Description>
+      <Group></Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\Knapen\knapen_knapen.dds</Image>
+      <InternalName>body.4_box_lkw</InternalName>
+      <Name>Knapen 4m LKW</Name>
+    <Variant>
+      <Description>4.2m K1OO</Description>
+      <Group></Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\Knapen\knapen_knapen.dds</Image>
+      <InternalName>body.4_2_box</InternalName>
+      <Name>Knapen 4.2m</Name>
+    </Variant>
+    <Variant>
+      <Description>4.2m UK K1OO</Description>
+      <Group></Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\Knapen\knapen_knapen.dds</Image>
+      <InternalName>body.4_2_uk_box</InternalName>
+      <Name>Knapen 4.2m + 0.15 Dome</Name>
+    </Variant>
+    </Variant>
+    <Variant>
+      <Description>I M P O R T A N T!\nTick This Box For Dolly Options</Description>
+      <Group></Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\Knapen\knapen_full_short22.dds</Image>
+      <InternalName>body.body_dolly</InternalName>
+      <Name>Dolly</Name>
+    </Variant>
+  </VehicleVariants>
+  <AccessoryItems>
+    <ListItem>
+      <Description>Paintable Axles</Description>
+      <Group>Axles</Group>
+      <Image></Image>
+      <Text>axles.axles_3</Text>
+      <Value>axles.axles_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Paintable Axles</Description>
+      <Group>Axles</Group>
+      <Image></Image>
+      <Text>axles.axles_3s</Text>
+      <Value>axles.axles_3s</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Paintable Axles</Description>
+      <Group>Axles</Group>
+      <Image></Image>
+      <Text>axles.axles_4s</Text>
+      <Value>axles.axles_4s</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Dolly Chassi</Description>
+      <Group>Frame</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\chassis_paint.dds</Image>
+      <Text>Chassi Paint Dolly</Text>
+      <Value>frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Chassi</Description>
+      <Group>Frame</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\chassis_paint.dds</Image>
+      <Text>frame.chassis_3</Text>
+      <Value>frame.chassis_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Chassi</Description>
+      <Group>Frame</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\chassis_paint.dds</Image>
+      <Text>frame.chassis_3s</Text>
+      <Value>frame.chassis_3s</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Chassi</Description>
+      <Group>Frame</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\chassis_paint.dds</Image>
+      <Text>frame.chassis_4s</Text>
+      <Value>frame.chassis_4s</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Ladder Paintable</Description>
+      <Group>Frame</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\front_paint.dds</Image>
+      <Text>Painted Ladder</Text>
+      <Value>f_body.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>License Plate on Trailer</Description>
+      <Group>License Plates</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\lp_bumper.dds</Image>
+      <Text>Custom License Plate Trailer</Text>
+      <Value>custom_lp.custom_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>License Plate on Trailer</Description>
+      <Group>License Plates</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\lp_bumper_spain.dds</Image>
+      <Text>Custom License Plate Trailer  SPAIN</Text>
+      <Value>custom_lp.spain_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>License Plate on Dolly</Description>
+      <Group>License Plates</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\lp_bumper.dds</Image>
+      <Text>Custom License Plate Dolly</Text>
+      <Value>custom_lp.lp_tyllis</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Dolly Fenders 1st</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders A</Text>
+      <Value>tyll_fend_a.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Dolly Fenders 2nd</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders B</Text>
+      <Value>tyll_fend_b.paint</Value>
+    </ListItem>	
+    <ListItem>
+      <Description>Semitrailer Fenders 1st</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders A</Text>
+      <Value>knap_fend_a.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Semitrailer Fenders 2nd</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders B</Text>
+      <Value>knap_fend_b.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Semitrailer Fenders 3rd</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders C</Text>
+      <Value>knap_fend_c.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Semitrailer Fenders 4th</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders D</Text>
+      <Value>knap_fend_d.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Many variants.\nShares the same value.\nSo no previews.</Description>
+      <Group>Trailerparts Left Side</Group>
+      <Image></Image>
+      <Text>Left Side Painted Sidecover</Text>
+      <Value>chs_f_l.paint_rail</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Many variants.\nShares the same value.\nSo no previews.</Description>
+      <Group>Trailerparts Left Side</Group>
+      <Image></Image>
+      <Text>Left Side Painted Sidecover</Text>
+      <Value>chs_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Many variants.\nShares the same value.\nSo no previews.</Description>
+      <Group>Trailerparts Right Side</Group>
+      <Image></Image>
+      <Text>Right Side Painted Sidecover</Text>
+      <Value>chs_f_r.paint_rail</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Many variants.\nShares the same value.\nSo no previews.</Description>
+      <Group>Trailerparts Right Side</Group>
+      <Image></Image>
+      <Text>Right Side Painted Sidecover</Text>
+      <Value>chs_f_r.paint</Value>
+    </ListItem>	
+    <ListItem>
+      <Description>Painted Middle Sidecover</Description>
+      <Group>Trailerparts Left Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\3s_mid_cover_rail_paint.dds</Image>
+      <Text>Left Side Painted Sidecover</Text>
+      <Value>chs_m_l.rail_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Middle Sidecover</Description>
+      <Group>Trailerparts Left Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\3s_mid_cover_rail_paint.dds</Image>
+      <Text>Left Side Painted Sidecover</Text>
+      <Value>chs_m_l2.rail_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Middle Sidecover</Description>
+      <Group>Trailerparts Right Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\3s_mid_cover_rail_paint.dds</Image>
+      <Text>Right Side Painted Sidecover</Text>
+      <Value>chs_m_r.rail_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Middle Sidecover</Description>
+      <Group>Trailerparts Right Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\3s_mid_cover_rail_paint.dds</Image>
+      <Text>Right Side Painted Sidecover</Text>
+      <Value>chs_m_r2.rail_paint</Value>
+    </ListItem>	
+    <ListItem>
+      <Description>Multiple Variants.\nALL share same Value.\nUse single color.</Description>
+      <Group>Rear Bumpers</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\bumper_recycling_europoint_p.dds</Image>
+      <Text>Painted Bumper</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Mudflap</Description>
+      <Group>Mudflap</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Knapen\p_mudflap.dds</Image>
+      <Text>Painted Mudflap</Text>
+      <Value>r_mudflap.paint_new</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>
