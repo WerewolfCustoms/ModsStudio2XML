@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>40a434df-0562-498f-be0e-003f7d1db4a9</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+   <!-- Created with v2024.03 Modversion 1.2.1 -->
+  <XmlDefinitionAuthor>Kast</XmlDefinitionAuthor>
+  <Game>ETS2</Game>
+  <InternalName>bussbygg.rigid_r22</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>Kast|Bussbygg - Full Trailer R22</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants />
+  <AccessoryItems>
+    <ListItem>
+      <Description>L Body 12x4_0</Description>
+      <Group>Main Body (12m x 4.0m)</Group>
+      <Text>l_body 12x4_0</Text>
+      <Value>l_body.bygg12x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Description>R Body 12x4_0</Description>
+      <Group>Main Body (12m x 4.0m)</Group>
+      <Text>r_body 12x4_0</Text>
+      <Value>r_body.bygg12x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Body 12x4_0</Description>
+      <Group>Main Body (12m x 4.0m)</Group>
+      <Text>rear_body 12x4_0</Text>
+      <Value>rear_body.bygg12x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Description>L Body 12x4_2</Description>
+      <Group>Main Body (12m x 4.2m)</Group>
+      <Text>l_body 12x4_2</Text>
+      <Value>l_body.bygg12x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>R Body 12x4_2</Description>
+      <Group>Main Body (12m x 4.2m)</Group>
+      <Text>r_body 12x4_2</Text>
+      <Value>r_body.bygg12x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Body 12x4_2</Description>
+      <Group>Main Body (12m x 4.2m)</Group>
+      <Text>rear_body 12x4_2</Text>
+      <Value>rear_body.bygg12x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>L Body 12x4_4</Description>
+      <Group>Main Body (12m x 4.4m)</Group>
+      <Text>l_body 12x4_4</Text>
+      <Value>l_body.bygg12x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>R Body 12x4_4</Description>
+      <Group>Main Body (12m x 4.4m)</Group>
+      <Text>r_body 12x4_4</Text>
+      <Value>r_body.bygg12x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Body 12x4_4</Description>
+      <Group>Main Body (12m x 4.4m)</Group>
+      <Text>rear_body 12x4_4</Text>
+      <Value>rear_body.bygg12x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Frame</Description>
+      <Group>Frame</Group>
+      <Text>Frame</Text>
+      <Value>frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Frame Rear</Description>
+      <Group>Frame</Group>
+      <Text>Frame Rear</Text>
+      <Value>r_frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Axle A</Description>
+      <Group>Frame</Group>
+      <Text>Axle a</Text>
+      <Value>axles_a.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Axle B</Description>
+      <Group>Frame</Group>
+      <Text>Axle b</Text>
+      <Value>axles_b.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Axle C</Description>
+      <Group>Frame</Group>
+      <Text>Axle c</Text>
+      <Value>axles_c.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Drawbar</Description>
+      <Group>Frame</Group>
+      <Text>Drawbar</Text>
+      <Value>drawbar.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Guard</Description>
+      <Group>Frame</Group>
+      <Text>Rear Guard</Text>
+      <Value>r_guard.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Fueltank Alum</Description>
+      <Group>Fueltank</Group>
+      <Text>Fueltank Alum</Text>
+      <Value>fueltank.alum</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Fueltank Chrome</Description>
+      <Group>Fueltank</Group>
+      <Text>Fueltank Chrome</Text>
+      <Value>fueltank.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Fueltank Paint</Description>
+      <Group>Fueltank</Group>
+      <Text>Fueltank Paint</Text>
+      <Value>fueltank.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Fueltank Large</Description>
+      <Group>Fueltank</Group>
+      <Text>Fueltank Large</Text>
+      <Value>fueltank.large</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Bumper Stock</Description>
+      <Group>Frame</Group>
+      <Text>Rear Bumper stock</Text>
+      <Value>r_bumper.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Bumper Chrome</Description>
+      <Group>Frame</Group>
+      <Text>Rear Bumper chrome</Text>
+      <Value>r_bumper.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Bumper Paint</Description>
+      <Group>Frame</Group>
+      <Text>Rear Bumper paint</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Lights Frame</Description>
+      <Group>Frame</Group>
+      <Text>Rear Lights Frame</Text>
+      <Value>r_lights_f.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Lights</Description>
+      <Group>Frame</Group>
+      <Text>Rear Lights</Text>
+      <Value>r_lights.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Lights 2</Description>
+      <Group>Frame</Group>
+      <Text>Rear Lights 2</Text>
+      <Value>para_lights1.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chains Middle/Left</Description>
+      <Group>Frame</Group>
+      <Text>Chains Middle/Left</Text>
+      <Value>chains_m_l.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Chains Middle/Right</Description>
+      <Group>Frame</Group>
+      <Text>Chains Middle/Right</Text>
+      <Value>chains_m_r.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Toolboxes Front/Left</Description>
+      <Group>Sidecovers</Group>
+      <Text>Toolboxes Front/Left</Text>
+      <Value>bygg_f_l.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Toolboxes Front/Right</Description>
+      <Group>Sidecovers</Group>
+      <Text>Toolboxes Front/Right</Text>
+      <Value>bygg_f_r.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Toolboxes Rear/Left</Description>
+      <Group>Sidecovers</Group>
+      <Text>Toolboxes Rear/Left</Text>
+      <Value>bygg_r_l.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Toolboxes Rear/Left 2</Description>
+      <Group>Sidecovers</Group>
+      <Text>Toolboxes Rear/Left 2</Text>
+      <Value>bygg_r_l.parator</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Toolboxes Rear/Right</Description>
+      <Group>Sidecovers</Group>
+      <Text>Toolboxes Rear/Right</Text>
+      <Value>bygg_r_r.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Toolboxes Rear/Right 2</Description>
+      <Group>Sidecovers</Group>
+      <Text>Toolboxes Rear/Right 2</Text>
+      <Value>bygg_r_r.parator</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Toolboxes Parator Small</Description>
+      <Group>Sidecovers</Group>
+      <Text>Toolboxes Parator Small</Text>
+      <Value>para_r_l.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Cover Middle/Left</Description>
+      <Group>Sidecovers</Group>
+      <Text>Cover Middle/Left</Text>
+      <Value>bygg_m_l.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Cover Middle/Left 2</Description>
+      <Group>Sidecovers</Group>
+      <Text>Cover Middle/Left 2</Text>
+      <Value>bygg_m_l.bussbygg2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Cover Middle/Left 3</Description>
+      <Group>Sidecovers</Group>
+      <Text>Cover Middle/Left 3</Text>
+      <Value>bygg_m_l.bussbygg3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Cover Middle/Right</Description>
+      <Group>Sidecovers</Group>
+      <Text>Cover Middle/Right</Text>
+      <Value>bygg_m_r.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Cover Middle/Right 2</Description>
+      <Group>Sidecovers</Group>
+      <Text>Cover Middle/Right 2</Text>
+      <Value>bygg_m_r.bussbygg2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Cover Middle/Right 3</Description>
+      <Group>Sidecovers</Group>
+      <Text>Cover Middle/Right 3</Text>
+      <Value>bygg_m_r.bussbygg3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Sidecover Front/Left</Description>
+      <Group>Sidecovers</Group>
+      <Text>Sidecover Front/Left</Text>
+      <Value>bygg_rail_l.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Sidecover Front/Left 2</Description>
+      <Group>Sidecovers</Group>
+      <Text>Sidecover Front/Left 2</Text>
+      <Value>bygg_rail_l.bussbygg2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Sidecover Front/Left 3</Description>
+      <Group>Sidecovers</Group>
+      <Text>Sidecover Front/Left 3</Text>
+      <Value>bygg_rail_l.bussbygg3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Sidecover Front/Right</Description>
+      <Group>Sidecovers</Group>
+      <Text>Sidecover Front/Right</Text>
+      <Value>bygg_rail_r.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Sidecover Front/Right 2</Description>
+      <Group>Sidecovers</Group>
+      <Text>Sidecover Front/Right 2</Text>
+      <Value>bygg_rail_r.bussbygg2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Sidecover Front/Right 3</Description>
+      <Group>Sidecovers</Group>
+      <Text>Sidecover Front/Right 3</Text>
+      <Value>bygg_rail_r.bussbygg3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Vent Front</Description>
+      <Group>Body Parts</Group>
+      <Text>Vent Front</Text>
+      <Value>f_vent_1.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Vent Front 2</Description>
+      <Group>Body Parts</Group>
+      <Text>Vent Front 2</Text>
+      <Value>f_vent_2.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Vent Front 3</Description>
+      <Group>Body Parts</Group>
+      <Text>Vent Front 3</Text>
+      <Value>f_vent_3.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Front</Description>
+      <Group>Body Parts</Group>
+      <Text>Rear Front</Text>
+      <Value>r_vent.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Mudflap</Description>
+      <Group>Mudflaps</Group>
+      <Text>Rear Mudflap</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Mudflap</Description>
+      <Group>Mudflaps</Group>
+      <Text>Front Mudflap</Text>
+      <Value>f_mudflap.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Fenders A</Description>
+      <Group>Fenders A</Group>
+      <Text>Trailer-Bygg</Text>
+      <Value>bygg_fend_a.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Fenders B</Description>
+      <Group>Fenders B</Group>
+      <Text>Trailer-Bygg</Text>
+      <Value>bygg_fend_b.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Fenders C</Description>
+      <Group>Fenders C</Group>
+      <Text>Trailer-Bygg</Text>
+      <Value>bygg_fend_c.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Fenders A</Description>
+      <Group>Fenders A</Group>
+      <Text>HFR</Text>
+      <Value>hfr_fend_a.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Fenders B</Description>
+      <Group>Fenders B</Group>
+      <Text>HFR</Text>
+      <Value>hfr_fend_b.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Fenders C</Description>
+      <Group>Fenders C</Group>
+      <Text>HFR</Text>
+      <Value>hfr_fend_c.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Fenders A</Description>
+      <Group>Fenders A</Group>
+      <Text>Parator</Text>
+      <Value>para_fend_a.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Fenders B</Description>
+      <Group>Fenders B</Group>
+      <Text>Parator</Text>
+      <Value>para_fend_b.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Fenders C</Description>
+      <Group>Fenders C</Group>
+      <Text>Parator</Text>
+      <Value>para_fend_c.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>License Plate</Description>
+      <Group>License Plate</Group>
+      <Text>License Plate Standard</Text>
+      <Value>r_lp_1.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Description>License Plate</Description>
+      <Group>License Plate</Group>
+      <Text>License Plate Standard</Text>
+      <Value>r_lp_2.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Description>License Plate</Description>
+      <Group>License Plate</Group>
+      <Text>License Plate Standard</Text>
+      <Value>r_lp_3.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Description>License Plate  FIN</Description>
+      <Group>License Plate</Group>
+      <Text>License Plate FIN</Text>
+      <Value>r_lp_1.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Description>License Plate  FIN</Description>
+      <Group>License Plate</Group>
+      <Text>License Plate FIN</Text>
+      <Value>r_lp_2.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Description>License Plate  FIN</Description>
+      <Group>License Plate</Group>
+      <Text>License Plate FIN</Text>
+      <Value>r_lp_3.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Cooler</Description>
+      <Group>Cooler</Group>
+      <Text>Cooler</Text>
+      <Value>f_body_1.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Cooler</Description>
+      <Group>Cooler</Group>
+      <Text>Cooler</Text>
+      <Value>f_body_2.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Cooler</Description>
+      <Group>Cooler</Group>
+      <Text>Cooler</Text>
+      <Value>f_body_3.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>
