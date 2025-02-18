@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>4e7fddb4-3bc5-4c06-9b8e-f08e318cb817</Id>
+  <IsEnabled>true</IsEnabled>
+   <!-- Created with v2024.03 Modversion 2.1.8 -->
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <Game>ETS2</Game>
+  <InternalName>kraker</InternalName>
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>Kast|Kraker Walkingfloor</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>I M P O R T A N T!\nTick This Box For Dolly Options</Description>
+      <Group></Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\kraker_dolly.jpg</Image>
+      <InternalName>body.body_dolly</InternalName>
+      <Name>Dolly</Name>
+    </Variant>
+    <Variant>
+      <Description>Skinned B-Link Preview</Description>
+      <Group></Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\Kraker\kraker_blink.jpg</Image>
+      <InternalName>body.body_link</InternalName>
+      <Name>CF-200 B-Link</Name>
+    </Variant>
+    <Variant>
+      <Description></Description>
+      <Group></Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\Kraker\kraker_cf_200.dds</Image>
+      <InternalName>body.body</InternalName>
+      <Name>CF-200</Name>
+    </Variant>
+    <Variant>
+      <Description></Description>
+      <Group></Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\Kraker\kraker_cf_502.dds</Image>
+      <InternalName>body.body502</InternalName>
+      <Name>CF-502</Name>
+    </Variant>
+    <Variant>
+      <Description></Description>
+      <Group></Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\Kraker\kraker_cf_502_2.dds</Image>
+      <InternalName>body.body502_2</InternalName>
+      <Name>CF-502 6m doors</Name>
+    </Variant>
+    <Variant>
+      <Description></Description>
+      <Group></Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\Kraker\kraker_cf_503.dds</Image>
+      <InternalName>body.body503</InternalName>
+      <Name>CF-503</Name>
+    </Variant>
+    <Variant>
+      <Description></Description>
+      <Group></Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\Kraker\kraker_cf_iso.dds</Image>
+      <InternalName>body.body_iso</InternalName>
+      <Name>CF-ISO</Name>
+    </Variant>
+  </VehicleVariants>
+  <AccessoryItems>
+    <ListItem>
+      <Description>Paintable Axles</Description>
+      <Group>Axles</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\kraker_3ax_chassis.jpg</Image>
+      <Text>axles.axles_3</Text>
+      <Value>axles.axles_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Paintable Axles</Description>
+      <Group>Axles</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\kraker_3ax_chassis.jpg</Image>
+      <Text>axles.axles_3s</Text>
+      <Value>axles.axles_3s</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Paintable Axles</Description>
+      <Group>Axles</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\kraker_4ax_chassis.jpg</Image>
+      <Text>axles.axles_4s</Text>
+      <Value>axles.axles_4s</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted B-Link Chassi</Description>
+      <Group>Frame</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\kraker_blink_chassi.jpg</Image>
+      <Text>frame.blink</Text>
+      <Value>frame.blink</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Chassi</Description>
+      <Group>Frame</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\kraker_chassis.jpg</Image>
+      <Text>frame.chassis_3</Text>
+      <Value>frame.chassis_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Chassi</Description>
+      <Group>Frame</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\kraker_chassis.jpg</Image>
+      <Text>frame.chassis_3s</Text>
+      <Value>frame.chassis_3s</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Chassi</Description>
+      <Group>Frame</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\kraker_chassis.jpg</Image>
+      <Text>frame.chassis_4s</Text>
+      <Value>frame.chassis_4s</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Dolly Chassi</Description>
+      <Group>Frame</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\kraker_dolly.jpg</Image>
+      <Text>Chassi Paint Dolly</Text>
+      <Value>frame.dolly_tand</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Domar Fenders</Description>
+      <Group>Fenders Domar</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\domar_p.dds</Image>
+      <Text>Painted Domar Fenders A</Text>
+      <Value>fenders_a.domar_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Domar Fenders</Description>
+      <Group>Fenders Domar</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\domar_p.dds</Image>
+      <Text>Painted Domar Fenders A</Text>
+      <Value>fenders_a.domar_s_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Domar Fenders</Description>
+      <Group>Fenders Domar</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\domar_p.dds</Image>
+      <Text>Painted Domar Fenders B</Text>
+      <Value>fenders_b.domar_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Domar Fenders</Description>
+      <Group>Fenders Domar</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\domar_p.dds</Image>
+      <Text>Painted Domar Fenders B</Text>
+      <Value>fenders_b.domar_s_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Domar Fenders</Description>
+      <Group>Fenders Domar</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\domar_p.dds</Image>
+      <Text>Painted Domar Fenders C</Text>
+      <Value>fenders_c.domar_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Domar Fenders</Description>
+      <Group>Fenders Domar</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\domar_p.dds</Image>
+      <Text>Painted Domar Fenders D</Text>
+      <Value>fenders_d.domar_p</Value>
+    </ListItem>	
+    <ListItem>
+      <Description>Parlok Fenders</Description>
+      <Group>Fenders Parlok</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders A</Text>
+      <Value>fenders_a.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Parlok Fenders</Description>
+      <Group>Fenders Parlok</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders A</Text>
+      <Value>fenders_a.parlok_s_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Parlok Fenders</Description>
+      <Group>Fenders Parlok</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders B</Text>
+      <Value>fenders_b.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Parlok Fenders</Description>
+      <Group>Fenders Parlok</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders B</Text>
+      <Value>fenders_b.parlok_s_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Parlok Fenders</Description>
+      <Group>Fenders Parlok</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders C</Text>
+      <Value>fenders_c.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Parlok Fenders</Description>
+      <Group>Fenders Parlok</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders D</Text>
+      <Value>fenders_d.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Palletbox</Description>
+      <Group>Trailerparts Left Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\palletbox_p.dds</Image>
+      <Text>Palletbox painted</Text>
+      <Value>chs_f_l.pallet_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>B-Link Standard with Custom LP</Description>
+      <Group>Rear Bumpers With License Plate</Group>
+	  <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\bumper_standard.dds</Image>
+      <Text>Standard with Custom LP</Text>
+      <Value>r_bumper.blink_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Dolly Standard with Custom LP</Description>
+      <Group>Rear Bumpers With License Plate</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\bumper_standard.dds</Image>
+      <Text>Standard with Custom LP</Text>
+      <Value>r_bumper.dolly_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Standard with Custom LP</Description>
+      <Group>Rear Bumpers With License Plate</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\bumper_standard.dds</Image>
+      <Text>Standard with Custom LP</Text>
+      <Value>r_bumper.standard_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>VBG Hook with Custom LP</Description>
+      <Group>Rear Bumpers With License Plate</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\bumper_hook.dds</Image>
+      <Text>VBG Hook with Custom LP</Text>
+      <Value>r_bumper.vbg_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Zepro lift with Custom LP</Description>
+      <Group>Rear Bumpers With License Plate</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker\zepro_folded.dds</Image>
+      <Text>Zepro lift with Custom LP</Text>
+      <Value>r_bumper.zepro_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Mudflap</Description>
+      <Group>Mudflap</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\Kraker</Image>
+      <Text>Painted Mudflap</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>
