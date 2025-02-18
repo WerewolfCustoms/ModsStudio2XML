@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>e39544f2-e6f1-47c9-99bf-2fe3508b4cc3</Id>
+  <IsEnabled>true</IsEnabled>
+   <!-- Created with v2024.03 Modversion 2.2.3 -->
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <Game>ETS2</Game>
+  <InternalName>ntm.rigid_r22</InternalName>
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>Kast|NTM Rigid R22 (Wheelsize)</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description>Closed Reefer 4.4m</Description>
+      <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\NTM\TANDEM\4_4m_closed_c.dds</Image>
+      <InternalName>body.r22_tandem</InternalName>
+      <Name>NTM Big Tandem, Reefer Closed 4.4m</Name>
+    </Variant>
+    <Variant>
+      <Description>Closed Insulated 4.4m</Description>
+	  <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\NTM\TANDEM\4_4m_closed.dds</Image>
+      <InternalName>body.r22_tandem</InternalName>
+      <Name>NTM Big Tandem, Insulated Closed 4.4m</Name>
+    </Variant>
+    <Variant>
+      <Description>Reefer 4.4m</Description>
+      <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\NTM\4_4m_sidedoors_c.dds</Image>
+      <InternalName>body.r22_tandem</InternalName>
+      <Name>NTM Big Tandem, Reefer 4.4m</Name>
+    </Variant>
+    <Variant>
+      <Description>Insulated 4.4m</Description>
+      <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\NTM\4_4m_sidedoors.dds</Image>
+      <InternalName>body.r22_tandem</InternalName>
+      <Name>NTM Big Tandem, Insulated 4.4m</Name>
+    </Variant>
+    <Variant>
+      <Description>I M P O R T A N T!\nMUST be Ticked For Tandem Options</Description>
+      <Image>Data\ModData\MOD\Vehicles\Images\TrailerPreviews\ETS2\NTM\dolly.dds</Image>
+      <InternalName>body.body_dolly</InternalName>
+      <Name>Dolly</Name>
+    </Variant>
+  </VehicleVariants>
+  <AccessoryItems>
+    <ListItem>
+      <Description>Paintable Axles</Description>
+      <Group>Axles</Group>
+      <Image></Image>
+      <Text>axles.axles_2x2</Text>
+      <Value>axles.axles_2x2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Paintable Axles</Description>
+      <Group>Axles</Group>
+      <Image></Image>
+      <Text>axles.axles_2x3</Text>
+      <Value>axles.axles_2x3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>License Plate</Description>
+      <Group>License Plates</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\custom_lp.dds</Image>
+      <Text>Custom License Plate</Text>
+      <Value>custom_lp.custom_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Chassi/Dolly</Description>
+      <Group>Frame</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\chassis_paint.dds</Image>
+      <Text>frame.chassis</Text>
+      <Value>frame.chassis</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Chassi</Description>
+      <Group>Frame</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\chassis_paint.dds</Image>
+      <Text>frame.chassis_2x2</Text>
+      <Value>frame.chassis_2x2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Chassi</Description>
+      <Group>Frame</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\chassis_paint.dds</Image>
+      <Text>frame.chassis_2x3</Text>
+      <Value>frame.chassis_2x3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Fueltank</Description>
+      <Group>Fueltank</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\fueltank_p.dds</Image>
+      <Text>Painted Fueltank</Text>
+      <Value>fueltank.fueltank</Value>
+    </ListItem>	
+    <ListItem>
+      <Description>Dolly Fenders 1st</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders A Dolly</Text>
+      <Value>ntm_fend_a.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Dolly Fenders 1st</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders A with Reflector Dolly</Text>
+      <Value>ntm_fend_a.parlok_ref_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Dolly Fenders 2nd</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders B Dolly</Text>
+      <Value>ntm_fend_b.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Dolly Fenders 2nd</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders B with Reflector Dolly</Text>
+      <Value>ntm_fend_b.parlok_ref_p</Value>
+    </ListItem>		
+    <ListItem>
+      <Description>Trailer Fenders 3rd</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders A</Text>
+      <Value>ntm_fend_a.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer Fenders 3rd</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders A with Reflector</Text>
+      <Value>ntm_fend_a.parlok_ref</Value>
+    </ListItem>	
+    <ListItem>
+      <Description>Trailer Fenders 4th</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders B</Text>
+      <Value>ntm_fend_b.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer Fenders 4th</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders B with Reflector</Text>
+      <Value>ntm_fend_b.parlok_ref</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer Fenders 5th</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders C</Text>
+      <Value>ntm_fend_c.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Trailer Fenders 5th</Description>
+      <Group>Fenders</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\parlok_p.dds</Image>
+      <Text>Painted Parlok Fenders C with Reflector</Text>
+      <Value>ntm_fend_c.parlok_ref</Value>
+    </ListItem> 
+    <ListItem>
+      <Description>Painted Middle Sidecover</Description>
+      <Group>Trailerparts Left Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\TANDEM\m_l_rail_tand_b_p.dds</Image>
+      <Text>Left Side Middle Painted Sidecover</Text>
+      <Value>chs_m_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Middle Sidecover</Description>
+      <Group>Trailerparts Right Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\TANDEM\m_r_rail_tand_b_p.dds</Image>
+      <Text>Right Side Middle Painted Sidecover</Text>
+      <Value>chs_m_r.paint</Value>
+    </ListItem> 
+    <ListItem>
+      <Description></Description>
+      <Group>Trailerparts Left Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\f_l_rail_1box_p.dds</Image>
+      <Text>Left Side One Chromed Box With Painted Sidecover 2x2 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Trailerparts Left Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\f_l_rail_1box_p.dds</Image>
+      <Text>Left Side One Chromed Box With Painted Sidecover 2x3 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>    
+    <ListItem>
+      <Description></Description>
+      <Group>Trailerparts Left Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\f_l_rail_2box_p.dds</Image>
+      <Text>Left Side Two Chromed Boxes With Painted Sidecover 2x2 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Trailerparts Left Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\f_l_rail_2box_p.dds</Image>
+      <Text>Left Side Two Chromed Boxes With Painted Sidecover 2x3 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>    
+    <ListItem>
+      <Description></Description>
+      <Group>Trailerparts Left Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\f_l_rail_3box_p.dds</Image>
+      <Text>Left Side Three Chromed Boxes With Painted Sidecover 2x2 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Trailerparts Left Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\f_l_rail_3box_p.dds</Image>
+      <Text>Left Side Three Chromed Boxes With Painted Sidecover 2x3 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>    
+    <ListItem>
+      <Description></Description>
+      <Group>Trailerparts Left Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\TANDEM\f_l_chrome_big_2box_p.dds</Image>
+      <Text>Left Side 2 Big Chromed Boxes With Painted Sidecover 2x2 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Trailerparts Left Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\TANDEM\f_l_chrome_big_2box_p.dds</Image>
+      <Text>Left Side 2 Big Chromed Boxes With Painted Sidecover 2x3 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>    
+    <ListItem>
+      <Description></Description>
+      <Group>Trailerparts Left Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\f_l_rail_p.dds</Image>
+      <Text>Left Side Painted Sidecover 2x2 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Trailerparts Left Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\f_l_rail_p.dds</Image>
+      <Text>Left Side Painted Sidecover 2x3 Chassis</Text>
+      <Value>ntm_f_l.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Trailerparts Right Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\f_r_rail_1box_p.dds</Image>
+      <Text>Right Side One Chromed Box With Painted Sidecover 2x2 Chassis</Text>
+      <Value>ntm_f_r.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Trailerparts Right Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\f_r_rail_1box_p.dds</Image>
+      <Text>Right Side One Chromed Box With Painted Sidecover 2x3 Chassis</Text>
+      <Value>ntm_f_r.paint_cover</Value>
+    </ListItem>    
+    <ListItem>
+      <Description></Description>
+      <Group>Trailerparts Right Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\f_r_rail_2box_p.dds</Image>
+      <Text>Right Side Two Chromed Boxes With Painted Sidecover 2x2 Chassis</Text>
+      <Value>ntm_f_r.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Trailerparts Right Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\f_r_rail_2box_p.dds</Image>
+      <Text>Right Side Two Chromed Boxes With Painted Sidecover 2x3 Chassis</Text>
+      <Value>ntm_f_r.paint_cover</Value>
+    </ListItem>    
+    <ListItem>
+      <Description></Description>
+      <Group>Trailerparts Right Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\TANDEM\f_r_chrome_big_2box_p.dds</Image>
+      <Text>Right Side 2 Big Chromed Boxes With Painted Sidecover 2x2 Chassis</Text>
+      <Value>ntm_f_r.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Trailerparts Right Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\TANDEM\f_r_chrome_big_2box_p.dds</Image>
+      <Text>Right Side 2 Big Chromed Boxes With Painted Sidecover 2x3 Chassis</Text>
+      <Value>ntm_f_r.paint_cover</Value>
+    </ListItem>    
+    <ListItem>
+      <Description></Description>
+      <Group>Trailerparts Right Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\f_r_rail_p.dds</Image>
+      <Text>Right Side Painted Sidecover 2x2 Chassis</Text>
+      <Value>ntm_f_r.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Trailerparts Right Side</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\f_r_rail_p.dds</Image>
+      <Text>Right Side Painted Sidecover 2x3 Chassis</Text>
+      <Value>ntm_f_r.paint_cover</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Standard Bumper</Description>
+      <Group>Rear Bumpers</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\paint_bumper.dds</Image>
+      <Text>Painted Standard Bumper</Text>
+      <Value>r_bumper.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Old Style</Description>
+      <Group>Rear Bumpers</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\paint_old_bumper.dds</Image>
+      <Text>Painted Old Style Bumper</Text>
+      <Value>r_bumper.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Custom</Description>
+      <Group>Rear Bumpers</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\paint_custom_bumper.dds</Image>
+      <Text>Painted Custom Bumper</Text>
+      <Value>r_bumper.custom</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Big Rear Mudflap</Description>
+      <Group>Mudflap</Group>
+      <Image>Data\ModData\MOD\Vehicles\Images\Trailers\ETS2\NTM\r_mudflap_stock.dds</Image>
+      <Text>Painted Mudflap</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>
