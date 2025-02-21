@@ -13,7 +13,13 @@
       <Description>x</Description>
       <Image>x</Image>
       <InternalName>body.body_01</InternalName>
-      <Name>Kögel MULTI MEGA</Name>
+      <Name>Kögel MULTI MEGA No Sides</Name>
+    </Variant>
+    <Variant>
+      <Description>x</Description>
+      <Image>x</Image>
+      <InternalName>body.body_02</InternalName>
+      <Name>Kögel MULTI MEGA High Sides</Name>
     </Variant>
   </VehicleVariants>
   <AccessoryItems>
