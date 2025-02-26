@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>000cda24-07e1-4cec-b7cd-392a72f20a80</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+	<ListItem>
+      <Group>Axles</Group>
+      <Text>3x Axles</Text>
+      <Value>axles.3_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Axles</Group>
+      <Text>3x Axles</Text>
+      <Value>axles.3_paint2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Axles</Group>
+      <Text>3x Axles Steering</Text>
+      <Value>axles.3_paint_s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>3x Axles 13.7m</Text>
+      <Value>chassis_t.3_chs_137p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>3x Axles 13.7m</Text>
+      <Value>chassis_t.3_chs2_137p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>3x Axles Steering 13.7m</Text>
+      <Value>chassis_t.3_chs_137sp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Left</Group>
+      <Text>Palletbox for 3 axle trailer</Text>
+      <Value>chs_f_l.pallet02</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Left</Group>
+      <Text>Side protection with 2 stripes + storage box for 3 axle trailer</Text>
+      <Value>chs_f_l.sp2_box_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Left</Group>
+      <Text>Side protection with 2 stripes + storage box and tire for 3 axle trailer</Text>
+      <Value>chs_f_l.sp2_boxtir_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Left</Group>
+      <Text>Side protection with 2 stripes for 3 axle trailer</Text>
+      <Value>chs_f_l.sp2_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Left</Group>
+      <Text>Side protection with 2 stripes + tire for 3 axle trailer</Text>
+      <Value>chs_f_l.sp2_tire_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Right</Group>
+      <Text>Palletbox for 3 axle trailer</Text>
+      <Value>chs_f_r.pallet02</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Right</Group>
+      <Text>Side protection with 2 stripes + storage box for 3 axle trailer</Text>
+      <Value>chs_f_r.sp2_box_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Right</Group>
+      <Text>Side protection with 2 stripes + storage box and tire for 3 axle trailer</Text>
+      <Value>chs_f_r.sp2_boxtir_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Right</Group>
+      <Text>Side protection with 2 stripes for 3 axle trailer</Text>
+      <Value>chs_f_r.sp2_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Front Right</Group>
+      <Text>Side protection with 2 stripes + tire for 3 axle trailer</Text>
+      <Value>chs_f_r.sp2_tire_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Rear Left</Group>
+      <Text>Palletbox</Text>
+      <Value>chs_r_l.pal_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Rear Left</Group>
+      <Text>Palletbox + storage box</Text>
+      <Value>chs_r_l.storepal_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Rear Right</Group>
+      <Text>Palletbox</Text>
+      <Value>chs_r_r.pal_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis Rear Right</Group>
+      <Text>Palletbox + storage box</Text>
+      <Value>chs_r_r.storepal_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Middle Bumper</Group>
+      <Text>Left Side Protection for steerable chassis with 2 stripes</Text>
+      <Value>l_body.sp2_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Middle Bumper</Group>
+      <Text>Right Side Protection for steerable chassis with 2 stripes</Text>
+      <Value>r_body.sp2_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint chassis + plastic bumper</Text>
+      <Value>r_bumper.rbumper1p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint chassis + paint bumper</Text>
+      <Value>r_bumper.rbumper2p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint chassis + alu bumper</Text>
+      <Value>r_bumper.rbumper3p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint chassis + black bumper</Text>
+      <Value>r_bumper.rbumper4p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint forklift mount</Text>
+      <Value>r_bumper.rbumper5p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint forklift mount with Palfinger forklift</Text>
+      <Value>r_bumper.rbumper6p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint forklift mount with painted Palfinger forklift</Text>
+      <Value>r_bumper.rbumper7p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Steel forklift mount with painted Palfinger forklift</Text>
+      <Value>r_bumper.rbumper7s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint chassis + paint bumper with hamburger lights</Text>
+      <Value>r_bumper.rbumperled2p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Steel chassis + paint bumper with hamburger lights</Text>
+      <Value>r_bumper.rbumperled2s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint chassis + alu bumper with hamburger lights</Text>
+      <Value>r_bumper.rbumperled3p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint chassis + black bumper with hamburger lights</Text>
+      <Value>r_bumper.rbumperled4p</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>koegel.multi</InternalName>
+  <VehicleAuthor>Dotec</VehicleAuthor>
+  <VehicleName>Dotec|Kögel Multi</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.body_01</InternalName>
+      <Name>Kögel Multi</Name>
+	  <Image>x</Image>
+	  <Description>Front Wall</Description>
+    </Variant>
+    <Variant>
+      <InternalName>body.body_02</InternalName>
+      <Name>Kögel Multi</Name>
+	  <Image>x</Image>
+	  <Description>Front Wall + Side Wall + Rear Wall</Description>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Dotec</XmlDefinitionAuthor>
+</Variable>
