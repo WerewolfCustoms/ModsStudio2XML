@@ -5,6 +5,41 @@
   <IsEnabled>true</IsEnabled>
   <AccessoryItems>
     <ListItem>
+      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
+      <Group>Chassis Krone DLC</Group>
+      <Image></Image>
+      <Text>Painted Chassi 40ft Container</Text>
+      <Value>chassis.chassis_40</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
+      <Group>Chassis Krone DLC</Group>
+      <Image></Image>
+      <Text>Painted Chassi 2x20ft Containers</Text>
+      <Value>chassis.chassis_220</Value>
+    </ListItem>			
+    <ListItem>
+      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
+      <Group>Chassis Krone DLC</Group>
+      <Image></Image>
+      <Text>Painted Chassi 13.6m Trailers</Text>
+      <Value>chassis.chassis</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
+      <Group>Chassis Krone DLC</Group>
+      <Image></Image>
+      <Text>Painted Chassi Double Small Trailer</Text>
+      <Value>chassis.chassis_d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
+      <Group>Chassis Krone DLC</Group>
+      <Image></Image>
+      <Text>Painted Chassi LoadCarrier</Text>
+      <Value>chassis.loadcarrier</Value>
+    </ListItem>	    
+    <ListItem>
       <Description>See screenshot for location.</Description>
       <Group>Left Side middle</Group>
       <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KronePL\chs_f_l.side01p.jpg</Image>
