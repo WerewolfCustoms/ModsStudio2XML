@@ -242,6 +242,13 @@
       <Text>Rear Bumper Exclusive Painted</Text>
       <Value>r_bumper.rbumper1p</Value>
     </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Chassis</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\SchwRF\</Image>
+      <Text>Chassis Painted</Text>
+      <Value>chassis.chassis_3</Value>
+    </ListItem>
   </AccessoryItems>
   <Game>ETS2</Game>
   <InternalName>schwmuller.reefer</InternalName>
