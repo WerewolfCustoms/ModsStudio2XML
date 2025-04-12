@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>48681c2b-e84d-43fe-bc29-d331168582be</Id>
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>schmitz.scsms3</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Sogard3</VehicleAuthor>
+  <VehicleName>Sogard3|Schmitz S.CS Mega</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants />
+  <XmlDefinitionAuthor>Sogard3/m1keY</XmlDefinitionAuthor>
+  <DateUpdated>2025-04-12T00:00:00</DateUpdated>
+   <!-- Created with v2025.01 Modversion 1.2 -->
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Description>Z.CS Body</Description>
+      <Group>Body  Normal</Group>
+      <Text>Z.CS Body</Text>
+      <Value>body.curt_8</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Z.CS Body Paint</Description>
+      <Group>Body  Normal</Group>
+      <Text>Z.CS Body Paint</Text>
+      <Value>body.curt_8p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>S.CS Body</Description>
+      <Group>Body  Normal</Group>
+      <Text>S.CS Body</Text>
+      <Value>body.curt_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>S.CS Body Paint</Description>
+      <Group>Body  Normal</Group>
+      <Text>S.CS Body Paint</Text>
+      <Value>body.curt_13p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>S.CS Body BDF</Description>
+      <Group>Body  Normal</Group>
+      <Text>S.CS Body BDF</Text>
+      <Value>body.curt_13ec</Value>
+    </ListItem>
+    <ListItem>
+      <Description>S.CS Body BDF Paint</Description>
+      <Group>Body  Normal</Group>
+      <Text>S.CS Body BDF Paint</Text>
+      <Value>body.curt_13ecp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>S.CS Body Long</Description>
+      <Group>Body  Long</Group>
+      <Text>S.CS Body Long</Text>
+      <Value>body.curt_15</Value>
+    </ListItem>
+    <ListItem>
+      <Description>S.CS Body Long Paint</Description>
+      <Group>Body  Long</Group>
+      <Text>S.CS Body Long Paint</Text>
+      <Value>body.curt_15p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>S.CS Body HP</Description>
+      <Group>Body  Huckepack</Group>
+      <Text>S.CS Body HP</Text>
+      <Value>body.curt_13hp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>S.CS Body HP Paint</Description>
+      <Group>Body  Huckepack</Group>
+      <Text>S.CS Body HP Paint</Text>
+      <Value>body.curt_13php</Value>
+    </ListItem>
+	<ListItem>
+      <Description>S.CS Body Ecovarios Open</Description>
+      <Group>Body  Eco</Group>
+      <Text>S.CS Body Ecovarios Open</Text>
+      <Value>body.ecovaro</Value>
+    </ListItem>
+    <ListItem>
+      <Description>S.CS Body Ecovarios Open Paint</Description>
+      <Group>Body  Eco</Group>
+      <Text>S.CS Body Ecovarios Open Paint</Text>
+      <Value>body.ecovarop</Value>
+    </ListItem>
+	<ListItem>
+      <Description>S.CS Body Ecovarios</Description>
+      <Group>Body  Eco</Group>
+      <Text>S.CS Body Ecovarios</Text>
+      <Value>body.ecovar</Value>
+    </ListItem>
+    <ListItem>
+      <Description>S.CS Body Ecovarios Paint</Description>
+      <Group>Body  Eco</Group>
+      <Text>S.CS Body Ecovarios Paint</Text>
+      <Value>body.ecovarp</Value>
+    </ListItem>
+	<ListItem>
+      <Description>S.CS Body Speed</Description>
+      <Group>Body  Speed</Group>
+      <Text>S.CS Body Speed</Text>
+      <Value>body.curt_13sp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>S.CS Body Speed Paint</Description>
+      <Group>Body  Speed</Group>
+      <Text>S.CS Body Speed Paint</Text>
+      <Value>body.curt_13spp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>S.CS License Plate</Description>
+      <Group>License Plate</Group>
+      <Text>S.CS License Plate</Text>
+      <Value>license_p.skin</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Z.CS License Plate</Description>
+      <Group>License Plate</Group>
+      <Text>Z.CS License Plate</Text>
+      <Value>license_p.skinca</Value>
+    </ListItem>
+    <ListItem>
+      <Description>S.CS License Plate (ES)</Description>
+      <Group>License Plate ES</Group>
+      <Text>S.CS License Plate (ES)</Text>
+      <Value>license_p.skine13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>S.CS License Plate (ES) Long</Description>
+      <Group>License Plate ES</Group>
+      <Text>S.CS License Plate (ES) Long</Text>
+      <Value>license_p.skine15</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Z.CS License Plate (ES)</Description>
+      <Group>License Plate ES</Group>
+      <Text>Z.CS License Plate (ES)</Text>
+      <Value>license_p.skineca</Value>
+    </ListItem>
+    <ListItem>
+      <Description>S.CS License Plate (ES) Hook</Description>
+      <Group>License Plate ES</Group>
+      <Text>S.CS License Plate (ES) Hook</Text>
+      <Value>license_p.skinesh</Value>
+    </ListItem>
+    <ListItem>
+      <Description>S.CS License Plate (UK)</Description>
+      <Group>License Plate UK</Group>
+      <Text>S.CS License Plate (UK)</Text>
+      <Value>license_p.skinuk</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Bumper 1</Description>
+      <Group>Bumpers</Group>
+      <Text>Bumper 1</Text>
+      <Value>r_bumper.exclp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Bumper 2</Description>
+      <Group>Bumpers</Group>
+      <Text>Bumper 2</Text>
+      <Value>r_bumper.exclv2p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Bumper 3</Description>
+      <Group>Bumpers</Group>
+      <Text>Bumper 3</Text>
+      <Value>r_bumper.simpl2p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Bumper 4</Description>
+      <Group>Bumpers</Group>
+      <Text>Bumper 4</Text>
+      <Value>r_bumper.spl2v2p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Bumper 5</Description>
+      <Group>Bumpers</Group>
+      <Text>Bumper 5</Text>
+      <Value>r_bumper.simplp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Bumper 6</Description>
+      <Group>Bumpers</Group>
+      <Text>Bumper 6</Text>
+      <Value>r_bumper.simv2p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Bumper 7</Description>
+      <Group>Bumpers</Group>
+      <Text>Bumper 7</Text>
+      <Value>r_bumper.exclusivecap</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Bumper 8</Description>
+      <Group>Bumpers</Group>
+      <Text>Bumper 8</Text>
+      <Value>r_bumper.exclusvcav2p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Bumper 9</Description>
+      <Group>Bumpers</Group>
+      <Text>Bumper 9</Text>
+      <Value>r_bumper.siml2cap</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Bumper 10</Description>
+      <Group>Bumpers</Group>
+      <Text>Bumper 10</Text>
+      <Value>r_bumper.siml2cav2p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Bumper 11</Description>
+      <Group>Bumpers</Group>
+      <Text>Bumper 11</Text>
+      <Value>r_bumper.simplecap</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Bumper 12</Description>
+      <Group>Bumpers</Group>
+      <Text>Bumper 12</Text>
+      <Value>r_bumper.simlcav2p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Stock Cage  Painted Box</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Stock Cage II + Painted Box</Text>
+      <Value>chs_f_l.cg2_bp_3_13</Value>
+    </ListItem>		
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage</Text>
+      <Value>chs_f_l.cgp_1_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage</Text>
+      <Value>chs_f_l.cgp_2_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage V2</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage V2</Text>
+      <Value>chs_f_l.cgp213v2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage</Text>
+      <Value>chs_f_l.cgp_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage V2</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage V2</Text>
+      <Value>chs_f_l.cgp28cv2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage</Text>
+      <Value>chs_f_l.cgp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage V2</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage V2</Text>
+      <Value>chs_f_l.cgp313v2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage</Text>
+      <Value>chs_f_l.cgp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage V2</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage V2</Text>
+      <Value>chs_f_l.cgp315v2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage + Painted Box</Text>
+      <Value>chs_f_l.cgp_bp_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage + Painted Box V2</Text>
+      <Value>chs_f_l.cgp_bp28cv2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage + Painted Box</Text>
+      <Value>chs_f_l.cgp_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage + Painted Box V2</Text>
+      <Value>chs_f_l.cgp_bp313v2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage + Plastic Box</Text>
+      <Value>chs_f_l.cgp_bpl_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage + Plastic Box V2</Text>
+      <Value>chs_f_l.cgp_bpl28cv2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage + Plastic Box</Text>
+      <Value>chs_f_l.cgp_bpl_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage + Plastic Box V2</Text>
+      <Value>chs_f_l.cgp_bpl313v2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage + Big Box</Text>
+      <Value>chs_f_l.cgp_bs_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage + Big Box V2</Text>
+      <Value>chs_f_l.cgp_bs28cv2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage + Big Box</Text>
+      <Value>chs_f_l.cgp_bs_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage + Big Box V2</Text>
+      <Value>chs_f_l.cgp_bs313v2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage + Extinguisher</Text>
+      <Value>chs_f_l.cgp_ex_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front left Cage</Description>
+      <Group>Front Left Cage</Group>
+      <Text>Painted Cage + Extinguisher V2</Text>
+      <Value>chs_f_l.cgp_ex313v2</Value>
+    </ListItem>	
+	<ListItem>
+      <Description>Front Left Sideskirt 1</Description>
+      <Group>Front Left Sideskirts</Group>
+      <Text>Front Left Sideskirt 1</Text>
+      <Value>chs_f_l.cgp_ex313v2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Left Sideskirt 2</Description>
+      <Group>Front Left Sideskirts</Group>
+      <Text>Front Left Sideskirt 2</Text>
+      <Value>chs_f_l.cgp_bs313v2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Left Sideskirt 3</Description>
+      <Group>Front Left Sideskirts</Group>
+      <Text>Front Left Sideskirt 3</Text>
+      <Value>chs_f_l.cgp_bpl313v2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Left Sideskirt 4</Description>
+      <Group>Front Left Sideskirts</Group>
+      <Text>Front Left Sideskirt 4</Text>
+      <Value>chs_f_l.cgp_bp313v2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Left Sideskirt 5</Description>
+      <Group>Front Left Sideskirts</Group>
+      <Text>Front Left Sideskirt 5</Text>
+      <Value>chs_f_l.cgp213v2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Left Sideskirt 6</Description>
+      <Group>Front Left Sideskirts</Group>
+      <Text>Front Left Sideskirt 6</Text>
+      <Value>chs_f_l.cgp_1_13</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Left Sideskirt 7</Description>
+      <Group>Front Left Sideskirts</Group>
+      <Text>Front Left Sideskirt 7</Text>
+      <Value>chs_f_l.cgp315v2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Left Sideskirt 8</Description>
+      <Group>Front Left Sideskirts</Group>
+      <Text>Front Left Sideskirt 8</Text>
+      <Value>chs_f_l.cgp313v2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Left Sideskirt 9</Description>
+      <Group>Front Left Sideskirts</Group>
+      <Text>Front Left Sideskirt 9</Text>
+      <Value>chs_f_l.cgp28cv2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Left Sideskirt 10</Description>
+      <Group>Front Left Sideskirts</Group>
+      <Text>Front Left Sideskirt 10</Text>
+      <Value>chs_f_l.cgp_bp28cv2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Left Sideskirt 11</Description>
+      <Group>Front Left Sideskirts</Group>
+      <Text>Front Left Sideskirt 11</Text>
+      <Value>chs_f_l.cgp_bpl28cv2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Left Sideskirt 12</Description>
+      <Group>Front Left Sideskirts</Group>
+      <Text>Front Left Sideskirt 12</Text>
+      <Value>chs_f_l.cgp_bs28cv2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Left Pallet Box</Description>
+      <Group>Front Left Pallet Box</Group>
+      <Text>Front Left Pallet Box</Text>
+      <Value>chs_f_l.palp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Left Paint Box</Description>
+      <Group>Rear Left Paint Box</Group>
+      <Text>Rear Left Paint Box</Text>
+      <Value>chs_r_l.bp</Value>
+    </ListItem>
+	    <ListItem>
+      <Description>Rear Left Paint Box</Description>
+      <Group>Rear Left Paint Box</Group>
+      <Text>Rear Left Paint Box</Text>
+      <Value>chs_r_l.bp_c</Value>
+    </ListItem>	
+    <ListItem>
+      <Description>Rear Left Pallet Box</Description>
+      <Group>Rear Left Pallet Box</Group>
+      <Text>Rear Left Pallet Box</Text>
+      <Value>chs_r_l.palp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Stock Cage  Painted Box</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Stock Cage II + Painted Box</Text>
+      <Value>chs_f_r.cg2_bp_3_13</Value>
+    </ListItem>		
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage</Text>
+      <Value>chs_f_r.cgp_1_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage</Text>
+      <Value>chs_f_r.cgp_2_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage V2</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage V2</Text>
+      <Value>chs_f_r.cgp213v2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage</Text>
+      <Value>chs_f_r.cgp_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage V2</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage V2</Text>
+      <Value>chs_f_r.cgp28cv2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage</Text>
+      <Value>chs_f_r.cgp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage V2</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage V2</Text>
+      <Value>chs_f_r.cgp313v2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage</Text>
+      <Value>chs_f_r.cgp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage V2</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage V2</Text>
+      <Value>chs_f_r.cgp315v2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage + Painted Box</Text>
+      <Value>chs_f_r.cgp_bp_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage + Painted Box V2</Text>
+      <Value>chs_f_r.cgp_bp28cv2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage + Painted Box</Text>
+      <Value>chs_f_r.cgp_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage + Painted Box V2</Text>
+      <Value>chs_f_r.cgp_bp313v2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage + Plastic Box</Text>
+      <Value>chs_f_r.cgp_bpl_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage + Plastic Box V2</Text>
+      <Value>chs_f_r.cgp_bpl28cv2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage + Plastic Box</Text>
+      <Value>chs_f_r.cgp_bpl_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage + Plastic Box V2</Text>
+      <Value>chs_f_r.cgp_bpl313v2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage + Big Box</Text>
+      <Value>chs_f_r.cgp_bs_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage + Big Box V2</Text>
+      <Value>chs_f_r.cgp_bs28cv2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage + Big Box</Text>
+      <Value>chs_f_r.cgp_bs_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage + Big Box V2</Text>
+      <Value>chs_f_r.cgp_bs313v2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage + Extinguisher</Text>
+      <Value>chs_f_r.cgp_ex_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Cage</Description>
+      <Group>Front Right Cage</Group>
+      <Text>Painted Cage + Extinguisher V2</Text>
+      <Value>chs_f_r.cgp_ex313v2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Right Sideskirt 1</Description>
+      <Group>Front Right Sideskirts</Group>
+      <Text>Front Right Sideskirt 1</Text>
+      <Value>chs_f_r.cgp_ex313v2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Right Sideskirt 2</Description>
+      <Group>Front Right Sideskirts</Group>
+      <Text>Front Right Sideskirt 2</Text>
+      <Value>chs_f_r.cgp_bs313v2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Right Sideskirt 3</Description>
+      <Group>Front Right Sideskirts</Group>
+      <Text>Front Right Sideskirt 3</Text>
+      <Value>chs_f_r.cgp_bpl313v2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Right Sideskirt 4</Description>
+      <Group>Front Right Sideskirts</Group>
+      <Text>Front Right Sideskirt 4</Text>
+      <Value>chs_f_r.cgp_bp313v2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Right Sideskirt 5</Description>
+      <Group>Front Right Sideskirts</Group>
+      <Text>Front Right Sideskirt 5</Text>
+      <Value>chs_f_r.cgp213v2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Right Sideskirt 6</Description>
+      <Group>Front Right Sideskirts</Group>
+      <Text>Front Right Sideskirt 6</Text>
+      <Value>chs_f_r.cgp_1_13</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Right Sideskirt 7</Description>
+      <Group>Front Right Sideskirts</Group>
+      <Text>Front Right Sideskirt 7</Text>
+      <Value>chs_f_r.cgp315v2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Right Sideskirt 8</Description>
+      <Group>Front Right Sideskirts</Group>
+      <Text>Front Right Sideskirt 8</Text>
+      <Value>chs_f_r.cgp313v2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Right Sideskirt 9</Description>
+      <Group>Front Right Sideskirts</Group>
+      <Text>Front Right Sideskirt 9</Text>
+      <Value>chs_f_r.cgp28cv2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Right Sideskirt 10</Description>
+      <Group>Front Right Sideskirts</Group>
+      <Text>Front Right Sideskirt 10</Text>
+      <Value>chs_f_r.cgp_bp28cv2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Right Sideskirt 11</Description>
+      <Group>Front Right Sideskirts</Group>
+      <Text>Front Right Sideskirt 11</Text>
+      <Value>chs_f_r.cgp_bpl28cv2</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Front Right Sideskirt 12</Description>
+      <Group>Front Right Sideskirts</Group>
+      <Text>Front Right Sideskirt 12</Text>
+      <Value>chs_f_r.cgp_bs28cv2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Pallet Box</Description>
+      <Group>Front Right Pallet Box</Group>
+      <Text>Front Right Pallet Box</Text>
+      <Value>chs_f_r.palp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear Right Paint Box</Description>
+      <Group>Rear Right Paint Box</Group>
+      <Text>Rear Right Paint Box</Text>
+      <Value>chs_r_r.bp</Value>
+    </ListItem>
+	    <ListItem>
+      <Description>Rear Right Paint Box</Description>
+      <Group>Rear Right Paint Box</Group>
+      <Text>Rear Right Paint Box</Text>
+      <Value>chs_r_r.bp_c</Value>
+    </ListItem>	
+    <ListItem>
+      <Description>Rear Right Pallet Box</Description>
+      <Group>Rear Right Pallet Box</Group>
+      <Text>Rear Right Pallet Box</Text>
+      <Value>chs_r_r.palp</Value>
+    </ListItem>
+	<ListItem>
+      <Description>S.CS Rear Mudflap</Description>
+      <Group>Rear Mudflap</Group>
+      <Text>S.CS Rear Mudflap</Text>
+      <Value>r_mudflap.skin</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Z.CS Rear Mudflap</Description>
+      <Group>Rear Mudflap</Group>
+      <Text>Z.CS Rear Mudflap</Text>
+      <Value>r_mudflap.skinca</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>
