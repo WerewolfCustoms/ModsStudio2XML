@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>kassbohrer.scd</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Sogard3</VehicleAuthor>
+  <VehicleName>Sogard3|Kässbohrer K.SCD M</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants />
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <DateUpdated>2025-04-12T00:00:00</DateUpdated>
+     <!-- Created with v2025.01 Modversion 1.0 -->  
+  <Validators />
+  <AccessoryItems>    
+    <ListItem>
+      <Description>K.SCD M / 90 - 12 / 27</Description>
+      <Group>Body K.SCD M</Group>
+      <Value>body.curt_13</Value>
+      <Text>K.SCD M / 90 - 12 / 27</Text>
+    </ListItem>
+    <ListItem>
+      <Description>K.SCD M / 90 - 12 / 27 HP</Description>
+      <Group>Body K.SCD M</Group>
+      <Value>body.curt_13hp</Value>
+      <Text>K.SCD M / 90 - 12 / 27 HP</Text>
+    </ListItem>
+    <ListItem>
+      <Description>K.SCD Paint M / 90 - 12 / 27 HP</Description>
+      <Group>Body K.SCD Paint M</Group>
+      <Value>body.curt_13hpp</Value>
+      <Text>K.SCD Paint M / 90 - 12 / 27 HP</Text>
+    </ListItem>
+    <ListItem>
+      <Description>K.SCD Paint M / 90 - 12 / 27</Description>
+      <Group>Body K.SCD Paint M</Group>
+      <Value>body.curt_13p</Value>
+      <Text>K.SCD Paint M / 90 - 12 / 27</Text>
+    </ListItem>
+    <ListItem>
+      <Description>K.SCD MR / 90 - 12 / 27</Description>
+      <Group>Body K.SCD MR</Group>
+      <Value>body.curtain_sb</Value>
+      <Text>K.SCD MR / 90 - 12 / 27</Text>
+    </ListItem>
+    <ListItem>
+      <Description>K.SCD MR / 90 - 12 / 27</Description>
+      <Group>Body K.SCD MR</Group>
+      <Value>body.curtain_sb2</Value>
+      <Text>K.SCD MR / 90 - 12 / 27</Text>
+    </ListItem>
+    <ListItem>
+      <Description>K.SCD MR / 90 - 12 / 27</Description>
+      <Group>Body K.SCD MR</Group>
+      <Value>body.curtainsb2p</Value>
+      <Text>K.SCD MR / 90 - 12 / 27</Text>
+    </ListItem>
+    <ListItem>
+      <Description>K.SCD MR / 90 - 12 / 27</Description>
+      <Group>Body K.SCD MR</Group>
+      <Value>body.curtainsbh2</Value>
+      <Text>K.SCD MR / 90 - 12 / 27</Text>
+    </ListItem>
+    <ListItem>
+      <Description>K.SCD MR / 90 - 12 / 27</Description>
+      <Group>Body K.SCD MR</Group>
+      <Value>body.curtainsbh2p</Value>
+      <Text>K.SCD MR / 90 - 12 / 27</Text>
+    </ListItem>
+    <ListItem>
+      <Description>K.SCD MR / 90 - 12 / 27</Description>
+      <Group>Body K.SCD MR</Group>
+      <Value>body.curtainsbp</Value>
+      <Text>K.SCD MR / 90 - 12 / 27</Text>
+    </ListItem>
+    <ListItem>
+      <Description>K.SCD MR / 90 - 12 / 27</Description>
+      <Group>Body K.SCD MR</Group>
+      <Value>body.curtainsbh</Value>
+      <Text>K.SCD MR / 90 - 12 / 27</Text>
+    </ListItem>
+    <ListItem>
+      <Description>K.SCD MR / 90 - 12 / 27</Description>
+      <Group>Body K.SCD MR</Group>
+      <Value>body.curtainsbhp</Value>
+      <Text>K.SCD MR / 90 - 12 / 27</Text>
+    </ListItem>
+    <ListItem>
+      <Description>.</Description>
+      <Group>Front Left Side Boxes</Group>
+      <Image>.</Image>
+      <Text>Skirt Big + Paint Box</Text>
+      <Value>chs_f_l.sd1_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>.</Description>
+      <Group>Front Left Side Boxes</Group>
+      <Image>.</Image>
+      <Text>Skirt Big Paint</Text>
+      <Value>chs_f_l.sd1p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>.</Description>
+      <Group>Front Right Side Boxes</Group>
+      <Image>.</Image>
+      <Text>Skirt Big + Paint Box</Text>
+      <Value>chs_f_r.sd1_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>.</Description>
+      <Group>Front Right Side Boxes</Group>
+      <Image>.</Image>
+      <Text>Skirt Big Paint</Text>
+      <Value>chs_f_r.sd1p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>.</Description>
+      <Group>Rear Right Side Boxes</Group>
+      <Image>.</Image>
+      <Text>Paint Box</Text>
+      <Value>chs_r_r.bp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>SCS Version</Description>
+      <Group>License Plate</Group>
+      <Image>.</Image>
+      <Text>SCS Version</Text>
+      <Value>license_p.lpscs</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Skin Version</Description>
+      <Group>License Plate</Group>
+      <Image>.</Image>
+      <Text>Skin Version</Text>
+      <Value>license_p.lpskin</Value>
+    </ListItem>
+    <ListItem>
+      <Description>.</Description>
+      <Group>Bumpers</Group>
+      <Image>.</Image>
+      <Text>paint</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>.</Description>
+      <Group>Bumpers</Group>
+      <Image>.</Image>
+      <Text>paint II</Text>
+      <Value>r_bumper.paint2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>.</Description>
+      <Group>Bumpers</Group>
+      <Image>.</Image>
+      <Text>paint II v2</Text>
+      <Value>r_bumper.paint2v2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>.</Description>
+      <Group>Bumpers</Group>
+      <Image>.</Image>
+      <Text>paint III</Text>
+      <Value>r_bumper.paint3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>.</Description>
+      <Group>Bumpers</Group>
+      <Image>.</Image>
+      <Text>paint III v2</Text>
+      <Value>r_bumper.paint3v2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>.</Description>
+      <Group>Bumpers</Group>
+      <Image>.</Image>
+      <Text>paint v2</Text>
+      <Value>r_bumper.paintv2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>.</Description>
+      <Group>Rear Mudflap</Group>
+      <Image>.</Image>
+      <Text>Kässbohrer Skin</Text>
+      <Value>r_mudflap.skin</Value>
+    </ListItem>
+  </AccessoryItems>  
+</Variable>
