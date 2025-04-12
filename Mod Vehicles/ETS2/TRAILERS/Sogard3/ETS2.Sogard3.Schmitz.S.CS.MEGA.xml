@@ -75,7 +75,7 @@
       <Text>S.CS Body HP Paint</Text>
       <Value>body.curt_13php</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>S.CS Body Ecovarios Open</Description>
       <Group>Body  Eco</Group>
       <Text>S.CS Body Ecovarios Open</Text>
@@ -87,7 +87,7 @@
       <Text>S.CS Body Ecovarios Open Paint</Text>
       <Value>body.ecovarop</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>S.CS Body Ecovarios</Description>
       <Group>Body  Eco</Group>
       <Text>S.CS Body Ecovarios</Text>
@@ -99,7 +99,7 @@
       <Text>S.CS Body Ecovarios Paint</Text>
       <Value>body.ecovarp</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>S.CS Body Speed</Description>
       <Group>Body  Speed</Group>
       <Text>S.CS Body Speed</Text>
@@ -369,55 +369,55 @@
       <Text>Painted Cage + Extinguisher V2</Text>
       <Value>chs_f_l.cgp_ex313v2</Value>
     </ListItem>	
-	<ListItem>
+    <ListItem>
       <Description>Front Left Sideskirt 1</Description>
       <Group>Front Left Sideskirts</Group>
       <Text>Front Left Sideskirt 1</Text>
       <Value>chs_f_l.cgp_ex313v2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Left Sideskirt 2</Description>
       <Group>Front Left Sideskirts</Group>
       <Text>Front Left Sideskirt 2</Text>
       <Value>chs_f_l.cgp_bs313v2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Left Sideskirt 3</Description>
       <Group>Front Left Sideskirts</Group>
       <Text>Front Left Sideskirt 3</Text>
       <Value>chs_f_l.cgp_bpl313v2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Left Sideskirt 4</Description>
       <Group>Front Left Sideskirts</Group>
       <Text>Front Left Sideskirt 4</Text>
       <Value>chs_f_l.cgp_bp313v2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Left Sideskirt 5</Description>
       <Group>Front Left Sideskirts</Group>
       <Text>Front Left Sideskirt 5</Text>
       <Value>chs_f_l.cgp213v2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Left Sideskirt 6</Description>
       <Group>Front Left Sideskirts</Group>
       <Text>Front Left Sideskirt 6</Text>
       <Value>chs_f_l.cgp_1_13</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Left Sideskirt 7</Description>
       <Group>Front Left Sideskirts</Group>
       <Text>Front Left Sideskirt 7</Text>
       <Value>chs_f_l.cgp315v2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Left Sideskirt 8</Description>
       <Group>Front Left Sideskirts</Group>
       <Text>Front Left Sideskirt 8</Text>
       <Value>chs_f_l.cgp313v2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Left Sideskirt 9</Description>
       <Group>Front Left Sideskirts</Group>
       <Text>Front Left Sideskirt 9</Text>
@@ -429,13 +429,13 @@
       <Text>Front Left Sideskirt 10</Text>
       <Value>chs_f_l.cgp_bp28cv2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Left Sideskirt 11</Description>
       <Group>Front Left Sideskirts</Group>
       <Text>Front Left Sideskirt 11</Text>
       <Value>chs_f_l.cgp_bpl28cv2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Left Sideskirt 12</Description>
       <Group>Front Left Sideskirts</Group>
       <Text>Front Left Sideskirt 12</Text>
@@ -453,7 +453,7 @@
       <Text>Rear Left Paint Box</Text>
       <Value>chs_r_l.bp</Value>
     </ListItem>
-	    <ListItem>
+    <ListItem>
       <Description>Rear Left Paint Box</Description>
       <Group>Rear Left Paint Box</Group>
       <Text>Rear Left Paint Box</Text>
@@ -609,73 +609,73 @@
       <Text>Painted Cage + Extinguisher V2</Text>
       <Value>chs_f_r.cgp_ex313v2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Right Sideskirt 1</Description>
       <Group>Front Right Sideskirts</Group>
       <Text>Front Right Sideskirt 1</Text>
       <Value>chs_f_r.cgp_ex313v2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Right Sideskirt 2</Description>
       <Group>Front Right Sideskirts</Group>
       <Text>Front Right Sideskirt 2</Text>
       <Value>chs_f_r.cgp_bs313v2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Right Sideskirt 3</Description>
       <Group>Front Right Sideskirts</Group>
       <Text>Front Right Sideskirt 3</Text>
       <Value>chs_f_r.cgp_bpl313v2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Right Sideskirt 4</Description>
       <Group>Front Right Sideskirts</Group>
       <Text>Front Right Sideskirt 4</Text>
       <Value>chs_f_r.cgp_bp313v2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Right Sideskirt 5</Description>
       <Group>Front Right Sideskirts</Group>
       <Text>Front Right Sideskirt 5</Text>
       <Value>chs_f_r.cgp213v2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Right Sideskirt 6</Description>
       <Group>Front Right Sideskirts</Group>
       <Text>Front Right Sideskirt 6</Text>
       <Value>chs_f_r.cgp_1_13</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Right Sideskirt 7</Description>
       <Group>Front Right Sideskirts</Group>
       <Text>Front Right Sideskirt 7</Text>
       <Value>chs_f_r.cgp315v2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Right Sideskirt 8</Description>
       <Group>Front Right Sideskirts</Group>
       <Text>Front Right Sideskirt 8</Text>
       <Value>chs_f_r.cgp313v2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Right Sideskirt 9</Description>
       <Group>Front Right Sideskirts</Group>
       <Text>Front Right Sideskirt 9</Text>
       <Value>chs_f_r.cgp28cv2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Right Sideskirt 10</Description>
       <Group>Front Right Sideskirts</Group>
       <Text>Front Right Sideskirt 10</Text>
       <Value>chs_f_r.cgp_bp28cv2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Right Sideskirt 11</Description>
       <Group>Front Right Sideskirts</Group>
       <Text>Front Right Sideskirt 11</Text>
       <Value>chs_f_r.cgp_bpl28cv2</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Front Right Sideskirt 12</Description>
       <Group>Front Right Sideskirts</Group>
       <Text>Front Right Sideskirt 12</Text>
@@ -693,7 +693,7 @@
       <Text>Rear Right Paint Box</Text>
       <Value>chs_r_r.bp</Value>
     </ListItem>
-	    <ListItem>
+    <ListItem>
       <Description>Rear Right Paint Box</Description>
       <Group>Rear Right Paint Box</Group>
       <Text>Rear Right Paint Box</Text>
@@ -705,13 +705,13 @@
       <Text>Rear Right Pallet Box</Text>
       <Value>chs_r_r.palp</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>S.CS Rear Mudflap</Description>
       <Group>Rear Mudflap</Group>
       <Text>S.CS Rear Mudflap</Text>
       <Value>r_mudflap.skin</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description>Z.CS Rear Mudflap</Description>
       <Group>Rear Mudflap</Group>
       <Text>Z.CS Rear Mudflap</Text>
