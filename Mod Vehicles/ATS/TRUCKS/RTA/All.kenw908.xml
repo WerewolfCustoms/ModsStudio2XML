@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\RTA Mods\All.kenw908.xml</FilePath>
+  <Game>All</Game>
+  <InternalName>kenw908</InternalName>
+  <SoundItems />
+  <VehicleAuthor>rta mods</VehicleAuthor>
+  <VehicleName>RTA Mods|Kenworth T908</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>'cab_a.kenw908.cabin</InternalName>
+      <Name>Cab A-Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_b.kenw908.cabin</InternalName>
+      <Name>Cab B-Small Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_c.kenw908.cabin</InternalName>
+      <Name>Cab C-Large Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_d.kenw908.cabin</InternalName>
+      <Name>Cab D-Large High Roof Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-04-28T00:00:00</DateUpdated>
+</Variable>

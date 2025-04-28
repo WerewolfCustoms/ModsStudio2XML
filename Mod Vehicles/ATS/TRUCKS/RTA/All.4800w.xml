@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\RTA Mods\All.4800w.xml</FilePath>
+  <Game>All</Game>
+  <InternalName>4800w</InternalName>
+  <SoundItems />
+  <VehicleAuthor>rta mods</VehicleAuthor>
+  <VehicleName>RTA Mods|Western Star WS4800</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>b_cab_eu.4800w.cabin</InternalName>
+      <Name>Sleeper Cab</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-04-28T00:00:00</DateUpdated>
+</Variable>
