@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>am.mbad</InternalName>
+  <SoundItems />
+  <VehicleAuthor>AmirMahdavi</VehicleAuthor>
+  <VehicleName>AmirMahdavi|MB Aerodynamic</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <DateUpdated>2025-05-27T00:00:00</DateUpdated>
+   <!-- Created with v2025.01 Modversion 1.6 -->
+  <VehicleVariants />  
+  <AccessoryItems>
+    <ListItem>
+      <Description>Painted Body.\nMain skin added HERE!\nNO skin Added to IMAGES TAB!</Description>
+      <Group>Body</Group>
+      <Image>.</Image>
+      <Value>body.paint</Value>
+      <Text>Aerodynamic - Paintable DryVan</Text>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Version.\nUse individual CUSTOM License Plate Template.</Description>
+      <Group>License Plate</Group>
+      <Image>.</Image>
+      <Text>Custom License Painted</Text>
+      <Value>r_license_am.custom_p</Value>
+    </ListItem>	
+    <ListItem>
+      <Description>Brace.\nMain skin added HERE!</Description>
+      <Group>Chassiparts</Group>
+      <Image>.</Image>
+      <Text>Chassi Brace Painted</Text>
+	  <Value>b_chs_am.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front.\nMain skin added HERE!</Description>
+      <Group>Chassiparts</Group>
+      <Image>.</Image>
+      <Text>Chassi Front Painted</Text>
+      <Value>f_chs_am.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Middle.\nMain skin added HERE!</Description>
+      <Group>Chassiparts</Group>
+      <Image>.</Image>
+      <Text>Chassi Middle Painted</Text>
+      <Value>m_chs_am.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear.\nMain skin added HERE!</Description>
+      <Group>Chassiparts</Group>
+      <Image>.</Image>
+      <Text>Chassi Rear Painted</Text>
+      <Value>r_chs_am.paint</Value>
+    </ListItem>	
+    <ListItem>
+      <Description>Painted Version Empty.\nMain skin added HERE!</Description>
+      <Group>Front Logos</Group>
+      <Image>.</Image>
+      <Text>Front Logo Empty Painted</Text>
+      <Value>f_logo_am.em_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Version Mercedes Benz.\nMain skin added HERE!</Description>
+      <Group>Front Logos</Group>
+      <Image>.</Image>
+      <Text>Front Logo Mercedes Benz Painted</Text>
+      <Value>f_logo_am.mb_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Version Scania.\nMain skin added HERE!</Description>
+      <Group>Front Logos</Group>
+      <Image>.</Image>
+      <Text>Front Logo Scania Painted</Text>
+      <Value>f_logo_am.sc_paint</Value>
+    </ListItem>		
+    <ListItem>
+      <Description>Painted Version.\nAeroparts.\nMain skin added HERE!</Description>
+      <Group>Rear Body</Group>
+      <Image>.</Image>
+      <Text>Rear Body Aeroparts Painted</Text>
+      <Value>r_body_am.paint</Value>
+    </ListItem>	
+	    <ListItem>
+      <Description>Painted Version.\nHandles.\nMain skin added HERE!</Description>
+      <Group>Rear Body</Group>
+      <Image>.</Image>
+      <Text>Rear Handles Painted</Text>
+      <Value>r_handle_am.paint</Value>
+    </ListItem>		
+    <ListItem>
+      <Description>Painted Version.\nSidelights.\nMain skin added HERE!</Description>
+      <Group>Rear Body</Group>
+      <Image>.</Image>
+      <Text>Side Lights Painted</Text>
+      <Value>sd_light_am.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted Version.\nBumper Rear.\nMain skin added HERE!</Description>
+      <Group>Rear Body</Group>
+      <Image>.</Image>
+      <Text>Bumper Light Frame Painted</Text>
+      <Value>rz_light_am.paint</Value>
+    </ListItem>	
+    <ListItem>
+      <Description>Painted Version.\nBumper Rear Frame.\nMain skin added HERE!</Description>
+      <Group>Rear Body</Group>
+      <Image>.</Image>
+      <Text>Bumper Rear Frame Painted</Text>
+      <Value>r_bumpera_am.paint</Value>
+    </ListItem>	
+    <ListItem>
+      <Description>Painted Version.\nBumper Main Frame.\nMain skin added HERE!</Description>
+      <Group>Rear Body</Group>
+      <Image>.</Image>
+      <Text>Bumper Main Frame Painted</Text>
+      <Value>r_bumperb_am.paint</Value>
+    </ListItem>		
+  </AccessoryItems>
+</Variable>
