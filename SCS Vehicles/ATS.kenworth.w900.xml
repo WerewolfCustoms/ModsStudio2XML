@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>cd94e40f-e9f9-468c-93d5-d8b5babee59c</Id>
   <IsEnabled>true</IsEnabled>
+  <Validators />
   <AccessoryItems>
     <ListItem>
       <Description>See screenshot for location.</Description>
@@ -810,6 +810,7 @@
       <Value>r_bumper.storm</Value>
     </ListItem>
   </AccessoryItems>
+  <FilePath>C:\Users\paulb\Desktop\MS2 march 2025\Data\ModData\SCS\Vehicles\ATS.kenworth.w900.xml</FilePath>
   <Game>ATS</Game>
   <InternalName>kenworth.w900</InternalName>
   <SoundItems>
@@ -825,20 +826,28 @@
   <VehicleType>NewTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSKenW900\w900_dc.jpg</Image>
       <InternalName>day.kenworth.w900.cabin</InternalName>
       <Name>Day Cab</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSKenW900\w900_studio.jpg</Image>
       <InternalName>s72.kenworth.w900.cabin</InternalName>
       <Name>72 Studio Sleeper</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSKenW900\w900_aero.jpg</Image>
       <InternalName>s86.kenworth.w900.cabin</InternalName>
       <Name>86 Studio Sleeper</Name>
     </Variant>
+    <Variant>
+      <InternalName>s72f.kenworth.w900.cabin</InternalName>
+      <Name>72 Flat Roof Sleeper</Name>
+    </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
 </Variable>
