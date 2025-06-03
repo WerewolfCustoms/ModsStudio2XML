@@ -809,6 +809,12 @@
       <Text>Storm</Text>
       <Value>r_bumper.storm</Value>
     </ListItem>
+    <ListItem>
+      <Group>Split glass trim painted</Group>
+      <Image />
+      <Text>Painted trim around the glass</Text>
+      <Value>f_cab_trim.s72f_pnt</Value>
+    </ListItem>
   </AccessoryItems>
   <FilePath>C:\Users\paulb\Desktop\MS2 march 2025\Data\ModData\SCS\Vehicles\ATS.kenworth.w900.xml</FilePath>
   <Game>ATS</Game>
@@ -844,6 +850,7 @@
       <Name>86 Studio Sleeper</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <InternalName>s72f.kenworth.w900.cabin</InternalName>
       <Name>72 Flat Roof Sleeper</Name>
     </Variant>
