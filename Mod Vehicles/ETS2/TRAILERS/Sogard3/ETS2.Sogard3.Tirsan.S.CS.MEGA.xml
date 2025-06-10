@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>tirsan.scsms3</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Sogard3</VehicleAuthor>
+  <VehicleName>Sogard3|Tirsan S.CS Mega</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants />
+  <DateUpdated xsi:nil="true" />
+     <!-- Created with v2025.01 Modversion 1.0 ETS2 1.54 -->  
+  <AccessoryItems>
+    <ListItem>
+      <Description>Tirsan S.CS M / 90 - 12 / 27.\nApply Main Skin!</Description>
+      <Group>Tirsan S.CS M</Group>
+      <Value>body.curtain_sbal</Value>
+      <Text>Tirsan S.CS M / 90 - 12 / 27</Text>
+    </ListItem>
+    <ListItem>
+      <Description>Tirsan S.CS M / 90 - 12 / 27.\nApply Main Skin!</Description>
+      <Group>Tirsan S.CS M</Group>
+      <Value>body.curtain_sbp3</Value>
+      <Text>Tirsan S.CS M / 90 - 12 / 27</Text>
+    </ListItem>
+    <ListItem>
+      <Description>Tirsan S.CS M / 90 - 12 / 27.\nApply Main Skin!</Description>
+      <Group>Tirsan S.CS M Huckepack</Group>
+      <Value>body.curtainsbp3h</Value>
+      <Text>Tirsan S.CS M / 90 - 12 / 27 Huckepack</Text>
+    </ListItem>
+    <ListItem>
+      <Description>Tirsan S.CS M / 90 - 12 / 27.\nApply Main Skin!</Description>
+      <Group>Tirsan S.CS M Huckepack</Group>
+      <Value>body.curtainsbalh</Value>
+      <Text>Tirsan S.CS M / 90 - 12 / 27 Huckepack</Text>
+    </ListItem>
+    <ListItem>
+      <Description>Tirsan S.CS M / 90 - 12 / 27.\nApply Main Skin!</Description>
+      <Group>Tirsan S.CS M</Group>
+      <Value>body.curtain_sbp</Value>
+      <Text>Tirsan S.CS M / 90 - 12 / 27</Text>
+    </ListItem>
+    <ListItem>
+      <Description>Tirsan S.CS M / 90 - 12 / 27.\nApply Main Skin!</Description>
+      <Group>Tirsan S.CS M</Group>
+      <Value>body.curtain_sbp2</Value>
+      <Text>Tirsan S.CS M / 90 - 12 / 27</Text>
+    </ListItem>
+    <ListItem>
+      <Description>Tirsan S.CS M / 90 - 12 / 27.\nApply Main Skin!</Description>
+      <Group>Tirsan S.CS M Huckepack</Group>
+      <Value>body.curtainsbp2h</Value>
+      <Text>Tirsan S.CS M / 90 - 12 / 27 Huckepack</Text>
+    </ListItem>
+    <ListItem>
+      <Description>Tirsan S.CS M / 90 - 12 / 27.\nApply Main Skin!</Description>
+      <Group>Tirsan S.CS M Huckepack</Group>
+      <Value>body.curtainsbph</Value>
+      <Text>Tirsan S.CS M / 90 - 12 / 27 Huckepack</Text>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Chassis</Group>
+      <Text>Chassis 3 Axle</Text>
+      <Value>chassis.ch_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Chassis</Group>
+      <Text>Chassis 3 Axle Ver.2</Text>
+      <Value>chassis.ch_3_132</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Sideskirts Left Side</Group>
+      <Text>Skirt Big (Paint)</Text>
+      <Value>chs_f_l.sd1p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Sideskirts Left Side</Group>
+      <Text>Skirt Big &amp; Painted Box</Text>
+      <Value>chs_f_l.sd1_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Sideskirts Right Side</Group>
+      <Text>Skirt Big (Paint)</Text>
+      <Value>chs_f_r.sd1p_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front</Description>
+      <Group>Sideskirts Right Side</Group>
+      <Text>Skirt Big &amp; Paint Box</Text>
+      <Value>chs_f_r.sd1_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Rear</Description>
+      <Group>Sideskirts Right Side</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.bp</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Rear Bumper</Group>
+      <Text>Rear Bumper Paint</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Rear Bumper</Group>
+      <Text>Rear Bumper Paint ver2</Text>
+      <Value>r_bumper.paintv2</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Rear Bumper</Group>
+      <Text>Rear Bumper Paint2</Text>
+      <Value>r_bumper.paint2</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Rear Bumper</Group>
+      <Text>Rear Bumper Paint2 ver2</Text>
+      <Value>r_bumper.paint2v2</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Rear Bumper</Group>
+      <Text>Rear Bumper Paint3</Text>
+      <Value>r_bumper.paint3</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Rear Bumper</Group>
+      <Text>Rear Bumper Paint3 ver2</Text>
+      <Value>r_bumper.paint3v2</Value>
+    </ListItem>
+    <ListItem>
+      <Description></Description>
+      <Group>Rear Mudflap</Group>
+      <Text>Rear Mudflap</Text>
+      <Value>r_mudflap.skin</Value>
+    </ListItem>		
+    <ListItem>
+      <Description></Description>
+      <Group>License Plate</Group>
+      <Text>License Plate</Text>
+      <Value>license_p.lpskin</Value>
+    </ListItem>	
+  </AccessoryItems>
+</Variable>
