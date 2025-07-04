@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <Game>ATS</Game>
+  <InternalName>kenworth.t680_2022</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>Kenworth|T680 2022</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>day.kenworth.t680_2022.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>s52m.kenworth.t680_2022.cabin</InternalName>
+      <Name>Cabin 52 Sleeper</Name>
+    </Variant>	
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>s76h.kenworth.t680_2022.cabin</InternalName>
+      <Name>Cabin 76 Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>gear_jammer</XmlDefinitionAuthor>
+  <DateUpdated>2025-07-03T00:00:00</DateUpdated>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Painted Low Bumper w/Foglights</Text>
+      <Value>bumper.low_pnt_f</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Painted Aero Low Bumper w/Foglights</Text>
+      <Value>bumper.low_pnt_f_a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Deflectors</Group>
+      <Text>Painted Standard 76</Text>
+      <Value>cabdefl.s76h_std</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Corner Window Deflectors</Group>
+      <Text>Corner Window Aero Paint</Text>
+      <Value>cor_def.aero_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Hoods</Group>
+      <Text>Short Hood</Text>
+      <Value>hood.short</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Mirrors</Group>
+      <Text>Camera Mirror Painted</Text>
+      <Value>mirror.cam_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>Long Painted 76</Text>
+      <Value>sideskirt.s76_l_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Deflectors</Group>
+      <Text>Side Deflectors Painted 76</Text>
+      <Value>s_deflector.s76h_std</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>Short Painted 76</Text>
+      <Value>sideskirt.s76_s_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Painted Standard w/ fog lights</Text>
+      <Value>bumper.std_pnt_f</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Painted Standard Aero w/ fog lights</Text>
+      <Value>bumper.std_pnt_f_a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Deflectors</Group>
+      <Text>Painted Standard 52</Text>
+      <Value>cabdefl.s52m_std</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Deflectors</Group>
+      <Text>Painted Standard Day</Text>
+      <Value>cabdefl.day_std</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Hoods</Group>
+      <Text>Long Hood</Text>
+      <Value>hood.long</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Mirrors</Group>
+      <Text>Standard Mirror Painted</Text>
+      <Value>mirror.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Deflectors</Group>
+      <Text>Side Deflectors Painted 52</Text>
+      <Value>s_deflector.s52m_std</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Deflectors</Group>
+      <Text>Side Deflectors Painted Day Cab</Text>
+      <Value>s_deflector.day_std</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>Long Painted 52</Text>
+      <Value>sideskirt.s52_l_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>Short Painted 52</Text>
+      <Value>sideskirt.s52_s_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>Long Painted Day</Text>
+      <Value>sideskirt.day_l_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>Short Painted Day</Text>
+      <Value>sideskirt.day_s_pnt</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>
