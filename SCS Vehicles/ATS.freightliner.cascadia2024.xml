@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>2b47a1f5-23aa-4317-94b9-61c24e499860</Id>
   <IsEnabled>true</IsEnabled>
+  <Validators />
   <AccessoryItems>
+	<ListItem>
+      <Description> </Description>
+	  <Group>Airdam</Group>
+      <Image> </Image>
+      <Text>Paint</Text>
+      <Value>airdam.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description> </Description>
+      <Group>Airdam</Group>
+      <Image> </Image>
+      <Text>AeroX Paint</Text>
+      <Value>airdam.pnt_aerox</Value>
+    </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
       <Group>Bumper</Group>
@@ -186,6 +200,13 @@
       <Text>Aero X</Text>
       <Value>s_deflector.s72_ax</Value>
     </ListItem>
+    <ListItem>
+      <Description> </Description>
+      <Group>Sunshield</Group>
+      <Image> </Image>
+      <Text>Paint</Text>
+      <Value>sunshield.paint</Value>
+    </ListItem>
   </AccessoryItems>
   <Game>ATS</Game>
   <InternalName>freightliner.cascadia2024</InternalName>
@@ -202,25 +223,30 @@
   <VehicleType>NewTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSFLCascadia2024\cas_dc.jpg</Image>
       <InternalName>day.freightliner.cascadia2024.cabin</InternalName>
       <Name>Day Cab</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSFLCascadia2024\cas_48.jpg</Image>
       <InternalName>s48.freightliner.cascadia2024.cabin</InternalName>
       <Name>48 Sleeper</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSFLCascadia2024\cas_72xt.jpg</Image>
       <InternalName>s72_xt.freightliner.cascadia2024.cabin</InternalName>
       <Name>72 Sleeper XT</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSFLCascadia2024\cas_72rr.jpg</Image>
       <InternalName>s72_rr.freightliner.cascadia2024.cabin</InternalName>
       <Name>72 Sleeper RR</Name>
     </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>Taede</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
 </Variable>
