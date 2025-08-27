@@ -135,14 +135,14 @@
       <Group>Main Mirrors</Group>
       <Image />
       <Text>Paint, LED * DLC *</Text>
-      <Value>mirror.chrome_led</Value>
+      <Value>mirror.chrome_led_a</Value>
     </ListItem>
     <ListItem>
       <Description />
       <Group>Main Mirrors</Group>
       <Image />
       <Text>Paint And Chrome * DLC *</Text>
-      <Value>mirror.chrome_logo</Value>
+      <Value>mirror.chrom_logo_a</Value>
     </ListItem>
 	<ListItem>
       <Description />
@@ -833,3 +833,4 @@
   </VehicleVariants>
   <XmlDefinitionAuthor>Taede, Danny Kay</XmlDefinitionAuthor>
 </Variable>
+
