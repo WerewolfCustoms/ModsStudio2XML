@@ -361,58 +361,58 @@
   <InternalName>schmitz.scs</InternalName>
   <SoundItems />
   <VehicleAuthor>SCS Software</VehicleAuthor>
-  <VehicleName>S.SC Universal</VehicleName>
+  <VehicleName>Schmitz|S.CS Universal</VehicleName>
   <VehicleType>Trailers</VehicleType>
   <VehicleVariants>
     <Variant>
       <AccessoryDependencies />
       <InternalName>body.curt_13</InternalName>
-      <Name>S.SC Universal 13M</Name>
+      <Name>S.CS Universal 13M</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
       <InternalName>body.curt_13p</InternalName>
-      <Name>S.SC Universal Paint 13M</Name>
+      <Name>S.CS Universal Paint 13M</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
       <InternalName>body.curt_15</InternalName>
-      <Name>S.SC Universal 15M</Name>
+      <Name>S.CS Universal 15M</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
       <InternalName>body.curt_15p</InternalName>
-      <Name>S.SC Universal Paint 15M</Name>
+      <Name>S.CS Universal Paint 15M</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
       <InternalName>body.ecofix</InternalName>
-      <Name>S.SC EcoFIX</Name>
+      <Name>S.CS EcoFIX</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
       <InternalName>body.ecofixp</InternalName>
-      <Name>S.SC EcoFIX Paint</Name>
+      <Name>S.CS EcoFIX Paint</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
       <InternalName>body.curt_13ec</InternalName>
-      <Name>S.SC Universal Double 13M</Name>
+      <Name>S.CS Universal Double 13M</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
       <InternalName>body.curt_13ecp</InternalName>
-      <Name>S.SC Universal Double Paint 13M</Name>
+      <Name>S.CS Universal Double Paint 13M</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
       <InternalName>body.curt_8</InternalName>
-      <Name>S.SC Universal Double 8M</Name>
+      <Name>S.CS Universal Double 8M</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
       <InternalName>body.curt_8p</InternalName>
-      <Name>S.SC Universal Double Paint 8M</Name>
+      <Name>S.CS Universal Double Paint 8M</Name>
     </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>Chiky Chuky</XmlDefinitionAuthor>
