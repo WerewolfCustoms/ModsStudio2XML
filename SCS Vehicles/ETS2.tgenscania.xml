@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>4e16d124-06ee-489a-b9c9-045221472972</Id>
   <IsEnabled>true</IsEnabled>
-  <AccessoryItems />
   <Game>ETS2</Game>
   <InternalName>tgenscania</InternalName>
-  <VehicleAuthor>jon-ruda, CCT</VehicleAuthor>
-  <VehicleImage />
-  <VehicleName>Torpedo|NextGen</VehicleName>
+  <SoundItems />
+  <VehicleAuthor>jon ruda</VehicleAuthor>
+  <VehicleName>Jon Ruda|Torpedo NextGen</VehicleName>
   <VehicleType>OldTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
@@ -24,4 +22,6 @@
       <Name>Normal Roof</Name>
     </Variant>
   </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-06-25T00:00:00</DateUpdated>
 </Variable>
