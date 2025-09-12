@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>0611fe2d-c562-4402-a90e-1f6f35543e9f</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Chassis Front (Left) (3 Axles)</Group>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_l.cgp_3_10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left) (3 Axles)</Group>
+      <Text>Painted Side Protection + Extinguisher</Text>
+      <Value>chs_f_l.cgp_ext_3_10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left) (3 Axles)</Group>
+      <Text>Painted Side Protection + Plastic Box</Text>
+      <Value>chs_f_l.cgp_bpl_3_10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left) (3 Axles)</Group>
+      <Text>Painted Side Protection + Water Tank</Text>
+      <Value>chs_f_l.cgp_wt_3_10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left) (3 Axles)</Group>
+      <Text>Painted Side Protection + Spare Tire</Text>
+      <Value>chs_f_l.cgp_st_3_10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left) (3 Axles)</Group>
+      <Text>Painted Side Protection + Plastic Box + Spare Tire + Water Tank</Text>
+      <Value>chs_f_l.cgp_bpstwt10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right) (3 Axles)</Group>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_r.cgp_3_10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right) (3 Axles)</Group>
+      <Text>Painted Side Protection + Extinguisher</Text>
+      <Value>chs_f_r.cgp_ext_3_10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right) (3 Axles)</Group>
+      <Text>Painted Side Protection + Plastic Box</Text>
+      <Value>chs_f_r.cgp_bpl_3_10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right) (3 Axles)</Group>
+      <Text>Painted Side Protection + Water Tank</Text>
+      <Value>chs_f_r.cgp_wt_3_10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right) (3 Axles)</Group>
+      <Text>Painted Side Protection + Spare Tire</Text>
+      <Value>chs_f_r.cgp_st_3_10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right) (3 Axles)</Group>
+      <Text>Painted Side Protection + Plastic Box + Spare Tire + Water Tank</Text>
+      <Value>chs_f_r.cgp_bpstwt10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left) (3 Axles, Long)</Group>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_l.cgp_3_12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left) (3 Axles, Long)</Group>
+      <Text>Painted Side Protection + Extinguisher</Text>
+      <Value>chs_f_l.cgp_ext_3_12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left) (3 Axles, Long)</Group>
+      <Text>Painted Side Protection + Plastic Box</Text>
+      <Value>chs_f_l.cgp_bpl_3_12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left) (3 Axles, Long)</Group>
+      <Text>Painted Side Protection + Water Tank</Text>
+      <Value>chs_f_l.cgp_wt_3_12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left) (3 Axles, Long)</Group>
+      <Text>Painted Side Protection + Spare Tire</Text>
+      <Value>chs_f_l.cgp_st_3_12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left) (3 Axles, Long)</Group>
+      <Text>Painted Side Protection+ Plastic Box + Spare Tire + Water Tank</Text>
+      <Value>chs_f_l.cgp_bpstwt12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right) (3 Axles, Long)</Group>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_r.cgp_3_12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right) (3 Axles, Long)</Group>
+      <Text>Painted Side Protection + Extinguisher</Text>
+      <Value>chs_f_r.cgp_ext_3_12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right) (3 Axles, Long)</Group>
+      <Text>Painted Side Protection + Plastic Box</Text>
+      <Value>chs_f_r.cgp_bpl_3_12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right) (3 Axles, Long)</Group>
+      <Text>Painted Side Protection + Water Tank</Text>
+      <Value>chs_f_r.cgp_wt_3_12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right) (3 Axles, Long)</Group>
+      <Text>Painted Side Protection + Spare Tire</Text>
+      <Value>chs_f_r.cgp_st_3_12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right) (3 Axles, Long)</Group>
+      <Text>Painted Side Protection + Plastic Box + Spare Tire + Water Tank</Text>
+      <Value>chs_f_r.cgp_bpstwt12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>Chassis (3 Axles)</Text>
+      <Value>chassis.ch_3_10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>Chassis (3 Axles, Long)</Text>
+      <Value>chassis.ch_3_12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>Rear Door (3 Axles)</Text>
+      <Value>rear_body.door_52</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>Rear Door (3 Axles, Long)</Text>
+      <Value>rear_body.door_62</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\Jaime\Documents\Mods Studio 2\UserVehicles\ETS2.wielton.scrapm.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>wielton.scrapm</InternalName>
+  <SoundItems />
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>Wielton|Scrap Master</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.dumper_52</InternalName>
+      <Name>Scrap Master (3 Axles)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.dumper_62</InternalName>
+      <Name>Scrap Master (3 Axles, Long)</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Chiky Chuky</XmlDefinitionAuthor>
+</Variable>
