@@ -4,6 +4,7 @@
   <Id>4502869e-ec86-48b4-affd-b01571ca79b0</Id>
   <IsEnabled>true</IsEnabled>
   <Validators />
+   <!-- NEW Trailervariant and Parts from the DLC Schmitz ETS2 1.56 -->
   <AccessoryItems>
     <ListItem>
       <Group>Trailer Rear</Group>
@@ -34,6 +35,12 @@
       <Group>Trailer Rear</Group>
       <Text>Roll Up Door, Steel Bumper (3 Axles Long)</Text>
       <Value>rear_body.rbmp_stl15</Value>
+    </ListItem>
+    <ListItem>
+	<Description>* DLC Schmitz ETS2 1.56 Addition *</Description>
+      <Group>Trailer Front </Group>
+      <Text>SCU Paint (City Trailer)</Text>
+      <Value>f_body.scu_p_ct</Value>
     </ListItem>
     <ListItem>
       <Group>Trailer Front </Group>
@@ -381,14 +388,19 @@
       <Value>chs_r_r.palp_c</Value>
     </ListItem>
   </AccessoryItems>
-  <FilePath>C:\Users\Jaime\Documents\Mods Studio 2\UserVehicles\ETS2.schmitz.sko.xml</FilePath>
   <Game>ETS2</Game>
   <InternalName>schmitz.sko</InternalName>
   <SoundItems />
   <VehicleAuthor>SCS Software</VehicleAuthor>
-  <VehicleName>Schmitz|S.KO COOL</VehicleName>
+  <VehicleName>DLC Schmitz|S.KO COOL</VehicleName>
   <VehicleType>Trailers</VehicleType>
   <VehicleVariants>
+    <Variant>
+	<Description>* DLC Schmitz ETS2 1.56 Addition *</Description>
+      <AccessoryDependencies />
+      <InternalName>body.reefer_13ct</InternalName>
+      <Name>Schmitz S.KO COOL CITY 13M</Name>
+    </Variant>
     <Variant>
       <AccessoryDependencies />
       <InternalName>body.reefer_13</InternalName>

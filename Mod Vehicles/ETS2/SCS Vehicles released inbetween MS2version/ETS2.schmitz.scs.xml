@@ -4,6 +4,7 @@
   <Id>535332ee-a852-4071-9e04-c62a581019b7</Id>
   <IsEnabled>true</IsEnabled>
   <Validators />
+   <!-- NEW Trailervariants from the DLC Schmitz ETS2 1.56 -->
   <AccessoryItems>
     <ListItem>
       <Group>Chassis Front Left 13M 2 Axles</Group>
@@ -356,14 +357,37 @@
       <Value>r_bumper.paint_ca</Value>
     </ListItem>
   </AccessoryItems>
-  <FilePath>C:\Users\Jaime\Documents\Mods Studio 2\UserVehicles\ETS2.schmitz.scs.xml</FilePath>
   <Game>ETS2</Game>
   <InternalName>schmitz.scs</InternalName>
   <SoundItems />
   <VehicleAuthor>SCS Software</VehicleAuthor>
-  <VehicleName>Schmitz|S.CS Universal</VehicleName>
+  <VehicleName>DLC Schmitz|S.CS Universal</VehicleName>
   <VehicleType>Trailers</VehicleType>
   <VehicleVariants>
+    <Variant>
+	<Description>* DLC Schmitz ETS2 1.56 Addition *</Description>
+      <AccessoryDependencies />
+      <InternalName>body.curt_13ef</InternalName>
+      <Name>S.CS Universal ECO Combi Front Trailer 13M</Name>
+    </Variant>
+    <Variant>
+	<Description>* DLC Schmitz ETS2 1.56 Addition *</Description>
+      <AccessoryDependencies />
+      <InternalName>body.curt_13er</InternalName>
+      <Name>S.CS Universal ECO Combi Rear Trailer 13M</Name>
+    </Variant>
+    <Variant>
+	<Description>* DLC Schmitz ETS2 1.56 Addition *</Description>
+      <AccessoryDependencies />
+      <InternalName>body.curt_13efp</InternalName>
+      <Name>S.CS Universal ECO Combi Front Trailer Paint 13M</Name>
+    </Variant>
+    <Variant>
+	<Description>* DLC Schmitz ETS2 1.56 Addition *</Description>
+      <AccessoryDependencies />
+      <InternalName>body.curt_13erp</InternalName>
+      <Name>S.CS Universal ECO Combi Rear Trailer Paint 13M</Name>
+    </Variant>
     <Variant>
       <AccessoryDependencies />
       <InternalName>body.curt_13</InternalName>
