@@ -7,6 +7,24 @@
    <!-- NEW Trailervariant and Parts from the DLC Schmitz ETS2 1.56 -->
   <AccessoryItems>
     <ListItem>
+	<Description>* DLC Schmitz ETS2 1.56 Addition *</Description>
+      <Group>Trailer Rear</Group>
+      <Text>Rubber Bumper</Text>
+      <Value>rear_body.bmp_rub13ct</Value>
+    </ListItem>
+    <ListItem>
+	<Description>* DLC Schmitz ETS2 1.56 Addition *</Description>
+      <Group>Trailer Rear</Group>
+      <Text>Steel Roller</Text>
+      <Value>rear_body.rol_stl13ct</Value>
+    </ListItem>
+    <ListItem>
+	<Description>* DLC Schmitz ETS2 1.56 Addition *</Description>
+      <Group>Trailer Rear</Group>
+      <Text>Roll Up Door, Steel Bumper</Text>
+      <Value>rear_body.rbmp_stl13ct</Value>
+    </ListItem>
+    <ListItem>
       <Group>Trailer Rear</Group>
       <Text>Rubber Bumper</Text>
       <Value>rear_body.bmp_rub13</Value>
