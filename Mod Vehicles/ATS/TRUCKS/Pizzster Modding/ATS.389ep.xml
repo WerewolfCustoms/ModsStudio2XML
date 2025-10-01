@@ -122,11 +122,24 @@
     </Variant>
     <Variant>
       <AccessoryDependencies />
+      <Group>82' Sleeper</Group>
+      <InternalName>lr82customc.389ep.cabin</InternalName>
+      <Name>Low Roof 82inch Chrome Rear Custom Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
       <Group>Mercury Sleeper</Group>
       <InternalName>merc_p.389ep.cabin</InternalName>
       <Name>Mercury Painted</Name>
     </Variant>
+     <Variant>
+      <AccessoryDependencies />
+      <Group>Mercury Sleeper</Group>
+      <InternalName>merc_c.389ep.cabin</InternalName>
+      <Name>Mercury Chrome</Name>
+    </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
   <DateUpdated>2025-09-24T00:00:00</DateUpdated>
+
 </Variable>
