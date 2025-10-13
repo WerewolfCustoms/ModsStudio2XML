@@ -779,7 +779,7 @@
   <InternalName>fred.122</InternalName>
   <VehicleAuthor>jon-ruda</VehicleAuthor>
   <VehicleImage />
-  <VehicleName>Freightshaker|Coronado SD</VehicleName>
+  <VehicleName>Jon Ruda|Freightshaker Coronado SD</VehicleName>
   <VehicleType>NewTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
@@ -795,4 +795,5 @@
       <Name>70inch Mid Roof XT</Name>
     </Variant>
   </VehicleVariants>
+
 </Variable>
