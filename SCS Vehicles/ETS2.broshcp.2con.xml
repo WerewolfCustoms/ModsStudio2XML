@@ -8,7 +8,7 @@
   <InternalName>broshcp.2con</InternalName>
   <VehicleAuthor>jon-ruda</VehicleAuthor>
   <VehicleImage />
-  <VehicleName>Container Trailer</VehicleName>
+  <VehicleName>Jon Ruda|Container Trailer</VehicleName>
   <VehicleType>Trailers</VehicleType>
   <VehicleVariants>
     <Variant>
@@ -20,4 +20,5 @@
       <Name>Container Trailer 2</Name>
     </Variant>
   </VehicleVariants>
+
 </Variable>
