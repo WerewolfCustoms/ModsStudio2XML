@@ -1507,7 +1507,7 @@
   <InternalName>mercedes.actros4</InternalName>
   <VehicleAuthor>Dotec</VehicleAuthor>
   <VehicleImage />
-  <VehicleName>Mercedes|New Actros</VehicleName>
+  <VehicleName>Dotec|Mercedes New Actros</VehicleName>
   <VehicleType>NewTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
@@ -1527,4 +1527,5 @@
       <Name>BigSpace 2500mm Rigid</Name>
     </Variant>
   </VehicleVariants>
+
 </Variable>
