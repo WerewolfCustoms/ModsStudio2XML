@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>9151f738-b1f9-4ffc-b5a8-86bf9ea445ab</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS.kw.w900jl.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>kw.w900jl</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Jon Ruda</VehicleAuthor>
+  <VehicleName>Jon Ruda|Kenworth W900 HIGHWAY KILLER</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Old Style Sleeper</Group>
+      <InternalName>42.90.kw.w900jl.cabin</InternalName>
+      <Name>Flattop OldStyle Sleeper 42</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Old Style Sleeper</Group>
+      <InternalName>60a.90.kw.w900jl.cabin</InternalName>
+      <Name>AeroDyne OldStyle Sleeper 60</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Old Style Sleeper</Group>
+      <InternalName>60.90.kw.w900jl.cabin</InternalName>
+      <Name>Flattop OldStyle Sleeper 60</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Day Cabs</Group>
+      <InternalName>daycab.kw.w900jl.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Day Cabs</Group>
+      <InternalName>day.90.kw.w900jl.cabin</InternalName>
+      <Name>DayCab OldStyle</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>exclusive.kw.w900jl.cabin</InternalName>
+      <Name>AeroCab Sleeper 72</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Flattop Sleeper</Group>
+      <InternalName>midroof.kw.w900jl.cabin</InternalName>
+      <Name>Flattop Sleeper 72</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Flattop Sleeper</Group>
+      <InternalName>midroof38.kw.w900jl.cabin</InternalName>
+      <Name>Flattop Sleeper 38</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Flattop Sleeper</Group>
+      <InternalName>midroof62.kw.w900jl.cabin</InternalName>
+      <Name>Flattop Sleeper 62</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>studio.kw.w900jl.cabin</InternalName>
+      <Name>Studio Sleeper 86</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>
