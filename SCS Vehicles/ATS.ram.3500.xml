@@ -2809,7 +2809,7 @@
   <InternalName>ram.3500</InternalName>
   <VehicleAuthor>jon-ruda</VehicleAuthor>
   <VehicleImage />
-  <VehicleName>RVM|3500 HD</VehicleName>
+  <VehicleName>Jon Ruda|RVM3500 HD</VehicleName>
   <VehicleType>NewTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
@@ -2817,4 +2817,5 @@
       <Name>Crew Cab</Name>
     </Variant>
   </VehicleVariants>
+
 </Variable>
