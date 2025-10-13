@@ -653,7 +653,7 @@
   <InternalName>mercedes.actros_mp2</InternalName>
   <VehicleAuthor>Dotec</VehicleAuthor>
   <VehicleImage />
-  <VehicleName>Mercedes|Actros MP2</VehicleName>
+  <VehicleName>Dotec|Mercedes Actros MP2</VehicleName>
   <VehicleType>NewTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
@@ -669,4 +669,5 @@
       <Name>MegaSpace</Name>
     </Variant>
   </VehicleVariants>
+
 </Variable>
