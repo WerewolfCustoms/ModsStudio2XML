@@ -8,7 +8,7 @@
   <InternalName>renault.radiance</InternalName>
   <VehicleAuthor>jon-ruda</VehicleAuthor>
   <VehicleImage />
-  <VehicleName>Radiance Concept</VehicleName>
+  <VehicleName>Jon Ruda|Radiance Concept</VehicleName>
   <VehicleType>OldTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
@@ -20,4 +20,5 @@
       <Name>High Wipers</Name>
     </Variant>
   </VehicleVariants>
+
 </Variable>
