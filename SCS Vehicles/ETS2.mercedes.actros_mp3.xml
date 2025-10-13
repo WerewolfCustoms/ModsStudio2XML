@@ -730,7 +730,7 @@
   <InternalName>mercedes.actros_mp3</InternalName>
   <VehicleAuthor>Dotec</VehicleAuthor>
   <VehicleImage />
-  <VehicleName>Mercedes|Actros MP3</VehicleName>
+  <VehicleName>Dotec|Mercedes Actros MP3</VehicleName>
   <VehicleType>NewTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
@@ -754,4 +754,5 @@
       <Name>White Liner</Name>
     </Variant>
   </VehicleVariants>
+
 </Variable>
