@@ -8,7 +8,7 @@
   <InternalName>skoshmtz</InternalName>
   <VehicleAuthor>jon-ruda</VehicleAuthor>
   <VehicleImage />
-  <VehicleName>Schmitz Trailer</VehicleName>
+  <VehicleName>Jon Ruda|Schmitz Trailer</VehicleName>
   <VehicleType>Trailers</VehicleType>
   <VehicleVariants>
     <Variant>
@@ -16,4 +16,5 @@
       <Name>Schmitz Refridgeration Trailer</Name>
     </Variant>
   </VehicleVariants>
+
 </Variable>
