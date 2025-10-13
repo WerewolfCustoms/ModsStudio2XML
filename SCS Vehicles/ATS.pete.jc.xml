@@ -8,7 +8,7 @@
   <InternalName>pete.jc</InternalName>
   <VehicleAuthor>jon-ruda</VehicleAuthor>
   <VehicleImage />
-  <VehicleName>Pete|389/379</VehicleName>
+  <VehicleName>Jon Ruda|Pete 389/379</VehicleName>
   <VehicleType>OldTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
@@ -140,4 +140,5 @@
       <Name>379 63` High Roof</Name>
     </Variant>
   </VehicleVariants>
+
 </Variable>
