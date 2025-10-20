@@ -19,7 +19,7 @@ Sign up or sign in at [https://github.com](https://github.com).
 ---
 
 ## Step 2 — Fork the repository
-Create your own copy of the repo.
+Create your own copy of the repo. 🔽🔽🔽
 ![Create Fork Screenshot](Documents/Images/CreateFork.png)
 1. Open [https://github.com/WerewolfCustoms/ModsStudio2XML/](https://github.com/WerewolfCustoms/ModsStudio2XML/) in your browser.  
 2. Click **Fork** → **Create fork**.  
@@ -30,7 +30,7 @@ You now have your own version at:
 ---
 
 ## Step 3 — Clone your fork to your computer (with VS Code)
-Get the files locally.
+Get the files locally. 🔽🔽🔽
 ![Cloning Repository Screenshot](Documents/Images/Clone.png)
 1. Open VS Code  
 2. Press `F1` → type `Git: Clone` → Enter
@@ -42,7 +42,7 @@ Get the files locally.
 ---
 
 ## Step 4 — Create a new branch in VS Code
-Create a local branch where you can work on your changes.
+Create a local branch where you can work on your changes. 🔽🔽🔽
 ![Create New Branch Screenshot](Documents/Images/CreateBranch.png)
 1. Click the branch name in the blue status bar (bottom-left)  
 2. Click **Create new branch**  
@@ -60,7 +60,7 @@ Make your changes.
 ---
 
 ## Step 6 — Commit your changes
-Save a snapshot of your work.  
+Save a snapshot of your work. 🔽🔽🔽
 ![Commit Changes Screenshot](Documents/Images/CommitWork.png)
 1. Click the **Source Control** icon (left sidebar)  
 2. Enter a short message, e.g. `Fix wheel size in vehicle.xml`  
@@ -84,4 +84,5 @@ Ask to merge your changes into the main repo.
 2. Click **Compare & pull request**  
 3. Target the **WerewolfCustoms/ModsStudio2XML** repository’s `main` branch  
 4. Write a clear title and short description  
+
 5. Click **Create pull request**  
