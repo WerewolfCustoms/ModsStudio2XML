@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>cbeb80d0-7512-4909-88cb-83348b9d2958</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Air Standard Color</Text>
+      <Value>chs_air.6x4l_col1</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Air Hidden Color</Text>
+      <Value>chs_air.6x4l_col2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Air Standard Color</Text>
+      <Value>chs_air.6x4_col1</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Air Hidden Color</Text>
+      <Value>chs_air.6x4_col2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Air Standard Color</Text>
+      <Value>chs_air.8x4l_col1</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Air Hidden Color</Text>
+      <Value>chs_air.8x4l_col2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Air Standard Color</Text>
+      <Value>chs_air.8x6l_col1</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Air Hidden Color</Text>
+      <Value>chs_air.8x6l_col2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Bumper Hold Color</Text>
+      <Value>chs_bumpcap.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Frame Color</Text>
+      <Value>chs_frame.70_6x4l_col</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Frame Color</Text>
+      <Value>chs_frame.70_6x4_col</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Frame Color</Text>
+      <Value>chs_frame.70_8x4l_col</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Frame Color</Text>
+      <Value>chs_frame.70_8x6l_col</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders (acc_rfender.dds)</Group>
+      <Image />
+      <Text>Lift Single Color</Text>
+      <Value>chs_liftaxle.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders (acc_rfender.dds)</Group>
+      <Image />
+      <Text>Lift Double Color</Text>
+      <Value>chs_liftaxle.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Metal Floor A Base Color</Text>
+      <Value>chs_nastil.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Metal Floor A Full Color</Text>
+      <Value>chs_nastil.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Metal Floor A Full Color</Text>
+      <Value>chs_nastil.shape09</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Metal Floor B1 Base Color</Text>
+      <Value>chs_nastil.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Metal Floor B1 Full Color</Text>
+      <Value>chs_nastil.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Metal Floor B1 Full Color</Text>
+      <Value>chs_nastil.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Metal Floor B2 Base Color</Text>
+      <Value>chs_nastil.shape25</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Metal Floor B2 Full Color</Text>
+      <Value>chs_nastil.shape29</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Metal Floor B2 Full Color</Text>
+      <Value>chs_nastil.shape33</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>RBumper (acc_rbumper.dds)</Group>
+      <Image />
+      <Text>Standard painted 4-lights</Text>
+      <Value>chs_rbumper.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>RBumper (acc_rbumper.dds)</Group>
+      <Image />
+      <Text>Modern painted 6-lights</Text>
+      <Value>chs_rbumper.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>RBumper (acc_rbumper.dds)</Group>
+      <Image />
+      <Text>Custom v.1 painted 6-lights</Text>
+      <Value>chs_rbumper.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>RBumper (acc_rbumper.dds)</Group>
+      <Image />
+      <Text>Custom v.1 painted 8-lights</Text>
+      <Value>chs_rbumper.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>RBumper (acc_rbumper.dds)</Group>
+      <Image />
+      <Text>Custom v.2 painted 6-lights</Text>
+      <Value>chs_rbumper.shape26</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>RBumper (acc_rbumper.dds)</Group>
+      <Image />
+      <Text>Custom v.2 painted 8-lights</Text>
+      <Value>chs_rbumper.shape28</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>RBumper (acc_rbumper.dds)</Group>
+      <Image />
+      <Text>Custom v.3 painted 6-lights</Text>
+      <Value>chs_rbumper.shape32</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>RBumper (acc_rbumper.dds)</Group>
+      <Image />
+      <Text>Custom v.3 painted 8-lights</Text>
+      <Value>chs_rbumper.shape34</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>RBumper (acc_rbumper.dds)</Group>
+      <Image />
+      <Text>Custom v.4 painted 2-lights</Text>
+      <Value>chs_rbumper.shape38</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>RBumper (acc_rbumper.dds)</Group>
+      <Image />
+      <Text>Modern painted 10-lights</Text>
+      <Value>chs_rbumper.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>RBumper (acc_rbumper.dds)</Group>
+      <Image />
+      <Text>Custom v.4 painted 4-lights</Text>
+      <Value>chs_rbumper.shape40</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>RBumper (acc_rbumper.dds)</Group>
+      <Image />
+      <Text>Standard painted 2-lights</Text>
+      <Value>chs_rbumper.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders (acc_rfender.dds)</Group>
+      <Image />
+      <Text>Hogebuilt Half Tandem Color</Text>
+      <Value>chs_rfender.shape10p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders (acc_rfender.dds)</Group>
+      <Image />
+      <Text>Hogebuilt Single Axle Color</Text>
+      <Value>chs_rfender.shape11p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders (acc_rfender.dds)</Group>
+      <Image />
+      <Text>Hogebuilt Single Axle Color</Text>
+      <Value>chs_rfender.shape11p_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders (acc_rfender.dds)</Group>
+      <Image />
+      <Text>Hogebuilt Full Tandem Color</Text>
+      <Value>chs_rfender.shape9p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders (acc_rfender.dds)</Group>
+      <Image />
+      <Text>Hogebuilt Full Tandem Color</Text>
+      <Value>chs_rfender.shape9p_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Suspension Color</Text>
+      <Value>chs_susp.6x4l_col</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Suspension Color</Text>
+      <Value>chs_susp.6x4_col</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Suspension Color</Text>
+      <Value>chs_susp.8x4l_col</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Suspension Color</Text>
+      <Value>chs_susp.8x6l_col</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Transmission Color</Text>
+      <Value>chs_trans.6x4l_col</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Transmission Color</Text>
+      <Value>chs_trans.6x4_col</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Transmission Color</Text>
+      <Value>chs_trans.8x4l_col</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis (acc_chassis.dds)</Group>
+      <Image />
+      <Text>Transmission Color</Text>
+      <Value>chs_trans.8x6l_col</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Pipe Color</Text>
+      <Value>exh_center.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Pipe Color</Text>
+      <Value>exh_center.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Pipe Color</Text>
+      <Value>exh_center.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>Muffler Color</Text>
+      <Value>exh_muffler.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Split Color</Text>
+      <Value>exh_split.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Split Color</Text>
+      <Value>exh_split.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Split Color</Text>
+      <Value>exh_split.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Tip Bull 0 Color</Text>
+      <Value>exh_tip.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Tip Bull 45 Color</Text>
+      <Value>exh_tip.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Tip Bull 90 Color</Text>
+      <Value>exh_tip.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Tip Bull 0 Color</Text>
+      <Value>exh_tip.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Tip Bull 45 Color</Text>
+      <Value>exh_tip.shape08</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Tip Bull 90 Color</Text>
+      <Value>exh_tip.shape09</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Tip Straight Color</Text>
+      <Value>exh_tip.shape101</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Tip TechNine Color</Text>
+      <Value>exh_tip.shape103</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Tip TechNine Color</Text>
+      <Value>exh_tip.shape105</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Tip TechNine Color</Text>
+      <Value>exh_tip.shape107</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Tip Bull 0 Color</Text>
+      <Value>exh_tip.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Tip Bull 45 Color</Text>
+      <Value>exh_tip.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Tip Bull 90 Color</Text>
+      <Value>exh_tip.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Tip Chino 0 Color</Text>
+      <Value>exh_tip.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Tip Chino 45 Color</Text>
+      <Value>exh_tip.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Tip Chino 90 Color</Text>
+      <Value>exh_tip.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Tip Chino 0 Color</Text>
+      <Value>exh_tip.shape25</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Tip Chino 45 Color</Text>
+      <Value>exh_tip.shape26</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Tip Chino 90 Color</Text>
+      <Value>exh_tip.shape27</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Tip Chino 0 Color</Text>
+      <Value>exh_tip.shape31</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Tip Chino 45 Color</Text>
+      <Value>exh_tip.shape32</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Tip Chino 90 Color</Text>
+      <Value>exh_tip.shape33</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Tip Curved 0 Color</Text>
+      <Value>exh_tip.shape37</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Tip Curved 45 Color</Text>
+      <Value>exh_tip.shape38</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Tip Curved 90 Color</Text>
+      <Value>exh_tip.shape39</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Tip Curved 0 Color</Text>
+      <Value>exh_tip.shape43</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Tip Curved 45 Color</Text>
+      <Value>exh_tip.shape44</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Tip Curved 90 Color</Text>
+      <Value>exh_tip.shape45</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Tip Curved 0 Color</Text>
+      <Value>exh_tip.shape49</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Tip Curved 45 Color</Text>
+      <Value>exh_tip.shape50</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Tip Curved 90 Color</Text>
+      <Value>exh_tip.shape51</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Tip EagleClaw 0 Color</Text>
+      <Value>exh_tip.shape55</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Tip EagleClaw 45 Color</Text>
+      <Value>exh_tip.shape56</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Tip EagleClaw 90 Color</Text>
+      <Value>exh_tip.shape57</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Tip EagleClaw 0 Color</Text>
+      <Value>exh_tip.shape61</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Tip EagleClaw 45 Color</Text>
+      <Value>exh_tip.shape62</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Tip EagleClaw 90 Color</Text>
+      <Value>exh_tip.shape63</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Tip EagleClaw 0 Color</Text>
+      <Value>exh_tip.shape67</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Tip EagleClaw 45 Color</Text>
+      <Value>exh_tip.shape68</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Tip EagleClaw 90 Color</Text>
+      <Value>exh_tip.shape69</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Tip Ozzie 0 Color</Text>
+      <Value>exh_tip.shape73</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Tip Ozzie 45 Color</Text>
+      <Value>exh_tip.shape74</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Tip Ozzie 90 Color</Text>
+      <Value>exh_tip.shape75</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Tip Ozzie 0 Color</Text>
+      <Value>exh_tip.shape79</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Tip Ozzie 45 Color</Text>
+      <Value>exh_tip.shape80</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Tip Ozzie 90 Color</Text>
+      <Value>exh_tip.shape81</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Tip Ozzie 0 Color</Text>
+      <Value>exh_tip.shape85</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Tip Ozzie 45 Color</Text>
+      <Value>exh_tip.shape86</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Tip Ozzie 90 Color</Text>
+      <Value>exh_tip.shape87</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Tip Mited Color</Text>
+      <Value>exh_tip.shape91</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Tip Mited Color</Text>
+      <Value>exh_tip.shape93</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>8inch Tip Mited Color</Text>
+      <Value>exh_tip.shape95</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>6inch Tip Straight Color</Text>
+      <Value>exh_tip.shape97</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Exhaust (acc_exhaust.dds)</Group>
+      <Image />
+      <Text>7inch Tip Straight Color</Text>
+      <Value>exh_tip.shape99</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>fred.122</InternalName>
+  <VehicleAuthor>jon-ruda</VehicleAuthor>
+  <VehicleImage />
+  <VehicleName>Jon Ruda|Freightshaker Coronado SD</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>70high.fred.122.cabin</InternalName>
+      <Name>70inch Raised Roof</Name>
+    </Variant>
+    <Variant>
+      <InternalName>70low.fred.122.cabin</InternalName>
+      <Name>70inch Mid Roof</Name>
+    </Variant>
+    <Variant>
+      <InternalName>70mid.fred.122.cabin</InternalName>
+      <Name>70inch Mid Roof XT</Name>
+    </Variant>
+  </VehicleVariants>
+
+</Variable>

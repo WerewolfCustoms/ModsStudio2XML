@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>b3a866bb-d894-4731-96aa-3d76dbbac370</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_l.cgp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Side Protection + Extinguisher</Text>
+      <Value>chs_f_l.cgp_ext</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_r.cgp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Spare Tyre</Text>
+      <Value>chs_f_r.st_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Spare Tyre</Text>
+      <Value>chs_f_r.st_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Simple Side Protection + Spare Tyre</Text>
+      <Value>chs_f_r.cg_st</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Side Protection + Spare Tyre</Text>
+      <Value>chs_f_r.cgp_st</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>Flap Door (Kipper 24)</Text>
+      <Value>rear_body.door_24</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>Flap Door With Chute  (Kipper 24)</Text>
+      <Value>rear_body.door_24_gd</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>Flap Door (Kipper 27)</Text>
+      <Value>rear_body.door_27</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>Flap Door With Chute (Kipper 27)</Text>
+      <Value>rear_body.door_27_gd</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Standard</Text>
+      <Value>r_bumper.simple</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Exclusive</Text>
+      <Value>r_bumper.exclusive</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>2 Axles</Text>
+      <Value>chassis.ch_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>3 Axles</Text>
+      <Value>chassis.ch_3</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\Jaime\Documents\Mods Studio 2\UserVehicles\ETS2.kogel.kipper.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>kogel.kipper</InternalName>
+  <SoundItems />
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>Kögel|Kipper</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.dumper_24</InternalName>
+      <Name>Kipper 24</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.dumper_24_sc</InternalName>
+      <Name>Kipper 24, Sliding Cover</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.dumper_27</InternalName>
+      <Name>Kipper 27</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.dumper_27_sc</InternalName>
+      <Name>Kipper 27, Sliding Cover</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Chiky Chuky</XmlDefinitionAuthor>
+</Variable>

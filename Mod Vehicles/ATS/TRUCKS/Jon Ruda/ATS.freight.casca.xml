@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Jon Ruda\ATS.freight.casca.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>freight.casca</InternalName>
+  <SoundItems />
+  <VehicleAuthor>jon ruda</VehicleAuthor>
+  <VehicleName>Jon Ruda|Freightshaker Cascadia</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>daycab.freight.casca.cabin</InternalName>
+      <Name>DayCab</Name>
+    </Variant>
+    <Variant>
+      <Group>XT Cabins</Group>
+      <InternalName>sleep60xt.freight.casca.cabin</InternalName>
+      <Name>60' XT Sleeper</Name>
+    </Variant>
+    <Variant>
+      <Group>XT Cabins</Group>
+      <InternalName>sleep72xt.freight.casca.cabin</InternalName>
+      <Name>72' XT Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sleeper48.freight.casca.cabin</InternalName>
+      <Name>48' Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sleeper60.freight.casca.cabin</InternalName>
+      <Name>60' Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sleeper72.freight.casca.cabin</InternalName>
+      <Name>72' Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
+</Variable>

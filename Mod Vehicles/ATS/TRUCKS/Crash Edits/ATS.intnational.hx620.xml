@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Cab Panels</Group>
+      <Text>Side Flares Bar Paint 56</Text>
+      <Value>sideflares.56hi_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Panels</Group>
+      <Text>Side Flares Bar Paint 73</Text>
+      <Value>sideflares.73hi_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Panels</Group>
+      <Text>Side Flares Bar Paint Day</Text>
+      <Value>sideflares.day_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Filters</Group>
+      <Text>Painted Air Cleaners</Text>
+      <Value>filters.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Filters</Group>
+      <Text>Painted Air Cleaners Lightbars</Text>
+      <Value>filters.lightbarsp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>100gal Painted Tank 6x4</Text>
+      <Value>sideskirt.100p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>100gal Painted Tank 8x6</Text>
+      <Value>sideskirt.100sp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>120gal Painted Tank 6x4</Text>
+      <Value>sideskirt.120p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>120gal Painted Tank 8x6</Text>
+      <Value>sideskirt.120sp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>140gal Painted Tank 6x4</Text>
+      <Value>sideskirt.140p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>140gal Painted Tank 8x6</Text>
+      <Value>sideskirt.140sp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>100gal Painted Tank DayCab 6x4</Text>
+      <Value>sideskirt.day_100p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>120gal Painted Tank DayCab 6x4</Text>
+      <Value>sideskirt.day_120p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>150gal Painted Tank DayCab 6x4</Text>
+      <Value>sideskirt.day_150p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>Main Mirrors</Text>
+      <Value>mirror.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudguards/Rear Fenders</Group>
+      <Text>Quarter Painted with Logo</Text>
+      <Value>mudguard.quarterlp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudguards/Rear Fenders</Group>
+      <Text>Half Painted</Text>
+      <Value>mudguard.halfp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudguards/Rear Fenders</Group>
+      <Text>Quarter Painted</Text>
+      <Value>mudguard.quarterp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Standard Sunshield Painted</Text>
+      <Value>sunshield.standard</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\rickb\Documents\Mods Studio 2\UserVehicles\ATS.intnational.hx620.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>intnational.hx620</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Big Joe Gaming, Crash</VehicleAuthor>
+  <VehicleName>International|HX620</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>daycab.intnational.hx620.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>56hirise.intnational.hx620.cabin</InternalName>
+      <Name>56" High Rise Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>73hirise.intnational.hx620.cabin</InternalName>
+      <Name>73" High Rise Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>GearJammer</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
+</Variable>

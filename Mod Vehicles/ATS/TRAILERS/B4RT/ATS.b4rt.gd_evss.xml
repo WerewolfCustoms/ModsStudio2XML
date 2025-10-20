@@ -1,121 +1,23 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>2d974743-eaa7-4dbf-a97d-ac3a87cee1d0</Id>
   <IsEnabled>true</IsEnabled>
-  <AccessoryItems>
-    <ListItem>
-	<Group>Custom Mudflaps Right Side</Group>
-      <Text>Custom painted mudflap 02</Text>
-      <Value>mudf04r.mud02cus2</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Right Side</Group>
-      <Text>Custom painted mudflap 01</Text>
-      <Value>mudf04r.mud02cus1</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Left Side</Group>
-      <Text>Custom painted mudflap 02</Text>
-      <Value>mudf04l.mud02cus2</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Left Side</Group>
-      <Text>Custom painted mudflap 01</Text>
-      <Value>mudf04l.mud02cus1</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Right Side</Group>
-      <Text>Rear Axle Custom Mudflap 02</Text>
-      <Value>mudf03r.mud02cus2</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Right Side</Group>
-	<Group>Chassis Tandem A Mudflaps</Group>
-      <Text>Rear Axle Custom Mudflap 01</Text>
-      <Value>mudf03r.mud02cus1</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Left Side</Group>
-      <Text>Custom painted mudflap 02</Text>
-      <Value>mudf03l.mud02cus2</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Left Side</Group>
-      <Text>Custom painted mudflap 01</Text>
-      <Value>mudf03l.mud02cus1</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Right Side</Group>
-      <Text>Custom painted mudflap 02</Text>
-      <Value>mudf01r.mud02cus2</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Right Side</Group>
-      <Text>Custom painted mudflap 01</Text>
-      <Value>mudf01r.mud02cus1</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Left Side</Group>
-      <Text>Custom painted mudflap 02</Text>
-      <Value>mudf01l.mud02cus2</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Left Side</Group>
-      <Text>Custom painted mudflap 01</Text>
-      <Value>mudf01l.mud02cus1</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Left Side</Group>
-      <Text>Custom painted mudflap 02</Text>
-      <Value>mudf01l.mud01cus2</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Left Side</Group>
-      <Text>Custom painted mudflap 01</Text>
-      <Value>mudf01l.mud01cus1</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Right Side</Group>
-      <Text>Custom painted mudflap 02</Text>
-      <Value>mudf01r.mud01cus2</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Right Side</Group>
-      <Text>Custom painted mudflap 01</Text>
-      <Value>mudf01r.mud01cus1</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Left Side</Group>
-      <Text>Custom painted mudflap 01</Text>
-      <Value>mudf02l.mud02cus1</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Left Side</Group>
-      <Text>Custom painted mudflap 02</Text>
-      <Value>mudf02l.mud02cus2</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Right Side</Group>
-      <Text>Custom painted mudflap 01</Text>
-      <Value>mudf02r.mud02cus1</Value>
-    </ListItem>
-    <ListItem>
-	<Group>Custom Mudflaps Right Side</Group>
-      <Text>Custom painted mudflap 02</Text>
-      <Value>mudf02r.mud02cus2</Value>
-    </ListItem>
-  </AccessoryItems>
-  <FilePath>C:\Users\kristian\Documents\Mods Studio 2\UserVehicles\All.b4rt.gd_evss.xml</FilePath>
+  <Validators />
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\B4RT\ATS.b4rt.gd_evss.xml</FilePath>
   <Game>ATS</Game>
   <InternalName>b4rt.gd_evss</InternalName>
+  <SoundItems />
   <VehicleAuthor>B4RT</VehicleAuthor>
-  <VehicleName>Great dane Everest SS</VehicleName>
+  <VehicleName>B4RT|Great dane Everest SS</VehicleName>
   <VehicleType>Trailers</VehicleType>
   <VehicleVariants>
     <Variant>
+      <AccessoryDependencies />
       <InternalName>gd00.everest.body</InternalName>
       <Name>Great Dane Everest</Name>
     </Variant>
   </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-04-22T00:00:00</DateUpdated>
 </Variable>

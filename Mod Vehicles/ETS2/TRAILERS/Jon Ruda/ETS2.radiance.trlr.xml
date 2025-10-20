@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>50b7252b-121a-404b-bf91-d994cc0de53c</Id>
+  <Id>b50ee83f-6677-46bb-ad2b-bf1b4bfefcdb</Id>
   <IsEnabled>true</IsEnabled>
   <AccessoryItems />
-  <Game>ATS</Game>
-  <InternalName>polart</InternalName>
+  <Game>ETS2</Game>
+  <InternalName>radiance.trlr</InternalName>
   <VehicleAuthor>jon-ruda</VehicleAuthor>
   <VehicleImage />
-  <VehicleName>Jon Ruda|Tanker Trailer</VehicleName>
+  <VehicleName>Jon Ruda|Radiance Trailer</VehicleName>
   <VehicleType>Trailers</VehicleType>
   <VehicleVariants>
     <Variant>
-      <InternalName>body.tanker</InternalName>
-      <Name>Standard Connectors</Name>
-    </Variant>
-    <Variant>
-      <InternalName>body.tankerc</InternalName>
-      <Name>Custom Connectors</Name>
+      <InternalName>body.body_001</InternalName>
+      <Name>Radiance Concept</Name>
     </Variant>
   </VehicleVariants>
-
 </Variable>

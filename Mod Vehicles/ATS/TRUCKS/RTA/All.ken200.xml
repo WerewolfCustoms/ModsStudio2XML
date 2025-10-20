@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\RTA Mods\All.ken200.xml</FilePath>
+  <Game>All</Game>
+  <InternalName>ken200</InternalName>
+  <SoundItems />
+  <VehicleAuthor>rta mods</VehicleAuthor>
+  <VehicleName>RTA Mods|Kenworth K200</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>sleep_flat.ken200.cabin</InternalName>
+      <Name>2.3 Flat roof sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sleep_a.ken200.cabin</InternalName>
+      <Name>Aerodyne A Cab 2.8</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sleep_b.ken200.cabin</InternalName>
+      <Name>Aerodyne B Cab 2.8</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sleep_8x4.ken200.cabin</InternalName>
+      <Name>Aerodyne A Cab 2.3 8x4 </Name>
+    </Variant>
+    <Variant>
+      <InternalName>sleep_b_8x4.ken200.cabin</InternalName>
+      <Name>Aerodyne B Cab 2.3 8x4</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-04-28T00:00:00</DateUpdated>
+</Variable>

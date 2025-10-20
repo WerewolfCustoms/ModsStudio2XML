@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>50b7252b-121a-404b-bf91-d994cc0de53c</Id>
+  <Id>b98db8f8-8444-45a1-b11e-f1d4f3b5f7e3</Id>
   <IsEnabled>true</IsEnabled>
   <AccessoryItems />
-  <Game>ATS</Game>
-  <InternalName>polart</InternalName>
+  <Game>ETS2</Game>
+  <InternalName>renault.radiance</InternalName>
   <VehicleAuthor>jon-ruda</VehicleAuthor>
   <VehicleImage />
-  <VehicleName>Jon Ruda|Tanker Trailer</VehicleName>
-  <VehicleType>Trailers</VehicleType>
+  <VehicleName>Jon Ruda|Radiance Concept</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
-      <InternalName>body.tanker</InternalName>
-      <Name>Standard Connectors</Name>
+      <InternalName>solo.renault.radiance.cabin</InternalName>
+      <Name>High</Name>
     </Variant>
     <Variant>
-      <InternalName>body.tankerc</InternalName>
-      <Name>Custom Connectors</Name>
+      <InternalName>wipers.renault.radiance.cabin</InternalName>
+      <Name>High Wipers</Name>
     </Variant>
   </VehicleVariants>
 

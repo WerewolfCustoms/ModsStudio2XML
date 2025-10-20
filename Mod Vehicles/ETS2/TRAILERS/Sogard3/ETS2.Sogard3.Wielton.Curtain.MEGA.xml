@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Game>ETS2</Game>
+  <InternalName>wielton.curtains3</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Sogard3</VehicleAuthor>
+  <VehicleName>Sogard3|Wielton Curtain Master Mega</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants />
+  <DateUpdated xsi:nil="true" />
+     <!-- Created with v2025.01 Modversion 1.0 ETS2 1.55 -->    
+  <AccessoryItems>
+    <ListItem>
+      <Description>Wielton Curtain Master Mega.\nApply Main Skin!</Description>
+      <Group>Wielton Curtain Master Mega</Group>
+      <Image>.</Image>
+      <Value>body.curtain</Value>
+      <Text>Wielton Curtain Master Mega</Text>
+    </ListItem>
+    <ListItem>
+      <Description>Wielton Curtain Master Mega Drop Side.\nApply Main Skin!</Description>
+      <Group>Wielton Curtain Master Mega Drop Side</Group>
+      <Image>.</Image>
+      <Value>body.curtain_sb</Value>
+      <Text>Wielton Curtain Master Mega Drop Side</Text>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Image>.</Image>
+      <Text>Chassis 3 Axle</Text>
+      <Value>ch_3.wielton</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Left Side</Description>
+      <Group>Sideskirts</Group>
+      <Image>.</Image>
+      <Text>Painted Cage</Text>
+      <Value>chs_f_l.cgp_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Front Right Side</Description>
+      <Group>Sideskirts</Group>
+      <Image>.</Image>
+      <Text>Painted Cage</Text>
+      <Value>chs_f_r.cgp_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Standard</Description>
+      <Group>Rear Bumper</Group>
+      <Image>.</Image>
+      <Text>Rear Bumper Standard Paint</Text>
+      <Value>r_bumper.simplep</Value>
+    </ListItem>
+    <ListItem>
+      <Description>.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>.</Image>
+      <Text>Rear Bumper Paint</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>.</Description>
+      <Group>Rear Bumper</Group>
+      <Image>.</Image>
+      <Text>Rear Bumper Paint 2</Text>
+      <Value>r_bumper.paint2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Same Template as for TIRSAN.</Description>
+      <Group>Rear Mudflap</Group>
+      <Image>.</Image>
+      <Text>Rear Mudflap</Text>
+      <Value>r_mudflap.skin</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Same Template as for TIRSAN.</Description>
+      <Group>License Plate</Group>
+      <Image>.</Image>
+      <Text>License Plate Skin</Text>
+      <Value>license_p.skin</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>

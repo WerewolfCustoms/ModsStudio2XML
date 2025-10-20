@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>50b7252b-121a-404b-bf91-d994cc0de53c</Id>
+  <Id>22413b18-f5d6-43ac-8b38-dafad417f7e7</Id>
   <IsEnabled>true</IsEnabled>
   <AccessoryItems />
-  <Game>ATS</Game>
-  <InternalName>polart</InternalName>
+  <Game>ETS2</Game>
+  <InternalName>skoshmtz</InternalName>
   <VehicleAuthor>jon-ruda</VehicleAuthor>
   <VehicleImage />
-  <VehicleName>Jon Ruda|Tanker Trailer</VehicleName>
+  <VehicleName>Jon Ruda|Schmitz Trailer</VehicleName>
   <VehicleType>Trailers</VehicleType>
   <VehicleVariants>
     <Variant>
-      <InternalName>body.tanker</InternalName>
-      <Name>Standard Connectors</Name>
-    </Variant>
-    <Variant>
-      <InternalName>body.tankerc</InternalName>
-      <Name>Custom Connectors</Name>
+      <InternalName>skoshmtz.body</InternalName>
+      <Name>Schmitz Refridgeration Trailer</Name>
     </Variant>
   </VehicleVariants>
 

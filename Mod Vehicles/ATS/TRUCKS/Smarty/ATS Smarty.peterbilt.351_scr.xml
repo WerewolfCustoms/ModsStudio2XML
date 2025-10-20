@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Door Handles</Group>
+      <Text>Dull Door w/Painted Grab Handle</Text>
+      <Value>doorhndl.dull</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Handles</Group>
+      <Text>Standard Door w/Painted Grab Handle</Text>
+      <Value>doorhndl.std</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Step</Group>
+      <Text>Step Paint</Text>
+      <Value>doorstep.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>Classic (Paint)</Text>
+      <Value>filters.0_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>Modern (Paint)</Text>
+      <Value>filters.1_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Rolled Slim (Paint)</Text>
+      <Value>bumper.0_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Frame Channel</Text>
+      <Value>bumper.chan</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bull Bar</Group>
+      <Text>Bull Bar Paint</Text>
+      <Value>f_grill.pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>WTI Full Fender</Text>
+      <Value>mudguard.ff_wti</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sleeper</Group>
+      <Text>Mercury 36in</Text>
+      <Value>sleeper.merc36</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>Classic West Coast Paint</Text>
+      <Value>mirror.wc_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Classic Paint</Text>
+      <Value>sunshield.1pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Butterfly Paint</Text>
+      <Value>sunshield.2pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Steps</Group>
+      <Text>Step Paint Dual</Text>
+      <Value>doorstep.paint_dual</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Steps</Group>
+      <Text>Step Paint Dual Rear</Text>
+      <Value>doorstep.pnt_dualr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Steps</Group>
+      <Text>Step Paint Rear</Text>
+      <Value>doorstep.pnt_r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>50 Gal Paint</Text>
+      <Value>tank.50_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>63 gal Paint</Text>
+      <Value>tank.63_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>75 Paint Rear</Text>
+      <Value>tank.75r_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>100 gal Paint</Text>
+      <Value>tank.100_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>125 gal Paint</Text>
+      <Value>tank.125_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>125 gal Paint Rear</Text>
+      <Value>tank.125r_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>200 gal Paint</Text>
+      <Value>tank.200_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>Layer Cake (Chrome)</Text>
+      <Value>filters.2_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>Caterpillar 9L699</Text>
+      <Value>filters.duel</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Rolled Double Taper (Paint)</Text>
+      <Value>bumper.1_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Frame Channel (Paint)</Text>
+      <Value>bumper.chan_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Hood</Group>
+      <Text>Paint</Text>
+      <Value>hood.pnt_54</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Hood</Group>
+      <Text>Paint</Text>
+      <Value>hood.pnt_60</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Badge</Group>
+      <Text>Oval Paint</Text>
+      <Value>f_badge.1954_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Badge</Group>
+      <Text>Square Paint</Text>
+      <Value>f_badge.1954_pntsq</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Badge</Group>
+      <Text>Oval Paint</Text>
+      <Value>f_badge.1960_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sleeper</Group>
+      <Text>Peterbilt 36"</Text>
+      <Value>sleeper.pb36_4dr</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>peterbilt.351_scr</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Smarty</VehicleAuthor>
+  <VehicleName>Smarty|Peterbilt 351</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>54dc.peterbilt.351_scr.cabin</InternalName>
+      <Name>1954 Daycab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>54m36.peterbilt.351_scr.cabin</InternalName>
+      <Name>1954 w/ 36" Mercury</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>54m36a.peterbilt.351_scr.cabin</InternalName>
+      <Name>1954 w/ 36" Mercury (Aluminum)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>60dc.peterbilt.351_scr.cabin</InternalName>
+      <Name>1960 Daycab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>60m36.peterbilt.351_scr.cabin</InternalName>
+      <Name>1960 w/ 36" Mercury</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>60m36a.peterbilt.351_scr.cabin</InternalName>
+      <Name>1960 w/ 36" Mercury (Aluminum)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>60pb36_4dr.peterbilt.351_scr.cabin</InternalName>
+      <Name>1960 w/ 36" Peterbilt</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>GearJammer</XmlDefinitionAuthor>
+  <DateUpdated>2025-05-19T00:00:00</DateUpdated>
+</Variable>

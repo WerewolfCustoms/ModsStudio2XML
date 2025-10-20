@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\RTA Mods\All.kw_t609.xml</FilePath>
+  <Game>All</Game>
+  <InternalName>kw_t609</InternalName>
+  <SoundItems />
+  <VehicleAuthor>rta mods</VehicleAuthor>
+  <VehicleName>RTA Mods|Kenworth T609</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>cab_c.kw_t609.cabin</InternalName>
+      <Name>Cab C </Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_d.kw_t609.cabin</InternalName>
+      <Name>Cab D High Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-04-28T00:00:00</DateUpdated>
+</Variable>

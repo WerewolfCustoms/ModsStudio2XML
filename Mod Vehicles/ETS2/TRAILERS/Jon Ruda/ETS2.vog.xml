@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>50b7252b-121a-404b-bf91-d994cc0de53c</Id>
+  <Id>dcdd32b0-2b80-475d-a6ad-c25e81b26f06</Id>
   <IsEnabled>true</IsEnabled>
   <AccessoryItems />
-  <Game>ATS</Game>
-  <InternalName>polart</InternalName>
+  <Game>ETS2</Game>
+  <InternalName>vog</InternalName>
   <VehicleAuthor>jon-ruda</VehicleAuthor>
   <VehicleImage />
-  <VehicleName>Jon Ruda|Tanker Trailer</VehicleName>
+  <VehicleName>Jon Ruda|Curtain Trailer</VehicleName>
   <VehicleType>Trailers</VehicleType>
   <VehicleVariants>
     <Variant>
-      <InternalName>body.tanker</InternalName>
-      <Name>Standard Connectors</Name>
-    </Variant>
-    <Variant>
-      <InternalName>body.tankerc</InternalName>
-      <Name>Custom Connectors</Name>
+      <InternalName>vog.body</InternalName>
+      <Name>Curtain Trailer</Name>
     </Variant>
   </VehicleVariants>
 

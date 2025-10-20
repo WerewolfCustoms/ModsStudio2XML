@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Pizzster Modding\ATS.389ep.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>389ep</InternalName>
+  <SoundItems />
+  <VehicleAuthor>pizzster modding</VehicleAuthor>
+  <VehicleName>Pizzster Modding|Peterbilt 389 EXHD Sept 2025</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Day Cabins</Group>
+      <InternalName>lrdaycab.389ep.cabin</InternalName>
+      <Name>Low Roof Daycab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Day Cabins</Group>
+      <InternalName>lrdcmax.389ep.cabin</InternalName>
+      <Name>Low Roof DC Max Daycab Conversion</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Day Cabins</Group>
+      <InternalName>hrfatboy.389ep.cabin</InternalName>
+      <Name>High Roof Fatboy Daycab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>36' Sleeper</Group>
+      <InternalName>lr36inch.389ep.cabin</InternalName>
+      <Name>Low Roof 36inch Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>36' Sleeper</Group>
+      <InternalName>lr36inchdw.389ep.cabin</InternalName>
+      <Name>Low Roof 36inch Flattop Diamond Windows</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>36' Sleeper</Group>
+      <InternalName>lr36inchnw.389ep.cabin</InternalName>
+      <Name>Low Roof 36inch Flattop No Side Window</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Doonan Sleeper</Group>
+      <InternalName>doonan.389ep.cabin</InternalName>
+      <Name>Doonan Conversion Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>48' Sleeper</Group>
+      <InternalName>hr48standup.389ep.cabin</InternalName>
+      <Name>High Roof 48inch Standup</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>48' Sleeper</Group>
+      <InternalName>lr48flattop.389ep.cabin</InternalName>
+      <Name>Low Roof 48inch Flattop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>48' Sleeper</Group>
+      <InternalName>lr48flattopd.389ep.cabin</InternalName>
+      <Name>Low Roof 48inch Flattop Diamond Windows</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>48' Sleeper</Group>
+      <InternalName>lr48inchsup.389ep.cabin</InternalName>
+      <Name>Low Roof 48inch Standup</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>63' Sleeper</Group>
+      <InternalName>hr63standup.389ep.cabin</InternalName>
+      <Name>High Roof 63inch Standup</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>63' Sleeper</Group>
+      <InternalName>lr63flattop.389ep.cabin</InternalName>
+      <Name>Low Roof 63inch Flattop Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>63' Sleeper</Group>
+      <InternalName>lr63standup.389ep.cabin</InternalName>
+      <Name>Low Roof 63inch Standup Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>63' Sleeper</Group>
+      <InternalName>lr63stndupdw.389ep.cabin</InternalName>
+      <Name>Low Roof 63inch Standup Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>72' Sleeper</Group>
+      <InternalName>hr72ultra.389ep.cabin</InternalName>
+      <Name>High Roof 72inch Ultra Cab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>72' Sleeper</Group>
+      <InternalName>lr72chopped.389ep.cabin</InternalName>
+      <Name>Low Roof 72inch Custom Chopped Roof</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>82' Sleeper</Group>
+      <InternalName>lr82custom.389ep.cabin</InternalName>
+      <Name>Low Roof 82inch Custom Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>82' Sleeper</Group>
+      <InternalName>lr82customc.389ep.cabin</InternalName>
+      <Name>Low Roof 82inch Chrome Rear Custom Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Mercury Sleeper</Group>
+      <InternalName>merc_p.389ep.cabin</InternalName>
+      <Name>Mercury Painted</Name>
+    </Variant>
+     <Variant>
+      <AccessoryDependencies />
+      <Group>Mercury Sleeper</Group>
+      <InternalName>merc_c.389ep.cabin</InternalName>
+      <Name>Mercury Chrome</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-09-24T00:00:00</DateUpdated>
+
+</Variable>

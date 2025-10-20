@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\RTA Mods\All.ken108.xml</FilePath>
+  <Game>All</Game>
+  <InternalName>ken108</InternalName>
+  <SoundItems />
+  <VehicleAuthor>rta mods</VehicleAuthor>
+  <VehicleName>RTA Mods|Kenworth K108</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>sleep_a.ken108.cabin</InternalName>
+      <Name>Aerodyne A Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>sleep_b.ken108.cabin</InternalName>
+      <Name>Aerodyne B Cab</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-04-28T00:00:00</DateUpdated>
+</Variable>
