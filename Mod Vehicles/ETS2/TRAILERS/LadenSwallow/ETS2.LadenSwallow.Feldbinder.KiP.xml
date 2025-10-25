@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+   <!-- Created with v2025.01 Modversion 2.1/6.0 -->
+  <Game>ETS2</Game>
+  <InternalName>feldbinder.kip</InternalName>
+  <SoundItems />
+  <VehicleAuthor>LadenSwallow</VehicleAuthor>
+  <VehicleName>LadenSwallow|Feldbinder KIP</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Description />
+      <Group />
+      <Image />
+      <InternalName>body.cistern302</InternalName>
+      <Name>Silo 30m³</Name>
+    </Variant>
+    <Variant>
+      <Description />
+      <Group />
+      <Image />
+      <InternalName>body.cistern423</InternalName>
+      <Name>Silo 42m³</Name>
+    </Variant>
+    <Variant>
+      <Description />
+      <Group />
+      <Image />
+      <InternalName>body.cistern523</InternalName>
+      <Name>Silo 52m³</Name>
+    </Variant>
+    <Variant>
+      <Description />
+      <Group>ADR Body</Group>
+      <Image />
+      <InternalName>body.silo603adr</InternalName>
+      <Name>Silo 60m³ ADR</Name>
+    </Variant>
+    <Variant>
+      <Description>3 Axles Version</Description>
+      <Group />
+      <InternalName>body.cistern633</InternalName>
+      <Name>Silo 63m³</Name>
+    </Variant>
+    <Variant>
+      <Description />
+      <Group>ADR Body</Group>
+      <Image />
+      <InternalName>body.silo633adr</InternalName>
+      <Name>Silo 63m³ ADR S+D</Name>
+    </Variant>
+    <Variant>
+      <Description>4 Axles Version</Description>
+      <Group />
+      <Image />
+      <InternalName>body.cistern634</InternalName>
+      <Name>Silo 63m³</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <DateUpdated>2025-10-23T00:00:00</DateUpdated>
+  <AccessoryItems>
+    <ListItem>
+      <Description>Rockinger</Description>
+      <Group>Drawbar * Dolly Option *</Group>
+      <Image />
+      <Text>Rockinger Drawbar</Text>
+      <Value>drawbar.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>VBG</Description>
+      <Group>Drawbar * Dolly Option *</Group>
+      <Image />
+      <Text>VBG Drawbar</Text>
+      <Value>drawbar.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Frame * Dolly Option *</Group>
+      <Image />
+      <Text>custom paint</Text>
+      <Value>frame.dolly_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis * Dolly Option *</Group>
+      <Image />
+      <Text>TICK EVERY BOX IN THIS GROUP. Custom Paint</Text>
+      <Value>chassis.dolly_hct</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis * Dolly Option *</Group>
+      <Image />
+      <Text />
+      <Value>chassis.dolly_hctl</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis * Dolly Option *</Group>
+      <Image />
+      <Text />
+      <Value>chassis.dolly_hcts</Value>
+    </ListItem>	
+    <ListItem>
+      <Description />
+      <Group>Chassis * Dolly Option *</Group>
+      <Image />
+      <Text />
+      <Value>chassis.dolly95</Value>
+    </ListItem>		
+    <ListItem>
+      <Description />
+      <Group>Chassis * Dolly Option *</Group>
+      <Image />
+      <Text />
+      <Value>chassis.dolly116</Value>
+    </ListItem>		
+    <ListItem>
+      <Description />
+      <Group>Chassis * Dolly Option *</Group>
+      <Image />
+      <Text />
+      <Value>chassis.dolly136</Value>
+    </ListItem>		
+    <ListItem>
+      <Description />
+      <Group>Chassis * Dolly Option *</Group>
+      <Image />
+      <Text />
+      <Value>chassis.tandem_95</Value>
+    </ListItem>	
+    <ListItem>
+      <Description />
+      <Group>Chassis * Dolly Option *</Group>
+      <Image />
+      <Text />
+      <Value>chassis.tandem_116</Value>
+    </ListItem>		
+    <ListItem>
+      <Description />
+      <Group>Chassis * Dolly Option *</Group>
+      <Image />
+      <Text />
+      <Value>chassis.tandem_1162</Value>
+    </ListItem>		
+    <ListItem>
+      <Description />
+      <Group>Chassis * Dolly Option *</Group>
+      <Image />
+      <Text />
+      <Value>chassis.tandem_3ax</Value>
+    </ListItem>		
+    <ListItem>
+      <Description />
+      <Group>Chassis * Dolly Option *</Group>
+      <Image />
+      <Text />
+      <Value>chassis.tandem_4ax</Value>
+    </ListItem>		
+    <ListItem>
+      <Description />
+      <Group>Chassis</Group>
+      <Image />
+      <Text>TICK EVERY BOX IN THIS GROUP. Custom Paint</Text>
+      <Value>chassis.chassis95_0</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis</Group>
+      <Image />
+      <Text />
+      <Value>chassis.chs95_hook</Value>
+    </ListItem>		
+    <ListItem>
+      <Description />
+      <Group>Chassis</Group>
+      <Image />
+      <Text />
+      <Value>chassis.chassis116_0</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis</Group>
+      <Image />
+      <Text />
+      <Value>chassis.chs116_hook</Value>
+    </ListItem>	
+    <ListItem>
+      <Description />
+      <Group>Chassis</Group>
+      <Image />
+      <Text />
+      <Value>chassis.chassis132_0</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassis</Group>
+      <Image />
+      <Text />
+      <Value>chassis.chs136_0</Value>
+    </ListItem>		
+    <ListItem>
+      <Description />
+      <Group>Chassis</Group>
+      <Image />
+      <Text />
+      <Value>chassis.chs136_4</Value>
+    </ListItem>			
+    <ListItem>
+      <Description />
+      <Group>Chassis</Group>
+      <Image />
+      <Text />
+      <Value>chassis.chs1364_hook</Value>
+    </ListItem>	
+    <ListItem>
+      <Description />
+      <Group>Chassis</Group>
+      <Image />
+      <Text />
+      <Value>chassis.chs136_hook</Value>
+    </ListItem>		
+    <ListItem>
+      <Description />
+      <Group>Chassis</Group>
+      <Image />
+      <Text />
+      <Value>chassis.chs140_0</Value>
+    </ListItem>	
+    <ListItem>
+      <Description />
+      <Group>Chassis</Group>
+      <Image />
+      <Text />
+      <Value>chassis.chs302_cet</Value>
+    </ListItem>	
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Toolbox L</Text>
+      <Value>s_protect.l1paint95d</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Toolbox L+R</Text>
+      <Value>s_protect.l2paint95d</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>Simple paint with cover</Text>
+      <Value>s_protect.llfpaint95d</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>Simple paint</Text>
+      <Value>s_protect.llpaint95d</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Slot L</Text>
+      <Value>s_protect.mlpaint95d</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Slot L+R</Text>
+      <Value>s_protect.mmpaint95d</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Toolbox L and slot L</Text>
+      <Value>s_protect.slpaint95d</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Toolbox L and slot L+R</Text>
+      <Value>s_protect.smpaint95d</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Chrome Box</Text>
+      <Value>s_protect.cmpaint95</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Double Chrome Box</Text>
+      <Value>s_protect.dcmpaint95</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Double Painted Box</Text>
+      <Value>s_protect.dpmpaint95</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>steel with Double Painted Box</Text>
+      <Value>s_protect.dpmsteel95</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Toolbox L</Text>
+      <Value>s_protect.l1paint130</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Toolbox L</Text>
+      <Value>s_protect.l1paint136</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Toolbox L+R</Text>
+      <Value>s_protect.l2paint130</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Toolbox L+R</Text>
+      <Value>s_protect.l2paint136</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>Simple paint with cover</Text>
+      <Value>s_protect.llfpaint130</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>Simple paint with cover</Text>
+      <Value>s_protect.llfpaint136</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>Simple paint</Text>
+      <Value>s_protect.llpaint130</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>Simple paint</Text>
+      <Value>s_protect.llpaint136</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Slot L</Text>
+      <Value>s_protect.mlpaint130</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Slot L</Text>
+      <Value>s_protect.mlpaint136</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Slot L+R</Text>
+      <Value>s_protect.mmpaint130</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint</Text>
+      <Value>s_protect.mmpaint130c</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Slot L+R</Text>
+      <Value>s_protect.mmpaint136</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint</Text>
+      <Value>s_protect.mmpaint95</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Toolbox L and slot L</Text>
+      <Value>s_protect.slpaint130</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Toolbox L and slot L</Text>
+      <Value>s_protect.slpaint136</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Toolbox L and slot L+R</Text>
+      <Value>s_protect.smpaint130</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Toolbox L</Text>
+      <Value>s_protect.smpaint130c</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Toolbox L and slot L+R</Text>
+      <Value>s_protect.smpaint136</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>paint with Standard Box</Text>
+      <Value>s_protect.smpaint95</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>Double Door paint</Text>
+      <Value>s_lbox.dual_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>Double Door paint</Text>
+      <Value>s_rbox.dual_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Tubes</Group>
+      <Image />
+      <Text>paint</Text>
+      <Value>s_tubes.paint30</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Tubes</Group>
+      <Image />
+      <Text>paint</Text>
+      <Value>s_tubes.paint95</Value>
+    </ListItem>	
+    <ListItem>
+      <Description />
+      <Group>Tubes</Group>
+      <Image />
+      <Text>paint</Text>
+      <Value>s_tubes.paint95d</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Tubes</Group>
+      <Image />
+      <Text>paint</Text>
+      <Value>s_tubes.paint116</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Tubes</Group>
+      <Image />
+      <Text>paint</Text>
+      <Value>s_tubes.paint116d</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Tubes</Group>
+      <Image />
+      <Text>paint</Text>
+      <Value>s_tubes.paint136</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Tubes</Group>
+      <Image />
+      <Text>paint</Text>
+      <Value>s_tubes.paint140</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Tubes</Group>
+      <Image />
+      <Text>paint + chrome</Text>
+      <Value>s_tubes.pnt_chr30</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Tubes</Group>
+      <Image />
+      <Text>paint + chrome</Text>
+      <Value>s_tubes.pnt_chr95</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Tubes</Group>
+      <Image />
+      <Text>paint + chrome</Text>
+      <Value>s_tubes.pnt_chr95d</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Tubes</Group>
+      <Image />
+      <Text>paint + chrome</Text>
+      <Value>s_tubes.pnt_chr116</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Tubes</Group>
+      <Image />
+      <Text>paint + chrome</Text>
+      <Value>s_tubes.pnt_chr116d</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Tubes</Group>
+      <Image />
+      <Text>paint + chrome</Text>
+      <Value>s_tubes.pnt_chr136</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Tubes</Group>
+      <Image />
+      <Text>paint + chrome</Text>
+      <Value>s_tubes.pnt_chr140</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders</Group>
+      <Image />
+      <Text>paint</Text>
+      <Value>t_fender.paint_2axw</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Tandem versions</Description>
+      <Group>Fenders</Group>
+      <Image />
+      <Text>paint</Text>
+      <Value>t_fender.paint_2ax</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders</Group>
+      <Image />
+      <Text>paint</Text>
+      <Value>t_fender.paint_3ax</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders</Group>
+      <Image />
+      <Text>paint</Text>
+      <Value>t_fender.paint_4ax</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders</Group>
+      <Image />
+      <Text>paint + stripe</Text>
+      <Value>t_fender.paints_2axw</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Tandem versions</Description>
+      <Group>Fenders</Group>
+      <Image />
+      <Text>paint + stripe</Text>
+      <Value>t_fender.paints_2ax</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders</Group>
+      <Image />
+      <Text>paint + stripe</Text>
+      <Value>t_fender.paints_3ax</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders</Group>
+      <Image />
+      <Text>paint + stripe</Text>
+      <Value>t_fender.paints_4ax</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Also on Dolly</Description>
+      <Group>Fenders * Dolly Option *</Group>
+      <Image />
+      <Text>paint Parlok Fenders A</Text>
+      <Value>ekeri_fend_a.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Also on Dolly</Description>
+      <Group>Fenders * Dolly Option *</Group>
+      <Image />
+      <Text>paint Parlok Fenders B</Text>
+      <Value>ekeri_fend_b.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders * Dolly Option *</Group>
+      <Image />
+      <Text>paint Parlok Fenders D</Text>
+      <Value>ekeri_fend_d.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders * Dolly Option *</Group>
+      <Image />
+      <Text>paint Parlok Fenders w/Reflector D</Text>
+      <Value>ekeri_fend_d.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders * Dolly Option *</Group>
+      <Image />
+      <Text>paint Parlok Fenders E</Text>
+      <Value>ekeri_fend_e.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders * Dolly Option *</Group>
+      <Image />
+      <Text>paint Parlok Fenders w/Reflector E</Text>
+      <Value>ekeri_fend_e.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Bumpers * Dolly Option *</Group>
+      <Image />
+      <Text>custom paint</Text>
+      <Value>r_bumper.dolly</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Bumpers * Dolly Option *</Group>
+      <Image />
+      <Text>custom paint</Text>
+      <Value>r_bumper.dolly_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Guard</Group>
+      <Image />
+      <Text>Rear Guard</Text>
+      <Value>r_guard.tyllis</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Tyliis</Description>
+      <Group>Rear Lights</Group>
+      <Image />
+      <Text>Custom Lights</Text>
+      <Value>r_lights.custom</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Bumpers</Group>
+      <Image />
+      <Text>custom paint</Text>
+      <Value>r_bumper.cushpaint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Bumpers</Group>
+      <Image />
+      <Text>custom paint</Text>
+      <Value>r_bumper.cuspaint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Bumpers</Group>
+      <Image />
+      <Text>exclusive paint</Text>
+      <Value>r_bumper.exchpaint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Bumpers</Group>
+      <Image />
+      <Text>exclusive paint</Text>
+      <Value>r_bumper.excpaint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Bumpers</Group>
+      <Image />
+      <Text>standard paint</Text>
+      <Value>r_bumper.stdhpaint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Bumpers</Group>
+      <Image />
+      <Text>standard paint</Text>
+      <Value>r_bumper.stdpaint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Custom Option</Description>
+      <Group>License Plate</Group>
+      <Image />
+      <Text>Custom License Plate</Text>
+      <Value>r_lplate.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Custom Option</Description>
+      <Group>Rear Mudflap</Group>
+      <Image />
+      <Text>Custom Paintjob</Text>
+      <Value>r_mudflap.paintable</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>
