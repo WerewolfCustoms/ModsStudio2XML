@@ -1,49 +1,177 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>a6757d1d-d5ce-46bb-a459-e5f345a24675</Id>
   <IsEnabled>true</IsEnabled>
+  <Validators />
   <AccessoryItems>
     <ListItem>
-      <Description>See screenshot for location.</Description>
-      <Group>Sun Shield</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxd\sunshield.paint_slh.jpg</Image>
-      <Text>Paint (Sleeper High Cab)</Text>
-      <Value>sunshield.paint_slh</Value>
+      <Group>Main Mirrors</Group>
+      <Text>Plastic (All Cabins)</Text>
+      <Value>mirror.plast</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
-      <Group>Mirrors</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxd\mirror.cam_plast.jpg</Image>
-      <Text>Plastic Camera (Day and Sleeper cabins)</Text>
-      <Value>mirror.cam_plast</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.</Description>
-      <Group>Mirrors</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxd\mirror.cam_semi.jpg</Image>
-      <Text>Plastic Paint Camera (Day and Sleeper cabins)</Text>
-      <Value>mirror.cam_semi</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.</Description>
-      <Group>Mirrors</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxd\mirror.cam_semi_h.jpg</Image>
-      <Text>Plastic Paint Camera (Sleeper High cabin)</Text>
-      <Value>mirror.cam_semi_h</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.</Description>
-      <Group>Mirrors</Group>
+      <Group>Main Mirrors</Group>
       <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxd\mirror.semi.jpg</Image>
-      <Text>Plastic Paint (All cabins)</Text>
+      <Text>Painted &amp; Plastic (All Cabins)</Text>
       <Value>mirror.semi</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
-      <Group>Sideskirt</Group>
+      <Group>Main Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxd\mirror.cam_semi.jpg</Image>
+      <Text>DAF Digital Vision (Day Cab &amp; Sleeper)</Text>
+      <Value>mirror.cam_semi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Main Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxd\mirror.cam_semi_h.jpg</Image>
+      <Text>DAF Digital Vision (Sleeper High)</Text>
+      <Value>mirror.cam_semi_h</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxd\sunshield.paint_slh.jpg</Image>
+      <Text>Painted (Only Sleeper High)</Text>
+      <Value>sunshield.paint_slh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Painted (Day Cab)</Text>
+      <Value>f_bumper.paint_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Robust (Day Cab)</Text>
+      <Value>f_bumper.robust_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Robust, Painted (Day Cab)</Text>
+      <Value>f_bumper.robust_p_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Painted (Sleeper &amp; Sleeper High)</Text>
+      <Value>f_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Robust (Sleeper &amp; Sleeper High)</Text>
+      <Value>f_bumper.robust</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Robust, Painted (Sleeper &amp; Sleeper High)</Text>
+      <Value>f_bumper.robust_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>Stock (Day Cab)</Text>
+      <Value>r_deflector.day_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>Painted (Day Cab)</Text>
+      <Value>r_deflector.day_long</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>Painted II (Day Cab)</Text>
+      <Value>r_deflector.day_long2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>Stock (Sleeper)</Text>
+      <Value>r_deflector.sl_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>Painted (Sleeper)</Text>
+      <Value>r_deflector.sl_long</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>Painted II (Sleeper)</Text>
+      <Value>r_deflector.sl_long2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>Stock (Sleeper High)</Text>
+      <Value>r_deflector.slh_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>Painted (Sleeper High)</Text>
+      <Value>r_deflector.slh_long</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>Painted II (Sleeper High)</Text>
+      <Value>r_deflector.slh_high</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>Painted III (Sleeper High)</Text>
+      <Value>r_deflector.slh_high2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Deflectors</Group>
+      <Text>Stock (Day Cab)</Text>
+      <Value>s_deflector.day_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Deflectors</Group>
+      <Text>Stock (Sleeper &amp; High Sleeper)</Text>
+      <Value>s_deflector.sl_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Deflectors</Group>
+      <Text>Aero (Sleeper &amp; High Sleeper)</Text>
+      <Value>s_deflector.sl_stock_a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Handles</Group>
+      <Text>Painted</Text>
+      <Value>doorhndl.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender Bottom</Group>
+      <Text>Painted (Day Cab)</Text>
+      <Value>f_fender_chs.paint_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender Bottom</Group>
+      <Text>Painted (Day Cab)</Text>
+      <Value>f_fender_chs.paint_t_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender Bottom</Group>
+      <Text>Painted (Sleeper &amp; Sleeper High)</Text>
+      <Value>f_fender_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender Bottom</Group>
+      <Text>Painted (Sleeper &amp; Sleeper High)</Text>
+      <Value>f_fender_chs.paint_t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Window</Group>
+      <Text>None (Day Cab)</Text>
+      <Value>rear_window.std_a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Window</Group>
+      <Text>Window (Day Cab)</Text>
+      <Value>rear_window.win_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirts</Group>
       <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAFxd\sideskirt.pnt_4x2s.jpg</Image>
-      <Text>Paint 4x2</Text>
+      <Text>Painted</Text>
       <Value>sideskirt.pnt_4x2s</Value>
     </ListItem>
   </AccessoryItems>
@@ -62,20 +190,24 @@
   <VehicleType>NewTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xd_day.jpg</Image>
       <InternalName>day.daf.xd.cabin</InternalName>
       <Name>Day Cab</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xd_slp.jpg</Image>
       <InternalName>sl.daf.xd.cabin</InternalName>
       <Name>Sleeper</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\xd_slph.jpg</Image>
       <InternalName>slh.daf.xd.cabin</InternalName>
       <Name>Sleeper High</Name>
     </Variant>
   </VehicleVariants>
-  <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+  <XmlDefinitionAuthor>Chiky Chuky</XmlDefinitionAuthor>
+  <DateUpdated>2025-10-27T00:00:00</DateUpdated>
 </Variable>
