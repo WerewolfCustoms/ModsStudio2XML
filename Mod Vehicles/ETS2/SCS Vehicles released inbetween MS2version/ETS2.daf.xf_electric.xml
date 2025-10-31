@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Description />
+      <Text>Door Handle Paint</Text>
+      <Value>doorhndl.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Text>Front Bumper Paint</Text>
+      <Value>f_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Text>Front Fender Aero Paint</Text>
+      <Value>f_fender_chs.painta</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Text>Front Intake Paint</Text>
+      <Value>f_intake_cab.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Text>Front Intake Chassis Paint</Text>
+      <Value>f_intake_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Text>Roof Deflector Paint</Text>
+      <Value>r_deflector.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Text>Sideskirt 4x2 Paint</Text>
+      <Value>sideskirt.pnt_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Text>Side Deflector Paint</Text>
+      <Value>s_deflector.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\kdout\Documents\Mods Studio 2\UserVehicles\ETS2.daf.xf_electric.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>daf.xf_electric</InternalName>
+  <SoundItems />
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>DAF XF Electric</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>slh.daf.xf_electric.cabin</InternalName>
+      <Name>Sleeper High</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>FSimulation</XmlDefinitionAuthor>
+  <DateUpdated>2025-10-18T00:00:00</DateUpdated>
+</Variable>
