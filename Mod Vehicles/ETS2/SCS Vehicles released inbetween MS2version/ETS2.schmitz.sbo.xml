@@ -4,6 +4,7 @@
   <Id>463cad45-86fb-4b25-aae6-2cc5af2c01f8</Id>
   <IsEnabled>true</IsEnabled>
   <Validators />
+   <!-- NO Changes from the DLC Schmitz ETS2 1.56 -->
   <AccessoryItems>
     <ListItem>
       <Group>Trailer Rear 13M</Group>
@@ -321,12 +322,11 @@
       <Value>r_bumper.paint</Value>
     </ListItem>
   </AccessoryItems>
-  <FilePath>C:\Users\Jaime\Documents\Mods Studio 2\UserVehicles\ETS2.schmitz.sbo.xml</FilePath>
   <Game>ETS2</Game>
   <InternalName>schmitz.sbo</InternalName>
   <SoundItems />
   <VehicleAuthor>SCS Software</VehicleAuthor>
-  <VehicleName>Schmitz|S.BO Express</VehicleName>
+  <VehicleName>DLC Schmitz|S.BO Express</VehicleName>
   <VehicleType>Trailers</VehicleType>
   <VehicleVariants>
     <Variant>
