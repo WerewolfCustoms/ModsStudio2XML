@@ -68,7 +68,6 @@
       <Value>w_mudflap.paint</Value>
     </ListItem>
   </AccessoryItems>
-  <FilePath>C:\Users\Micke\Documents\Mods Studio 2\UserVehicles\ETS2.Obelihnio.Fliegl.SDS350.Mega.xml</FilePath>
   <Game>ETS2</Game>
   <InternalName>fliegl.sds350.mega</InternalName>
   <SoundItems />
@@ -93,4 +92,5 @@
   </VehicleVariants>
   <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
   <DateUpdated>2025-11-01T00:00:00</DateUpdated>
+
 </Variable>
