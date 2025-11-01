@@ -78,14 +78,14 @@
     <Variant>
       <AccessoryDependencies />
       <Description>Curtain Matt</Description>
-      <Image>x</Image>
+      <Image />
       <InternalName>body.sds350_ct</InternalName>
       <Name>Fliegl SDS350 Mega</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
       <Description>Curtain Gloss</Description>
-      <Image>x</Image>
+      <Image />
       <InternalName>body.sds350_ct2</InternalName>
       <Name>Fliegl SDS350 Mega</Name>
     </Variant>
@@ -94,3 +94,4 @@
   <DateUpdated>2025-11-01T00:00:00</DateUpdated>
 
 </Variable>
+
