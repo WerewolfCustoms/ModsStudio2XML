@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Description>rear left side box</Description>
+      <Group>SIDES</Group>
+      <Image />
+      <Text>Paint Box</Text>
+      <Value>chs_r_l.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description>rear right side box</Description>
+      <Group>SIDES</Group>
+      <Image />
+      <Text>Paint Box</Text>
+      <Value>chs_r_r.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>FRONT BODY</Group>
+      <Image />
+      <Text>Toolbox</Text>
+      <Value>f_body.f_toolbox</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>REAR BUMPER</Group>
+      <Image />
+      <Text>Ecopoint 1 lamps</Text>
+      <Value>r_bumper.ecopoint1</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>REAR BUMPER</Group>
+      <Image />
+      <Text>Ecopoint 1 lamps (SCS plate)</Text>
+      <Value>r_bumper.ecopoint1s</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>REAR BUMPER</Group>
+      <Image />
+      <Text>Ecopoint 2 lamps</Text>
+      <Value>r_bumper.ecopoint2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>REAR BUMPER</Group>
+      <Image />
+      <Text>Ecopoint 2 lamps (SCS plate)</Text>
+      <Value>r_bumper.ecopoint2s</Value>
+    </ListItem>
+    <ListItem>
+      <Description>rear big mudflap</Description>
+      <Group>MUDFLAPS</Group>
+      <Image />
+      <Text>Paintable Rear Mudflap</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>wheel mudflaps</Description>
+      <Group>MUDFLAPS</Group>
+      <Image />
+      <Text>Paintable Wheel Mudflaps</Text>
+      <Value>w_mudflap.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\Micke\Documents\Mods Studio 2\UserVehicles\ETS2.Obelihnio.Fliegl.SDS350.Mega.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>fliegl.sds350.mega</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Obelihnio</VehicleAuthor>
+  <VehicleName>Obelihnio|Fliegl SDS 350 Mega</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Curtain Matt</Description>
+      <Image>x</Image>
+      <InternalName>body.sds350_ct</InternalName>
+      <Name>Fliegl SDS350 Mega</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Curtain Gloss</Description>
+      <Image>x</Image>
+      <InternalName>body.sds350_ct2</InternalName>
+      <Name>Fliegl SDS350 Mega</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <DateUpdated>2025-11-01T00:00:00</DateUpdated>
+</Variable>
