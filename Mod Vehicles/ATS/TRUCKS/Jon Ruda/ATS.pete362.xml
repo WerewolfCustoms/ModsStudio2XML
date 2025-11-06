@@ -873,6 +873,12 @@
   <VehicleName>Jon Ruda|Pete 362</VehicleName>
   <VehicleType>NewTrucks</VehicleType>
   <VehicleVariants>
+     <Variant>
+      <AccessoryDependencies />
+      <Group>63' Cabin's</Group>
+      <InternalName>chs4x2.63.pete362.cabin</InternalName>
+      <Name>63' BBC Cab</Name>
+    </Variant>
     <Variant>
       <AccessoryDependencies />
       <Group>63' Cabin's</Group>
@@ -969,25 +975,25 @@
     <Variant>
       <AccessoryDependencies />
       <Group>90' Cabin's</Group>
-      <InternalName>chs180.110.pete362.cabin</InternalName>
+      <InternalName>chs180.90.pete362.cabin</InternalName>
       <Name>90' BBC Cab</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
       <Group>90' Cabin's</Group>
-      <InternalName>chs190.110.pete362.cabin</InternalName>
+      <InternalName>chs190.90.pete362.cabin</InternalName>
       <Name>90' BBC Cab</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
       <Group>90' Cabin's</Group>
-      <InternalName>chs240.110.pete362.cabin</InternalName>
+      <InternalName>chs240.90.pete362.cabin</InternalName>
       <Name>90' BBC Cab</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
       <Group>90' Cabin's</Group>
-      <InternalName>chs260.110.pete362.cabin</InternalName>
+      <InternalName>chs260.90.pete362.cabin</InternalName>
       <Name>90' BBC Cab</Name>
     </Variant>
 	
@@ -1001,24 +1007,6 @@
       <AccessoryDependencies />
       <Group>110' Cabin's</Group>
       <InternalName>chs240.110.pete362.cabin</InternalName>
-      <Name>110' BBC Cab</Name>
-    </Variant>
-    <Variant>
-      <AccessoryDependencies />
-      <Group>110' Cabin's</Group>
-      <InternalName>chs260.110.pete362.cabin</InternalName>
-      <Name>110' BBC Cab</Name>
-    </Variant>
-    <Variant>
-      <AccessoryDependencies />
-      <Group>110' Cabin's</Group>
-      <InternalName>chs260.110.pete362.cabin</InternalName>
-      <Name>110' BBC Cab</Name>
-    </Variant>
-    <Variant>
-      <AccessoryDependencies />
-      <Group>110' Cabin's</Group>
-      <InternalName>chs260.110.pete362.cabin</InternalName>
       <Name>110' BBC Cab</Name>
     </Variant>
     <Variant>
