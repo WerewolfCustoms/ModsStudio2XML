@@ -153,19 +153,19 @@
       <Description>SUPER Logo Front R-Series ONLY</Description>
       <Group>Badges</Group>
       <Text>SUPER Logo Front Grill LOW</Text>
-      <Value>f_equip.super_lo_gr</Value>
+      <Value>f_equip.super_lo_pnt</Value>
     </ListItem>
     <ListItem>
       <Description>SUPER Logo Front R&amp;S-Series BOTH</Description>
       <Group>Badges</Group>
       <Text>SUPER Logo Front Grill MID</Text>
-      <Value>f_equip.super_md_gr</Value>
+      <Value>f_equip.super_md_pnt</Value>
     </ListItem>
     <ListItem>
       <Description>SUPER Logo Front S-Series ONLY</Description>
       <Group>Badges</Group>
       <Text>SUPER Logo Front Grill HIGH</Text>
-      <Value>f_equip.super_hi_gr</Value>
+      <Value>f_equip.super_hi_pnt</Value>
     </ListItem>
     <ListItem>
       <Description>\nWARNING: This accessory overrides Front Mask (Chassis).</Description>
