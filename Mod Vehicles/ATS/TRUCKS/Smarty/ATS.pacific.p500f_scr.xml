@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>b2cb47e0-cab1-4172-8072-7adc67ba32c1</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Straight Paint</Text>
+      <Value>bumper.st_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Straight Paint (Tow Pin)</Text>
+      <Value>bumper.st_pnt_tow</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Tapered Paint</Text>
+      <Value>bumper.tp_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Tapered Paint (Tow Pin)</Text>
+      <Value>bumper.tp_pnt_tow</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Hood</Group>
+      <Text>Hood</Text>
+      <Value>hood.std</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshields</Group>
+      <Text>Stock</Text>
+      <Value>sunshield.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshields</Group>
+      <Text>Lund</Text>
+      <Value>sunshield.lund</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tanks</Group>
+      <Text>Aluminum II, 160 Imp Gal</Text>
+      <Value>tank.alu2_160</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tanks</Group>
+      <Text>Chrome II, 160 Imp Gal</Text>
+      <Value>tank.chr2_160</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>pacific.p500f_scr</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Smarty</VehicleAuthor>
+  <VehicleName>Smarty|Pacific P-500F</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>daycab.pacific.p500f_scr.cabin</InternalName>
+      <Name>Daycab</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>IhorRadchenko</XmlDefinitionAuthor>
+</Variable>
