@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>2687ae29-b79e-4193-984b-c20f93f23c33</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+   <!-- NO Changes from the DLC Schmitz ETS2 1.56 -->
+  <Game>ETS2</Game>
+  <InternalName>schmitz.ski</InternalName>
+  <SoundItems />
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>DLC Schmitz|Dump Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Small Light Dump Trailer</Group>
+      <InternalName>body.light_24</InternalName>
+      <Name>S.KI Light 24 7.2 SR without sliding cover</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Small Light Dump Trailer</Group>
+      <InternalName>body.light_24_sc</InternalName>
+      <Name>S.KI Light 24 7.2 SR with sliding cover</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Large Light Dump Trailer</Group>
+      <InternalName>body.light_33_sc</InternalName>
+      <Name>S.KI Light 33 7.2 SR with sliding cover</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Large Light Dump Trailer</Group>
+      <InternalName>body.light_33</InternalName>
+      <Name>S.KI Light 33 7.2 SR without sliding cover</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Small Solid Dumper</Group>
+      <InternalName>body.solid_24</InternalName>
+      <Name>S.KI Solid 24/7.2 SR without sliding cover</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Small Solid Dumper</Group>
+      <InternalName>body.solid_24_sc</InternalName>
+      <Name>S.KI Solid 24/7.2 SR with sliding cover</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Large Solid Dumper </Group>
+      <InternalName>body.solid_33</InternalName>
+      <Name>S.KI Solid 33/9.6 AK without sliding cover</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Large Solid Dumper </Group>
+      <InternalName>body.solid_33_sc</InternalName>
+      <Name>S.KI Solid 33/9.6 AK with sliding cover</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <AccessoryItems>
+    <ListItem>
+      <Description>Painted side protection</Description>
+      <Group>Left side painted rail</Group>
+      <Text>Painted left side protection 2.24</Text>
+      <Value>chs_f_l.cgp_2_24</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection</Description>
+      <Group>Left side painted rail</Group>
+      <Text>Painted left side protection 3.24</Text>
+      <Value>chs_f_l.cgp_3_24</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection</Description>
+      <Group>Left side painted rail</Group>
+      <Text>Painted left side protection 3.33</Text>
+      <Value>chs_f_l.cgp_3_33</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection + extinguisher</Description>
+      <Group>Left side painted rail</Group>
+      <Text>Painted left side protection with extinguisher 2.24</Text>
+      <Value>chs_f_l.cgp_ext_2_24</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection + extinguisher</Description>
+      <Group>Left side painted rail</Group>
+      <Text>Painted left side protection with extinguisher 3.24</Text>
+      <Value>chs_f_l.cgp_ext_2_24</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection + extinguisher</Description>
+      <Group>Left side painted rail</Group>
+      <Text>Painted left side protection with extinguisher 3.33</Text>
+      <Value>chs_f_l.cgp_ext_3_33</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection + water tank</Description>
+      <Group>Left side painted rail</Group>
+      <Text>Painted left side protection with water tank 2.24</Text>
+      <Value>chs_f_l.cgp_wt_2_24</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection + water tank</Description>
+      <Group>Left side painted rail</Group>
+      <Text>Painted left side protection with water tank 3.24</Text>
+      <Value>chs_f_l.cgp_wt_3_24</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection + water tank</Description>
+      <Group>Left side painted rail</Group>
+      <Text>Painted left side protection with water tank 3.33</Text>
+      <Value>chs_f_l.cgp_wt_3_33</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection</Description>
+      <Group>Right side painted rail</Group>
+      <Text>Painted right side protection 2.24</Text>
+      <Value>chs_f_r.cgp_2_24</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection</Description>
+      <Group>Right side painted rail</Group>
+      <Text>Painted right side protection 3.24</Text>
+      <Value>chs_f_r.cgp_3_24</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection</Description>
+      <Group>Right side painted rail</Group>
+      <Text>Painted right side protection 3.33</Text>
+      <Value>chs_f_r.cgp_3_33</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection + extinguisher</Description>
+      <Group>Right side painted rail</Group>
+      <Text>Painted right side protection with extinguisher 2.24</Text>
+      <Value>chs_f_r.cgp_ext_2_24</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection + extinguisher</Description>
+      <Group>Right side painted rail</Group>
+      <Text>Painted right side protection with extinguisher 3.24</Text>
+      <Value>chs_f_r.cgp_ext_3_24</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection + extinguisher</Description>
+      <Group>Right side painted rail</Group>
+      <Text>Painted right side protection with extinguisher 3.33</Text>
+      <Value>chs_f_r.cgp_ext_3_33</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection + spare tyre</Description>
+      <Group>Right side painted rail</Group>
+      <Text>Painted right side protection with spare tyre 2.24</Text>
+      <Value>chs_f_r.cgp_st_2_24</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection + spare tyre</Description>
+      <Group>Right side painted rail</Group>
+      <Text>Painted right side protection with spare tyre 3.33</Text>
+      <Value>chs_f_r.cgp_st_3_33</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection + water tank</Description>
+      <Group>Right side painted rail</Group>
+      <Text>Painted right side protection with water tank 2.24</Text>
+      <Value>chs_f_r.cgp_wt_2_24</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection + water tank</Description>
+      <Group>Right side painted rail</Group>
+      <Text>Painted right side protection with water tank 3.24</Text>
+      <Value>chs_f_r.cgp_wt_3_24</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted side protection + water tank</Description>
+      <Group>Right side painted rail</Group>
+      <Text>Painted right side protection with water tank 3.33</Text>
+      <Value>chs_f_r.cgp_wt_3_33</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Painted rear bumper</Description>
+      <Group>Rear bumper</Group>
+      <Text>Painted rear bumper</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Chassis (solid colour 4x4 only)</Group>
+      <Text>Painted chassis 2.24 dal</Text>
+      <Value>chassis.ch_2_24_dal</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Chassis (solid colour 4x4 only)</Group>
+      <Text>Painted chassis 2.24 dsl</Text>
+      <Value>chassis.ch_2_24_dsl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Chassis (solid colour 4x4 only)</Group>
+      <Text>Painted chassis 3.24 dal</Text>
+      <Value>chassis.ch_3_24_dal</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Chassis (solid colour 4x4 only)</Group>
+      <Text>Painted chassis 3.24 dsl</Text>
+      <Value>chassis.ch_3_24_dsl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Chassis (solid colour 4x4 only)</Group>
+      <Text>Painted chassis 3.33 dal</Text>
+      <Value>chassis.ch_3_33_dal</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Chassis (solid colour 4x4 only)</Group>
+      <Text>Painted chassis 3.33 dsl</Text>
+      <Value>chassis.ch_3_33_dsl</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>

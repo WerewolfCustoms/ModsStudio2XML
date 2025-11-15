@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>87fb5a19-ce0a-471b-84c3-272f0353b5bd</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Side Protection (3 Axles)</Text>
+      <Value>chs_f_l.cgp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Side Protection + Plastic Box (3 Axles)</Text>
+      <Value>chs_f_l.cgp_bpl_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Plates (3 Axles)</Text>
+      <Value>chs_f_l.skp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Side Protection + Spare Tyre (3 Axles)</Text>
+      <Value>chs_f_l.cgp_st_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Plates + Plastic Box (3 Axles)</Text>
+      <Value>chs_f_l.skp_bpl_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Simple Side Protection + Painted Box (3 Axles)</Text>
+      <Value>chs_f_l.cg_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Side Protection + Painted Box (3 Axles)</Text>
+      <Value>chs_f_l.cgp_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Plates + Spare Tyre (3 Axles)</Text>
+      <Value>chs_f_l.skp_st_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Full Protection Sideskirts + Painted Box (3 Axles)</Text>
+      <Value>chs_f_l.sk_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Side Protection + Chromed Box (3 Axles)</Text>
+      <Value>chs_f_l.cgp_bch_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Plates + Painted Box (3 Axles)</Text>
+      <Value>chs_f_l.skp_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Plates + Chromed Box (3 Axles)</Text>
+      <Value>chs_f_l.skp_bch_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Pallet Box (3 Axles)</Text>
+      <Value>chs_f_l.palp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Side Protection (3 Axles, Long)</Text>
+      <Value>chs_f_l.cgp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Side Protection + Plastic Box (3 Axles, Long)</Text>
+      <Value>chs_f_l.cgp_bpl_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Plates (3 Axles, Long)</Text>
+      <Value>chs_f_l.skp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Side Protection + Spare Tyre (3 Axles, Long)</Text>
+      <Value>chs_f_l.cgp_st_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Plates + Plastic Box (3 Axles, Long)</Text>
+      <Value>chs_f_l.skp_bpl_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Simple Side Protection + Painted Box (3 Axles, Long)</Text>
+      <Value>chs_f_l.cg_bp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Side Protection + Painted Box (3 Axles, Long)</Text>
+      <Value>chs_f_l.cgp_bp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Plates + Spare Tyre (3 Axles, Long)</Text>
+      <Value>chs_f_l.skp_st_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Full Protection Sideskirts + Painted Box (3 Axles, Long)</Text>
+      <Value>chs_f_l.sk_bp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Side Protection + Chromed Box (3 Axles, Long)</Text>
+      <Value>chs_f_l.cgp_bch_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Plates + Painted Box (3 Axles, Long)</Text>
+      <Value>chs_f_l.skp_bp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Plates + Chromed Box (3 Axles, Long)</Text>
+      <Value>chs_f_l.skp_bch_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Left)</Group>
+      <Text>Painted Pallet Box (3 Axles, Long)</Text>
+      <Value>chs_f_l.palp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Side Protection (3 Axles)</Text>
+      <Value>chs_f_r.cgp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Side Protection+ Plastic Box (3 Axles)</Text>
+      <Value>chs_f_r.cgp_bpl_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Plates (3 Axles)</Text>
+      <Value>chs_f_r.skp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Side Protection + Spare Tyre (3 Axles)</Text>
+      <Value>chs_f_r.cgp_st_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Plates + Plastic Box (3 Axles)</Text>
+      <Value>chs_f_r.skp_bpl_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Simple Side Protection + Painted Box (3 Axles)</Text>
+      <Value>chs_f_r.cg_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Side Protection + Painted box (3 Axles)</Text>
+      <Value>chs_f_r.cgp_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Plates + Spare Tyre (3 Axles)</Text>
+      <Value>chs_f_r.skp_st_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Full Protection Sideskirts + Painted Box (3 Axles)</Text>
+      <Value>chs_f_r.sk_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Side Protection + Chromed Box (3 Axles)</Text>
+      <Value>chs_f_r.cgp_bch_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Plates + Painted Box (3 Axles)</Text>
+      <Value>chs_f_r.skp_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Plates + Chromed Box (3 Axles)</Text>
+      <Value>chs_f_r.skp_bch_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Pallet Box (3 Axles)</Text>
+      <Value>chs_f_r.palp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Side Protection (3 Axles, Long)</Text>
+      <Value>chs_f_r.cgp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Side Protection +Plastic Box (3 Axles, Long)</Text>
+      <Value>chs_f_r.cgp_bpl_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Plates (3 Axles, Long)</Text>
+      <Value>chs_f_r.skp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Side Protection + Spare Tyre (3 Axles, Long)</Text>
+      <Value>chs_f_r.cgp_st_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Plates + Plastic Box (3 Axles, Long)</Text>
+      <Value>chs_f_r.skp_bpl_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Simple Side Protection + Painted Box (3 Axles, Long)</Text>
+      <Value>chs_f_r.cg_bp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Side Protection + Painted Box (3 Axles, Long)</Text>
+      <Value>chs_f_r.cgp_bp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Plates + Spare Tyre (3 Axles, Long)</Text>
+      <Value>chs_f_r.skp_st_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Full Protection Sideskirts + Painted Box (3 Axles, Long)</Text>
+      <Value>chs_f_r.sk_bp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Side Protection + Chromed Box (3 Axles, Long)</Text>
+      <Value>chs_f_r.cgp_bch_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Plates + Painted Box (3 Axles, Long)</Text>
+      <Value>chs_f_r.skp_bp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Plates + Chromed Box (3 Axles, Long)</Text>
+      <Value>chs_f_r.skp_bch_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front (Right)</Group>
+      <Text>Painted Pallet Box (3 Axles, Long)</Text>
+      <Value>chs_f_r.palp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Rear (Left)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.bp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Rear (Left)</Group>
+      <Text>Painted Box + Spare Tyre</Text>
+      <Value>chs_r_l.bp_st</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Rear (Right)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.bp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Rear (Right)</Group>
+      <Text>Painted Box + Spare Tyre</Text>
+      <Value>chs_r_r.bp_st</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Cooler, Paint</Text>
+      <Value>f_body.vect_pt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>3 Axles</Text>
+      <Value>chassis.ch_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>3 Axles, Long</Text>
+      <Value>chassis.ch_3_15</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\Jaime\Documents\Mods Studio 2\UserVehicles\ETS2.kogel.cool.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>kogel.cool</InternalName>
+  <SoundItems />
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>Kögel|Cool</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.reefer_13</InternalName>
+      <Name>Cool 13 Meters</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.reefer_15</InternalName>
+      <Name>Cool 15 Meters</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Chiky Chuky</XmlDefinitionAuthor>
+</Variable>

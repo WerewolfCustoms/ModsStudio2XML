@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>535332ee-a852-4071-9e04-c62a581019b7</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+   <!-- NEW Trailervariants from the DLC Schmitz ETS2 1.56 -->
+  <AccessoryItems>
+    <ListItem>
+      <Group>Chassis Front Left 13M 2 Axles</Group>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_l.cgp_2_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 13M 2 Axles</Group>
+      <Text>Painted Side Protection + Extinguisher</Text>
+      <Value>chs_f_l.cgp_ex_2_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 13M 2 Axles</Group>
+      <Text>Painted Side Protection + Plastic Box</Text>
+      <Value>chs_f_l.cgp_bpl_2_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 13M 2 Axles</Group>
+      <Text>Painted Side Protection + Big Box</Text>
+      <Value>chs_f_l.cgp_bs_2_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 13M 2 Axles</Group>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_l.cg1_bp_2_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 13M 2 Axles</Group>
+      <Text>Painted Side Protection + Painted Box</Text>
+      <Value>chs_f_l.cgp_bp_2_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 13M 2 Axles</Group>
+      <Text>Simple Side Protection II + Painted Box</Text>
+      <Value>chs_f_l.cg2_bp_2_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 13M 2 Axles</Group>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_r.cgp_2_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 13M 2 Axles</Group>
+      <Text>Painted Side Protection + Extinguisher</Text>
+      <Value>chs_f_r.cgp_ex_2_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 13M 2 Axles</Group>
+      <Text>Painted Side Protection + Plastic Box</Text>
+      <Value>chs_f_r.cgp_bpl_2_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 13M 2 Axles</Group>
+      <Text>Painted Side Protection + Big Box</Text>
+      <Value>chs_f_r.cgp_bs_2_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 13M 2 Axles</Group>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_r.cg1_bp_2_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 13M 2 Axles</Group>
+      <Text>Painted Side Protection + Painted Box</Text>
+      <Value>chs_f_r.cgp_bp_2_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 13M 2 Axles</Group>
+      <Text>Simple Side Protection II + Painted Box</Text>
+      <Value>chs_f_r.cg2_bp_2_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 13M 3 Axles</Group>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_l.cgp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 13M 3 Axles</Group>
+      <Text>Painted Side Protection + Extinguisher</Text>
+      <Value>chs_f_l.cgp_ex_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 13M 3 Axles</Group>
+      <Text>Painted Side Protection + Plastic Box</Text>
+      <Value>chs_f_l.cgp_bpl_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 13M 3 Axles</Group>
+      <Text>Painted Side Protection + Big Box</Text>
+      <Value>chs_f_l.cgp_bs_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 13M 3 Axles</Group>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_l.cg1_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 13M 3 Axles</Group>
+      <Text>Painted Side Protection + Painted Box</Text>
+      <Value>chs_f_l.cgp_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 13M 3 Axles</Group>
+      <Text>Simple Side Protection II + Painted Box</Text>
+      <Value>chs_f_l.cg2_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 13M 3 Axles</Group>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_f_l.palp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 13M 3 Axles</Group>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_r.cgp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 13M 3 Axles</Group>
+      <Text>Painted Side Protection + Extinguisher</Text>
+      <Value>chs_f_r.cgp_ex_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 13M 3 Axles</Group>
+      <Text>Painted Side Protection + Plastic Box</Text>
+      <Value>chs_f_r.cgp_bpl_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 13M 3 Axles</Group>
+      <Text>Painted Side Protection + Big Box</Text>
+      <Value>chs_f_r.cgp_bs_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 13M 3 Axles</Group>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_r.cg1_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 13M 3 Axles</Group>
+      <Text>Painted Side Protection + Painted Box</Text>
+      <Value>chs_f_r.cgp_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 13M 3 Axles</Group>
+      <Text>Simple Side Protection II + Painted Box</Text>
+      <Value>chs_f_r.cg2_bp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 13M 3 Axles</Group>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_f_r.palp_3_13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 15M 3 Axles Long</Group>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_l.cgp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 15M 3 Axles Long</Group>
+      <Text>Painted Side Protection + Extinguisher</Text>
+      <Value>chs_f_l.cgp_ex_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 15M 3 Axles Long</Group>
+      <Text>Painted Side Protection + Plastic Box</Text>
+      <Value>chs_f_l.cgp_bpl_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 15M 3 Axles Long</Group>
+      <Text>Painted Side Protection + Big Box</Text>
+      <Value>chs_f_l.cgp_bs_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 15M 3 Axles Long</Group>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_l.cg1_bp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 15M 3 Axles Long</Group>
+      <Text>Painted Side Protection + Painted Box</Text>
+      <Value>chs_f_l.cgp_bp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 15M 3 Axles Long</Group>
+      <Text>Simple Side Protection II + Painted Box</Text>
+      <Value>chs_f_l.cg2_bp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left 15M 3 Axles Long</Group>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_f_l.palp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 15M 3 Axles Long</Group>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_r.cgp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 15M 3 Axles Long</Group>
+      <Text>Painted Side Protection + Extinguisher</Text>
+      <Value>chs_f_r.cgp_ex_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 15M 3 Axles Long</Group>
+      <Text>Painted Side Protection + Plastic Box</Text>
+      <Value>chs_f_r.cgp_bpl_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 15M 3 Axles Long</Group>
+      <Text>Painted Side Protection + Big Box</Text>
+      <Value>chs_f_r.cgp_bs_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 15M 3 Axles Long</Group>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_r.cg1_bp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 15M 3 Axles Long</Group>
+      <Text>Painted Side Protection + Painted Box</Text>
+      <Value>chs_f_r.cgp_bp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 15M 3 Axles Long</Group>
+      <Text>Simple Side Protection II + Painted Box</Text>
+      <Value>chs_f_r.cg2_bp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right 15M 3 Axles Long</Group>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_f_r.palp_3_15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Rear Left</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.bp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Rear Left</Group>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_r_l.palp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Rear Right</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.bp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Rear Right</Group>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_r_r.palp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left Double</Group>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_l.cgp_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left Double</Group>
+      <Text>Painted Side Protection + Extinguisher</Text>
+      <Value>chs_f_l.cgp_ex_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left Double</Group>
+      <Text>Painted Side Protection + Plastic Box</Text>
+      <Value>chs_f_l.cgp_bpl_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left Double</Group>
+      <Text>Painted Side Protection + Big Box</Text>
+      <Value>chs_f_l.cgp_bs_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left Double</Group>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_l.cg1_bp_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left Double</Group>
+      <Text>Painted Side Protection + Painted Box</Text>
+      <Value>chs_f_l.cgp_bp_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Left Double</Group>
+      <Text>Simple Side Protection II + Painted Box</Text>
+      <Value>chs_f_l.cg2_bp_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right Double</Group>
+      <Text>Painted Side Protection</Text>
+      <Value>chs_f_r.cgp_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right Double</Group>
+      <Text>Painted Side Protection + Extinguisher</Text>
+      <Value>chs_f_r.cgp_ex_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right Double</Group>
+      <Text>Painted Side Protection + Plastic Box</Text>
+      <Value>chs_f_r.cgp_bpl_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right Double</Group>
+      <Text>Painted Side Protection + Big Box</Text>
+      <Value>chs_f_r.cgp_bs_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right Double</Group>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_r.cg1_bp_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right Double</Group>
+      <Text>Painted Side Protection + Painted Box</Text>
+      <Value>chs_f_r.cgp_bp_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front Right Double</Group>
+      <Text>Simple Side Protection II + Painted Box</Text>
+      <Value>chs_f_r.cg2_bp_2_8c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Rear Left Double</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.bp_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Rear Left Double</Group>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_r_l.palp_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Rear Right Double</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.bp_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Rear Right Double</Group>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_r_r.palp_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint (Double)</Text>
+      <Value>r_bumper.paint_ca</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>schmitz.scs</InternalName>
+  <SoundItems />
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>DLC Schmitz|S.CS Universal</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+	<Description>* DLC Schmitz ETS2 1.56 Addition *</Description>
+      <AccessoryDependencies />
+      <InternalName>body.curt_13ef</InternalName>
+      <Name>S.CS Universal ECO Combi Front Trailer 13M</Name>
+    </Variant>
+    <Variant>
+	<Description>* DLC Schmitz ETS2 1.56 Addition *</Description>
+      <AccessoryDependencies />
+      <InternalName>body.curt_13er</InternalName>
+      <Name>S.CS Universal ECO Combi Rear Trailer 13M</Name>
+    </Variant>
+    <Variant>
+	<Description>* DLC Schmitz ETS2 1.56 Addition *</Description>
+      <AccessoryDependencies />
+      <InternalName>body.curt_13efp</InternalName>
+      <Name>S.CS Universal ECO Combi Front Trailer Paint 13M</Name>
+    </Variant>
+    <Variant>
+	<Description>* DLC Schmitz ETS2 1.56 Addition *</Description>
+      <AccessoryDependencies />
+      <InternalName>body.curt_13erp</InternalName>
+      <Name>S.CS Universal ECO Combi Rear Trailer Paint 13M</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.curt_13</InternalName>
+      <Name>S.CS Universal 13M</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.curt_13p</InternalName>
+      <Name>S.CS Universal Paint 13M</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.curt_15</InternalName>
+      <Name>S.CS Universal 15M</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.curt_15p</InternalName>
+      <Name>S.CS Universal Paint 15M</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.ecofix</InternalName>
+      <Name>S.CS EcoFIX</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.ecofixp</InternalName>
+      <Name>S.CS EcoFIX Paint</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.curt_13ec</InternalName>
+      <Name>S.CS Universal Double 13M</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.curt_13ecp</InternalName>
+      <Name>S.CS Universal Double Paint 13M</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.curt_8</InternalName>
+      <Name>S.CS Universal Double 8M</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.curt_8p</InternalName>
+      <Name>S.CS Universal Double Paint 8M</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Chiky Chuky</XmlDefinitionAuthor>
+</Variable>
