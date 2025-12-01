@@ -27,49 +27,49 @@
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
-      <Group>Left Side middle</Group>
+      <Group>Left Side Middle</Group>
       <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneDL\chs_f_l.side01p.jpg</Image>
       <Text>Simple Painted Side Skirt</Text>
       <Value>chs_f_l.side01p</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
-      <Group>Left Side middle</Group>
+      <Group>Left Side Middle</Group>
       <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneDL\chs_f_l.side02p.jpg</Image>
       <Text>Painted Side Skirt</Text>
       <Value>chs_f_l.side02p</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
-      <Group>Left Side middle</Group>
+      <Group>Left Side Middle</Group>
       <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneDL\chs_f_l.side02sp.jpg</Image>
       <Text>Painted Side Skirt + Store Box</Text>
       <Value>chs_f_l.side02sp</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
-      <Group>Left Side middle</Group>
+      <Group>Left Side Middle</Group>
       <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneDL\chs_f_l.side02tp.jpg</Image>
       <Text>Painted Side Skirt + Spare Tyre</Text>
       <Value>chs_f_l.side02tp</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
-      <Group>Left Side middle</Group>
+      <Group>Left Side Middle</Group>
       <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneDL\chs_f_l.side02tsp.jpg</Image>
       <Text>Painted Side Skirt + Spare Tyre + Store Box</Text>
       <Value>chs_f_l.side02tsp</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
-      <Group>Left Side middle</Group>
+      <Group>Left Side Middle</Group>
       <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneDL\chs_f_l.pallet01p.jpg</Image>
       <Text>Painted Pallet Box</Text>
       <Value>chs_f_l.pallet01p</Value>
     </ListItem>
     <ListItem>
       <Description>City trailer</Description>
-      <Group>Left Side middle</Group>
+      <Group>Left Side Middle</Group>
       <Text>Painted Side Skirt Big CT</Text>
       <Value>chs_m_l.side01p</Value>
     </ListItem>
@@ -89,42 +89,42 @@
     </ListItem>    
     <ListItem>
       <Description>See screenshot for location.</Description>
-      <Group>Right Side middle</Group>
+      <Group>Right Side Middle</Group>
       <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneDL\chs_f_r.side01p.jpg</Image>
       <Text>Simple Painted Side Skirt</Text>
       <Value>chs_f_r.side01p</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
-      <Group>Right Side middle</Group>
+      <Group>Right Side Middle</Group>
       <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneDL\chs_f_r.side02p.jpg</Image>
       <Text>Painted Side Skirt</Text>
       <Value>chs_f_r.side02p</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
-      <Group>Right Side middle</Group>
+      <Group>Right Side Middle</Group>
       <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneDL\chs_f_r.side02sp.jpg</Image>
       <Text>Painted Side Skirt + Store Box</Text>
       <Value>chs_f_r.side02sp</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
-      <Group>Right Side middle</Group>
+      <Group>Right Side Middle</Group>
       <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneDL\chs_f_r.side02tp.jpg</Image>
       <Text>Painted Side Skirt + Spare Tyre</Text>
       <Value>chs_f_r.side02tp</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
-      <Group>Right Side middle</Group>
+      <Group>Right Side Middle</Group>
       <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneDL\chs_f_r.side02tsp.jpg</Image>
       <Text>Painted Side Skirt + Spare Tyre + Store Box</Text>
       <Value>chs_f_r.side02tsp</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
-      <Group>Right Side middle</Group>
+      <Group>Right Side Middle</Group>
       <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneDL\chs_f_r.pallet01p.jpg</Image>
       <Text>Painted Pallet Box</Text>
       <Value>chs_f_r.pallet01p</Value>
