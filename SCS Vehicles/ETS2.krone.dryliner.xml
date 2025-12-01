@@ -1,44 +1,30 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>d53d980f-92a0-45c0-832e-bac366eb485a</Id>
   <IsEnabled>true</IsEnabled>
+  <Validators />
   <AccessoryItems>
     <ListItem>
       <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
       <Group>Chassis Krone DLC</Group>
-      <Image></Image>
-      <Text>Painted Chassi 40ft Container</Text>
-      <Value>chassis.chassis_40</Value>
+      <Image />
+      <Text>Painted Chassi City Trailer</Text>
+      <Value>chassis.ch_3_13ct</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
       <Group>Chassis Krone DLC</Group>
-      <Image></Image>
-      <Text>Painted Chassi 2x20ft Containers</Text>
-      <Value>chassis.chassis_220</Value>
-    </ListItem>			
-    <ListItem>
-      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
-      <Group>Chassis Krone DLC</Group>
-      <Image></Image>
-      <Text>Painted Chassi 13.6m Trailers</Text>
+      <Image />
+      <Text>Painted Chassi 13m</Text>
       <Value>chassis.chassis</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
       <Group>Chassis Krone DLC</Group>
-      <Image></Image>
-      <Text>Painted Chassi Double Small Trailer</Text>
-      <Value>chassis.chassis_d</Value>
+      <Image />
+      <Text>Painted Chassi 15m</Text>
+      <Value>chassis.ch_3_15</Value>
     </ListItem>
-    <ListItem>
-      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
-      <Group>Chassis Krone DLC</Group>
-      <Image></Image>
-      <Text>Painted Chassi LoadCarrier</Text>
-      <Value>chassis.loadcarrier</Value>
-    </ListItem>	
     <ListItem>
       <Description>See screenshot for location.</Description>
       <Group>Left Side middle</Group>
@@ -82,6 +68,26 @@
       <Value>chs_f_l.pallet01p</Value>
     </ListItem>
     <ListItem>
+      <Description>City trailer</Description>
+      <Group>Left Side middle</Group>
+      <Text>Painted Side Skirt Big CT</Text>
+      <Value>chs_m_l.side01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneDL\chs_r_l.pallet01p.jpg</Image>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_r_l.pallet01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Left Side rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneDL\chs_r_l.pallet01sp.jpg</Image>
+      <Text>Painted Pallet Box + Store Box</Text>
+      <Value>chs_r_l.pallet01sp</Value>
+    </ListItem>    
+    <ListItem>
       <Description>See screenshot for location.</Description>
       <Group>Right Side middle</Group>
       <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneDL\chs_f_r.side01p.jpg</Image>
@@ -124,18 +130,10 @@
       <Value>chs_f_r.pallet01p</Value>
     </ListItem>
     <ListItem>
-      <Description>See screenshot for location.</Description>
-      <Group>Left Side rear</Group>
-      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneDL\chs_r_l.pallet01p.jpg</Image>
-      <Text>Painted Pallet Box</Text>
-      <Value>chs_r_l.pallet01p</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.</Description>
-      <Group>Left Side rear</Group>
-      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneDL\chs_r_l.pallet01sp.jpg</Image>
-      <Text>Painted Pallet Box + Store Box</Text>
-      <Value>chs_r_l.pallet01sp</Value>
+      <Description>City trailer</Description>
+      <Group>Right Side Middle</Group>
+      <Text>Painted Side Skirt Big CT</Text>
+      <Value>chs_m_r.side01p</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
@@ -165,19 +163,39 @@
       <Text>Rear Bumper Paint II</Text>
       <Value>r_bumper.bumper02p</Value>
     </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Body Rear</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneDL\r_bumper.bumper01p.jpg</Image>
+      <Text>Rear Bumper Paint III</Text>
+      <Value>r_bumper.bumper03p</Value>
+    </ListItem>
   </AccessoryItems>
   <Game>ETS2</Game>
   <InternalName>krone.dryliner</InternalName>
+  <SoundItems />
   <VehicleAuthor>SCS Software</VehicleAuthor>
   <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Krone\dry.jpg</VehicleImage>
   <VehicleName>Krone|Dry Liner</VehicleName>
   <VehicleType>Trailers</VehicleType>
   <VehicleVariants>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Krone\dry.jpg</Image>
       <InternalName>body.dryvan</InternalName>
       <Name>Dry Liner</Name>
     </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.dry_13ct</InternalName>
+      <Name>Dry Liner City</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.dry_15</InternalName>
+      <Name>Dry Liner 15m</Name>
+    </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+  <DateUpdated>2025-12-01T00:00:00</DateUpdated>
 </Variable>
