@@ -10,9 +10,19 @@
   <InternalName>bussbygg.rigid_r22</InternalName>
   <SoundItems />
   <VehicleAuthor>Kast</VehicleAuthor>
-  <VehicleName>Kast|Bussbygg - Full Trailer R22</VehicleName>
+  <VehicleName>KAST  BUSSBYGG|Full Trailer R22</VehicleName>
   <VehicleType>Trailers</VehicleType>
-  <VehicleVariants />
+  <VehicleVariants>
+    <Variant>
+      <Group>DON'T ADD ANY IMAGES HERE.</Group>
+    </Variant>
+    <Variant>
+      <Group>ONLY DONE IN ACCESSORIES TAB.</Group>
+    </Variant>
+    <Variant>
+      <Group>NOW DELETE THIS IMAGE AN GO TO ACCESSORIES TAB.</Group>
+    </Variant>    
+  </VehicleVariants>
   <AccessoryItems>
     <ListItem>
       <Description>L Body 12x4_0</Description>

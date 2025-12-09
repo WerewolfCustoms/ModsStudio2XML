@@ -10,9 +10,19 @@
   <InternalName>bussbygg.step</InternalName>
   <SoundItems />
   <VehicleAuthor>Kast</VehicleAuthor>
-  <VehicleName>Kast|Bussbygg - Stepframe Trailer</VehicleName>
+  <VehicleName>KAST  BUSSBYGG|Stepframe Trailer</VehicleName>
   <VehicleType>Trailers</VehicleType>
-  <VehicleVariants />
+  <VehicleVariants>
+    <Variant>
+      <Group>DON'T ADD ANY IMAGES HERE.</Group>
+    </Variant>
+    <Variant>
+      <Group>ONLY DONE IN ACCESSORIES TAB.</Group>
+    </Variant>
+    <Variant>
+      <Group>NOW DELETE THIS IMAGE AN GO TO ACCESSORIES TAB.</Group>
+    </Variant>    
+  </VehicleVariants>
   <AccessoryItems>
     <ListItem>
       <Description>L Body 13_6x4_0</Description>

@@ -10,9 +10,19 @@
   <InternalName>bussbygg.midax_r19</InternalName>
   <SoundItems />
   <VehicleAuthor>Kast</VehicleAuthor>
-  <VehicleName>Kast|Bussbygg - MidAxle R19</VehicleName>
+  <VehicleName>KAST  BUSSBYGG|MidAxle R19</VehicleName>
   <VehicleType>Trailers</VehicleType>
-  <VehicleVariants />
+  <VehicleVariants>
+    <Variant>
+      <Group>DON'T ADD ANY IMAGES HERE.</Group>
+    </Variant>
+    <Variant>
+      <Group>ONLY DONE IN ACCESSORIES TAB.</Group>
+    </Variant>
+    <Variant>
+      <Group>NOW DELETE THIS IMAGE AN GO TO ACCESSORIES TAB.</Group>
+    </Variant>    
+  </VehicleVariants>
   <AccessoryItems>
     <ListItem>
       <Description>L Body 6_8x4_0</Description>
