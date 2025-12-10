@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ca7b0df6-acec-45f7-b0ec-6a0e670d98ff</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+   <ListItem>
+      <Group>Chassis</Group>
+      <Text>SDC 4m</Text>
+      <Value>chassis.ijs_sdc_sq</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>Standard</Text>
+      <Value>chassis.ijs_sdc_g</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>Aeroliner</Text>
+      <Value>chassis.ijs_sdc_a</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>4.62m</Text>
+      <Value>chassis.ijs_sdc_l</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Description>Top Frame</Description>
+      <Group>Trailer Front</Group>
+      <Text>Frame Aluminium And Paint</Text>
+      <Value>f_body.ijs_sdc_f4m5</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Side Frame</Description>
+      <Group>Trailer Front</Group>
+      <Text>Frame Aluminium And Paint</Text>
+      <Value>f_body.ijs_sdc_f4m3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Frame Paint</Text>
+      <Value>f_body.ijs_sdc_f4m2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Painted Frame With Board</Text>
+      <Value>f_body.ijs_sdc_f4m4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Painted Frame With Aeroboard</Text>
+      <Value>f_body.ijs_sdc_f4m6</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Top Frame</Description>
+      <Group>Trailer Front</Group>
+      <Text>Frame Aluminium And Paint (4.62m)</Text>
+      <Value>f_body.ijs_sdc_frm3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Side Frame</Description>
+      <Group>Trailer Front</Group>
+      <Text>Frame Aluminium And Paint (4.62m)</Text>
+      <Value>f_body.ijs_sdc_frm5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Frame Paint (4.62m)</Text>
+      <Value>f_body.ijs_sdc_frm2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Painted Frame With Board (4.62m)</Text>
+      <Value>f_body.ijs_sdc_frm4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Victor Cooler Painted</Text>
+      <Value>f_body.ijs_c_sdc</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Victor Cooler Full Painted</Text>
+      <Value>f_body.ijs_c_sdc_f</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Thermo Box Cooler Paint</Text>
+      <Value>f_body.thb_sdc_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Thermo Box Cooler Full Paint</Text>
+      <Value>f_body.thb_sdc_p_f</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Turbo King Cooler Painted</Text>
+      <Value>f_body.ijs_tk_sdc</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Turbo King Cooler Full Painted</Text>
+      <Value>f_body.ijs_tk_sdc_f</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>Roof</Group>
+      <Text>Paint</Text>
+      <Value>roof.ijs_pnt_sq</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof</Group>
+      <Text>Paint Aeroliner</Text>
+      <Value>roof.ijs_pnt_aero</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof</Group>
+      <Text>Paint 4.62m</Text>
+      <Value>roof.ijs_paint</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Simple Side Protection Paint</Text>
+      <Value>chs_f_l.cage_136_ijs</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Simple Side Protection Paint Panel</Text>
+      <Value>chs_f_l.ijs_s_cage</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Sideskirt SDC</Text>
+      <Value>chs_f_l.ijs_sdc_l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Sideskirt SDC ALT</Text>
+      <Value>chs_f_l.ijs_sdc_l2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_f_l.paint_box</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Sideskirt SDC ALT Full Paint</Text>
+      <Value>chs_f_l.ijs_sdc_l2p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_f_l.sideskirt_01</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_l.p_box_cage</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Painted Box, 2x</Text>
+      <Value>chs_f_l.p_box_doubl</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Painted Cage And Box</Text>
+      <Value>chs_f_l.ijs_pcb</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Palletbox</Text>
+      <Value>chs_f_l.palletbox</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Sideskirt SDC (Aero)</Text>
+      <Value>chs_f_l.ijs_sdc_aero</Value>
+    </ListItem>
+
+    <ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Simple Side Protection Paint</Text>
+      <Value>chs_f_r.cage_136_ijs</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Simple Side Protection Paint Panel</Text>
+      <Value>chs_f_r.ijs_s_cage</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Sideskirt SDC</Text>
+      <Value>chs_f_r.ijs_sdc_r</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Sideskirt SDC ALT</Text>
+      <Value>chs_f_r.ijs_sdc_r2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_f_r.paint_box</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Sideskirt SDC ALT Full Paint</Text>
+      <Value>chs_f_r.ijs_sdc_r2p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_f_r.sideskirt_01</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_r.p_box_cage</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Painted Box, 2x</Text>
+      <Value>chs_f_r.p_box_doubl</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Painted Cage And Box</Text>
+      <Value>chs_f_r.ijs_pcb</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Palletbox</Text>
+      <Value>chs_f_r.palletbox</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Sideskirt SDC (Aero)</Text>
+      <Value>chs_f_r.ijs_sdc_aero</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Left Rear Sideskirt</Group>
+      <Text>Simple Side Protection Paint</Text>
+      <Value>chs_r_l.ijs_p_cage</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Rear Sideskirt</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_r_l.sideskirt_01</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Rear Sideskirt</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.paint_box</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Rear Sideskirt</Group>
+      <Text>Palletbox</Text>
+      <Value>chs_r_l.palletbox</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Right Rear Sideskirt</Group>
+      <Text>Simple Side Protection Paint</Text>
+      <Value>chs_r_r.ijs_p_cage</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Rear Sideskirt</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_r_r.sideskirt_01</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Rear Sideskirt</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.paint_box</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Right Rear Sideskirt</Group>
+      <Text>Palletbox</Text>
+      <Value>chs_r_r.palletbox</Value>
+    </ListItem>
+
+	<ListItem>
+      <Group>Fenders</Group>
+      <Text>Fenders Painted</Text>
+      <Value>fenders.ijs_fend_p</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>SDC Bumper</Text>
+      <Value>r_bumper.ijs_sdc_sq2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>SDC Bumper - SCS Number Plate</Text>
+      <Value>r_bumper.ijs_sdc_sq</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint Eco 2</Text>
+      <Value>r_bumper.ijs_eco2_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>SDC Standard</Text>
+      <Value>r_bumper.ijs_sdc</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>SDC Standard - SCS Number Plate</Text>
+      <Value>r_bumper.ijs_sdc2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>SDC Standard Alt</Text>
+      <Value>r_bumper.ijs_sdc_alt</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>SDC Standard Alt - SCS Number Plate</Text>
+      <Value>r_bumper.ijs_sdc_alt2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>SDC New</Text>
+      <Value>r_bumper.ijs_sdc_new</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>SDC Aeroliner Bumper</Text>
+      <Value>r_bumper.ijs_sdc_aero</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Mudflaps</Group>
+      <Text>Paint SDC</Text>
+      <Value>r_mudflap.ijs_p_sdq</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Mudflaps</Group>
+      <Text>Paint</Text>
+      <Value>r_mudflap.ijs_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Mudflaps</Group>
+      <Text>Paint SDC New</Text>
+      <Value>r_mudflap.ijs_p_sdc</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.IJs.TrailerMods.SDC.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>ijssdc.sdc</InternalName>
+  <SoundItems />
+  <VehicleAuthor>IJ's Mods</VehicleAuthor>
+  <VehicleName>IJ's Mods SDC Trailers</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.sdc_136_sq</InternalName>
+      <Name>SDC Curtainsider (4m)</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.ijs_sdc_n</InternalName>
+      <Name>SDC Curtainliner</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.ijs_sdc_a</InternalName>
+      <Name>SDC Curtain Aeroliner</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.sdc_136</InternalName>
+      <Name>SDC Mega Curtainsider (4.62m)</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.sdr_136</InternalName>
+      <Name>SDC Insuliner (4.62m)</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay</XmlDefinitionAuthor>
+</Variable>

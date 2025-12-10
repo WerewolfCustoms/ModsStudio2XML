@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>1c43d804-0abb-447c-8137-4ee4ed16ce33</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Paint</Text>
+      <Value>f_body.ijs_paint</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Paint Cage</Text>
+      <Value>chs_f_l.ijs_cage_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Paint Cage Full</Text>
+      <Value>chs_f_l.ijs_cage_pf</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_f_l.side01_sh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_f_l.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Paint Cage + Spare Tyre</Text>
+      <Value>chs_f_l.ijs_ct_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Paint Cage Full + Spare Tyre</Text>
+      <Value>chs_f_l.ijs_ct_pf</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Front Sideskirt</Group>
+      <Text>Full Protection Sideskirts + Spare Tyre</Text>
+      <Value>chs_f_l.side01_sh_t</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Paint Cage</Text>
+      <Value>chs_f_r.ijs_cage_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Paint Cage Full</Text>
+      <Value>chs_f_r.ijs_cage_pf</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_f_r.side01_sh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_f_r.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Paint Cage + Spare Tyre</Text>
+      <Value>chs_f_r.ijs_ct_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Paint Cage Full + Spare Tyre</Text>
+      <Value>chs_f_r.ijs_ct_pf</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Front Sideskirt</Group>
+      <Text>Full Protection Sideskirts + Spare Tyre</Text>
+      <Value>chs_f_r.side01_sh_t</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Left Rear Sideskirt</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.paint_box</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Right Rear Sideskirt</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.paint_box</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Brace</Group>
+      <Text>Mix Brace</Text>
+      <Value>brace.ijs_mix</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Brace</Group>
+      <Text>Paint Brace</Text>
+      <Value>brace.ijs_paint</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Left Hose</Group>
+      <Text>Paint</Text>
+      <Value>l_body.ijs_hose_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Hose</Group>
+      <Text>Paint Chrome</Text>
+      <Value>l_body.ijs_hose_ch</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Right Hose</Group>
+      <Text>Paint</Text>
+      <Value>r_body.ijs_hose_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Left Hose</Group>
+      <Text>Paint Chrome</Text>
+      <Value>r_body.ijs_hose_ch</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Fenders</Group>
+      <Text>Paint</Text>
+      <Value>fenders.ijs_paint</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Trailer Rear</Group>
+      <Text>Paint</Text>
+      <Value>rear_body.ijs_paint</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Rear Box</Group>
+      <Text>Paint</Text>
+      <Value>r_box.ijs_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Box</Group>
+      <Text>Paint Chrome</Text>
+      <Value>r_box.ijs_paint_ch</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint Europoint lll</Text>
+      <Value>r_bumper.ijs_euro3_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint Ecopoint 2</Text>
+      <Value>r_bumper.ijs_eco2_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Exclusive Paint</Text>
+      <Value>r_bumper.ijs_exclsv_p</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Mudlflap</Group>
+      <Text>Paint</Text>
+      <Value>r_mudflap.ijs_paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\danny\Documents\Mods Studio 2\UserVehicles\ETS2.IJs.TrailerMods.Tank.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>ijs.tank</InternalName>
+  <VehicleAuthor>IJ's Mods</VehicleAuthor>
+  <VehicleName>IJ's Mods Tank Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.ijs_10_paint</InternalName>
+      <Name>Food Tank Paint</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.ijs_10_chrome</InternalName>
+      <Name>Food Tank Chrome</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay</XmlDefinitionAuthor>
+</Variable>
