@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>28baa830-42e3-49e9-804a-c13c0e92ba65</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Body Left</Group>
+      <Text>Ridges</Text>
+      <Value>body_l.ridges_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Body Left</Group>
+      <Text>Ridges</Text>
+      <Value>body_l.ridges_s_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Body Left</Group>
+      <Text>Smooth</Text>
+      <Value>body_l.smooth4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Body Right</Group>
+      <Text>Ridges</Text>
+      <Value>body_r.ridges_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Body Right</Group>
+      <Text>Ridges</Text>
+      <Value>body_r.ridges_s_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Body Right</Group>
+      <Text>Smooth</Text>
+      <Value>body_r.smooth4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Wall</Group>
+      <Text>Front Wall</Text>
+      <Value>f_wall.stock4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Door</Group>
+      <Text>2 locks painted frame</Text>
+      <Value>r_doors.paint4m_2x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Door</Group>
+      <Text>2 locks unpainted frame</Text>
+      <Value>r_doors.stock4m_2x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Door</Group>
+      <Text>4 locks painted frame</Text>
+      <Value>r_doors.paint4m_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Door</Group>
+      <Text>4 locks unpainted frame</Text>
+      <Value>r_doors.stock4m_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Paint</Text>
+      <Value>frame.paint3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Paint</Text>
+      <Value>frame.paint320</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Paint</Text>
+      <Value>frame.paint320i</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Paint</Text>
+      <Value>frame.paint3i</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Left</Group>
+      <Text>Palletbox paint</Text>
+      <Value>f_side_l.pallet_b_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Left</Group>
+      <Text>Palletbox paint intermodal</Text>
+      <Value>f_side_l.pallet_b_pi</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Left</Group>
+      <Text>Rails paint</Text>
+      <Value>f_side_l.side_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Left</Group>
+      <Text>Rails paint closed</Text>
+      <Value>f_side_l.side_p_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Left</Group>
+      <Text>Rails paint Intermodal</Text>
+      <Value>f_side_l.side_pi</Value>
+    </ListItem>
+    <ListItem>
+      <Group>f2_side_l</Group>
+      <Text>Rails paint</Text>
+      <Value>f2_side_l.side_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Right</Group>
+      <Text>Rails paint</Text>
+      <Value>f_side_r.side_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Right</Group>
+      <Text>Rails paint closed</Text>
+      <Value>f_side_r.side_p_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Right</Group>
+      <Text>Rails paint Intermodal</Text>
+      <Value>f_side_r.side_pi</Value>
+    </ListItem>
+    <ListItem>
+      <Group>f2_side_r</Group>
+      <Text>Rails paint</Text>
+      <Value>f2_side_r.side_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_side_l</Group>
+      <Text>Palletbox paint</Text>
+      <Value>r_side_l.palletbox_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Intermodal</Group>
+      <Text>Fullpaint</Text>
+      <Value>intermodal.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Intermodal</Group>
+      <Text>Paint</Text>
+      <Value>intermodal.paint2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Leg Cover</Group>
+      <Text>Paint</Text>
+      <Value>leg_cover.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Leg Cover</Group>
+      <Text>Paint + Hinge</Text>
+      <Value>leg_cover.paint_hin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Leg Cover</Group>
+      <Text>Paint + Hinge paint</Text>
+      <Value>leg_cover.paint_hin_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Leg Cover</Group>
+      <Text>Stock + Hinge paint</Text>
+      <Value>leg_cover.stock_hin_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>mudflap_a</Group>
+      <Text>Paint</Text>
+      <Value>mudflap_a.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>mudflap_b</Group>
+      <Text>Paint</Text>
+      <Value>mudflap_b.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>mudflap_c</Group>
+      <Text>Paint</Text>
+      <Value>mudflap_c.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>mudflap_r</Group>
+      <Text>Paint</Text>
+      <Value>mudflap_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>spare_w</Group>
+      <Text>Spare wheel cage empty paint</Text>
+      <Value>spare_w.paint_e</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Reefer</Group>
+      <Text>Thermo King Advancer 360 Paint</Text>
+      <Value>reefer.tk_adv_360p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Reefer</Group>
+      <Text>Thermo King Advancer 400 Paint</Text>
+      <Value>reefer.tk_adv_400p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Reefer</Group>
+      <Text>Carrier Vector 1550 Paint</Text>
+      <Value>reefer.c_v1550p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Reefer</Group>
+      <Text>Carrier Vector HE19 Paint</Text>
+      <Value>reefer.c_he19p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Reefer</Group>
+      <Text>Daikin Exigo E1500 Paint</Text>
+      <Value>reefer.d_exigop</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Reefer</Group>
+      <Text>Schmitz S.CU Paint</Text>
+      <Value>reefer.sc_scup</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Reefer</Group>
+      <Text>Thermo King Advancer 500 Paint</Text>
+      <Value>reefer.tk_adv_500p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Reefer</Group>
+      <Text>Thermo King SLX 400 Paint</Text>
+      <Value>reefer.tk_slx_400p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Slim paint</Text>
+      <Value>r_bumper.slim_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Slim paint w/ cover</Text>
+      <Value>r_bumper.slim_p_sn</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Slim paint w/ cover for ladder middle</Text>
+      <Value>r_bumper.slim_p_sm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Slim paint w/ cover for ladder right</Text>
+      <Value>r_bumper.slim_p_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Wide paint</Text>
+      <Value>r_bumper.wide_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Wide paint w/ cover</Text>
+      <Value>r_bumper.wide_p_sn</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Wide paint w/ cover for ladder middle</Text>
+      <Value>r_bumper.wide_p_sm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Wide paint w/ cover for ladder middle without logo</Text>
+      <Value>r_bumper.wide_p_sm_wl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Wide paint w/ cover for ladder right</Text>
+      <Value>r_bumper.wide_p_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Wide paint w/ cover for ladder right without logo</Text>
+      <Value>r_bumper.wide_p_s_wl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Wide paint w/ cover without logo</Text>
+      <Value>r_bumper.wide_p_sn_wl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Wide paint without logo</Text>
+      <Value>r_bumper.wide_p_wl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_bpr_hold</Group>
+      <Text>Paint</Text>
+      <Value>r_bpr_hold.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_bpr_hold</Group>
+      <Text>Dhollandia Full-Paint</Text>
+      <Value>r_bpr_hold.fpaint_dh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_bpr_hold</Group>
+      <Text>Dhollandia Paint</Text>
+      <Value>r_bpr_hold.paint_dh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_bpr_hold</Group>
+      <Text>Paint</Text>
+      <Value>r_bpr_hold.paint_i</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Dhollandia paint</Text>
+      <Value>r_bumper.dhol_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Dhollandia paint extended</Text>
+      <Value>r_bumper.dhol_p_ext</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_lp</Group>
+      <Text>Paint EU</Text>
+      <Value>r_lp.skin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_lp</Group>
+      <Text>Paint EU</Text>
+      <Value>r_lp.skin_dh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_lp</Group>
+      <Text>Paint EU</Text>
+      <Value>r_lp.skin_slim</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_lp</Group>
+      <Text>Paint UK</Text>
+      <Value>r_lp.ukskin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_lp</Group>
+      <Text>Paint UK</Text>
+      <Value>r_lp.ukskin_dh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_lp</Group>
+      <Text>Paint UK</Text>
+      <Value>r_lp.ukskin_slim</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_lp</Group>
+      <Text>Paint Spain</Text>
+      <Value>r_lp.skin_sp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_stopper</Group>
+      <Text>Paint roller</Text>
+      <Value>r_stopper.paint_r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_stopper</Group>
+      <Text>Paint small blocks</Text>
+      <Value>r_stopper.paint_sm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Control</Group>
+      <Text>Orbcomm Schmitz Design</Text>
+      <Value>control.orb_schmitz</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Control</Group>
+      <Text>Orbcomm Schmitz Design+Temperature Gauge</Text>
+      <Value>control.orb_schmitzt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Control</Group>
+      <Text>Orbcomm Schmitz Design w/Fuel+Temperature Gauge</Text>
+      <Value>control.orbchmitzft</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Control</Group>
+      <Text>Orbcomm Schmitz Design w/Fuel Gauge</Text>
+      <Value>control.orb_schmitzf</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Corners</Group>
+      <Text>Paint</Text>
+      <Value>corners.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Corners</Group>
+      <Text>Paint + Logo</Text>
+      <Value>corners.paint_logo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Corners</Group>
+      <Text>Paint + Logo 2024</Text>
+      <Value>corners.paintlogonew</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>scju.sko</InternalName>
+  <SoundItems />
+  <VehicleAuthor>JUseeTV</VehicleAuthor>
+  <VehicleName>Schmitz|S.KO COOL 2020</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.reefer4m</InternalName>
+      <Name>S.KO</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Chiky Chuky</XmlDefinitionAuthor>
+</Variable>
