@@ -1,0 +1,1829 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>179ef712-205e-4fde-9678-0f4ebc216615</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Aero Kit</Group>
+      <Text>Aero Kit Paint</Text>
+      <Value>aero_kit.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Aero Kit</Group>
+      <Text>Aero Kit Paint</Text>
+      <Value>aero_kit.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Aero Kit</Group>
+      <Text>Aero Kit Paint</Text>
+      <Value>aero_kit.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Aero Kit</Group>
+      <Text>Aero Kit Paint</Text>
+      <Value>aero_kit.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Aero Kit</Group>
+      <Text>Aero Kit and Retro Roof Wing Paint</Text>
+      <Value>aero_kit.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Aero Kit</Group>
+      <Text>Retro Roof Wing</Text>
+      <Value>aero_kit.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Cleaners</Group>
+      <Text>Paint Air Filters Custom Lights</Text>
+      <Value>airclean.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Cleaners</Group>
+      <Text>Air Cleaner 3 Lights Paint</Text>
+      <Value>airclean.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Cleaners</Group>
+      <Text>Air Cleaner 6 Lights Paint</Text>
+      <Value>airclean.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Cleaners</Group>
+      <Text>Air Cleaner 6 Lights Paint</Text>
+      <Value>airclean.shape30</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Cleaners</Group>
+      <Text>Air Cleaner 359 paint</Text>
+      <Value>airclean.shape359</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Cleaners</Group>
+      <Text>Air Cleaner 359 Paint 2</Text>
+      <Value>airclean.shape359p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Cleaners</Group>
+      <Text>Air Cleaner Custom Paint</Text>
+      <Value>airclean.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Cleaners</Group>
+      <Text>Air Cleaner Painted for Custom Bands</Text>
+      <Value>airclean.shape7p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Back Side Legacy</Group>
+      <Text>Backside Lights - legacy paint</Text>
+      <Value>backside.legacy_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Show Truck Fully Painted</Text>
+      <Value>b_grill.hater2bigp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Show Truck Clean Painted</Text>
+      <Value>b_grill.hater3bigp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Show Truck Phantom Painted</Text>
+      <Value>b_grill.hater4bigp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Paint Heavy Haul Bumper</Text>
+      <Value>b_grill.phhb</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Standard Bumper Drop Painted</Text>
+      <Value>b_grill.shape3p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>American Eagle Paint</Text>
+      <Value>b_grill.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Big and Low Paint</Text>
+      <Value>b_grill.shape5a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Big and Low Paint 2</Text>
+      <Value>b_grill.shape5b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>American Eagle Paint CAT</Text>
+      <Value>b_grill.shape5c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Phantom Bumper Painted</Text>
+      <Value>b_grill.shape666p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Big Painted</Text>
+      <Value>b_grill.shape94p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Grills</Group>
+      <Text>Grill With Horizontal Bars Painted</Text>
+      <Value>c_grill.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Grills</Group>
+      <Text>Grill With 3 Bars Painted</Text>
+      <Value>c_grill.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Grills</Group>
+      <Text>Phantom Grill Full Painted</Text>
+      <Value>c_grill.shape666fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Grills</Group>
+      <Text>Phantom Grill Painted</Text>
+      <Value>c_grill.shape666p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Grills</Group>
+      <Text>Grill With 3 Bars Painted</Text>
+      <Value>c_grill.shape6p2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Grills</Group>
+      <Text>Grill With 7 Bars Painted</Text>
+      <Value>c_grill.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Grills</Group>
+      <Text>Grill With 7 Bars Painted</Text>
+      <Value>c_grill.shape7p2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Grills</Group>
+      <Text>Grill With 15 Bars Panited</Text>
+      <Value>c_grill.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Grills</Group>
+      <Text>Grill With 15 Bars Panited</Text>
+      <Value>c_grill.shape8p2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Grills</Group>
+      <Text>Grill With Mesh Painted</Text>
+      <Value>c_grill.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Grills</Group>
+      <Text>Grill With 3 Bars Painted Mesh</Text>
+      <Value>c_grill.shape91</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Grills</Group>
+      <Text>Grill With 7 Bars Painted Mesh</Text>
+      <Value>c_grill.shape92</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Grills</Group>
+      <Text>Grill With 15 Bars Painted Mesh</Text>
+      <Value>c_grill.shape93</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Grills</Group>
+      <Text>Grill With Mesh Painted Mesh</Text>
+      <Value>c_grill.shape94</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Grills</Group>
+      <Text>Grill With Mesh Painted</Text>
+      <Value>c_grill.shape9p2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Dash Panel</Group>
+      <Text>Paint</Text>
+      <Value>dash_panel.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Dash Panel</Group>
+      <Text>Paint</Text>
+      <Value>dash_panel.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Dash Panel</Group>
+      <Text>Paint</Text>
+      <Value>dash_panel.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Dash Panel</Group>
+      <Text>Paint</Text>
+      <Value>dash_panel.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Deckplate</Group>
+      <Text>Deckplate 2 Paint</Text>
+      <Value>deckplate.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Deckplate</Group>
+      <Text>Deckplate 2 Paint with Nodes</Text>
+      <Value>deckplate.shape10a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Deckplate</Group>
+      <Text>Deckplate 2 Paint</Text>
+      <Value>deckplate.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Deckplate</Group>
+      <Text>Deckplate 2 Paint with Nodes</Text>
+      <Value>deckplate.shape11a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Deckplate</Group>
+      <Text>Deckplate 2 Paint</Text>
+      <Value>deckplate.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Deckplate</Group>
+      <Text>Deckplate 2 Paint with Nodes</Text>
+      <Value>deckplate.shape12a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Deckplate</Group>
+      <Text>Frame Wrap Lights Paint</Text>
+      <Value>deckplate.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Deckplate</Group>
+      <Text>Frame Wrap Paint With Light Nodes</Text>
+      <Value>deckplate.shape22a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Deckplate</Group>
+      <Text>Frame Wrap Bike Paint With Light Nodes</Text>
+      <Value>deckplate.shape22abkp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Deckplate</Group>
+      <Text>Frame Wrap Bike Paint Short</Text>
+      <Value>deckplate.shape23</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Gatgun Hickstyle 2 Painted</Text>
+      <Value>exhaust.gatgunbig1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Gatgun Hickstyle Painted</Text>
+      <Value>exhaust.gatgunbigp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Exhaust 3 Hickstyle Painted</Text>
+      <Value>exhaust.shape003p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Custom Bulls Hickstyle Painted 2</Text>
+      <Value>exhaust.shape004p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Exhaust 2 Hickstyle Painted</Text>
+      <Value>exhaust.shape02p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Exhaust 3 Hickstyle Big Tips Painted</Text>
+      <Value>exhaust.shape03b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Big Pipes Flattop Paint</Text>
+      <Value>exhaust.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Hickstyle Pipes Flattop Paint</Text>
+      <Value>exhaust.shape8b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Custom Double Bullhorns Big Painted</Text>
+      <Value>exhaust.showtruck1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Custom Hickstyle Painted with Flaps</Text>
+      <Value>exhaust.showtruck2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Custom Bulls Hickstyle Painted</Text>
+      <Value>exhaust.showtruck3p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Hickstyle Straight Stacks Painted</Text>
+      <Value>exhaust.straightbigc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>8x4 Fender</Group>
+      <Text>Black/Paint Single 8x4</Text>
+      <Value>fen8x4.mid_5p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>8x4 Fender</Group>
+      <Text>Paint/Black Single 8x4</Text>
+      <Value>fen8x4.mid_5p1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>8x4 Fender</Group>
+      <Text>Painted Wheel Huggers w/flaps 8x4</Text>
+      <Value>fen8x4.mid_7p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>8x4 Fender</Group>
+      <Text>Paint Single 8x4</Text>
+      <Value>fen8x4.pinga_5c1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>8x4 Fender</Group>
+      <Text>Chrome/Paint Single 8x4</Text>
+      <Value>fen8x4.pinga_5p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>8x4 Fender</Group>
+      <Text>Paint/Chrome Single 8x4</Text>
+      <Value>fen8x4.pinga_5p1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>8x4 Fender</Group>
+      <Text>Paint Single 2 8x4</Text>
+      <Value>fen8x4.pinga_p2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>8x4 Fender</Group>
+      <Text>Chrome/Paint 8x4</Text>
+      <Value>fen8x4.pinga_p2vc1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>8x4 Fender</Group>
+      <Text>Paint/Chrome 8x4</Text>
+      <Value>fen8x4.pinga_p2vp1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>8x4 Fender</Group>
+      <Text>Tri Axle Fender painted</Text>
+      <Value>fen8x4.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>8x4 Fender</Group>
+      <Text>Heavy Duty Paint Half</Text>
+      <Value>fen8x4.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>8x4 Fender</Group>
+      <Text>Paint Single 3</Text>
+      <Value>fen8x4.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fender Bar Front Blinker</Group>
+      <Text>Blinker Bar Paint</Text>
+      <Value>fender_bar.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fender Bar Front Blinker</Group>
+      <Text>Blinker Bar LED paint</Text>
+      <Value>fender_bar.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fender Bar Front Blinker</Group>
+      <Text>Standard Paint</Text>
+      <Value>fender_bar.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fender Bar Front Blinker</Group>
+      <Text>Standard Paint LED</Text>
+      <Value>fender_bar.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>359 Front Fenders</Text>
+      <Value>fenfront.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>359 Front Fenders Custom</Text>
+      <Value>fenfront.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Ole Skool Fenders Lollie</Text>
+      <Value>fenfront.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Ole Skool Fenders</Text>
+      <Value>fenfront.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Phantom Fenders</Text>
+      <Value>fenfront.shape08</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Phantom Fenders</Text>
+      <Value>fenfront.shape09</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Front Fender Paint</Text>
+      <Value>fenfront.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>New Fenders</Text>
+      <Value>fenfront.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Phantom Fenders White Lights</Text>
+      <Value>fenfront.shape11c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Front Fender Semi Paint</Text>
+      <Value>fenfront.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Front Fender Custom</Text>
+      <Value>fenfront.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Heavy Duty Fender</Text>
+      <Value>fenfront.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Custom Fender 2</Text>
+      <Value>fenfront.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Custom Show Truck</Text>
+      <Value>fenfront.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Custom Tuning</Text>
+      <Value>fenfront.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Half Painted</Text>
+      <Value>fenrear.half_6c1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Half Paint/Chrome</Text>
+      <Value>fenrear.half_6p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Half Chrome/Paint</Text>
+      <Value>fenrear.half_6p1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Haterbilt Style 9</Text>
+      <Value>fenrear.hater1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Haterbilt Style 4</Text>
+      <Value>fenrear.hater2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>New Fender</Text>
+      <Value>fenrear.newfender</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>New Fender 2</Text>
+      <Value>fenrear.newfender2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Haterbilt Style</Text>
+      <Value>fenrear.newfender3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Haterbilt Style 2 Painted</Text>
+      <Value>fenrear.newfender4p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Haterbilt Style 3</Text>
+      <Value>fenrear.newfender5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Haterbilt Style 6</Text>
+      <Value>fenrear.newfender8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Haterbilt Style 7</Text>
+      <Value>fenrear.newfender9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Half Painted Rear Flaps</Text>
+      <Value>fenrear.pingah_6c1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Half Paint/Chrome Rear Flaps</Text>
+      <Value>fenrear.pingah_6p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Half Chrome/Paint Rear Flaps</Text>
+      <Value>fenrear.pingah_6p1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>C Quarters Painted</Text>
+      <Value>fenrear.pingaq_5c1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>C Quarters Chrome/Paint</Text>
+      <Value>fenrear.pingaq_5p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>C Quarters Chrome/Paint</Text>
+      <Value>fenrear.pingaq_5p1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Singles Painted Rear Flaps</Text>
+      <Value>fenrear.pinga_5c1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Singles Chrome/Paint</Text>
+      <Value>fenrear.pinga_5p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Single Chrome/Paint Rear Flaps</Text>
+      <Value>fenrear.pinga_5p1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Full Painted Rear Flaps</Text>
+      <Value>fenrear.pinga_6c1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Full Paint/Chrome Rear Flaps</Text>
+      <Value>fenrear.pinga_6p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Full Chrome/Paint Rear Flaps</Text>
+      <Value>fenrear.pinga_6p1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Painted Wheel Huggers w/flaps</Text>
+      <Value>fenrear.pinga_7p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Double Hump Single Paint</Text>
+      <Value>fenrear.pinga_p2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Double Hump Single Paint/Chrome</Text>
+      <Value>fenrear.pinga_p2vc1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Double Hump Single Chrome/Paint</Text>
+      <Value>fenrear.pinga_p2vp1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Euro Double Hump Painted</Text>
+      <Value>fenrear.pinga_p3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Euro Double Hump Paint/Chrome</Text>
+      <Value>fenrear.pinga_p3v1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Custom Painted w/Flaps</Text>
+      <Value>fenrear.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Double Round Fender Paint</Text>
+      <Value>fenrear.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Half Fender Paint</Text>
+      <Value>fenrear.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>New Style Paint Double</Text>
+      <Value>fenrear.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Euro Double Hump Painted</Text>
+      <Value>fenrear.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Painted Double w/Rear Lights</Text>
+      <Value>fenrear.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Painted Double No Lights</Text>
+      <Value>fenrear.shape23</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Painted Double Custom</Text>
+      <Value>fenrear.shape24</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Painted Half Fender w/Flap</Text>
+      <Value>fenrear.shape25</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Painted Half Fender w/Lightbar</Text>
+      <Value>fenrear.shape26</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>New Style Painted Single</Text>
+      <Value>fenrear.shape28</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>New Style Single Chrome</Text>
+      <Value>fenrear.shape29</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Heavy Load Fender Painted</Text>
+      <Value>fenrear.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Tuning Fender Paint</Text>
+      <Value>fenrear.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Painted Double Hump Full</Text>
+      <Value>fenrear.shape68</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Care Paint</Text>
+      <Value>fenrear.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Care Seperate Paint</Text>
+      <Value>fenrear.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Care Circ Paint</Text>
+      <Value>fenrear.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Painted Humps Seperate</Text>
+      <Value>fenrear.shape90</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Painted Humps No Lights</Text>
+      <Value>fenrear.shape91</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Custom Full Fenders Paint</Text>
+      <Value>fenrear.shape92</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Custom Painted w/Box+Lights</Text>
+      <Value>fenrear.shape93</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Custom Chrome w/Painted Tool Box+Lights</Text>
+      <Value>fenrear.shape94</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Custom Paint w/Box no Lights</Text>
+      <Value>fenrear.shape95</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Full Painted w/Lightbar</Text>
+      <Value>fenrear.fentruxp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Viper Quarters Paint</Text>
+      <Value>fenrear.viperquart</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Frame Base Color Paint</Text>
+      <Value>frame.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Custom Show Truck</Text>
+      <Value>frame.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Frame Base Color Paint</Text>
+      <Value>frame.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Frame Base Color Paint</Text>
+      <Value>frame.shape16a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Custom Show Truck</Text>
+      <Value>frame.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Custom Show Truck</Text>
+      <Value>frame.shape17a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Frame Base Color Paint</Text>
+      <Value>frame.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Frame Base Color Paint</Text>
+      <Value>frame.shape20a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Custom Show Truck</Text>
+      <Value>frame.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Custom Show Truck</Text>
+      <Value>frame.shape21a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Frame Base Color Paint</Text>
+      <Value>frame.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Frame Base Color Paint</Text>
+      <Value>frame.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Custom Show Truck</Text>
+      <Value>frame.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Custom Show Truck</Text>
+      <Value>frame.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo</Group>
+      <Text>Bigg Diamond 3 Painted Style</Text>
+      <Value>front_logo.bigdiam3p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo</Group>
+      <Text>3 Diamond Grill Style Painted</Text>
+      <Value>front_logo.diamond3p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo</Group>
+      <Text>Plaid Grill Painted Style</Text>
+      <Value>front_logo.dim379p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo</Group>
+      <Text>Custom Web Paint Grill 2</Text>
+      <Value>front_logo.web_custom1a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo</Group>
+      <Text>Custom Web Paint/Chrome Grill</Text>
+      <Value>front_logo.web_custom2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo</Group>
+      <Text>Custom Web Paint Grill 3</Text>
+      <Value>front_logo.web_custom2a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo</Group>
+      <Text>Custom Web Paint Grill</Text>
+      <Value>front_logo.web_custom_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Foot Step</Group>
+      <Text>Footstep Paint</Text>
+      <Value>fstep.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Foot Step</Group>
+      <Text>Footstep Paint 2</Text>
+      <Value>fstep.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Foot Step</Group>
+      <Text>Classic Steps</Text>
+      <Value>fstep.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Foot Step</Group>
+      <Text>DPF and Battery box</Text>
+      <Value>fstep.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Foot Step</Group>
+      <Text>DPF box double</Text>
+      <Value>fstep.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Foot Step</Group>
+      <Text>Fuels Paint</Text>
+      <Value>fstep.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5th Wheel</Group>
+      <Text>Fifth Wheel Paint</Text>
+      <Value>fthwheel.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5th Wheel</Group>
+      <Text>Fifth Wheel Custom Paint</Text>
+      <Value>fthwheel.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5th Wheel</Group>
+      <Text>Fifth Wheel Custom Paint 2</Text>
+      <Value>fthwheel.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5th Wheel</Group>
+      <Text>Fifth Wheel Paint</Text>
+      <Value>fthwheel.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5th Wheel</Group>
+      <Text>Fifth Wheel Custom Paint</Text>
+      <Value>fthwheel.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5th Wheel</Group>
+      <Text>Fifth Wheel Custom Paint 2</Text>
+      <Value>fthwheel.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>Old 379 Style Paint</Text>
+      <Value>f_lights.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>389 Style color option 1</Text>
+      <Value>f_lights.shape1_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>389 Style color option 2</Text>
+      <Value>f_lights.shape1_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>389 Style color option 3</Text>
+      <Value>f_lights.shape1_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>389 Style color option 4</Text>
+      <Value>f_lights.shape1_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>389 Style color option 5</Text>
+      <Value>f_lights.shape1_6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>351 Style Paint 1</Text>
+      <Value>f_lights.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>351 Style Paint 2</Text>
+      <Value>f_lights.shape4_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>359 Style Paint 1</Text>
+      <Value>f_lights.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>359 Style Paint 2</Text>
+      <Value>f_lights.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>Custom Head Lights 1 Painted</Text>
+      <Value>f_lights.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>Painted Headlght 1</Text>
+      <Value>f_lights.trux_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>389 Viper3 Custom Paint</Text>
+      <Value>f_lights.viper3p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>389 Viper3 Custom Chrome Paint</Text>
+      <Value>f_lights.viper3pc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fender Guards Under Headlights</Group>
+      <Text>Metal Fender Guards 2 Painted</Text>
+      <Value>lghfender.shape2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fender Guards Under Headlights</Group>
+      <Text>Metal Fender Guards Logo Painted</Text>
+      <Value>lghfender.shape3p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Light Bar</Group>
+      <Text>Custom Lightbar Paint</Text>
+      <Value>lightbar.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Light Bar</Group>
+      <Text>Custom Lightbar Paint</Text>
+      <Value>lightbar.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Light Bar</Group>
+      <Text>Custom Lightbar Legacy Paint</Text>
+      <Value>lightbar.shape15lp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Light Bar</Group>
+      <Text>Custom Lightbar Paint</Text>
+      <Value>lightbar.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Light Bar</Group>
+      <Text>Custom Lightbar Eagle Painted</Text>
+      <Value>lightbar.shape17ep</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Light Bar</Group>
+      <Text>Custom Lightbar Eagle Painted</Text>
+      <Value>lightbar.shape17p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Light Bar</Group>
+      <Text>Custom Lightbar Paint</Text>
+      <Value>lightbar.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Light Bar</Group>
+      <Text>Deep Lightbar Paint</Text>
+      <Value>lightbar.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Light Bar</Group>
+      <Text>Deep Lightbar Paint</Text>
+      <Value>lightbar.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Light Bar</Group>
+      <Text>Deep Lightbar Paint</Text>
+      <Value>lightbar.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Light Bar</Group>
+      <Text>Deep Lightbar Paint</Text>
+      <Value>lightbar.shape23</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Light Bar</Group>
+      <Text>Standard Lightbar Paint</Text>
+      <Value>lightbar.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Light Bar</Group>
+      <Text>Standard Lightbar Paint</Text>
+      <Value>lightbar.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Light Bar</Group>
+      <Text>Standard Lightbar Paint</Text>
+      <Value>lightbar.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Light Bar</Group>
+      <Text>Standard Lightbar Paint</Text>
+      <Value>lightbar.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Light Bar</Group>
+      <Text>Custom Short Light Bar Paint</Text>
+      <Value>lightbar.shortbar</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>Painted 379 Square Custom LED w Visor</Text>
+      <Value>low_lights.shape10p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>359 Square Paint</Text>
+      <Value>low_lights.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>Double Headlights v1</Text>
+      <Value>low_lights.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>Double Headlights v2</Text>
+      <Value>low_lights.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>Quad Full Led Headlights v2</Text>
+      <Value>low_lights.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>Single Round Led Headlights</Text>
+      <Value>low_lights.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>Single Round Led Headlights</Text>
+      <Value>low_lights.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>389 Style color option 2</Text>
+      <Value>low_lights.shape1_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>389 Style color option 3</Text>
+      <Value>low_lights.shape1_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>389 Style color option 4</Text>
+      <Value>low_lights.shape1_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>389 Style color option 5</Text>
+      <Value>low_lights.shape1_6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>Old 379 Style Paint</Text>
+      <Value>low_lights.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>Old 379 Style With Beacon Paint</Text>
+      <Value>low_lights.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>Double Led Headlights</Text>
+      <Value>low_lights.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>Double Round Headlights</Text>
+      <Value>low_lights.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>Single Round Headlights</Text>
+      <Value>low_lights.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>Quad Led Headlights</Text>
+      <Value>low_lights.shape23</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>359 Square Paint</Text>
+      <Value>low_lights.shape26</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>359 Style With Fender Blinker</Text>
+      <Value>low_lights.shape32</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>Old 379 Style Paint</Text>
+      <Value>low_lights.shape36</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>351 Style Paint 1</Text>
+      <Value>low_lights.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>351 Style Paint 2</Text>
+      <Value>low_lights.shape4_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>359 Style</Text>
+      <Value>low_lights.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>359 Style Paint 1</Text>
+      <Value>low_lights.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>359 Style Paint 2</Text>
+      <Value>low_lights.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>Custom Head Lights 1</Text>
+      <Value>low_lights.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>Painted Headlght 1</Text>
+      <Value>low_lights.trux_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>Viper2 2 Paint</Text>
+      <Value>low_lights.viper2_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights/Low Lights</Group>
+      <Text>389 Viper2 4 Paint</Text>
+      <Value>low_lights.viper2_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirror</Group>
+      <Text>Custom Show Truck Painted</Text>
+      <Value>mirror.2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirror</Group>
+      <Text>New 389 Paint</Text>
+      <Value>mirror.3p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirror</Group>
+      <Text>Paint Mirror Double</Text>
+      <Value>mirror.pet3892</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirror</Group>
+      <Text>Paint Mirror</Text>
+      <Value>mirror.pet3894</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirror</Group>
+      <Text>Paint 379 Mirror</Text>
+      <Value>mirror.pet38971</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Naviagtor Bezel</Group>
+      <Text>GPS Painted Bezel</Text>
+      <Value>navegador.2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rack/Bulkhead</Group>
+      <Text>Custom Rack Painted</Text>
+      <Value>rack.custom_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rack/Bulkhead</Group>
+      <Text>Headache Rack Paint</Text>
+      <Value>rack.headache_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rack/Bulkhead</Group>
+      <Text>Rack 2 Custom Paint</Text>
+      <Value>rack.rack_02p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rack/Bulkhead</Group>
+      <Text>Rack 6 Painted</Text>
+      <Value>rack.rack_10p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rack/Bulkhead</Group>
+      <Text>Rack 1 Painted</Text>
+      <Value>rack.rack_1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rack/Bulkhead</Group>
+      <Text>Rack 3 painted</Text>
+      <Value>rack.rack_3p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rack/Bulkhead</Group>
+      <Text>Rack 5 Painted</Text>
+      <Value>rack.rack_5p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rack/Bulkhead</Group>
+      <Text>Tool Box Paint</Text>
+      <Value>rack.rack_box_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rack/Bulkhead</Group>
+      <Text>Rack Paint/skin</Text>
+      <Value>rack.rack_skn</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rivots</Group>
+      <Text>Painted Rivets</Text>
+      <Value>rivets.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rivots</Group>
+      <Text>Painted Rivets</Text>
+      <Value>rivets.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rivots</Group>
+      <Text>Painted Rivets</Text>
+      <Value>rivets.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rivots</Group>
+      <Text>Roof Scoop Paint</Text>
+      <Value>rivets.shape89</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Trim Interior</Group>
+      <Text>Custom Show Truck</Text>
+      <Value>roof_trim.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Trim Interior</Group>
+      <Text>Paint</Text>
+      <Value>roof_trim.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Step</Group>
+      <Text>Tool Box Paint Double</Text>
+      <Value>rstep.rstep5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Step</Group>
+      <Text>Tool Box Paint Single</Text>
+      <Value>rstep.rstep6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Step</Group>
+      <Text>Frame Mount small toolbox painted</Text>
+      <Value>rstep.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Step</Group>
+      <Text>Frame Mount Small Toolbox Painted Single</Text>
+      <Value>rstep.shape5s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Light Bar</Group>
+      <Text>Show Truck Painted 2</Text>
+      <Value>r_lights.hater1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Light Bar</Group>
+      <Text>Show Truck Painted 2 Pete Logo</Text>
+      <Value>r_lights.hater1a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Light Bar</Group>
+      <Text>Show Truck Chrome 2</Text>
+      <Value>r_lights.hater1c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Light Bar</Group>
+      <Text>New Style</Text>
+      <Value>r_lights.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Light Bar</Group>
+      <Text>Custom Style 10 Paint</Text>
+      <Value>r_lights.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Light Bar</Group>
+      <Text>Custom Style 10 Flaps Paint</Text>
+      <Value>r_lights.shape10f</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Light Bar</Group>
+      <Text>LED Double Flaps Paint</Text>
+      <Value>r_lights.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Light Bar</Group>
+      <Text>Show Truck Painted</Text>
+      <Value>r_lights.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Light Bar</Group>
+      <Text>MudFlap Hanger Paint</Text>
+      <Value>r_lights.shape26</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Light Bar</Group>
+      <Text>Light Bar Paint</Text>
+      <Value>r_lights.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Light Bar</Group>
+      <Text>Light Bar Paint 6x4</Text>
+      <Value>r_lights.shape5p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Light Bar</Group>
+      <Text>Custom Style 9 Paint</Text>
+      <Value>r_lights.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Light Bar</Group>
+      <Text>Custom Style 9 Flaps Paint</Text>
+      <Value>r_lights.shape9f</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Light Bar</Group>
+      <Text>Light Bar Paint 2</Text>
+      <Value>r_lights.shapenew2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Window</Group>
+      <Text>Window Cover</Text>
+      <Value>r_window.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Window</Group>
+      <Text>Window Cover</Text>
+      <Value>r_window.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Window</Group>
+      <Text>Window Cover</Text>
+      <Value>r_window.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Window</Group>
+      <Text>Window Cover</Text>
+      <Value>r_window.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Window</Group>
+      <Text>Window Cover</Text>
+      <Value>r_window.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Shifter Paint</Group>
+      <Text>Twin Stick Paint</Text>
+      <Value>shifter.custom6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Shifter Paint</Group>
+      <Text>Twin Stick 2 Paint</Text>
+      <Value>shifter.custom9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Showlights</Group>
+      <Text>Showlights 2 Painted</Text>
+      <Value>show_lights.shape2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Showlights</Group>
+      <Text>Showlights 3 Painted</Text>
+      <Value>show_lights.shape3p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Showlights</Group>
+      <Text>Showlights 4 Painted</Text>
+      <Value>show_lights.shape4p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Steerng Wheel</Group>
+      <Text>Harven's Chain Truck Paint</Text>
+      <Value>steering_w.chainpa</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Steerng Wheel</Group>
+      <Text>Peterbilt 1 color</Text>
+      <Value>steering_w.retro1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Steerng Wheel</Group>
+      <Text>Traveler Burl Paint</Text>
+      <Value>steering_w.sci_burl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Steerng Wheel</Group>
+      <Text>Classic Truck Color</Text>
+      <Value>steering_w.sci_cl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Steerng Wheel</Group>
+      <Text>Classic Paint I</Text>
+      <Value>steering_w.sci_clp_l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Steerng Wheel</Group>
+      <Text>Classic Paint II</Text>
+      <Value>steering_w.sci_clp_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Steerng Wheel</Group>
+      <Text>Pinion Truck Color</Text>
+      <Value>steering_w.sci_pin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Visors</Group>
+      <Text>Blind Mount Paint</Text>
+      <Value>sunshld.new3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Visors</Group>
+      <Text>Visor new Paint</Text>
+      <Value>sunshld.new2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Visors</Group>
+      <Text>Visor New Double Paint</Text>
+      <Value>sunshld.newd</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Visors</Group>
+      <Text>Drop Visor Paint 2</Text>
+      <Value>sunshld.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Visors</Group>
+      <Text>Drop Visor Double 2</Text>
+      <Value>sunshld.shape10d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Visors</Group>
+      <Text>Monster Drop Visor Paint</Text>
+      <Value>sunshld.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Visors</Group>
+      <Text>Drop Visor Paint 3</Text>
+      <Value>sunshld.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Visors</Group>
+      <Text>Drop Visor Double 3 Paint</Text>
+      <Value>sunshld.shape13d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Visors</Group>
+      <Text>Custom Show Truck Paint</Text>
+      <Value>sunshld.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Visors</Group>
+      <Text>Visor Paint</Text>
+      <Value>sunshld.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Visors</Group>
+      <Text>Drop Visor Paint</Text>
+      <Value>sunshld.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Visors</Group>
+      <Text>Visor Bowtie Style Paint</Text>
+      <Value>sunshld.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Visors</Group>
+      <Text>Visor Bowtie Style Double w/Chrome Trim</Text>
+      <Value>sunshld.shape6d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Visors</Group>
+      <Text>Drop Visor Double Paint w/Chrome Trim</Text>
+      <Value>sunshld.shape7d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Visors</Group>
+      <Text>Drop Visor Paint</Text>
+      <Value>sunshld.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Visors</Group>
+      <Text>Drop Visor Double 1 Paint w/Chrome Trim</Text>
+      <Value>sunshld.shape8d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tanks</Group>
+      <Text>Custom Show Truck</Text>
+      <Value>tank.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tanks</Group>
+      <Text>Custom Show Truck Long</Text>
+      <Value>tank.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tanks</Group>
+      <Text>Custom Show Truck Long paint</Text>
+      <Value>tank.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tanks</Group>
+      <Text>Fuel Tank with DEF Paint</Text>
+      <Value>tank.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tanks</Group>
+      <Text>Custom Show Truck</Text>
+      <Value>tank.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tanks</Group>
+      <Text>Fuel Tank with DEF</Text>
+      <Value>tank.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tanks</Group>
+      <Text>Fuel Tank with Bike Paint</Text>
+      <Value>tank.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tanks</Group>
+      <Text>Fuel Tank Paint</Text>
+      <Value>tank.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tanks</Group>
+      <Text>Fuel Tank Paint Short</Text>
+      <Value>tank.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tanks</Group>
+      <Text>Fuel Tank Paint 2</Text>
+      <Value>tank.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tanks</Group>
+      <Text>Fuel Tank Paint Short 2</Text>
+      <Value>tank.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tanks</Group>
+      <Text>Custom Tank for Lights Paint</Text>
+      <Value>tank.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank Accessories</Group>
+      <Text>Tank Fairings</Text>
+      <Value>t_acc.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank Accessories</Group>
+      <Text>Tank Fairings Paint</Text>
+      <Value>t_acc.shape1_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank Accessories</Group>
+      <Text>Tank Fairings and Paint Panel</Text>
+      <Value>t_acc.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank Accessories</Group>
+      <Text>Tank Fairings Paint and Paint Panel</Text>
+      <Value>t_acc.shape3_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank Accessories</Group>
+      <Text>Tank Fairings Paint</Text>
+      <Value>t_acc.shape4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank Accessories</Group>
+      <Text>Tank Paint Panel</Text>
+      <Value>t_acc.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Upper Dash</Group>
+      <Text>Paint</Text>
+      <Value>upper_dash.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Upper Dash</Group>
+      <Text>Custom Show Truck Skin Paint</Text>
+      <Value>upper_dash.shape27</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Upper Dash</Group>
+      <Text>Paint</Text>
+      <Value>upper_dash.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Upper Dash</Group>
+      <Text>Custom Show Truck Skin Paint</Text>
+      <Value>window_trim.old4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Windshield Trim</Group>
+      <Text>Window Trim 2 Paint</Text>
+      <Value>window_trim.shape2_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Windshield Trim</Group>
+      <Text>Custom Show Truck Paint</Text>
+      <Value>window_trim.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Wing</Group>
+      <Text>Sleeper Wing Whaletail Paint</Text>
+      <Value>wing.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Wing Paint</Group>
+      <Text>Roof Wing</Text>
+      <Value>wing.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Wing</Group>
+      <Text>Sleeper Wing Paint</Text>
+      <Value>wing.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Wing</Group>
+      <Text>Retro Roof Wing</Text>
+      <Value>wing.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Wing</Group>
+      <Text>Retro Roof Wing</Text>
+      <Value>wing.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Wing</Group>
+      <Text>Sleeper Wing Whaletail Paint</Text>
+      <Value>wings.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Wing</Group>
+      <Text>Sleeper Wing Without Frame Paint</Text>
+      <Value>wings.shape5</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\leadf\Documents\Mods Studio 2\UserVehicles\ATS Lucasi Haterbilt_Viper2.peterbilt.389v2.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>peterbilt.389v2</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Haterbilt, Viper2</VehicleAuthor>
+  <VehicleName>Haterbilt Viper 379/389</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>dcfr.peterbilt.389v2.cabin</InternalName>
+      <Name>Daycab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>dchr.peterbilt.389v2.cabin</InternalName>
+      <Name>DayCab Ultra Cab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>eagle.peterbilt.389v2.cabin</InternalName>
+      <Name>Double Eagle Sleeper WIP</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>legacy.peterbilt.389v2.cabin</InternalName>
+      <Name>Legacy Sleeper WIP</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>merc.peterbilt.389v2.cabin</InternalName>
+      <Name>63 Inch Mercury Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>merc2.peterbilt.389v2.cabin</InternalName>
+      <Name>36 Inch Mercury Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>sfrbg.peterbilt.389v2.cabin</InternalName>
+      <Name>63 Inch Stand Up Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>sfrlg.peterbilt.389v2.cabin</InternalName>
+      <Name>63 Inch Flat top Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>sfrsh.peterbilt.389v2.cabin</InternalName>
+      <Name>36 Inch Flat top Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>shrbg.peterbilt.389v2.cabin</InternalName>
+      <Name>63 Inch Stand Up Sleeper Ultra Cab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>sucub.peterbilt.389v2.cabin</InternalName>
+      <Name>72 Inch Ultracab Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Lucasi_</XmlDefinitionAuthor>
+</Variable>
