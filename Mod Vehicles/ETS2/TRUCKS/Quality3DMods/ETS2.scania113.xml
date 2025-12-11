@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>39b77a97-dfd6-4fc3-b0b8-74c366c00467</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Canal EbuteGamer</Text>
+      <Value>adesivo.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grupo Brasil Norte – GBN</Text>
+      <Value>adesivo.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grupo Facção Mineira – GFM</Text>
+      <Value>adesivo.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Grupo GaleraDoVapor - GDV</Text>
+      <Value>adesivo.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Guia Baliza</Text>
+      <Value>baliza.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Calha Acrílica</Text>
+      <Value>calha.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>cambio.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>cambio.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Animação Cardan ON</Text>
+      <Value>cardan4x2.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Animação Cardan OFF</Text>
+      <Value>cardan4x2.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Animação Cardan ON</Text>
+      <Value>cardan6x2.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Animação Cardan OFF</Text>
+      <Value>cardan6x2.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Climatizador Maxiclima</Text>
+      <Value>clima.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Climatizador Resfriar</Text>
+      <Value>clima.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Climatizador Maxiclima</Text>
+      <Value>clima.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Climatizador Bepo</Text>
+      <Value>clima.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Climatizador Bepo</Text>
+      <Value>clima.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Climatizador Bepo</Text>
+      <Value>clima.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Corujinha Red</Text>
+      <Value>corujinha.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Corujinha Blue</Text>
+      <Value>corujinha.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Corujinha Red</Text>
+      <Value>corujinha.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED UBER [Letra O]</Text>
+      <Value>corujinha.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sem Defletor</Text>
+      <Value>defletor.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Defletor Lateral</Text>
+      <Value>defletor.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Defletor Alto</Text>
+      <Value>defletor.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Escada Fabbof</Text>
+      <Value>escada.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Escada Fabbof Cromada</Text>
+      <Value>escada.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Escada Bepo</Text>
+      <Value>escada.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Escada Bepo Cromada</Text>
+      <Value>escada.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>faixa.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>faixa.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>faixa.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>faixa.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Animação Hélice ON</Text>
+      <Value>helice.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Animação Hélice OFF</Text>
+      <Value>helice.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Animação Lavando</Text>
+      <Value>ia.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Animação Lavando</Text>
+      <Value>ia.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Animação Reparos</Text>
+      <Value>ia.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Animação Agurdando</Text>
+      <Value>ia.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Insulfilm G50</Text>
+      <Value>insulfilm.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Insulfilm G35</Text>
+      <Value>insulfilm.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Insulfilm G20</Text>
+      <Value>insulfilm.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lameiro Fixo</Text>
+      <Value>lameiro_d.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lameiro Fixo</Text>
+      <Value>lameiro_e.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lanterna Scania</Text>
+      <Value>lanterna.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lanterna Scania</Text>
+      <Value>lanterna.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Parachoque Ferro</Text>
+      <Value>parachoque.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Parachoque Ferro - Farol Auxiliar</Text>
+      <Value>parachoque.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Parachoque Fibra - Milha Dublo</Text>
+      <Value>parachoque.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Parachoque Fibra - Milha Simples</Text>
+      <Value>parachoque.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paralama Plastico</Text>
+      <Value>parala4x2.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paralama Paint</Text>
+      <Value>parala4x2.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paralama Plastico</Text>
+      <Value>paralama.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paralama Plastico Completo</Text>
+      <Value>paralama.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paralama Paint</Text>
+      <Value>paralama.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Paralama Paint Completo</Text>
+      <Value>paralama.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>European German</Text>
+      <Value>placacab.shap1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>European German</Text>
+      <Value>placacab.shap2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Placa Mercosul Comercial</Text>
+      <Value>placacab.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Placa Mercosul Particular</Text>
+      <Value>placacab.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>European German</Text>
+      <Value>placachs.shap1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>European German</Text>
+      <Value>placachs.shap2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Placa Mercosul Comercial</Text>
+      <Value>placachs.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Placa Mercosul Particular</Text>
+      <Value>placachs.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ponteira Modelo Curva</Text>
+      <Value>ponteira.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ponteira Modelo Boiadeiro</Text>
+      <Value>ponteira.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Saia Cabine</Text>
+      <Value>saia_cabin.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dash</Text>
+      <Value>set_dashbrd.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Fumaça No Escapamento</Text>
+      <Value>smoke.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Volante Scania</Text>
+      <Value>steering_w.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Volante Scania</Text>
+      <Value>steering_w.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Volante Scania</Text>
+      <Value>steering_w.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tampa Estribo</Text>
+      <Value>tampa.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tampa Estribo Scania</Text>
+      <Value>tampa.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tanque Quadrado</Text>
+      <Value>tanque.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tanque Redondo</Text>
+      <Value>tanque.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@air_freshener@@</Text>
+      <Value>toyac.air_fresh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@detective_head@@</Text>
+      <Value>toyac.head_detec</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@vampire_head@@</Text>
+      <Value>toyac.head_vampire</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@viking_head@@</Text>
+      <Value>toyac.head_viking</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@smelling_sack@@</Text>
+      <Value>toyac.smell_sack</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@blanket_beige@@</Text>
+      <Value>toybed.blanket_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@blanket_square@@</Text>
+      <Value>toybed.blanket_sq</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@tablet@@</Text>
+      <Value>toybed.tablet</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@ets2_truck_bag@@</Text>
+      <Value>toybed.truck_bag</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@ets2_lunch_box@@</Text>
+      <Value>toyseat.lunchbox</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plush_iberian_lynx@@</Text>
+      <Value>toyseat.lynx_ibe</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@map@@</Text>
+      <Value>toyseat.map</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paper_towels@@</Text>
+      <Value>toyseat.papertowel</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@tablet@@</Text>
+      <Value>toyseat.tablet</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\Home\Documents\Mods Studio 2\UserVehicles\ETS2.scania113.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>scania113</InternalName>
+  <VehicleAuthor>HenriqueQuality3D</VehicleAuthor>
+  <VehicleName>@@brand_scania@@ 113H Topline</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>topline.scania113.cabin</InternalName>
+      <Name>Cabine Topline</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>MohSkinner</XmlDefinitionAuthor>
+</Variable>
