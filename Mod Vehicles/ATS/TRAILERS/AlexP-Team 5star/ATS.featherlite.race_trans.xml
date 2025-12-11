@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>e31ccea0-8665-4888-8e41-5f05aa681787</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\Jaime\Documents\Mods Studio 2\UserVehicles\ATS.featherlite.race_trans.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>featherlite.race_trans</InternalName>
+  <VehicleAuthor>AlexP</VehicleAuthor>
+  <VehicleName>Featherlite Race Transporter</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.standard_53</InternalName>
+      <Name>Two-floor hauler</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Chiky Chuky</XmlDefinitionAuthor>
+</Variable>
