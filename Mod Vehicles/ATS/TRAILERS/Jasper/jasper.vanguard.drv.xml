@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>0bd6e5d5-ec80-42fa-8de9-4db7dbe416a3</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Description />
+      <Group>Trailer Front</Group>
+      <Text>Paint</Text>
+      <Value>f_body.paint_s</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Sideskirts</Group>
+      <Text>Evolution Paint</Text>
+      <Value>sideskirt.evolution_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Sideskirts</Group>
+      <Text>Fleet Paint</Text>
+      <Value>sideskirt.tb_fleet_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Trailer Right</Group>
+      <Text>Paint</Text>
+      <Value>r_body.paint_s</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Trailer Right</Group>
+      <Text>Paint, 4 Locks</Text>
+      <Value>r_body.paint_s_4l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Right</Group>
+      <Text>Roll Up Door</Text>
+      <Value>r_body.paint_rd</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Right</Group>
+      <Text>Roll Up Door, Liftgate</Text>
+      <Value>r_body.paint_rd_lg</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\Jaime\Documents\Mods Studio 2\UserVehicles\jasper.vanguard.drv.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>vanguard.drv</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Jasper</VehicleAuthor>
+  <VehicleName>Vanguard|Vanguard 2023 Insulated</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.dryvan_53_2</InternalName>
+      <Name>2023 Vanguard VXP 53 ft Dry Van</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.dv_53_hs2</InternalName>
+      <Name>2023 Vanguard VXP 53 ft Dry Van HS</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.dryvan_53_c</InternalName>
+      <Name>2023 Vanguard VXP 53 ft Insulated</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.dv_53_hs</InternalName>
+      <Name>2023 Vanguard VXP 53 ft Insulated HS</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Chiky Chuky</XmlDefinitionAuthor>
+</Variable>

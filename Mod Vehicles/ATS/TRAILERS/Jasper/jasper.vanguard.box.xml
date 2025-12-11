@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>ed4cd585-bb46-49c3-81af-21b7431cc98b</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>s_body</Group>
+      <Text>Original &amp; Paint</Text>
+      <Value>s_body.s_paint_53</Value>
+    </ListItem>
+    <ListItem>
+      <Group>s_body</Group>
+      <Text>Smooth &amp; Paint</Text>
+      <Value>s_body.smooth_53_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>s_body</Group>
+      <Text>Exclusive &amp; Paint</Text>
+      <Value>s_body.s_53_p_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Carrier 7500-X4 Paint &amp; Chrome</Text>
+      <Value>f_body.cr_7500x42p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Carrier 7500-X4 Paint &amp; Standard</Text>
+      <Value>f_body.cr_7500x4p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Precedent C-600 Paint &amp; Chrome</Text>
+      <Value>f_body.tk_c600_02_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Precedent C-600 Paint &amp; Standard</Text>
+      <Value>f_body.tk_c600_01_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Whisper SB230 Paint &amp; Chrome</Text>
+      <Value>f_body.tk_sb_p_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Front</Group>
+      <Text>Whisper SB230 Paint &amp; Standard</Text>
+      <Value>f_body.tk_sb230_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>casing_cr</Group>
+      <Text>Carrier 7500x4 Paint</Text>
+      <Value>casing_cr.cr_x4_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>casing_rf</Group>
+      <Text>Carrier 7500x4 Paint</Text>
+      <Value>casing_rf.cr_x4_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>casing_rf</Group>
+      <Text>Precedent C-600 Paint</Text>
+      <Value>casing_rf.tk_cs_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>casing_rf</Group>
+      <Text>Whisper SB-230 Paint</Text>
+      <Value>casing_rf.tk_sb_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>corner_c</Group>
+      <Text>Paint</Text>
+      <Value>corner_c.paint_53</Value>
+    </ListItem>
+    <ListItem>
+      <Group>s_corner</Group>
+      <Text>Paint</Text>
+      <Value>s_corner.paint_53_01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>f_corner</Group>
+      <Text>Paint</Text>
+      <Value>f_corner.paint_53</Value>
+    </ListItem>
+    <ListItem>
+      <Group>s_base_up</Group>
+      <Text>Paint</Text>
+      <Value>s_base_up.paint_53_01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>s_base_up</Group>
+      <Text>Paint</Text>
+      <Value>s_base_up.p_53_02</Value>
+    </ListItem>
+    <ListItem>
+      <Group>s_base</Group>
+      <Text>Paint</Text>
+      <Value>s_base.paint_53_01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>s_base</Group>
+      <Text>Paint</Text>
+      <Value>s_base.paint_53_02</Value>
+    </ListItem>
+    <ListItem>
+      <Group>ft_reefer</Group>
+      <Text>Tank Paint</Text>
+      <Value>ft_reefer.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>ft_reefer</Group>
+      <Text>Tank Paint II</Text>
+      <Value>ft_reefer.paint2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>ft_reefer</Group>
+      <Text>Tank Paint &amp; Aluminium 100gal</Text>
+      <Value>ft_reefer.paint4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>ft_reefer</Group>
+      <Text>Tank Paint &amp; Chrome 100gal</Text>
+      <Value>ft_reefer.paint3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>foot_chs</Group>
+      <Text>Paint</Text>
+      <Value>foot_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>foot_chs</Group>
+      <Text>Paint II</Text>
+      <Value>foot_chs.paint2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>landing</Group>
+      <Text>Paint</Text>
+      <Value>landing.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>landing</Group>
+      <Text>Paint II</Text>
+      <Value>landing.paint2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Evolution Paint</Text>
+      <Value>sideskirt.evolution_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Fleet Paint</Text>
+      <Value>sideskirt.tb_fleet_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_base</Group>
+      <Text>Paint</Text>
+      <Value>r_base.paint_53</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_base</Group>
+      <Text>Paint</Text>
+      <Value>r_base.paint_53_4l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_parts</Group>
+      <Text>Paint</Text>
+      <Value>r_parts.paint_53</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_parts</Group>
+      <Text>Paint, 4 Locks</Text>
+      <Value>r_parts.paint_53_4l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Right</Group>
+      <Text>standard_door</Text>
+      <Value>r_body.paint_53</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Right</Group>
+      <Text>standard_door, 4 Locks</Text>
+      <Value>r_body.paint_53_4l</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\Jaime\Documents\Mods Studio 2\UserVehicles\jasper.vanguard.box.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>vanguard.box</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Jasper</VehicleAuthor>
+  <VehicleName>Vanguard|Vanguard 2023 Reefer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.reefer_53_c</InternalName>
+      <Name>Reefer 2023</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.rf_53c2</InternalName>
+      <Name>Reefer 2023 Air Custom</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Chiky Chuky</XmlDefinitionAuthor>
+</Variable>
