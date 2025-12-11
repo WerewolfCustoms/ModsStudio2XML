@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>d2757bcb-4a7e-44f3-a60a-264ea1f25bd8</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS.krazozavr.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>krazozavr</InternalName>
+  <VehicleAuthor>Solenik</VehicleAuthor>
+  <VehicleName>Kraz 255</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>custom.krazozavr.cabin</InternalName>
+      <Name>Kraz Cabin</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>
