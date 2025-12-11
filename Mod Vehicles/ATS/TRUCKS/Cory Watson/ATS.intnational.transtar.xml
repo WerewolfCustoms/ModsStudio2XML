@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Cory Watson\ATS.intnational.transtar.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>intnational.transtar</InternalName>
+  <SoundItems />
+  <VehicleAuthor>cory watson</VehicleAuthor>
+  <VehicleName>Cory Watson|International transtar</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>scab.intnational.transtar.cabin</InternalName>
+      <Name>Single Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-04-03T00:00:00</DateUpdated>
+</Variable>
