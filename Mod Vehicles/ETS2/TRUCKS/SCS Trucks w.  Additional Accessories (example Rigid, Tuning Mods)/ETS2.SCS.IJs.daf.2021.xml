@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>c4b60a69-ab37-461b-ab82-14416b7d7bae</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\sunshield.paint_xf.jpg</Image>
+      <Text>Paint (XF Cab)</Text>
+      <Value>sunshield.paint_xf</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\sunshield.paint_xg.jpg</Image>
+      <Text>Paint (XG Cab)</Text>
+      <Value>sunshield.paint_xg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Shield</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\sunshield.paint_xgp.jpg</Image>
+      <Text>Paint (XG Plus Cab)</Text>
+      <Value>sunshield.paint_xgp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\mirror.semi.jpg</Image>
+      <Text>Plastic Paint (All Cabs)</Text>
+      <Value>mirror.semi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirrors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\mirror.cam_semi.jpg</Image>
+      <Text>Plastic Paint Camera (All Cabs)</Text>
+      <Value>mirror.cam_semi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\f_bumper.semi.jpg</Image>
+      <Text>Paint and Plastic (XF Cab)</Text>
+      <Value>f_bumper.semi_xf</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\f_bumper.paint.jpg</Image>
+      <Text>Paint (XF Cab)</Text>
+      <Value>f_bumper.paint_xf</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\f_bumper.semi.jpg</Image>
+      <Text>Paint and Plastic (XG Cabs)</Text>
+      <Value>f_bumper.semi</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\f_bumper.paint.jpg</Image>
+      <Text>Paint (XG Cabs)</Text>
+      <Value>f_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\r_deflector.paint_xf.jpg</Image>
+      <Text>Paint (XF Cab)</Text>
+      <Value>r_deflector.paint_xf</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\r_deflector.paint_xg.jpg</Image>
+      <Text>Paint (XG Cab)</Text>
+      <Value>r_deflector.paint_xg</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\r_deflector.paint_xgp.jpg</Image>
+      <Text>Paint (XG Plus Cab)</Text>
+      <Value>r_deflector.paint_xgp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\s_deflector.paint_xf.jpg</Image>
+      <Text>Paint (XF Cab)</Text>
+      <Value>s_deflector.paint_xf</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\s_deflector.paint_a_xf.jpg</Image>
+      <Text>Paint Aero (XF Cab)</Text>
+      <Value>s_deflector.paint_a_xf</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\s_deflector.paint.jpg</Image>
+      <Text>Paint (XG Cabs)</Text>
+      <Value>s_deflector.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\s_deflector.paint_a.jpg</Image>
+      <Text>Paint Aero (XG Cabs)</Text>
+      <Value>s_deflector.paint_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Handle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\doorhndl.paint2_xf.jpg</Image>
+      <Text>Paint and Plastic (XF Cab)</Text>
+      <Value>doorhndl.paint2_xf</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Handle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\doorhndl.paint_xf.jpg</Image>
+      <Text>Paint (XF Cab)</Text>
+      <Value>doorhndl.paint_xf</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Handle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\doorhndl.silver_xf.jpg</Image>
+      <Text>Exclusive (XF Cab)</Text>
+      <Value>doorhndl.silver_xf</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Handle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\doorhndl.paint2.jpg</Image>
+      <Text>Paint and Plastic (XG Cabs)</Text>
+      <Value>doorhndl.paint2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Handle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\doorhndl.paint.jpg</Image>
+      <Text>Paint (XG Cabs)</Text>
+      <Value>doorhndl.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Handle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\doorhndl.silver.jpg</Image>
+      <Text>Exclusive (XG Cabs)</Text>
+      <Value>doorhndl.silver</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\f_fender_chs.jpg</Image>
+      <Text>Paint (All Cabs)</Text>
+      <Value>f_fender_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender Bottom</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\f_fender_chs.jpg</Image>
+      <Text>Paint Aero (All Cabs)</Text>
+      <Value>f_fender_chs.painta</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\sideskirt.pnt_4x2_xf.jpg</Image>
+      <Text>Paint 4x2 (XF Cab)</Text>
+      <Value>sideskirt.pnt_4x2_xf</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\sideskirt.pnt_4x2.jpg</Image>
+      <Text>Paint 4x2 (XG Cabs)</Text>
+      <Value>sideskirt.pnt_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\sideskirt.slv_4x2_xf.jpg</Image>
+      <Text>Exclusive Paint 4x2 (XF Cab)</Text>
+      <Value>sideskirt.slv_4x2_xf</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\sideskirt.slv_4x2.jpg</Image>
+      <Text>Exclusive Paint 4x2 (XG Cabs)</Text>
+      <Value>sideskirt.slv_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\sideskirt.slv2_4x2_xf.jpg</Image>
+      <Text>Exclusive Paint II 4x2 (XF Cab)</Text>
+      <Value>sideskirt.slv2_4x2_xf</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Skirts</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\DAF2021\sideskirt.slv2_4x2.jpg</Image>
+      <Text>Exclusive Paint II 4x2 (XG Cabs)</Text>
+      <Value>sideskirt.slv2_4x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Front Mask Bottom</Group>
+      <Text>Painted Frame</Text>
+      <Value>f_intake_chs.ijs_p_fr</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Front Mask Bottom</Group>
+      <Text>Painted Frame Alt</Text>
+      <Value>f_intake_chs.ijs_p_fr2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Front Mask Bottom</Group>
+      <Text>Full Paint</Text>
+      <Value>f_intake_chs.ijs_p</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Paint Frame</Text>
+      <Value>f_intake_cab.ijs_p_fr</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Painted Frame Alt</Text>
+      <Value>f_intake_cab.ijs_p_fr2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Painted Frame And Bar</Text>
+      <Value>f_intake_cab.ijs_p_fr_b</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Painted Frame And Bar Alt</Text>
+      <Value>f_intake_cab.ijs_p_fr_b2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Full Paint</Text>
+      <Value>f_intake_cab.ijs_p_f</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Mask</Group>
+      <Text>Full Paint And Bar</Text>
+      <Value>f_intake_cab.ijs_p_f_b2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Front Logo</Group>
+      <Text>Paint</Text>
+      <Value>f_logo.ijs_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Sun Visor</Group>
+      <Text>XF Paint Full</Text>
+      <Value>sunshield.ijs_p_xg</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Sun Visor</Group>
+      <Text>XF Paint Full Alt</Text>
+      <Value>sunshield.ijs_p_xf</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Sun Visor</Group>
+      <Text>XG Paint Full</Text>
+      <Value>sunshield.ijs_p_xg</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Sun Visor</Group>
+      <Text>XG Paint Full Alt</Text>
+      <Value>sunshield.ijs_p_xg2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Sun Visor</Group>
+      <Text>XG+ Paint Full</Text>
+      <Value>sunshield.ijs_p_xgp</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Sun Visor</Group>
+      <Text>XG+ Paint Full Alt</Text>
+      <Value>sunshield.ijs_p_xgp2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Sideskirts</Group>
+      <Text>4x Paint Duty</Text>
+      <Value>sideskirt.ijs_emp_4x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Sideskirts</Group>
+      <Text>6x Paint Duty</Text>
+      <Value>sideskirt.ijs_emp_6x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Rear Fender</Group>
+      <Text>4x Paint</Text>
+      <Value>r_fender.ijs_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Rear Fender</Group>
+      <Text>6x Paint</Text>
+      <Value>r_fender.ijs_paint62</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Rear Fender Top</Group>
+      <Text>4x Paint</Text>
+      <Value>r_fendr_top.ijs_paint</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Rear Fender Top</Group>
+      <Text>6x Paint Single</Text>
+      <Value>r_fendr_top.ijs_p62_nt</Value>
+    </ListItem>
+	<ListItem>
+      <Group>IJS Rear Fender Top</Group>
+      <Text>6x Paint Double</Text>
+      <Value>r_fendr_top.ijs_paint62</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>daf.2021</InternalName>
+  <VehicleAuthor>SCS Software And IJS</VehicleAuthor>
+  <VehicleImage>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\21_xgp.jpg</VehicleImage>
+  <VehicleName>DAF 2021</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\21_xf.jpg</Image>
+      <InternalName>xf.daf.2021.cabin</InternalName>
+      <Name>XF</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\21_xg.jpg</Image>
+      <InternalName>xg.daf.2021.cabin</InternalName>
+      <Name>XG</Name>
+    </Variant>
+    <Variant>
+      <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSDaf\21_xgp.jpg</Image>
+      <InternalName>xg_plus.daf.2021.cabin</InternalName>
+      <Name>XG Plus</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>pete_agreatguy, Danny Kay</XmlDefinitionAuthor>
+</Variable>
