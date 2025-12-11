@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>f0b4b51e-2b6b-44a0-a35e-d00537faee1b</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>3 Axles</Text>
+      <Value>chassis.3axles_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front</Group>
+      <Text>Paint (Left)</Text>
+      <Value>chs_f_l.stk_01_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Front</Group>
+      <Text>Paint</Text>
+      <Value>chs_f_r.stk_01_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Rear</Group>
+      <Text>Box Paint (Left)</Text>
+      <Value>chs_r_l.box_p1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Rear</Group>
+      <Text>Box Paint (Right)</Text>
+      <Value>chs_r_r.box_p1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Middle Mudflaps</Group>
+      <Text>Paint</Text>
+      <Value>m_mudflap.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof</Group>
+      <Text>Version light</Text>
+      <Value>roof.roof_01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof</Group>
+      <Text>Version no light</Text>
+      <Value>roof.roof_02</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Right</Group>
+      <Text>Stock</Text>
+      <Value>r_body.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Right</Group>
+      <Text>Blinker Light - Chrome Logo</Text>
+      <Value>r_body.light_02_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Right</Group>
+      <Text>Blinker Light - Empty Logo</Text>
+      <Value>r_body.light_02_e</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Right</Group>
+      <Text>Blinker Light - Paint Logo</Text>
+      <Value>r_body.light_02_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Right</Group>
+      <Text>Rear And Blinker Light - Chrome Logo</Text>
+      <Value>r_body.light_04_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Right</Group>
+      <Text>Rear And Blinker Light - Empty Logo</Text>
+      <Value>r_body.light_04_e</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Right</Group>
+      <Text>Rear And Blinker Light - Paint Logo</Text>
+      <Value>r_body.light_04_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Right</Group>
+      <Text>Rear And Brake Light - Chrome Logo</Text>
+      <Value>r_body.light_03_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Right</Group>
+      <Text>Rear And Brake Light - Empty Logo</Text>
+      <Value>r_body.light_03_e</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Right</Group>
+      <Text>Rear And Brake Light - Paint Logo</Text>
+      <Value>r_body.light_03_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Right</Group>
+      <Text>Rear Light - Chrome Logo</Text>
+      <Value>r_body.light_01_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Right</Group>
+      <Text>Rear Light - Empty Logo</Text>
+      <Value>r_body.light_01_e</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trailer Right</Group>
+      <Text>Rear Light - Paint Logo</Text>
+      <Value>r_body.light_01_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_box</Group>
+      <Text>Paint 01</Text>
+      <Value>r_box.stk_01_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint Custom 1</Text>
+      <Value>r_bumper.stk_01_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint Custom 2</Text>
+      <Value>r_bumper.stk_02_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint (Hamburger)</Text>
+      <Value>r_bumper.stk_03_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Paint (Ecopoint)</Text>
+      <Value>r_bumper.stk_04_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>Paint</Text>
+      <Value>r_fender.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Logo</Group>
+      <Text>Daf v1 Paint</Text>
+      <Value>r_logo.daf_01_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Logo</Group>
+      <Text>Daf v2 Paint</Text>
+      <Value>r_logo.daf_02_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Logo</Group>
+      <Text>Renault Paint</Text>
+      <Value>r_logo.renault_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Logo</Group>
+      <Text>Scania Paint</Text>
+      <Value>r_logo.scania_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Logo</Group>
+      <Text>Volvo Paint</Text>
+      <Value>r_logo.volvo_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Mudflaps</Group>
+      <Text>Paint</Text>
+      <Value>r_mudflap.stk_01_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Mudflaps</Group>
+      <Text>Paint</Text>
+      <Value>r_mudflap.stk_02_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Mudflaps</Group>
+      <Text>Paint</Text>
+      <Value>r_mudflap.stk_03_p</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>mdm.willig</InternalName>
+  <SoundItems />
+  <VehicleAuthor>MDModding, Kriistof, SCS</VehicleAuthor>
+  <VehicleName>WILLIG|Cistern Fuel</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.body</InternalName>
+      <Name>Cistern</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.body2</InternalName>
+      <Name>Cistern</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.body3</InternalName>
+      <Name>Cistern</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.body4</InternalName>
+      <Name>Cistern</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Chiky Chuky</XmlDefinitionAuthor>
+</Variable>
