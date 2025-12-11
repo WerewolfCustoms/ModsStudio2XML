@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>0912d793-6369-4295-baa4-841c2705b17f</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS.edison.bde.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>edison.bde</InternalName>
+  <SoundItems />
+  <VehicleAuthor>850 Modding</VehicleAuthor>
+  <VehicleName>850 Modding|Edison Motors BDE</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>truck.edison.bde.cabin</InternalName>
+      <Name>Flattop</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly Custom Skins</XmlDefinitionAuthor>
+</Variable>
