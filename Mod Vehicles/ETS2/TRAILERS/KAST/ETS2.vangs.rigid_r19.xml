@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>57874b38-c8e6-473d-b1f0-06d9866eadbc</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>License Plates</Group>
+      <Text>Custom EU LP</Text>
+      <Value>custom_lp.eu_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>License Plates</Group>
+      <Text>Custom FIN LP</Text>
+      <Value>custom_lp.fin_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>License Plates</Group>
+      <Text>Custom Norway LP</Text>
+      <Value>custom_lp.no_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Axles</Text>
+      <Value>axles.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Rockinger Drawbar</Text>
+      <Value>drawbar.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>VBG Drawbar</Text>
+      <Value>drawbar.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Painted Frame</Text>
+      <Value>frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Rear Bumper</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Rear Chassis Cover</Text>
+      <Value>r_chs_cover.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Rear Guard</Text>
+      <Value>r_guard.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Rear Lights</Text>
+      <Value>r_lights.paint</Value>
+    </ListItem>
+	<ListItem>
+      <Description>Use main box template to paint rear doors</Description>
+      <Group>Rear Doors</Group>
+      <Text>4.0m x 7.5m</Text>
+      <Value>rear_doors.4_0x7_5m</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use main box template to paint rear doors</Description>
+      <Group>Rear Doors</Group>
+      <Text>4.0m x 8.0m</Text>
+      <Value>rear_doors.4_0x8m</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use main box template to paint rear doors</Description>
+      <Group>Rear Doors</Group>
+      <Text>4.0m x 10m</Text>
+      <Value>rear_doors.4_0x10m</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use main box template to paint rear doors</Description>
+      <Group>Rear Doors</Group>
+      <Text>4.0m x 12m</Text>
+      <Value>rear_doors.4_0x12m</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use main box template to paint rear doors</Description>
+      <Group>Rear Doors</Group>
+      <Text>4.2m x 7.5m</Text>
+      <Value>rear_doors.4_2x7_5m</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use main box template to paint rear doors</Description>
+      <Group>Rear Doors</Group>
+      <Text>4.2 x 8.0m</Text>
+      <Value>rear_doors.4_2x8m</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use main box template to paint rear doors</Description>
+      <Group>Rear Doors</Group>
+      <Text>4.2m x 10m</Text>
+      <Value>rear_doors.4_2x10m</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use main box template to paint rear doors</Description>
+      <Group>Rear Doors</Group>
+      <Text>4.2m x 12m</Text>
+      <Value>rear_doors.4_2x12m</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use main box template to paint rear doors</Description>
+      <Group>Rear Doors</Group>
+      <Text>4.4m x 7.5m</Text>
+      <Value>rear_doors.4_4x7_5m</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use main box template to paint rear doors</Description>
+      <Group>Rear Doors</Group>
+      <Text>4.4m x 8.0m</Text>
+      <Value>rear_doors.4_4x8m</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use main box template to paint rear doors</Description>
+      <Group>Rear Doors</Group>
+      <Text>4.4m x 10m</Text>
+      <Value>rear_doors.4_4x10m</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use main box template to paint rear doors</Description>
+      <Group>Rear Doors</Group>
+      <Text>4.4m x 12m</Text>
+      <Value>rear_doors.4_4x12m</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Mudflap</Group>
+      <Text>Paint</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Top Covers</Group>
+      <Text>3.4m</Text>
+      <Value>top_cover_4.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Top Covers</Group>
+      <Text>4.0m</Text>
+      <Value>top_cover_1.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Top Covers</Group>
+      <Text>4.2m</Text>
+      <Value>top_cover_2.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Top Covers</Group>
+      <Text>4.4m</Text>
+      <Value>top_cover_3.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>Fenders A</Text>
+      <Value>vangs_fend_f.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>Fenders B</Text>
+      <Value>vangs_fend_g.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>Fenders C</Text>
+      <Value>vangs_fend_i.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>Fenders D</Text>
+      <Value>vangs_fend_j.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidecovers</Group>
+      <Text>Toolboxes Middle/Left</Text>
+      <Value>chs_m_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidecovers</Group>
+      <Text>Toolboxes Middle/Right</Text>
+      <Value>chs_m_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidecovers</Group>
+      <Text>Toolboxes Rear/Left</Text>
+      <Value>chs_r_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidecovers</Group>
+      <Text>Toolboxes Rear/Right</Text>
+      <Value>chs_r_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidecovers</Group>
+      <Text>Cover Front/Left</Text>
+      <Value>vangs_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidecovers</Group>
+      <Text>Cover Front/Right</Text>
+      <Value>vangs_f_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidecovers</Group>
+      <Text>Cover Rear/Left</Text>
+      <Value>vangs_rail_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidecovers</Group>
+      <Text>Cover Rear/Right</Text>
+      <Value>vangs_rail_r.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\wanne\Documents\Mods Studio 2\UserVehicles\ETS2.vangs.rigid_r19.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>vangs.rigid_r19</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>Vangs|Vangs Full Trailers Rigid</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>3.4m Boxes</Group>
+      <InternalName>body.3_4x7_5m</InternalName>
+      <Name>Vangs 3.4m x 7.5m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>3.4m Boxes</Group>
+      <InternalName>body.3_4x8m</InternalName>
+      <Name>Vangs 3.4m x 8.0m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>3.4m Boxes</Group>
+      <InternalName>body.3_4x10m</InternalName>
+      <Name>Vangs 3.4m x 10m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>3.4m Boxes</Group>
+      <InternalName>body.3_4x12m</InternalName>
+      <Name>Vangs 3.4m x 12m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.0m Boxes</Group>
+      <InternalName>body.4_0x7_5m</InternalName>
+      <Name>Vangs 4.0m x 7.5m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.0m Boxes</Group>
+      <InternalName>body.4_0x8m</InternalName>
+      <Name>Vangs 4.0m x 8.0m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.0m Boxes</Group>
+      <InternalName>body.4_0x10m</InternalName>
+      <Name>Vangs 4.0m x 10m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.0m Boxes</Group>
+      <InternalName>body.4_0x12m</InternalName>
+      <Name>Vangs 4.0m x 12m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.2m Boxes</Group>
+      <InternalName>body.4_2x7_5m</InternalName>
+      <Name>Vangs 4.2m x 7.5m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.2m Boxes</Group>
+      <InternalName>body.4_2x8m</InternalName>
+      <Name>Vangs 4.2m x 8.0m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.2m Boxes</Group>
+      <InternalName>body.4_2x10m</InternalName>
+      <Name>Vangs 4.2m x 10m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.2m Boxes</Group>
+      <InternalName>body.4_2x12m</InternalName>
+      <Name>Vangs 4.2m x 12m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.4m Boxes</Group>
+      <InternalName>body.4_4x7_5m</InternalName>
+      <Name>Vangs 4.4m x 7.5m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.4m Boxes</Group>
+      <InternalName>body.4_4x8m</InternalName>
+      <Name>Vangs 4.4m x 8.0m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.4m Boxes</Group>
+      <InternalName>body.4_4x10m</InternalName>
+      <Name>Vangs 4.4m x 10m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.4m Boxes</Group>
+      <InternalName>body.4_4x12m</InternalName>
+      <Name>Vangs 4.4m x 12m</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Vildesign</XmlDefinitionAuthor>
+</Variable>

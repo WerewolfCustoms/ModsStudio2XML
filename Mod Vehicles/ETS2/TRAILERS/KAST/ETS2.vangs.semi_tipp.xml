@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>a84292fd-57ad-47a3-9ded-a9dc7ac15fbb</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Sidecovers</Group>
+      <Text>Toolboxes Rear/Left</Text>
+      <Value>chs_r_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidecovers</Group>
+      <Text>Toolboxes Rear/Right</Text>
+      <Value>chs_r_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>License Plates</Group>
+      <Text>Custom EU LP</Text>
+      <Value>custom_lp.eu_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>License Plates</Group>
+      <Text>Custom FIN LP</Text>
+      <Value>custom_lp.fin_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>License Plates</Group>
+      <Text>Custom Norway LP</Text>
+      <Value>custom_lp.no_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>License Plates</Group>
+      <Text>Custom EU LP (Dolly)</Text>
+      <Value>custom_lp.dolly_eu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>License Plates</Group>
+      <Text>Custom EU LP (Dolly)</Text>
+      <Value>custom_lp.dolly_eu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>License Plates</Group>
+      <Text>Custom FIN LP (Dolly)</Text>
+      <Value>custom_lp.dolly_fin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Painted Frame</Text>
+      <Value>frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Rear Body</Text>
+      <Value>rear_body.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use main box template to paint rear doors</Description>
+      <Group>Rear Doors</Group>
+      <Text>4.0m</Text>
+      <Value>rear_doors.4_0x13m</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use main box template to paint rear doors</Description>
+      <Group>Rear Doors</Group>
+      <Text>4.2m</Text>
+      <Value>rear_doors.4_2x13m</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Use main box template to paint rear doors</Description>
+      <Group>Rear Doors</Group>
+      <Text>4.4m</Text>
+      <Value>rear_doors.4_4x13m</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Rear Bumper</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Work Platform</Text>
+      <Value>r_chs_cover.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Rear Guard</Text>
+      <Value>r_guard.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Rear Lights</Text>
+      <Value>r_lights.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Mudflaps</Group>
+      <Text>Paint</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Mudflaps</Group>
+      <Text>Paint (Tyllis)</Text>
+      <Value>r_mudflap.tyllis</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Top Covers</Group>
+      <Text>4.0m</Text>
+      <Value>top_cover_1.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Top Covers</Group>
+      <Text>4.2m</Text>
+      <Value>top_cover_2.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Top Covers</Group>
+      <Text>4.4m</Text>
+      <Value>top_cover_3.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>Fenders A</Text>
+      <Value>vangs_fend_a.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>Fenders B</Text>
+      <Value>vangs_fend_b.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>Fenders C</Text>
+      <Value>vangs_fend_c.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>Fenders D</Text>
+      <Value>vangs_fend_d.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>Fenders E</Text>
+      <Value>vangs_fend_e.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidecovers</Group>
+      <Text>Toolboxes Front/Left</Text>
+      <Value>vangs_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidecovers</Group>
+      <Text>Toolboxes Front/Right</Text>
+      <Value>vangs_f_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidecovers</Group>
+      <Text>Sidecover Left</Text>
+      <Value>vangs_rail_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidecovers</Group>
+      <Text>Sidecover Right</Text>
+      <Value>vangs_rail_r.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\wanne\Documents\Mods Studio 2\UserVehicles\ETS2.vangs.semi_tipp.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>vangs.semi_tipp</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>Vangs|Vangs Semi Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.4_0_box</InternalName>
+      <Name>Vangs 4.0m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.4_2_box</InternalName>
+      <Name>Vangs 4.2m</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.4_4_box</InternalName>
+      <Name>Vangs 4.4m</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Vildesign</XmlDefinitionAuthor>
+</Variable>
