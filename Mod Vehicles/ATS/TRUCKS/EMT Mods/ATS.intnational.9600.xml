@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>58434359-17bc-4b16-9a1f-2425efe7d8d6</Id>
+  <IsEnabled>true</IsEnabled>
+  <FilePath>G:\New folder (9)\New folder\ATS.intnational.9600.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>intnational.9600</InternalName>
+  <VehicleAuthor>EMT MODS</VehicleAuthor>
+  <VehicleName>international 9600</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+  <Variant>
+      <InternalName>daycab.intnational.9600.cabin</InternalName>
+      <Name>Daycab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_a.intnational.9600.cabin</InternalName>
+      <Name>Sleeper</Name>
+    </Variant>
+	<Variant>
+      <InternalName>bunk.intnational.9600.cabin</InternalName>
+      <Name>Double Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pupz, Pauly</XmlDefinitionAuthor>
+</Variable>
