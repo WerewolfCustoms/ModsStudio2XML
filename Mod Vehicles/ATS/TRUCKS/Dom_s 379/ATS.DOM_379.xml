@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>30bcce86-9eeb-4964-8b21-84dc64c90805</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\All.dom379 (1).xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>dom379</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Dom</VehicleAuthor>
+  <VehicleName>DOM379</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>dayf.dom379.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>merc.dom379.cabin</InternalName>
+      <Name>36 Merc</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>48flat.dom379.cabin</InternalName>
+      <Name>48 Flat Top</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>48stand.dom379.cabin</InternalName>
+      <Name>48 Stand Up (Beta)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>at.dom379.cabin</InternalName>
+      <Name>70 Inch Ultracab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>dayu.dom379.cabin</InternalName>
+      <Name>Ultra Day Cab</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Dom</XmlDefinitionAuthor>
+</Variable>
