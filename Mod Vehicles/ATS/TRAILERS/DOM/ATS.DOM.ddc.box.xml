@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>4c35efeb-1d5d-4d0d-adfe-668d5e7bcab3</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\All.ddc.box.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>ddc.box</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Dom</VehicleAuthor>
+  <VehicleName>DDC Box/Reefer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.insulated_48</InternalName>
+      <Name>48 Insulated</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.insulated_53</InternalName>
+      <Name>53 Insulated</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.reefer_48</InternalName>
+      <Name>48 Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.reefer_53</InternalName>
+      <Name>53 Reefer</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>
