@@ -1,0 +1,5394 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>7eaa0410-848a-4f34-8aa8-cc99f70fee52</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Cab Parts</Group>
+      <Text>Paint 1</Text>
+      <Value>cabparts.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Parts</Group>
+      <Text>Paint 2</Text>
+      <Value>cabparts.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Parts</Group>
+      <Text>Paint 3</Text>
+      <Value>cabparts.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cab Parts</Group>
+      <Text>Paint 4</Text>
+      <Value>cabparts.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Samuari</Text>
+      <Value>sunshld.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Streamline Stock 1</Text>
+      <Value>sunshld.shape1bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Streamline Stock 2</Text>
+      <Value>sunshld.shape14bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Streamline Stock 3</Text>
+      <Value>sunshld.shape25bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Streamline Stock 4</Text>
+      <Value>sunshld.shape26bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Stock 1</Text>
+      <Value>sunshld.shape9bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Stock 2</Text>
+      <Value>sunshld.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Stock 3</Text>
+      <Value>sunshld.shape19bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Stock 4</Text>
+      <Value>sunshld.shape20bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Streamline Paint 1</Text>
+      <Value>sunshld.shape17bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Streamline Paint 2</Text>
+      <Value>sunshld.shape18bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Streamline Paint 3</Text>
+      <Value>sunshld.shape27bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Streamline Paint 4</Text>
+      <Value>sunshld.shape28bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Streamline Big Paint 1</Text>
+      <Value>sunshld.shape29bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Streamline Big Paint 2</Text>
+      <Value>sunshld.shape30bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Streamline Big Paint 3</Text>
+      <Value>sunshld.shape31bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Streamline Big Paint 4</Text>
+      <Value>sunshld.shape32bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Stock Paint 1</Text>
+      <Value>sunshld.shape15bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Stock Paint 2</Text>
+      <Value>sunshld.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Stock Paint 3</Text>
+      <Value>sunshld.shape21bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Stock Paint 4</Text>
+      <Value>sunshld.shape22bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Big Paint 1</Text>
+      <Value>sunshld.shape13bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Big Paint 2</Text>
+      <Value>sunshld.shape16bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Big Paint 3</Text>
+      <Value>sunshld.shape23bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Normal Cab)</Group>
+      <Text>Big Paint 4</Text>
+      <Value>sunshld.shape24bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Samuari</Text>
+      <Value>sunshld.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Streamline Stock 1</Text>
+      <Value>sunshld.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Streamline Stock 2</Text>
+      <Value>sunshld.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Streamline Stock 3</Text>
+      <Value>sunshld.shape25</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Streamline Stock 4</Text>
+      <Value>sunshld.shape26</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Stock 1</Text>
+      <Value>sunshld.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Stock 2</Text>
+      <Value>sunshld.shape12_top</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Stock 3</Text>
+      <Value>sunshld.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Stock 4</Text>
+      <Value>sunshld.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Streamline Paint 1</Text>
+      <Value>sunshld.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Streamline Paint 2</Text>
+      <Value>sunshld.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Streamline Paint 3</Text>
+      <Value>sunshld.shape27</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Streamline Paint 4</Text>
+      <Value>sunshld.shape28</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Streamline Big Paint 1</Text>
+      <Value>sunshld.shape29</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Streamline Big Paint 2</Text>
+      <Value>sunshld.shape30</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Streamline Big Paint 3</Text>
+      <Value>sunshld.shape31</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Streamline Big Paint 4</Text>
+      <Value>sunshld.shape32</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Stock Paint 1</Text>
+      <Value>sunshld.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Stock Paint 2</Text>
+      <Value>sunshld.shape11_top</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Stock Paint 3</Text>
+      <Value>sunshld.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Stock Paint 4</Text>
+      <Value>sunshld.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Big Paint 1</Text>
+      <Value>sunshld.shape13_top</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Big Paint 2</Text>
+      <Value>sunshld.shape16_top</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Big Paint 3</Text>
+      <Value>sunshld.shape23</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sun Visor (Topline Cab)</Group>
+      <Text>Big Paint 4</Text>
+      <Value>sunshld.shape24</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Window Deflector</Group>
+      <Text>Paint Left</Text>
+      <Value>deflector_l.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Window Deflector</Group>
+      <Text>Paint Right</Text>
+      <Value>deflector_r.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Panel</Group>
+      <Text>Panels Plastic And Paint</Text>
+      <Value>cab_panels.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Panel</Group>
+      <Text>Panels Plastic And Paint Inverse</Text>
+      <Value>cab_panels.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Panel</Group>
+      <Text>Panels Paint</Text>
+      <Value>cab_panels.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Panel</Group>
+      <Text>Panels Chrome And Paint</Text>
+      <Value>cab_panels.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Panel</Group>
+      <Text>Panels Chrome And Paint Inverse</Text>
+      <Value>cab_panels.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Plastic + Paint</Text>
+      <Value>mirror.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Plastic Modern + Paint</Text>
+      <Value>mirror.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Paint + Plastic</Text>
+      <Value>mirror.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Mirror</Group>
+      <Text>Paint</Text>
+      <Value>s_mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Paint And Chrome</Text>
+      <Value>mirror.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Paint Modern And Plastic</Text>
+      <Value>mirror.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Paint Modern</Text>
+      <Value>mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Paint Modern And Chrome</Text>
+      <Value>mirror.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Chrome And Paint</Text>
+      <Value>mirror.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirrors</Group>
+      <Text>Chrome Modern And Paint</Text>
+      <Value>mirror.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Stock Plastic And Paint</Text>
+      <Value>f_mirror.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Stock Long Plastic And Paint</Text>
+      <Value>f_mirror.shape8l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Stock Long Plastic And Paint</Text>
+      <Value>f_mirror.shape8l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Stock Long Paint And Plastic</Text>
+      <Value>f_mirror.shape6l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Stock Paint</Text>
+      <Value>f_mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Stock Long Paint</Text>
+      <Value>f_mirror.shape2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Stock Long Paint</Text>
+      <Value>f_mirror.shape2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Stock Long Paint + Chrome</Text>
+      <Value>f_mirror.shape7l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Stock Chrome + Paint</Text>
+      <Value>f_mirror.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mirror</Group>
+      <Text>Stock Long Chrome + Paint</Text>
+      <Value>f_mirror.shape5l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Mirror</Group>
+      <Text>Plastic + Paint</Text>
+      <Value>s_mirror.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Mirror</Group>
+      <Text>Paint + Plastic</Text>
+      <Value>s_mirror.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Mirror</Group>
+      <Text>Paint</Text>
+      <Value>s_mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Mirror</Group>
+      <Text>Paint + Chrome</Text>
+      <Value>s_mirror.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Mirror</Group>
+      <Text>Chrome + Paint</Text>
+      <Value>s_mirror.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Stoneguard</Group>
+      <Text>Full Paint (Stoneguard 3)</Text>
+      <Value>s_guard.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Stoneguard</Group>
+      <Text>Chrome + Paint V8 (Stoneguard 10)</Text>
+      <Value>s_guard.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Stoneguard</Group>
+      <Text>Paint + Chrome V8 (Stoneguard 11)</Text>
+      <Value>s_guard.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Stoneguard</Group>
+      <Text>Chrome V8 + Paint Frame (Stoneguard 12)</Text>
+      <Value>s_guard.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Stoneguard</Group>
+      <Text>(Full Paint V8 (Stoneguard 4)</Text>
+      <Value>s_guard.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Stoneguard</Group>
+      <Text>Chrome + Paint Frame V8 (Stoneguard 5)</Text>
+      <Value>s_guard.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Stoneguard</Group>
+      <Text>Paint + Chrome frame V8 (Stoneguard 6)</Text>
+      <Value>s_guard.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Stoneguard</Group>
+      <Text>Chrome + Paint Frame (Stoneguard 7)</Text>
+      <Value>s_guard.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Stoneguard</Group>
+      <Text>Paint + Chrome frame (Stoneguard 8)</Text>
+      <Value>s_guard.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Stoneguard</Group>
+      <Text>Chrome Frame + Paint V8 (Stoneguard 9)</Text>
+      <Value>s_guard.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Badge</Group>
+      <Text>Paint</Text>
+      <Value>f_badge.f_badge5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mask</Group>
+      <Text>Grill 4-Series 1 Paint</Text>
+      <Value>f_intake_cab.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mask</Group>
+      <Text>Grill 4-Series 2 Paint</Text>
+      <Value>f_intake_cab.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mask</Group>
+      <Text>Grill 4-Series 1 Fullpaint</Text>
+      <Value>f_intake_cab.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mask</Group>
+      <Text>Grill 4-Series 2 Fullpaint</Text>
+      <Value>f_intake_cab.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mask Bottom</Group>
+      <Text>Grill 4-Series</Text>
+      <Value>f_intake_chs.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Grille</Group>
+      <Text>Grid Paint</Text>
+      <Value>f_inlay_cab.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Grille Bottom</Group>
+      <Text>Grid Paint</Text>
+      <Value>f_inlay_chs.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 94L 220 Paint 1</Text>
+      <Value>badge.94l_220p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 94L 220 Paint 2</Text>
+      <Value>badge.94l_220fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 94L 230 Paint 1</Text>
+      <Value>badge.94l_230p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 94L 230 Paint 2</Text>
+      <Value>badge.94l_230fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 94L 260 Paint 1</Text>
+      <Value>badge.94l_260p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 94L 260 Paint 2</Text>
+      <Value>badge.94l_260fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 94L 300 Paint 1</Text>
+      <Value>badge.94l_300p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 94L 300 Paint 2</Text>
+      <Value>badge.94l_300fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 94L 310 Paint 1</Text>
+      <Value>badge.94l_310p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 94L 310 Paint 2</Text>
+      <Value>badge.94l_310fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 114L 340 Paint 1</Text>
+      <Value>badge.114l_340p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 114P 340 Paint 2</Text>
+      <Value>badge.114l_340fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 124L 360 Paint 1</Text>
+      <Value>badge.124l_360p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 124L 360 Paint 2</Text>
+      <Value>badge.124l_360fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 114P 380 Paint 1</Text>
+      <Value>badge.114l_380p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 114P 380Paint 2</Text>
+      <Value>badge.114l_380fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 124L 400 Paint 1</Text>
+      <Value>badge.124l_400p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 124P 400 Paint 2</Text>
+      <Value>badge.124l_400fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 124L 420 Paint 1</Text>
+      <Value>badge.124l_420p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 124P 420 Paint 2</Text>
+      <Value>badge.124l_420fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 124L 440 Paint 1</Text>
+      <Value>badge.124l_440p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 124P 440 Paint 2</Text>
+      <Value>badge.124l_440fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 144L 460 Paint 1</Text>
+      <Value>badge.144l_460p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 144L 460 Paint 2</Text>
+      <Value>badge.144l_460fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 124L 470 Paint 1</Text>
+      <Value>badge.124l_470p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 124L 470 Paint 2</Text>
+      <Value>badge.124l_470fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 164L 480 Paint 1</Text>
+      <Value>badge.164l_480p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 164L 480 Paint 2</Text>
+      <Value>badge.164l_480fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 144L 530 Paint 1</Text>
+      <Value>badge.144l_530p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 144L 530 Paint 2</Text>
+      <Value>badge.144l_530fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 164L 580 Paint 1</Text>
+      <Value>badge.164l_580p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Engine Badge</Group>
+      <Text>Engine Badge 164L 580 Paint 2</Text>
+      <Value>badge.164l_580fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Handles</Group>
+      <Text>Paint</Text>
+      <Value>doorhndl.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Handles</Group>
+      <Text>Paint + Chrome</Text>
+      <Value>doorhndl.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Handles</Group>
+      <Text>Paint + Grab Handle</Text>
+      <Value>doorhndl.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Handles</Group>
+      <Text>Paint + Chrome+ Grab Handle</Text>
+      <Value>doorhndl.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Intake</Group>
+      <Text>Paint</Text>
+      <Value>intake.intake_r4p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlight Trim</Group>
+      <Text>Paint (Panel Above Lights)</Text>
+      <Value>hdl_trim.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Blinker</Group>
+      <Text>Side Blinker Paint</Text>
+      <Value>s_blinker.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Blinker</Group>
+      <Text>Side Blinker Paint With Doorstep Cover</Text>
+      <Value>s_blinker.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Paint + Plastic</Text>
+      <Value>ffenders.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Plastic + Paint</Text>
+      <Value>ffenders.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Paint + Plastic + Arches</Text>
+      <Value>ffenders.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Plastic + Paint + Arches</Text>
+      <Value>ffenders.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Plastic + Painted Arches</Text>
+      <Value>ffenders.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Paint + Plastic + Painted Arches</Text>
+      <Value>ffenders.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Plastic + Paint + Paintec Arches</Text>
+      <Value>ffenders.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Paint</Text>
+      <Value>ffenders.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Paint + Arches</Text>
+      <Value>ffenders.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Paint + Pained Arches</Text>
+      <Value>ffenders.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Steps</Group>
+      <Text>Stock Paint</Text>
+      <Value>doorstep.scania1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Steps</Group>
+      <Text>Ranger Paint</Text>
+      <Value>doorstep.scania3p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Steps</Group>
+      <Text>Serpent Paint</Text>
+      <Value>doorstep.scania2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Steps</Group>
+      <Text>Nexus Paint</Text>
+      <Value>doorstep.scania4p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Steps</Group>
+      <Text>Ninja Paint</Text>
+      <Value>doorstep.scania5p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>Headlights Custom Paint</Text>
+      <Value>headlights.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>Headlights H7 Paint</Text>
+      <Value>headlights.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>Headlights H7 DRL Paint</Text>
+      <Value>headlights.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headlights</Group>
+      <Text>Headlights Streamline Paint</Text>
+      <Value>headlights.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fog Light Unit</Group>
+      <Text>Paint</Text>
+      <Value>fogrings.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Stock 4-Series</Text>
+      <Value>f_bumper.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Stock 4-Series + Extender</Text>
+      <Value>f_bumper.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps **DLC**</Group>
+      <Text>Scania Standard Paint</Text>
+      <Value>f_mudflap.lapsmgscania</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps **DLC**</Group>
+      <Text>Scania V8 Power Paint</Text>
+      <Value>f_mudflap.mudflapsmgv8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps **DLC**</Group>
+      <Text>Scainia Griffin Paint</Text>
+      <Value>f_mudflap.psmgmgscania</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Mudflaps **DLC**</Group>
+      <Text>King Of The Road Paint</Text>
+      <Value>f_mudflap.dflapsmgkotr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Steps (Topline Extended Cab)</Group>
+      <Text>Painted New Style Side Panels</Text>
+      <Value>steps.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Steps (Topline Extended Cab)</Group>
+      <Text>Painted Old Style Side Panels</Text>
+      <Value>steps.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Steps (Longline Cab)</Group>
+      <Text>Painted New Style Side Panels</Text>
+      <Value>steps.shape3exc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Steps (Longline Cab)</Group>
+      <Text>Painted Old Style Side Panels</Text>
+      <Value>steps.shape1exc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Normal Cab)</Group>
+      <Text>Spoiler Short Stock 1</Text>
+      <Value>spoiler.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Normal Cab)</Group>
+      <Text>Spoiler Short Stock 2</Text>
+      <Value>spoiler.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Normal Cab)</Group>
+      <Text>Spoiler Short Low 1</Text>
+      <Value>spoiler.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Normal Cab)</Group>
+      <Text>Spoiler Short Low 2</Text>
+      <Value>spoiler.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Normal Cab)</Group>
+      <Text>Spoiler Stock 1</Text>
+      <Value>spoiler.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Normal Cab)</Group>
+      <Text>Spoiler Stock 2</Text>
+      <Value>spoiler.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Normal Cab)</Group>
+      <Text>Spoiler Low 1</Text>
+      <Value>spoiler.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Normal Cab)</Group>
+      <Text>Spoiler Low 2</Text>
+      <Value>spoiler.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Cab)</Group>
+      <Text>Spoiler Short 1</Text>
+      <Value>spoiler.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Cab)</Group>
+      <Text>Spoiler Short 2</Text>
+      <Value>spoiler.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Cab)</Group>
+      <Text>Spoiler Short High 1</Text>
+      <Value>spoiler.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Cab)</Group>
+      <Text>Spoiler Short High 2</Text>
+      <Value>spoiler.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Cab)</Group>
+      <Text>Spoiler High 1</Text>
+      <Value>spoiler.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Cab)</Group>
+      <Text>Spoiler High 2</Text>
+      <Value>spoiler.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Cab)</Group>
+      <Text>Spoiler New 1</Text>
+      <Value>spoiler.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Cab)</Group>
+      <Text>Spoiler New 2</Text>
+      <Value>spoiler.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Cab)</Group>
+      <Text>Spoiler Old 1</Text>
+      <Value>spoiler.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Cab)</Group>
+      <Text>Spoiler Old 2</Text>
+      <Value>spoiler.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Extended Cab)</Group>
+      <Text>Spoiler Short 1</Text>
+      <Value>spoiler.shape15a2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Extended Cab)</Group>
+      <Text>Spoiler Short 2</Text>
+      <Value>spoiler.shape16a2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Extended Cab)</Group>
+      <Text>Spoiler Short High 1</Text>
+      <Value>spoiler.shape17a2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Extended Cab)</Group>
+      <Text>Spoiler Short High 2</Text>
+      <Value>spoiler.shape18a2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Extended Cab)</Group>
+      <Text>Spoiler High 1</Text>
+      <Value>spoiler.shape7a2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Extended Cab)</Group>
+      <Text>Spoiler High 2</Text>
+      <Value>spoiler.shape6a2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Extended Cab)</Group>
+      <Text>Spoiler New 1</Text>
+      <Value>spoiler.shape8a2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Extended Cab)</Group>
+      <Text>Spoiler New 2</Text>
+      <Value>spoiler.shape5a2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Extended Cab)</Group>
+      <Text>Spoiler Old 1</Text>
+      <Value>spoiler.shape9a2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Topline Extended Cab)</Group>
+      <Text>Spoiler Old 2</Text>
+      <Value>spoiler.shape10a2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Longline Cab)</Group>
+      <Text>Spoiler Short 1</Text>
+      <Value>spoiler.shape15exc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Longline Cab)</Group>
+      <Text>Spoiler Short 2</Text>
+      <Value>spoiler.shape16exc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Longline Cab)</Group>
+      <Text>Spoiler Short High 1</Text>
+      <Value>spoiler.shape17exc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Longline Cab)</Group>
+      <Text>Spoiler Short High 2</Text>
+      <Value>spoiler.shape18exc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Longline Cab)</Group>
+      <Text>Spoiler High 1</Text>
+      <Value>spoiler.shape7exc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Longline Cab)</Group>
+      <Text>Spoiler High 2</Text>
+      <Value>spoiler.shape6exc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Longline Cab)</Group>
+      <Text>Spoiler New 1</Text>
+      <Value>spoiler.shape8exc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Longline Cab)</Group>
+      <Text>Spoiler New 2</Text>
+      <Value>spoiler.shape5exc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Longline Cab)</Group>
+      <Text>Spoiler Old 1</Text>
+      <Value>spoiler.shape9exc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler (Longline Cab)</Group>
+      <Text>Spoiler Old 2</Text>
+      <Value>spoiler.shape10exc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Wings (Side Deflector Extention)</Group>
+      <Text>Side Wings New 1 Paint</Text>
+      <Value>wing_s.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Wings (Side Deflector Extention)</Group>
+      <Text>Side Wings New 2 Paint</Text>
+      <Value>wing_s.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Wings (Side Deflector Extention)</Group>
+      <Text>Side Wings Old 1 Paint</Text>
+      <Value>wing_s.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Wings (Side Deflector Extention)</Group>
+      <Text>Side Wings Old 2 Paint</Text>
+      <Value>wing_s.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Wings (Side Deflector Extention)</Group>
+      <Text>Small Side Wings New 1 Paint</Text>
+      <Value>wing_s.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Wings (Side Deflector Extention)</Group>
+      <Text>Small Side Wings New 2 Paint</Text>
+      <Value>wing_s.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TRLR Cables</Group>
+      <Text>Small Paint + Chrome</Text>
+      <Value>trlr_cables.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TRLR Cables</Group>
+      <Text>Big Paint + Chrome</Text>
+      <Value>trlr_cables.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TRLR Cables</Group>
+      <Text>Small Full Paint</Text>
+      <Value>trlr_cables.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TRLR Cables</Group>
+      <Text>Big Full Paint</Text>
+      <Value>trlr_cables.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TRLR Cables</Group>
+      <Text>Equipment Tower Normal Paint</Text>
+      <Value>trlr_cables.eqp_tower_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TRLR Cables</Group>
+      <Text>Equipment Tower Normal Full Paint</Text>
+      <Value>trlr_cables.eqp_tower_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TRLR Cables</Group>
+      <Text>Equipment Tower Flat Paint</Text>
+      <Value>trlr_cables.eqp_tower_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TRLR Cables</Group>
+      <Text>Equipment Tower Flat Full Paint</Text>
+      <Value>trlr_cables.eqp_tower_6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TRLR Cables</Group>
+      <Text>Equipment Tower V8 Paint</Text>
+      <Value>trlr_cables.eqp_tower_8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TRLR Cables</Group>
+      <Text>Equipment Tower V8 Full Paint</Text>
+      <Value>trlr_cables.eqp_tower_9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Cover</Group>
+      <Text>4x Paint</Text>
+      <Value>r_chs_cover.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Cover</Group>
+      <Text>6x Short Paint</Text>
+      <Value>r_chs_cover.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Cover</Group>
+      <Text>6x Long Paint</Text>
+      <Value>r_chs_cover.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Cover</Group>
+      <Text>8x Short Paint</Text>
+      <Value>r_chs_cover.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis Cover</Group>
+      <Text>8x Long Paint</Text>
+      <Value>r_chs_cover.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5th Wheel</Group>
+      <Text>Paint</Text>
+      <Value>5thwheel.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>Paint</Text>
+      <Value>chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>Full Paint</Text>
+      <Value>chs.fullpaint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Stock 1</Text>
+      <Value>sideskirt.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Stock 2</Text>
+      <Value>sideskirt.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Stock V8</Text>
+      <Value>sideskirt.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Stock V8 Exhaust</Text>
+      <Value>sideskirt.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Low Stock 1</Text>
+      <Value>sideskirt.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Low Stock 2</Text>
+      <Value>sideskirt.shape29</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Low Stock V8</Text>
+      <Value>sideskirt.shape30</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Stock 1 (Topline Extended Cabin)</Text>
+      <Value>sideskirt.shape24</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Stock 2 (Topline Extended Cabin)</Text>
+      <Value>sideskirt.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Stock V8 (Topline Extended Cabin)</Text>
+      <Value>sideskirt.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Stock V8 Exhaust (Topline Extended Cabin)</Text>
+      <Value>sideskirt.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Stock 1 (Longline Cabin)</Text>
+      <Value>sideskirt.shape25</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Stock 2 (Longline Cabin)</Text>
+      <Value>sideskirt.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Stock V8 (Longline Cabin)</Text>
+      <Value>sideskirt.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>4x Stock V8 Exhaust (Longline Cabin)</Text>
+      <Value>sideskirt.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Short Stock 1</Text>
+      <Value>sideskirt.shape23</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Short Stock 2</Text>
+      <Value>sideskirt.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Short Stock V8</Text>
+      <Value>sideskirt.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Short Stock V8 Exhaust</Text>
+      <Value>sideskirt.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Long Stock 1</Text>
+      <Value>sideskirt.shape28</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Long Stock 2</Text>
+      <Value>sideskirt.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Long Stock V8</Text>
+      <Value>sideskirt.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Long Stock V8 Exhaust</Text>
+      <Value>sideskirt.shape21</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Long Stock 1 (Topline Extended Cabin)</Text>
+      <Value>sideskirt.shape26</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Long Stock 2 (Topline Extended Cabin)</Text>
+      <Value>sideskirt.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Long Stock V8 (Topline Extended Cabin)</Text>
+      <Value>sideskirt.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Long Stock V8 Exhaust (Topline Extended Cabin)</Text>
+      <Value>sideskirt.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Long Stock 1 (Longline Cabin)</Text>
+      <Value>sideskirt.shape27</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Long Stock 2 (Longline Cabin)</Text>
+      <Value>sideskirt.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Long Stock V8 (Longline Cabin)</Text>
+      <Value>sideskirt.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>6x Long Stock V8 Exhaust (Longline Cabin)</Text>
+      <Value>sideskirt.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>8x Stock 1</Text>
+      <Value>sideskirt.shape23</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>8x Stock 2</Text>
+      <Value>sideskirt.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>8x Stock V8</Text>
+      <Value>sideskirt.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts</Group>
+      <Text>8x Stock V8 Exhaust</Text>
+      <Value>sideskirt.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 3 Fueltanks Stock With Covers</Text>
+      <Value>fueltanks.e3_5s_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 3 Fueltanks Chrome + Paint</Text>
+      <Value>fueltanks.e3_chrom</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 3 Fueltanks Chrome + Paint With Covers</Text>
+      <Value>fueltanks.e3_5s_chrom</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 3 Fueltanks Paint</Text>
+      <Value>fueltanks.e3_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 3 Fueltanks Paint With Covers</Text>
+      <Value>fueltanks.e3_5s_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 4 Fueltanks Stock With Covers</Text>
+      <Value>fueltanks.e4_5s_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 4 Fueltanks Chrome + Paint</Text>
+      <Value>fueltanks.e4_chrom</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 4 Fueltanks Chrome + Paint With Covers</Text>
+      <Value>fueltanks.e4_5s_chrom</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 4 Fueltanks Paint</Text>
+      <Value>fueltanks.e4_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 4 Fueltanks Paint With Covers</Text>
+      <Value>fueltanks.e4_5s_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 5 Fueltanks Stock With Covers</Text>
+      <Value>fueltanks.5s_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 5 Fueltanks Chrome + Paint</Text>
+      <Value>fueltanks.chrom</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 5 Fueltanks Chrome + Paint With Covers</Text>
+      <Value>fueltanks.5s_chrom</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 5 Fueltanks Paint</Text>
+      <Value>fueltanks.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 5 Fueltanks Paint With Covers</Text>
+      <Value>fueltanks.5s_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 6 Fueltanks Stock With Covers</Text>
+      <Value>fueltanks.e6_5s_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 6 Fueltanks Chrome + Paint</Text>
+      <Value>fueltanks.e6_chrom</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 6 Fueltanks Chrome + Paint With Covers</Text>
+      <Value>fueltanks.e6_5s_chrom</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 6 Fueltanks Paint</Text>
+      <Value>fueltanks.e6_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fuel Tanks</Group>
+      <Text>Euro 6 Fueltanks Paint With Covers</Text>
+      <Value>fueltanks.e6_5s_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>A Fenders Paint 1</Text>
+      <Value>fenders_a.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>A Fenders Plastic 2</Text>
+      <Value>fenders_a.shape8b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>A Fenders High Paint And Plastic 1</Text>
+      <Value>fenders_a.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>A Fenders High Paint And Plastic Inverse 1</Text>
+      <Value>fenders_a.shape4b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>A Fenders Low Paint And Plastic 1</Text>
+      <Value>fenders_a.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>A Fenders Low Paint And Plastic Inverse 1</Text>
+      <Value>fenders_a.shape5b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>A Fenders Paint 2</Text>
+      <Value>fenders_a.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>A Fenders High Paint 1</Text>
+      <Value>fenders_a.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>A Fenders High Plastic 2</Text>
+      <Value>fenders_a.shape6b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>A Fenders Low Paint 1</Text>
+      <Value>fenders_a.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>A Fenders Low Plastic 2</Text>
+      <Value>fenders_a.shape7b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>A Fenders High Paint And Plastic 2</Text>
+      <Value>fenders_a.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>A Fenders High Paint And Plastic Inverse 2</Text>
+      <Value>fenders_a.shape9b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>A Fenders Low Paint And Plastic 2</Text>
+      <Value>fenders_a.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>A Fenders Low Paint And Plastic Inverse 2</Text>
+      <Value>fenders_a.shape10b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>A Fenders High Paint 2</Text>
+      <Value>fenders_a.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>A Fenders Low Paint 2</Text>
+      <Value>fenders_a.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>B Fenders Paint 1</Text>
+      <Value>fenders_b.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>B Fenders Plastic 2</Text>
+      <Value>fenders_b.shape8b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>B Fenders High Paint And Plastic 1</Text>
+      <Value>fenders_b.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>B Fenders High Paint And Plastic Inverse 1</Text>
+      <Value>fenders_b.shape4b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>B Fenders Low Paint And Plastic 1</Text>
+      <Value>fenders_b.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>B Fenders Low Paint And Plastic Inverse 1</Text>
+      <Value>fenders_b.shape5b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>B Fenders Paint 2</Text>
+      <Value>fenders_b.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>B Fenders High Paint 1</Text>
+      <Value>fenders_b.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>B Fenders High Plastic 2</Text>
+      <Value>fenders_b.shape6b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>B Fenders Low Paint 1</Text>
+      <Value>fenders_b.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>B Fenders Low Plastic 2</Text>
+      <Value>fenders_b.shape7b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>B Fenders High Paint And Plastic 2</Text>
+      <Value>fenders_b.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>B Fenders High Paint And Plastic Inverse 2</Text>
+      <Value>fenders_b.shape9b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>B Fenders Low Paint And Plastic 2</Text>
+      <Value>fenders_b.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>B Fenders Low Paint And Plastic Inverse 2</Text>
+      <Value>fenders_b.shape10b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>B Fenders High Paint 2</Text>
+      <Value>fenders_b.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>B Fenders Low Paint 2</Text>
+      <Value>fenders_b.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>C Fenders Paint 1</Text>
+      <Value>fenders_c.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>C Fenders Plastic 2</Text>
+      <Value>fenders_c.shape8b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>C Fenders High Paint And Plastic 1</Text>
+      <Value>fenders_c.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>C Fenders High Paint And Plastic Inverse 1</Text>
+      <Value>fenders_c.shape4b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>C Fenders Low Paint And Plastic 1</Text>
+      <Value>fenders_c.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>C Fenders Low Paint And Plastic Inverse 1</Text>
+      <Value>fenders_c.shape5b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>C Fenders Paint 2</Text>
+      <Value>fenders_c.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>C Fenders High Paint 1</Text>
+      <Value>fenders_c.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>C Fenders High Plastic 2</Text>
+      <Value>fenders_c.shape6b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>C Fenders Low Paint 1</Text>
+      <Value>fenders_c.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>C Fenders Low Plastic 2</Text>
+      <Value>fenders_c.shape7b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>C Fenders High Paint And Plastic 2</Text>
+      <Value>fenders_c.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>C Fenders High Paint And Plastic Inverse 2</Text>
+      <Value>fenders_c.shape9b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>C Fenders Low Paint And Plastic 2</Text>
+      <Value>fenders_c.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>C Fenders Low Paint And Plastic 2</Text>
+      <Value>fenders_c.shape10b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>C Fenders High Paint 2</Text>
+      <Value>fenders_c.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>C Fenders Low Paint 2</Text>
+      <Value>fenders_c.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>D Fenders Paint 1</Text>
+      <Value>fenders_d.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>D Fenders Plastic 2</Text>
+      <Value>fenders_d.shape8b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>D Fenders High Paint And Plastic 1</Text>
+      <Value>fenders_d.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>D Fenders High Paint And Plastic Inverse 1</Text>
+      <Value>fenders_d.shape4b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>D Fenders Low Paint And Plastic 1</Text>
+      <Value>fenders_d.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>D Fenders Low Paint And Plastic Inverse 1</Text>
+      <Value>fenders_d.shape5b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>D Fenders Paint 2</Text>
+      <Value>fenders_d.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>D Fenders High Paint 1</Text>
+      <Value>fenders_d.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>D Fenders High Plastic 2</Text>
+      <Value>fenders_d.shape6b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>D Fenders Low Paint 1</Text>
+      <Value>fenders_d.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>D Fenders Low Plastic 2</Text>
+      <Value>fenders_d.shape7b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>D Fenders High Paint And Plastic 2</Text>
+      <Value>fenders_d.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>D Fenders High Paint And Plastic Inverse 2</Text>
+      <Value>fenders_d.shape9b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>D Fenders Low Paint And Plastic 2</Text>
+      <Value>fenders_d.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>D Fenders Low Paint And Plastic Inverse 2</Text>
+      <Value>fenders_d.shape10b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>D Fenders High Paint 2</Text>
+      <Value>fenders_d.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>D Fenders Low Paint 2</Text>
+      <Value>fenders_d.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender Infill</Group>
+      <Text>A Side Plate</Text>
+      <Value>f_plate_a.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender Infill</Group>
+      <Text>A Side Plate And Tread Plate</Text>
+      <Value>f_plate_a.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender Infill</Group>
+      <Text>A Side Plate And Tread Plate Paint</Text>
+      <Value>f_plate_a.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender Infill</Group>
+      <Text>B Side Plate</Text>
+      <Value>f_plate_b.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender Infill</Group>
+      <Text>B Side Plate And Tread Plate</Text>
+      <Value>f_plate_b.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender Infill</Group>
+      <Text>B Side Plate And Tread Plate Paint</Text>
+      <Value>f_plate_b.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender Infill</Group>
+      <Text>C Side Plate</Text>
+      <Value>f_plate_c.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender Infill</Group>
+      <Text>C Side Plate And Tread Plate</Text>
+      <Value>f_plate_c.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender Infill</Group>
+      <Text>C Side Plate And Tread Plate Paint</Text>
+      <Value>f_plate_c.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear</Group>
+      <Text>Stock 2</Text>
+      <Value>rear.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear</Group>
+      <Text>Stock 3</Text>
+      <Value>rear.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear</Group>
+      <Text>Stock Paint 1</Text>
+      <Value>rear.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear</Group>
+      <Text>Stock Paint 2</Text>
+      <Value>rear.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear</Group>
+      <Text>Stock Paint 3</Text>
+      <Value>rear.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Tail Lights Stock Paint</Text>
+      <Value>r_bumper.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Tail Lights Streamline Paint</Text>
+      <Value>r_bumper.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Tail Lights Stock Double Paint</Text>
+      <Value>r_bumper.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Tail Lights Streamline Double Paint</Text>
+      <Value>r_bumper.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Rear Bumper 1 Paint</Text>
+      <Value>r_bumper.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Rear Bumper 2 Paint</Text>
+      <Value>r_bumper.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Rear Bumper Chrome + Paint 1</Text>
+      <Value>r_bumper.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Rear Bumper Chrome + Paint 2</Text>
+      <Value>r_bumper.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Diva</Text>
+      <Value>r_bumper.arbumpermg01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Thor</Text>
+      <Value>r_bumper.arbumpermg03</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>4x 6 Series Sideskirt Stock Chrome Parts</Text>
+      <Value>sideskirt.stockcnolt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>4x 6 Series Sideskirt Stock Fullpaint</Text>
+      <Value>sideskirt.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>4x 6 Series Sideskirt Stock Fullpaint (No side Marker Light)</Text>
+      <Value>sideskirt.stocknolt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>4x 6 Series Sideskirt with Double Exhaust Chrome Parts</Text>
+      <Value>sideskirt.doublecnolt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>4x 6 Series Sideskirt with Double Exhaust Chrome Parts (With Side Marker Light)</Text>
+      <Value>sideskirt.doublec</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>4x 6 Series Sideskirt with Double Exhaust Fullpaint</Text>
+      <Value>sideskirt.double</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>4x 6 Series Sideskirt with Double Exhaust Fullpaint (No Side Marker Light)</Text>
+      <Value>sideskirt.doublenolt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>4x 6 Series Sideskirt with Double Square Exhaust Chrome Parts</Text>
+      <Value>sideskirt.sqrdc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>4x 6 Series Sideskirt with Double Square Exhaust Chrome Parts (No Side Marker Light)</Text>
+      <Value>sideskirt.sqrdcnolt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>4x 6 Series Sideskirt with Double Square Exhaust fullpaint</Text>
+      <Value>sideskirt.sqrd</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>4x 6 Series Sideskirt with Double Square Exhaust fullpaint (No Side Marker Light)</Text>
+      <Value>sideskirt.sqrdnolt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>4x 6 Series Sideskirt with Square Exhaust Chrome Parts (No Side Marker Light)</Text>
+      <Value>sideskirt.sqrmidcnolt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>4x 6 Series Sideskirt with Square Exhaust Chrome Parts</Text>
+      <Value>sideskirt.sqrmidc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>4x 6 Series Sideskirt with Square Exhaust fullpaint</Text>
+      <Value>sideskirt.sqrmid</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>4x 6 Series Sideskirt with Square Exhaust fullpaint</Text>
+      <Value>sideskirt.sqrmidnlt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>4x 6 Series Sideskirt with Streamline Exhaust Chrome Parts (No Side Marker Light)</Text>
+      <Value>sideskirt.streamcnolt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>4x 6 Series Sideskirt with Streamline Exhaust Fullpaint (No Chrome)</Text>
+      <Value>sideskirt.streamnolt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>4x 6 Series Sideskirt with Streamline Exhaust Fullpaint</Text>
+      <Value>sideskirt.stream</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Short 6 Series Sideskirt Stock Chrome Parts</Text>
+      <Value>sideskirt.stockcnolt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Short 6 Series Sideskirt Stock Fullpaint (No Side Marker Light)</Text>
+      <Value>sideskirt.stock_nolt_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Short 6 Series Sideskirt Stock Fullpaint</Text>
+      <Value>sideskirt.stock_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Short 6 Series Sideskirt Streamline Chrome Parts</Text>
+      <Value>sideskirt.stream_chrome_nolt_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Short 6 Series Sideskirt Streamline Fullpaint (No Side Marker Light</Text>
+      <Value>sideskirt.stream_nolt_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Short 6 Series Sideskirt Streamline Fullpaint</Text>
+      <Value>sideskirt.stream_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Short 6 Series Sideskirt with Double Exhaust Chrome Parts (No Side Marker Light)</Text>
+      <Value>sideskirt.double_chrome_nolt_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Short 6 Series Sideskirt with Double Exhaust Chrome Parts</Text>
+      <Value>sideskirt.double_chrome_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Short 6 Series Sideskirt with Double Exhaust Fullpaint (No Side Marker Light)</Text>
+      <Value>sideskirt.double_nolt_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Short 6 Series Sideskirt with Double Exhaust Fullpaint</Text>
+      <Value>sideskirt.double_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Short 6 Series Sideskirt with Square Exhaust Chrome Parts</Text>
+      <Value>sideskirt.square_mid_chrome_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Short 6 Series Sideskirt with Square Exhaust Chrome Parts (No Side Marker Light)</Text>
+      <Value>sideskirt.sqrmidcnlt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Short 6 Series Sideskirt with Square Exhaust fullpaint</Text>
+      <Value>sideskirt.square_mid_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Short 6 Series Sideskirt with Square Exhaust fullpaint (No Side Marker Light)</Text>
+      <Value>sideskirt.sqrmidnolt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Long 6 Series Sideskirt Stock Chrome Parts</Text>
+      <Value>sideskirt.stock_chrome_nolt_6x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Long 6 Series Sideskirt Stock Fullpaint</Text>
+      <Value>sideskirt.stock_6x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Long 6 Sideskirt Stock Fullpaint (No Side Marker Light)</Text>
+      <Value>sideskirt.stock_nolt_6x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Long 6 Sideskirt Streamline Fullpaint</Text>
+      <Value>sideskirt.streamnlt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Long 6 Series Sideskirt with Double Exhaust Chrome Parts</Text>
+      <Value>sideskirt.double_chrome_6x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Long 6 Series Sideskirt with Double Exhaust Chrome Parts (No Side Marker Light)</Text>
+      <Value>sideskirt.double_chrome_nolt_6x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Long 6 Series Sideskirt with Double Exhaust Fullpaint</Text>
+      <Value>sideskirt.double_6x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Long 6 Series Sideskirt with Double Exhaust Fullpaint (No Side Marker Light)</Text>
+      <Value>sideskirt.double_nolt_6x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Long 6 Series Sideskirt with Double Square Exhaust Chrome Parts</Text>
+      <Value>sideskirt.square_double_chrome_6x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Long 6 Series Sideskirt with Double Square Exhaust Chrome Parts (No Side Marker Light)</Text>
+      <Value>sideskirt.sqrdcnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Long 6 Series Sideskirt with Double Square Exhaust fullpaint (No Side Marker Light)</Text>
+      <Value>sideskirt.square_double_nolt_6x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Long 6 Series Sideskirt with Double Square Exhaust fullpaint</Text>
+      <Value>sideskirt.square_double_6x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Long 6 Series Sideskirt with Square Exhaust Chrome Parts (No Side Marker Light)</Text>
+      <Value>sideskirt.square_mid_chrome_nolt_6x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Long 6 Series Sideskirt with Square Exhaust Chrome Parts</Text>
+      <Value>sideskirt.square_mid_chrome_6x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Long 6 Series Sideskirt with Square Exhaust fullpaint</Text>
+      <Value>sideskirt.square_mid_6x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Long 6 Series Sideskirt with Square Exhaust fullpaint (No Side Marker Light)</Text>
+      <Value>sideskirt.square_mid_nolt_6x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Long 6 Series Sideskirt with Streamline Exhaust Chrome Parts (No Side Marker Light)</Text>
+      <Value>sideskirt.stream_chrome_nolt_6x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>V. Mourtos Design</Group>
+      <Text>6x Long 6 Series Sideskirt with Streamline Exhaust Fullpaint</Text>
+      <Value>sideskirt.stream_6x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MODSHub Stoneguard</Group>
+      <Text>stoneguard custom</Text>
+      <Value>s_guard.shapeper</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MODSHub Stoneguard</Group>
+      <Text>stoneguard lighted custom</Text>
+      <Value>s_guard.shapeper1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MODSHub Stoneguard</Group>
+      <Text>stoneguard with slots custom</Text>
+      <Value>s_guard.shapeper2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Axels</Text>
+      <Value>axles.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rigid Chassis 4x2</Text>
+      <Value>chassis.rigid_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rigid Chassis 6x4</Text>
+      <Value>chassis.rigid_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rigid Chassis 6x2/4</Text>
+      <Value>chassis.rigid_6x2_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rigid Chassis 6x2</Text>
+      <Value>chassis.rigid_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rigid Chassis 8x4*4</Text>
+      <Value>chassis.rigid_8x4_r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rigid Chassis 8x4/4</Text>
+      <Value>chassis.rigid_8x4_f</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rigid Chassis 8x2/6</Text>
+      <Value>chassis.rigid_8x2_6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rigid Chassis 8x2/4</Text>
+      <Value>chassis.rigid_8x2_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Exhaust</Text>
+      <Value>exhaust_fltr.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Exhaust paint</Text>
+      <Value>exhaust_fltr.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Battery</Text>
+      <Value>battery.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Radar</Text>
+      <Value>radar.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Main Frame</Text>
+      <Value>frame_main.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Frame lights</Text>
+      <Value>frame_lights.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Frame moff</Text>
+      <Value>frame_l_moff.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Accessory lights</Text>
+      <Value>acc_lights.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Accessory lights 2</Text>
+      <Value>acc_lights_2.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Accessory lights 3</Text>
+      <Value>acc_lights_3.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rig lights</Text>
+      <Value>rig_lights_1.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rig lights 2</Text>
+      <Value>rig_lights_2.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rig lights 3</Text>
+      <Value>rig_lights_3.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Frame rear</Text>
+      <Value>frame_rear.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Body Frame</Text>
+      <Value>body_frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Fueltanks</Text>
+      <Value>fueltanks.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Extratank Right</Text>
+      <Value>extra_tank_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Extratank Left</Text>
+      <Value>extra_tank_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rear Guard</Text>
+      <Value>r_guard.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rear Guard 2</Text>
+      <Value>r_guard_2.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Hook stock</Text>
+      <Value>r_hook.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Hook air</Text>
+      <Value>r_hook.air</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Sander</Text>
+      <Value>sander.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Shaft</Text>
+      <Value>shaft.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Cables stock</Text>
+      <Value>trlr_cables.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rear equipment</Text>
+      <Value>r_equip_main.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rear equipment moffett</Text>
+      <Value>r_equip_ext.moffett</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rigid Toolboxes Left</Text>
+      <Value>rigid_chs_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rigid Toolboxes Right</Text>
+      <Value>rigid_chs_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rigid rail Left Paint</Text>
+      <Value>rigid_rail_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rigid rail Right Paint</Text>
+      <Value>rigid_rail_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rigid rear toolbox Left Paint</Text>
+      <Value>rigid_rear_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rigid rear toolbox Right Paint</Text>
+      <Value>rigid_rear_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Sidecooler paint</Text>
+      <Value>sidecooler.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Chassis</Group>
+      <Text>Rear Extra equipment</Text>
+      <Value>r_equip_ext.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>f_vent_1</Group>
+      <Text>Ventilation hatch</Text>
+      <Value>f_vent_1.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>f_vent_1</Group>
+      <Text>Ventilation hatch</Text>
+      <Value>f_vent_2.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>f_vent_1</Group>
+      <Text>Ventilation hatch</Text>
+      <Value>f_vent_3.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>f_cooler_1</Group>
+      <Text>Ekeheat Heater Paint</Text>
+      <Value>f_cooler_1.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>f_cooler_1</Group>
+      <Text>Ekeheat Heater Paint</Text>
+      <Value>f_cooler_2.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>f_cooler_1</Group>
+      <Text>Ekeheat Heater Paint</Text>
+      <Value>f_cooler_3.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_cooler_2</Group>
+      <Text>Reefer Units Paint</Text>
+      <Value>r_cooler_1.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_cooler_2</Group>
+      <Text>Reefer Units Paint</Text>
+      <Value>r_cooler_2.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>r_cooler_2</Group>
+      <Text>Reefer Units Paint</Text>
+      <Value>r_cooler_3.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>roof_1</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_1.ekeri_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>roof_1</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_2.ekeri_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>roof_1</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_3.ekeri_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>roof_1</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_1.ekeri_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>roof_1</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_2.ekeri_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>roof_1</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_3.ekeri_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>roof_1</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_1.ekeri_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>roof_1</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_2.ekeri_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>roof_1</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_3.ekeri_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Fenders</Group>
+      <Text>Fender A</Text>
+      <Value>rigid_fend_a.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Fenders</Group>
+      <Text>Fender B</Text>
+      <Value>rigid_fend_b.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Fenders</Group>
+      <Text>Fender C</Text>
+      <Value>rigid_fend_c.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Fenders</Group>
+      <Text>Fender D</Text>
+      <Value>rigid_fend_d.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflap</Group>
+      <Text>Mudflap</Text>
+      <Value>r_porikas.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflap</Group>
+      <Text>Mudflap</Text>
+      <Value>r_porikas_2.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate</Group>
+      <Text>Front EU 1</Text>
+      <Value>f_lp_1.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate</Group>
+      <Text>Front EU 2</Text>
+      <Value>f_lp_2.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate</Group>
+      <Text>Front EU 3</Text>
+      <Value>f_lp_3.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate</Group>
+      <Text>Front EU 4</Text>
+      <Value>f_lp_4.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate</Group>
+      <Text>Front EU 5</Text>
+      <Value>f_lp_5.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate</Group>
+      <Text>Rear EU 1</Text>
+      <Value>r_lp_1.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate</Group>
+      <Text>Rear EU 2</Text>
+      <Value>r_lp_2.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate</Group>
+      <Text>Rear EU 3</Text>
+      <Value>r_lp_3.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate</Group>
+      <Text>Rear EU 4</Text>
+      <Value>r_lp_4.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate</Group>
+      <Text>Rear EU 5</Text>
+      <Value>r_lp_5.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate</Group>
+      <Text>Rear EU 6</Text>
+      <Value>r_lp_6.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate</Group>
+      <Text>Rear EU moff 1</Text>
+      <Value>r_lp_moff_1.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate</Group>
+      <Text>Rear EU moff 2</Text>
+      <Value>r_lp_moff_2.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate</Group>
+      <Text>Rear EU moff 3</Text>
+      <Value>r_lp_moff_3.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate</Group>
+      <Text>Rear EU moff 4</Text>
+      <Value>r_lp_moff_4.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate</Group>
+      <Text>Rear EU Custom Brand</Text>
+      <Value>r_lp_body.eu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate Finland</Group>
+      <Text>Front FIN 1</Text>
+      <Value>f_lp_1.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate Finland</Group>
+      <Text>Front FIN 2</Text>
+      <Value>f_lp_2.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate Finland</Group>
+      <Text>Front FIN 3</Text>
+      <Value>f_lp_3.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate Finland</Group>
+      <Text>Front FIN 4</Text>
+      <Value>f_lp_4.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate Finland</Group>
+      <Text>Front FIN 5</Text>
+      <Value>f_lp_5.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate Finland</Group>
+      <Text>Rear FIN 1</Text>
+      <Value>r_lp_1.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate Finland</Group>
+      <Text>Rear FIN 2</Text>
+      <Value>r_lp_2.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate Finland</Group>
+      <Text>Rear FIN 3</Text>
+      <Value>r_lp_3.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate Finland</Group>
+      <Text>Rear FIN 4</Text>
+      <Value>r_lp_4.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate Finland</Group>
+      <Text>Rear FIN 5</Text>
+      <Value>r_lp_5.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate Finland</Group>
+      <Text>Rear FIN 6</Text>
+      <Value>r_lp_6.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate Finland</Group>
+      <Text>Rear FIN moff 1</Text>
+      <Value>r_lp_moff_1.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate Finland</Group>
+      <Text>Rear FIN moff 2</Text>
+      <Value>r_lp_moff_2.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate Finland</Group>
+      <Text>Rear FIN moff 3</Text>
+      <Value>r_lp_moff_3.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate Finland</Group>
+      <Text>Rear FIN moff 4</Text>
+      <Value>r_lp_moff_4.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Licensplate Finland</Group>
+      <Text>Rear FIN Custom Brand</Text>
+      <Value>r_lp_body.fin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri Sidecover</Group>
+      <Text>Right</Text>
+      <Value>rigid_rail_r.ekeri</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri Sidecover</Group>
+      <Text>Left</Text>
+      <Value>rigid_rail_l.ekeri</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri toolbox</Group>
+      <Text>Rigid Toolboxes Left Ekeri</Text>
+      <Value>rigid_chs_l.ekeri</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri toolbox</Group>
+      <Text>Rigid Toolboxes Right Ekeri</Text>
+      <Value>rigid_chs_r.ekeri</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri toolbox</Group>
+      <Text>Rigid rear toolbox Left Ekeri</Text>
+      <Value>rigid_rear_l.ekeri</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri toolbox</Group>
+      <Text>Rigid rear toolbox Right Ekeri</Text>
+      <Value>rigid_rear_r.ekeri</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (3900, 6_1) 4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.ekeri6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (3900, 6_1) 4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.ekeri6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (3900, 6_1) 4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.ekeri6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (3900, 6_1) 4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.ekeri6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (3900, 6_1) 4 m</Group>
+      <Text>Body low right</Text>
+      <Value>body_low_r.ekeri6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (3900, 6_1) 4,2 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.ekeri6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (3900, 6_1) 4,2 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.ekeri6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (3900, 6_1) 4,2 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.ekeri6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (3900, 6_1) 4,2 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.ekeri6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (3900, 6_1) 4,2 m</Group>
+      <Text>Body low</Text>
+      <Value>body_low_r.ekeri6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (3900, 6_1) 4,4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.ekeri6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (3900, 6_1) 4,4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.ekeri6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (3900, 6_1) 4,4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.ekeri6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (3900, 6_1) 4,4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.ekeri6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (3900, 6_1) 4,4 m</Group>
+      <Text>Body low</Text>
+      <Value>body_low_r.ekeri6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4300, 6_5) 4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.ekeri6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4300, 6_5) 4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.ekeri6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4300, 6_5) 4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.ekeri6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4300, 6_5) 4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.ekeri6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4300, 6_5) 4 m</Group>
+      <Text>Body low</Text>
+      <Value>body_low_r.ekeri6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4300, 6_5) 4,2 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.ekeri6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4300, 6_5) 4,2 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.ekeri6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4300, 6_5) 4,2 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.ekeri6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4300, 6_5) 4,2 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.ekeri6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4300, 6_5) 4,2 m</Group>
+      <Text>Body low</Text>
+      <Value>body_low_r.ekeri6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4300, 6_5) 4,4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.ekeri6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4300, 6_5) 4,4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.ekeri6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4300, 6_5) 4,4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.ekeri6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4300, 6_5) 4,4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.ekeri6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4300, 6_5) 4,4 m</Group>
+      <Text>Body low</Text>
+      <Value>body_low_r.ekeri6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.ekeri7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.ekeri7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.ekeri7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.ekeri7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Body low</Text>
+      <Value>body_low_r.ekeri7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.ekeri7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.ekeri7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.ekeri7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.ekeri7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Body low</Text>
+      <Value>body_low_r.ekeri7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.ekeri7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.ekeri7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.ekeri7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.ekeri7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ekeri (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Body low</Text>
+      <Value>body_low_r.ekeri7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Knapen (3900, 6_1) 4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.knap6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Knapen (3900, 6_1) 4,2 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.knap6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Knapen (4300, 6_5) 4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.knap6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Knapen (4300, 6_5) 4,2 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.knap6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Knapen (4100,4700,5700, 7_5) 4,0 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.knap7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Knapen (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.knap7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Knapen extreme</Group>
+      <Text>Box main (3900, 6_1) 4 m</Text>
+      <Value>body_main.ext6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Knapen extreme</Group>
+      <Text>Box main (4300, 6_5) 4 m</Text>
+      <Value>body_main.ext6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Knapen extreme</Group>
+      <Text>Box main (4100,4700,5700, 7_5) 4,0 m</Text>
+      <Value>body_main.ext7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Knapen Toolbox</Group>
+      <Text>Rigid Toolboxes Left Knapen</Text>
+      <Value>rigid_chs_l.knapen</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Knapen Toolbox</Group>
+      <Text>Rigid Toolboxes Right Knapen</Text>
+      <Value>rigid_chs_r.knapen</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Knapen Toolbox</Group>
+      <Text>Rigid rail Left Knapen</Text>
+      <Value>rigid_rail_l.knapen</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Knapen Toolbox</Group>
+      <Text>Rigid rail Right Knapen</Text>
+      <Value>rigid_rail_r.knapen</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Knapen Toolbox</Group>
+      <Text>Rigid rear toolbox Left Knapen</Text>
+      <Value>rigid_rear_l.knapen</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Knapen Toolbox</Group>
+      <Text>Rigid rear toolbox Right Knapen</Text>
+      <Value>rigid_rear_r.knapen</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (3900mm, 6_1) 4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.narko6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (3900mm, 6_1) 4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.narko6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (3900mm, 6_1) 4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.narko6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (3900mm, 6_1) 4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.narko6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (3900mm, 6_1) 4 m</Group>
+      <Text>Body low Right</Text>
+      <Value>body_low_r.narko6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (3900mm, 6_1) 4 m</Group>
+      <Text>Body low Left</Text>
+      <Value>body_low_l.narko6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (3900mm, 6_1) 4,2 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.narko6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (3900mm, 6_1) 4,2 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.narko6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (3900mm, 6_1) 4,2 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.narko6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (3900mm, 6_1) 4,2 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.narko6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (3900mm, 6_1) 4,2 m</Group>
+      <Text>Body low right</Text>
+      <Value>body_low_r.narko6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (3900mm, 6_1) 4,2 m</Group>
+      <Text>Body low Left</Text>
+      <Value>body_low_l.narko6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (3900mm, 6_1) 4,4 meter</Group>
+      <Text>Box main</Text>
+      <Value>body_main.narko6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (3900mm, 6_1) 4,4 meter</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.narko6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (3900mm, 6_1) 4,4 meter</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.narko6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (3900mm, 6_1) 4,4 meter</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.narko6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (3900mm, 6_1) 4,4 meter</Group>
+      <Text>Body low</Text>
+      <Value>body_low_r.narko6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (3900mm, 6_1) 4,4 meter</Group>
+      <Text>Body low</Text>
+      <Value>body_low_l.narko6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4300mm, 6_5) 4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.narko6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4300mm, 6_5) 4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.narko6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4300mm, 6_5) 4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.narko6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4300mm, 6_5) 4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.narko6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4300mm, 6_5) 4 m</Group>
+      <Text>Body low Right</Text>
+      <Value>body_low_r.narko6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4300mm, 6_5) 4 m</Group>
+      <Text>Body low Left</Text>
+      <Value>body_low_l.narko6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4300mm, 6_5) 4,2 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.narko6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4300mm, 6_5) 4,2 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.narko6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4300mm, 6_5) 4,2 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.narko6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4300mm, 6_5) 4,2 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.narko6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4300mm, 6_5) 4,2 m</Group>
+      <Text>Body low</Text>
+      <Value>body_low_r.narko6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4300mm, 6_5) 4,2 m</Group>
+      <Text>Body low</Text>
+      <Value>body_low_l.narko6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4300mm, 6_5) 4,4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.narko6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4300mm, 6_5) 4,4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.narko6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4300mm, 6_5) 4,4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.narko6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4300mm, 6_5) 4,4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.narko6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4300mm, 6_5) 4,4 m</Group>
+      <Text>Body low</Text>
+      <Value>body_low_r.narko6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4300mm, 6_5) 4,4 m</Group>
+      <Text>Body low</Text>
+      <Value>body_low_l.narko6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.narko7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.narko7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.narko7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.narko7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Body low Right </Text>
+      <Value>body_low_r.narko7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Body low Right</Text>
+      <Value>body_low_l.narko7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Body Korner</Text>
+      <Value>body_corner.narko7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.narko7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.narko7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.narko7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.narko7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Body low Right </Text>
+      <Value>body_low_r.narko7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Body low Right</Text>
+      <Value>body_low_l.narko7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Body Korner</Text>
+      <Value>body_corner.narko7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.narko7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.narko7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.narko7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.narko7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Body low Right </Text>
+      <Value>body_low_r.narko7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Body low Right</Text>
+      <Value>body_low_l.narko7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Body Korner</Text>
+      <Value>body_corner.narko7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko Roof (Dry)</Group>
+      <Text>Taurpalin roof</Text>
+      <Value>roof_1.narko_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko Roof (Dry)</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_2.narko_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko Roof (Dry)</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_3.narko_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko Roof (Dry)</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_1.narko_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko Roof (Dry)</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_2.narko_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko Roof (Dry)</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_3.narko_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko Roof (Dry)</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_1.narko_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko Roof (Dry)</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_2.narko_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko Roof (Dry)</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_3.narko_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko Sidecover</Group>
+      <Text>Right</Text>
+      <Value>rigid_rail_r.narko</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Narko Sidecover</Group>
+      <Text>Left</Text>
+      <Value>rigid_rail_l.narko</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Närko toolbox</Group>
+      <Text>Rigid Toolboxes Left Närko</Text>
+      <Value>rigid_chs_l.narko</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Närko toolbox</Group>
+      <Text>Rigid Toolboxes Right Närko</Text>
+      <Value>rigid_chs_r.narko</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Närko toolbox</Group>
+      <Text>Rigid rear toolbox Left Närko</Text>
+      <Value>rigid_rear_l.narko</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Närko toolbox</Group>
+      <Text>Rigid rear toolbox Right Närko</Text>
+      <Value>rigid_rear_r.narko</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (3900mm, 6_1) 4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.ntm6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (3900mm, 6_1) 4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.ntm6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (3900mm, 6_1) 4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.ntm6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (3900mm, 6_1) 4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.ntm6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (3900mm) 4,2 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.ntm6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (3900mm) 4,2 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.ntm6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (3900mm) 4,2 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.ntm6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (3900mm) 4,2 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.ntm6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (3900mm) 4,4 meter</Group>
+      <Text>Box main</Text>
+      <Value>body_main.ntm6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (3900mm) 4,4 meter</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.ntm6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (3900mm) 4,4 meter</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.ntm6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (3900mm) 4,4 meter</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.ntm6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4300, 6_5) 4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.ntm6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4300, 6_5) 4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.ntm6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4300, 6_5) 4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.ntm6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4300, 6_5) 4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.ntm6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4300, 6_5) 4,2 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.ntm6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4300, 6_5) 4,2 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.ntm6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4300, 6_5) 4,2 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.ntm6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4300, 6_5) 4,2 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.ntm6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4300, 6_5) 4,4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.ntm6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4300, 6_5) 4,4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.ntm6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4300, 6_5) 4,4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.ntm6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4300, 6_5) 4,4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.ntm6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.ntm7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.ntm7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.ntm7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.ntm7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.ntm7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.ntm7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.ntm7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.ntm7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Body Korner</Text>
+      <Value>body_corner.narko7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.ntm7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.ntm7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.ntm7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.ntm7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM Sidecover</Group>
+      <Text>Right</Text>
+      <Value>rigid_rail_r.ntm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM Sidecover</Group>
+      <Text>Left</Text>
+      <Value>rigid_rail_l.ntm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM Toolbox</Group>
+      <Text>Rigid Toolboxes Left NTM</Text>
+      <Value>rigid_chs_l.ntm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM Toolbox</Group>
+      <Text>Rigid Toolboxes Right NTM</Text>
+      <Value>rigid_chs_r.ntm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM Toolbox</Group>
+      <Text>Rigid rear toolbox Left NTM</Text>
+      <Value>rigid_rear_l.ntm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM Toolbox</Group>
+      <Text>Rigid rear toolbox Right NTM</Text>
+      <Value>rigid_rear_r.ntm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM body_corner</Group>
+      <Text>Paint Frame 4m</Text>
+      <Value>body_corner.ntm_4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM body_corner</Group>
+      <Text>Paint Frame 4.2m</Text>
+      <Value>body_corner.ntm_4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM body_corner</Group>
+      <Text>Paint Frame 4.4m</Text>
+      <Value>body_corner.ntm_4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM body_low_r</Group>
+      <Image />
+      <Text>Closed Frame</Text>
+      <Value>body_low_r.ntm6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM body_low_r</Group>
+      <Text>Closed Frame</Text>
+      <Value>body_low_r.ntm6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM body_low_r</Group>
+      <Text>Closed Frame</Text>
+      <Value>body_low_r.ntm6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM body_low_r</Group>
+      <Image />
+      <Text>Closed Frame</Text>
+      <Value>body_low_r.ntm6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM body_low_r</Group>
+      <Text>Closed Frame</Text>
+      <Value>body_low_r.ntm6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM body_low_r</Group>
+      <Text>Closed Frame</Text>
+      <Value>body_low_r.ntm6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM body_low_r</Group>
+      <Image />
+      <Text>Closed Frame</Text>
+      <Value>body_low_r.ntm7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM body_low_r</Group>
+      <Text>Closed Frame</Text>
+      <Value>body_low_r.ntm7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM body_low_r</Group>
+      <Image />
+      <Text>Closed Frame</Text>
+      <Value>body_low_r.ntm7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM roof_1</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_1.ntm_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM roof_1</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_2.ntm_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM roof_1</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_3.ntm_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM roof_1</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_1.ntm_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM roof_1</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_2.ntm_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM roof_1</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_3.ntm_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM roof_1</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_1.ntm_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM roof_1</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_2.ntm_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>NTM roof_1</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_3.ntm_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Body main Toplift</Group>
+      <Text>Body main Toplift</Text>
+      <Value>body_main.toplift</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Body Front FRC (Swap Body)</Group>
+      <Text>Body Front 4.0 (FRC)</Text>
+      <Value>body_front_1.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Body Front FRC (Swap Body)</Group>
+      <Text>Body Front 4.2 (FRC)</Text>
+      <Value>body_front_2.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Body Front FRC (Swap Body)</Group>
+      <Text>Body Front 4.4 (FRC)</Text>
+      <Value>body_front_3.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Narko (7_5) 4 m</Group>
+      <Text>Cargo Main</Text>
+      <Value>cargo_main.narko7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Narko (7_5) 4 m</Group>
+      <Text>Box rear 2</Text>
+      <Value>body_rear_2.narko7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Narko (7_5) 4 m</Group>
+      <Text>Box Left 2</Text>
+      <Value>l_body_2.narko7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Narko (7_5) 4 m</Group>
+      <Text>Box Right 2</Text>
+      <Value>r_body_2.narko7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Narko (7_5) 4,2 m</Group>
+      <Text>Cargo Main</Text>
+      <Value>cargo_main.narko7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Narko (7_5) 4,2 m</Group>
+      <Text>Box rear 2</Text>
+      <Value>body_rear_2.narko7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Narko (7_5) 4,2 m</Group>
+      <Text>Box Left 2</Text>
+      <Value>l_body_2.narko7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Narko (7_5) 4,2 m</Group>
+      <Text>Box Right 2</Text>
+      <Value>r_body_2.narko7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Narko (7_5) 4,4 m</Group>
+      <Text>Cargo Main</Text>
+      <Value>cargo_main.narko7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Narko (7_5) 4,4 m</Group>
+      <Text>Box rear 2</Text>
+      <Value>body_rear_2.narko7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Narko (7_5) 4,4 m</Group>
+      <Text>Box Left 2</Text>
+      <Value>l_body_2.narko7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Narko (7_5) 4,4 m</Group>
+      <Text>Box Right 2</Text>
+      <Value>r_body_2.narko7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Narko Bodycorner</Group>
+      <Text>4,0</Text>
+      <Value>body_corner.narko_4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Narko Bodycorner</Group>
+      <Text>4,2</Text>
+      <Value>body_corner.narko_4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Narko Bodycorner</Group>
+      <Text>4,4</Text>
+      <Value>body_corner.narko_4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift NTM (7_5) 4 m</Group>
+      <Text>Cargo Main</Text>
+      <Value>cargo_main.ntm7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift NTM (7_5) 4 m</Group>
+      <Text>Box rear 2</Text>
+      <Value>body_rear_2.ntm7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift NTM (7_5) 4 m</Group>
+      <Text>Box Left 2</Text>
+      <Value>l_body_2.ntm7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift NTM (7_5) 4 m</Group>
+      <Text>Box Right 2</Text>
+      <Value>r_body_2.ntm7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift NTM (7_5) 4.2 m</Group>
+      <Text>Cargo Main</Text>
+      <Value>cargo_main.ntm7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift NTM (7_5) 4.2 m</Group>
+      <Text>Box rear 2</Text>
+      <Value>body_rear_2.ntm7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift NTM (7_5) 4.2 m</Group>
+      <Text>Box Left 2</Text>
+      <Value>l_body_2.ntm7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift NTM (7_5) 4.2 m</Group>
+      <Text>Box Right 2</Text>
+      <Value>r_body_2.ntm7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift NTM (7_5) 4.4 m</Group>
+      <Text>Cargo Main</Text>
+      <Value>cargo_main.ntm7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift NTM (7_5) 4.4 m</Group>
+      <Text>Box rear 2</Text>
+      <Value>body_rear_2.ntm7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift NTM (7_5) 4.4 m</Group>
+      <Text>Box Left 2</Text>
+      <Value>l_body_2.ntm7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift NTM (7_5) 4.4 m</Group>
+      <Text>Box Right 2</Text>
+      <Value>r_body_2.ntm7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift VAK (7_5) 4 m</Group>
+      <Text>Cargo Main</Text>
+      <Value>cargo_main.vak7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift VAK (7_5) 4 m</Group>
+      <Text>Box rear 2</Text>
+      <Value>body_rear_2.vak7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift VAK (7_5) 4 m</Group>
+      <Text>Box Left 2</Text>
+      <Value>l_body_2.vak7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift VAK (7_5) 4 m</Group>
+      <Text>Box Right 2</Text>
+      <Value>r_body_2.vak7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift VAK (7_5) 4,2 m</Group>
+      <Text>Cargo Main</Text>
+      <Value>cargo_main.vak7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift VAK (7_5) 4,2 m</Group>
+      <Text>Box rear 2</Text>
+      <Value>body_rear_2.vak7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift VAK (7_5) 4,2 m</Group>
+      <Text>Box Left 2</Text>
+      <Value>l_body_2.vak7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift VAK (7_5) 4,2 m</Group>
+      <Text>Box Right 2</Text>
+      <Value>r_body_2.vak7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift VAK (7_5) 4,4 m</Group>
+      <Text>Cargo Main</Text>
+      <Value>cargo_main.vak7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift VAK (7_5) 4,4 m</Group>
+      <Text>Box rear 2</Text>
+      <Value>body_rear_2.vak7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift VAK (7_5) 4,4 m</Group>
+      <Text>Box Left 2</Text>
+      <Value>l_body_2.vak7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift VAK (7_5) 4,4 m</Group>
+      <Text>Box Right 2</Text>
+      <Value>r_body_2.vak7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift sidecover</Group>
+      <Text>Right</Text>
+      <Value>rigid_rail_r.toplift</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift sidecover</Group>
+      <Text>Left</Text>
+      <Value>rigid_rail_l.toplift</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Toolbox</Group>
+      <Text>Rigid Toolboxes Left Toplift</Text>
+      <Value>rigid_chs_l.toplift</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Toolbox</Group>
+      <Text>Rigid Toolboxes right Toplift</Text>
+      <Value>rigid_chs_r.toplift</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Toolbox</Group>
+      <Text>Rigid rear toolbox Left Toplift</Text>
+      <Value>rigid_rear_l.toplift</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Toplift Toolbox</Group>
+      <Text>Rigid rear toolbox Right Toplift</Text>
+      <Value>rigid_rear_r.toplift</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Body main VAK</Group>
+      <Text>Body main VAK</Text>
+      <Value>body_main.vak</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (3900mm, 6_1) 4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.vak6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (3900mm, 6_1) 4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.vak6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (3900mm, 6_1) 4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.vak6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (3900mm, 6_1) 4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.vak6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (3900mm) 4,2 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.vak6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (3900mm) 4,2 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.vak6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (3900mm) 4,2 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.vak6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (3900mm) 4,2 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.vak6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (3900mm) 4,4 meter</Group>
+      <Text>Box main</Text>
+      <Value>body_main.vak6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (3900mm) 4,4 meter</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.vak6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (3900mm) 4,4 meter</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.vak6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (3900mm) 4,4 meter</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.vak6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4300, 6_5) 4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.vak6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4300, 6_5) 4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.vak6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4300, 6_5) 4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.vak6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4300, 6_5) 4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.vak6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4300, 6_5) 4,2 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.vak6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4300, 6_5) 4,2 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.vak6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4300, 6_5) 4,2 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.vak6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4300, 6_5) 4,2 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.vak6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4300, 6_5) 4,4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.vak6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4300, 6_5) 4,4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.vak6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4300, 6_5) 4,4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.vak6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4300, 6_5) 4,4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.vak6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.vak7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.vak7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.vak7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4100,4700,5700, 7_5) 4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.vak7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.vak7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.vak7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.vak7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4100,4700,5700, 7_5) 4,2 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.vak7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.vak7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.vak7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.vak7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4100,4700,5700, 7_5) 4,4 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.vak7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4100,4700,5700, 7_5) 4,5 m</Group>
+      <Text>Box main</Text>
+      <Value>body_main.vak7_5x4_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4100,4700,5700, 7_5) 4,5 m</Group>
+      <Text>Box rear</Text>
+      <Value>body_rear_1.vak7_5x4_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4100,4700,5700, 7_5) 4,5 m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.vak7_5x4_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK (4100,4700,5700, 7_5) 4,5 m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.vak7_5x4_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK Roof (Dry)</Group>
+      <Text>Taurpalin roof</Text>
+      <Value>roof_1.vak_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK Roof (Dry)</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_2.vak_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK Roof (Dry)</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_3.vak_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK Roof (Dry)</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_1.vak_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK Roof (Dry)</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_2.vak_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK Roof (Dry)</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_3.vak_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK Roof (Dry)</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_1.vak_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK Roof (Dry)</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_2.vak_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK Roof (Dry)</Group>
+      <Text>Taurpalin Roof</Text>
+      <Value>roof_3.vak_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK Sidecover</Group>
+      <Text>Right</Text>
+      <Value>rigid_rail_r.vak</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK Sidecover</Group>
+      <Text>Left</Text>
+      <Value>rigid_rail_l.vak</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK Toolbox</Group>
+      <Text>Rigid Toolboxes Left VAK</Text>
+      <Value>rigid_chs_l.vak</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK Toolbox</Group>
+      <Text>Rigid Toolboxes Right VAK</Text>
+      <Value>rigid_chs_r.vak</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK Toolbox</Group>
+      <Text>Rigid rear toolbox Left VAK</Text>
+      <Value>rigid_rear_l.vak</Value>
+    </ListItem>
+    <ListItem>
+      <Group>VAK Toolbox</Group>
+      <Text>Rigid rear toolbox Right VAK</Text>
+      <Value>rigid_rear_r.vak</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4m</Group>
+      <Text>Body Main</Text>
+      <Value>body_main.bygg6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.bygg6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.bygg6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4m</Group>
+      <Text>Box Rear</Text>
+      <Value>body_rear_1.bygg6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4.2m</Group>
+      <Text>Body Main</Text>
+      <Value>body_main.bygg6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4.2m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.bygg6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4.2m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.bygg6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4.2m</Group>
+      <Text>Box Rear</Text>
+      <Value>body_rear_1.bygg6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4.4m</Group>
+      <Text>Body Main</Text>
+      <Value>body_main.bygg6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4.4m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.bygg6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4.4m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.bygg6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4.4m</Group>
+      <Text>Box Rear</Text>
+      <Value>body_rear_1.bygg6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1)</Group>
+      <Text>Ventilation Cover Left</Text>
+      <Value>l_body_2.bygg_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1)</Group>
+      <Text>Ventilation Cover Right</Text>
+      <Value>r_body_2.bygg_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4m</Group>
+      <Text>Body Main</Text>
+      <Value>body_main.bygg6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.bygg6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.bygg6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4m</Group>
+      <Text>Box Rear</Text>
+      <Value>body_rear_1.bygg6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4,2m</Group>
+      <Text>Body Main</Text>
+      <Value>body_main.bygg6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4,2m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.bygg6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4,2m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.bygg6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4,2m</Group>
+      <Text>Box Rear</Text>
+      <Value>body_rear_1.bygg6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4,4m</Group>
+      <Text>Body Main</Text>
+      <Value>body_main.bygg6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4,4m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.bygg6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4,4m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.bygg6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4,4m</Group>
+      <Text>Box Rear</Text>
+      <Value>body_rear_1.bygg6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5)</Group>
+      <Text>Ventilation Cover Left</Text>
+      <Value>l_body_2.bygg_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5)</Group>
+      <Text>Ventilation Cover Right</Text>
+      <Value>r_body_2.bygg_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4m</Group>
+      <Text>Body Main</Text>
+      <Value>body_main.bygg7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.bygg7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.bygg7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4m</Group>
+      <Text>Box Rear</Text>
+      <Value>body_rear_1.bygg7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4,2m</Group>
+      <Text>Body Main</Text>
+      <Value>body_main.bygg7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4,2m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.bygg7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4,2m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.bygg7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4,2m</Group>
+      <Text>Box Rear</Text>
+      <Value>body_rear_1.bygg7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4,4m</Group>
+      <Text>Body Main</Text>
+      <Value>body_main.bygg7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4,4m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.bygg7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4,4m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.bygg7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4,4m</Group>
+      <Text>Box Rear</Text>
+      <Value>body_rear_1.bygg7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5)</Group>
+      <Text>Ventilation Cover Left</Text>
+      <Value>l_body_2.bygg_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5)</Group>
+      <Text>Ventilation Cover Right</Text>
+      <Value>r_body_2.bygg_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Sidecover</Group>
+      <Text>Left</Text>
+      <Value>rigid_rail_l.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Sidecover</Group>
+      <Text>Right</Text>
+      <Value>rigid_rail_r.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Sidecover</Group>
+      <Text>Standard Left</Text>
+      <Value>rigid_rail_l.bussbygg2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Sidecover</Group>
+      <Text>Standard Right</Text>
+      <Value>rigid_rail_r.bussbygg2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Toolbox</Group>
+      <Text>Rigid Toolboxes Left Bussbygg</Text>
+      <Value>rigid_chs_l.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Toolbox</Group>
+      <Text>Rigid Toolboxes Right Bussbygg</Text>
+      <Value>rigid_chs_r.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Toolbox</Group>
+      <Text>rig_plate_a Bussbygg</Text>
+      <Value>rig_plate_a.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Toolbox</Group>
+      <Text>rig_plate_b Bussbygg</Text>
+      <Value>rig_plate_b.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Toolbox</Group>
+      <Text>Rigid Rear Toolbox Left Bussbygg</Text>
+      <Value>rigid_rear_l.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Toolbox</Group>
+      <Text>Rigid Rear Toolbox Right Bussbygg</Text>
+      <Value>rigid_rear_r.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg body_l_frame</Group>
+      <Text>Default/Default Extra Rubber</Text>
+      <Value>body_l_frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vangs Box (3900)</Group>
+      <Text>Box 3.4m</Text>
+      <Value>body_main.vangs6_1x3_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vangs Box (3900)</Group>
+      <Text>Box 4.0m</Text>
+      <Value>body_main.vangs6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vangs Box (3900)</Group>
+      <Text>Box 4.2m</Text>
+      <Value>body_main.vangs6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vangs Box (3900)</Group>
+      <Text>Box 4.4m</Text>
+      <Value>body_main.vangs6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vangs Box (4300)</Group>
+      <Text>Box 3.4m</Text>
+      <Value>body_main.vangs6_5x3_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vangs Box (4300)</Group>
+      <Text>Box 4.0m</Text>
+      <Value>body_main.vangs6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vangs Box (4300)</Group>
+      <Text>Box 4.2m</Text>
+      <Value>body_main.vangs6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vangs Box (4300)</Group>
+      <Text>Box 4.4m</Text>
+      <Value>body_main.vangs6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vangs Box (4100, 4700)</Group>
+      <Text>Box 3.4m</Text>
+      <Value>body_main.vangs7_5x3_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vangs Box (4100, 4700)</Group>
+      <Text>Box 4.0m</Text>
+      <Value>body_main.vangs7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vangs Box (4100, 4700)</Group>
+      <Text>Box 4.2m</Text>
+      <Value>body_main.vangs7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vangs Box (4100, 4700)</Group>
+      <Text>Box 4.4m</Text>
+      <Value>body_main.vangs7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Accessory Lights 4 (Vangs)</Group>
+      <Text>Paint Vangs</Text>
+      <Value>acc_lights_4.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vangs Sidecover</Group>
+      <Text>Left</Text>
+      <Value>rigid_rail_l.vangs</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vangs Sidecover</Group>
+      <Text>Right</Text>
+      <Value>rigid_rail_r.vangs</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vangs Toolbox</Group>
+      <Text>Rigid Toolboxes Left Vangs</Text>
+      <Value>rigid_chs_l.vangs</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vangs Toolbox</Group>
+      <Text>Rigid Toolboxes Right Vangs</Text>
+      <Value>rigid_chs_r.vangs</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vangs Toolbox</Group>
+      <Text>Rigid Rear Toolbox Left Vangs</Text>
+      <Value>rigid_rear_l.vangs</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Vangs Toolbox</Group>
+      <Text>Rigid Rear Toolbox Right Vangs</Text>
+      <Value>rigid_rear_r.vangs</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Fender Vangs</Group>
+      <Text>Fender Metal A</Text>
+      <Value>rigid_fend_a.vangs</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Fender Vangs</Group>
+      <Text>Fender Metal B</Text>
+      <Value>rigid_fend_b.vangs</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Fender Vangs</Group>
+      <Text>Fender Metal C</Text>
+      <Value>rigid_fend_c.vangs</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid Fender Vangs</Group>
+      <Text>Fender Metal D</Text>
+      <Value>rigid_fend_d.vangs</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Vangs</Group>
+      <Text>Roof (3900)</Text>
+      <Value>roof_1.vangs_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Vangs</Group>
+      <Text>Roof (3900)</Text>
+      <Value>roof_2.vangs_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Vangs</Group>
+      <Text>Roof (3900)</Text>
+      <Value>roof_3.vangs_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Vangs</Group>
+      <Text>Roof (4300)</Text>
+      <Value>roof_1.vangs_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Vangs</Group>
+      <Text>Roof (4300)</Text>
+      <Value>roof_2.vangs_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Vangs</Group>
+      <Text>Roof (4300)</Text>
+      <Value>roof_3.vangs_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Vangs</Group>
+      <Text>Roof (4100, 4700)</Text>
+      <Value>roof_1.vangs_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Vangs</Group>
+      <Text>Roof (4100, 4700)</Text>
+      <Value>roof_2.vangs_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Vangs</Group>
+      <Text>Roof (4100, 4700)</Text>
+      <Value>roof_3.vangs_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Crane (3900)</Group>
+      <Text>Body Crane 4.8x4.0m</Text>
+      <Value>body_main.mte1_4_8x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Crane (3900)</Group>
+      <Text>Body Crane 4.8x4.2m</Text>
+      <Value>body_main.mte1_4_8x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Crane (3900)</Group>
+      <Text>Body Crane 4.8x4.4m</Text>
+      <Value>body_main.mte1_4_8x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Crane (4300)</Group>
+      <Text>Body Crane 5.2x4.0m</Text>
+      <Value>body_main.mte1_5_2x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Crane (4300)</Group>
+      <Text>Body Crane 5.2x4.2m</Text>
+      <Value>body_main.mte1_5_2x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Crane (4300)</Group>
+      <Text>Body Crane 5.2x4.4m</Text>
+      <Value>body_main.mte1_5_2x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Crane (4100, 4700)</Group>
+      <Text>Body Crane 6.2x4.0m</Text>
+      <Value>body_main.mte1_6_2x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Crane (4100, 4700)</Group>
+      <Text>Body Crane 6.2x4.2m</Text>
+      <Value>body_main.mte1_6_2x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Crane (4100, 4700)</Group>
+      <Text>Body Crane 6.2x4.4m</Text>
+      <Value>body_main.mte1_6_2x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Roll (3900)</Group>
+      <Text>Body Roll 5.6x4.0m</Text>
+      <Value>body_main.mte1_5_6x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Roll (3900)</Group>
+      <Text>Body Roll 5.6x4.2m</Text>
+      <Value>body_main.mte1_5_6x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Roll (3900)</Group>
+      <Text>Body Roll 5.6x4.4m</Text>
+      <Value>body_main.mte1_5_6x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Roll (4300)</Group>
+      <Text>Body Roll 6.0x4.0m</Text>
+      <Value>body_main.mte1_6_0x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Roll (4300)</Group>
+      <Text>Body Roll 6.0x4.2m</Text>
+      <Value>body_main.mte1_6_0x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Roll (4300)</Group>
+      <Text>Body Roll 6.0x4.4m</Text>
+      <Value>body_main.mte1_6_0x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Roll (4100, 4700)</Group>
+      <Text>Body Roll 7.0x4.0m</Text>
+      <Value>body_main.mte1_7_0x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Roll (4100, 4700)</Group>
+      <Text>Body Roll 7.0x4.2m</Text>
+      <Value>body_main.mte1_7_0x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Roll (4100, 4700)</Group>
+      <Text>Body Roll 7.0x4.4m</Text>
+      <Value>body_main.mte1_7_0x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Taklock (3900)</Group>
+      <Text>Body Taklock 5.6x4.0m</Text>
+      <Value>body_main.mte1_5_6x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Taklock (3900)</Group>
+      <Text>Body Taklock 5.6x4.2m</Text>
+      <Value>body_main.mte1_5_6x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Taklock (3900)</Group>
+      <Text>Body Taklock 5.6x4.4m</Text>
+      <Value>body_main.mte1_5_6x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Even though is stated as 7.0, in the code is 6.0</Description>
+      <Group>MT Eskjö Taklock (4300)</Group>
+      <Text>Body Taklock 7.0x4.0m</Text>
+      <Value>body_main.mte2_6_0x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Even though is stated as 7.0, in the code is 6.0</Description>
+      <Group>MT Eskjö Taklock (4300)</Group>
+      <Text>Body Taklock 7.0x4.2m</Text>
+      <Value>body_main.mte2_6_0x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Even though is stated as 7.0, in the code is 6.0</Description>
+      <Group>MT Eskjö Taklock (4300)</Group>
+      <Text>Body Taklock 7.0x4.4m</Text>
+      <Value>body_main.mte2_6_0x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>MT Eskjö Taklock (4100, 4700)</Group>
+      <Text>Body Taklock 7.0x4.0m</Text>
+      <Value>body_main.mte2_7_0x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>MT Eskjö Taklock (4100, 4700)</Group>
+      <Text>Body Taklock 7.0x4.2m</Text>
+      <Value>body_main.mte2_7_0x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>MT Eskjö Taklock (4100, 4700)</Group>
+      <Text>Body Taklock 7.0x4.4m</Text>
+      <Value>body_main.mte2_7_0x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Roll Roof</Group>
+      <Text>Roll Roof 1</Text>
+      <Value>roof_1.eksjo_roll</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Roll Roof</Group>
+      <Text>Roll Roof 2</Text>
+      <Value>roof_2.eksjo_roll</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Roll Roof</Group>
+      <Text>Roll Roof 3</Text>
+      <Value>roof_3.eksjo_roll</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Taklock Roof</Group>
+      <Text>Taklock Roof 1</Text>
+      <Value>roof_1.eksjo_tak</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Taklock Roof</Group>
+      <Text>Taklock Roof 2</Text>
+      <Value>roof_2.eksjo_tak</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Taklock Roof</Group>
+      <Text>Taklock Roof 3</Text>
+      <Value>roof_3.eksjo_tak</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Taklock Rear Ladder</Group>
+      <Text>Ladder 4.0m</Text>
+      <Value>r_logo_1.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Taklock Rear Ladder</Group>
+      <Text>Ladder 4.2m</Text>
+      <Value>r_logo_2.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Taklock Rear Ladder</Group>
+      <Text>Ladder 4.4m</Text>
+      <Value>r_logo_3.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Loglift</Group>
+      <Text>Loglift 96s</Text>
+      <Value>r_equip_ext.loglift</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Sidecover</Group>
+      <Text>Left</Text>
+      <Value>rigid_rail_l.mt_eksjo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Sidecover</Group>
+      <Text>Right</Text>
+      <Value>rigid_rail_r.mt_eksjo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Toolbox</Group>
+      <Text>Rigid Toolboxes Left MT Eskjö</Text>
+      <Value>rigid_chs_l.mt_eksjo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Toolbox</Group>
+      <Text>Rigid Toolboxes Right MT Eskjö</Text>
+      <Value>rigid_chs_r.mt_eksjo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Toolbox</Group>
+      <Text>Rigid Rear Toolbox Left MT Eskjö</Text>
+      <Value>rigid_rear_l.mt_eksjo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>MT Eskjö Toolbox</Group>
+      <Text>Rigid Rear Toolbox Right MT Eskjö</Text>
+      <Value>rigid_rear_r.mt_eksjo</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>FELDBINDER KIP Cistern</Group>
+      <Image />
+      <Text>Feldbinder KIP 3900 Chassis</Text>
+      <Value>body_main.kip3900</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>FELDBINDER KIP Cistern</Group>
+      <Image />
+      <Text>Feldbinder KIP 4100 Chassis</Text>
+      <Value>body_main.kip4100</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>FELDBINDER KIP Cistern</Group>
+      <Image />
+      <Text>Feldbinder KIP 4300 Chassis</Text>
+      <Value>body_main.kip4300</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Sideskirts</Group>
+      <Text>Left</Text>
+      <Value>rigid_rail_l.ffb</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Sideskirts</Group>
+      <Text>Right</Text>
+      <Value>rigid_rail_r.ffb</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Scania sideskirts</Group>
+      <Text>P 3900 Left</Text>
+      <Value>rigid_rail_l.sc3900_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Scania sideskirts</Group>
+      <Text>P 3900 Right</Text>
+      <Value>rigid_rail_r.sc3900_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Scania sideskirts</Group>
+      <Text>V8P 3900 Left</Text>
+      <Value>rigid_rail_l.sc3900_v8p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Scania sideskirts</Group>
+      <Text>V8P 3900 Right</Text>
+      <Value>rigid_rail_r.sc3900_v8p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Scania sideskirts</Group>
+      <Text>P 4100 Left</Text>
+      <Value>rigid_rail_l.sc4100_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Scania sideskirts</Group>
+      <Text>P 4100 Right</Text>
+      <Value>rigid_rail_r.sc4100_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Scania sideskirts</Group>
+      <Text>V8P 4100 Left</Text>
+      <Value>rigid_rail_l.sc4100_v8p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Scania sideskirts</Group>
+      <Text>V8P 4100 Right</Text>
+      <Value>rigid_rail_r.sc4100_v8p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Scania sideskirts</Group>
+      <Text>P 4100 Left</Text>
+      <Value>rigid_rail_l.sc4300_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Scania sideskirts</Group>
+      <Text>P 4100 Right</Text>
+      <Value>rigid_rail_r.sc4300_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Scania sideskirts</Group>
+      <Text>V8P 4100 Left</Text>
+      <Value>rigid_rail_l.sc4300_v8p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Scania sideskirts</Group>
+      <Text>V8P 4100 Right</Text>
+      <Value>rigid_rail_r.sc4300_v8p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Rear storage</Group>
+      <Text>Left</Text>
+      <Value>rigid_rear_l.ffb</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Rear storage</Group>
+      <Text>Right</Text>
+      <Value>rigid_rear_r.ffb</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Tube storage</Group>
+      <Text>Paint 3900</Text>
+      <Value>l_body_1.paint3900</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Tube storage</Group>
+      <Text>Paint + Chrome 3900</Text>
+      <Value>l_body_1.pnt_chr3900</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Tube storage</Group>
+      <Text>Paint 4100</Text>
+      <Value>l_body_1.paint4100</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Tube storage</Group>
+      <Text>Paint + Chrome 4100</Text>
+      <Value>l_body_1.pnt_chr4100</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Tube storage</Group>
+      <Text>Paint 4300</Text>
+      <Value>l_body_1.paint4300</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER KIP Tube storage</Group>
+      <Text>Paint + Chrome 4300</Text>
+      <Value>l_body_1.pnt_chr4300</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER Tanks and storage boxes</Group>
+      <Text>Tanks and storage boxes</Text>
+      <Value>rigid_chs_l.ffb</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER Top rear panel</Group>
+      <Text>Shape a</Text>
+      <Value>r_top_l_1.shape_a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER Top rear panel</Group>
+      <Text>Shape b3900</Text>
+      <Value>r_top_l_1.shape_b3900</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER Top rear panel</Group>
+      <Text>Shape c3900</Text>
+      <Value>r_top_l_1.shape_c3900</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER Top rear panel</Group>
+      <Text>Shape b4100</Text>
+      <Value>r_top_l_1.shape_b4100</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER Top rear panel</Group>
+      <Text>Shape c4100</Text>
+      <Value>r_top_l_1.shape_c4100</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER Top rear panel</Group>
+      <Text>Shape b4300</Text>
+      <Value>r_top_l_1.shape_b4300</Value>
+    </ListItem>
+    <ListItem>
+      <Group>FELDBINDER Top rear panel</Group>
+      <Text>Shape c4300</Text>
+      <Value>r_top_l_1.shape_c4300</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LL_hookup</Group>
+      <Image />
+      <Text>Chassi 6x2*4 (4700)</Text>
+      <Value>chassis.6x2lunna</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LL_hookup</Group>
+      <Image />
+      <Text>Chassi 6x2 (4700)</Text>
+      <Value>chassis.6x2lunna1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LL_hookup</Group>
+      <Image />
+      <Text>Chassi</Text>
+      <Value>chassis.6x4lunna2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LL_hookup</Group>
+      <Image />
+      <Text>Chassi</Text>
+      <Value>chassis.6x4lunna3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LL_hookup</Group>
+      <Image />
+      <Text>Chassi</Text>
+      <Value>chassis.8x4lunna</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LL_hookup</Group>
+      <Image />
+      <Text>Chassi</Text>
+      <Value>chassis.8x4lunna1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LL_hookup</Group>
+      <Image />
+      <Text>Chassi</Text>
+      <Value>chassis.8x4lunna2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LL_hookup</Group>
+      <Image />
+      <Text>Hookup</Text>
+      <Value>kuzov.abroll</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LL_hookup</Group>
+      <Image />
+      <Text>Asphalt</Text>
+      <Value>addon_hookup.asfalt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LL_hookup</Group>
+      <Image />
+      <Text>CMT</Text>
+      <Value>addon_hookup.cmt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LL_hookup</Group>
+      <Image />
+      <Text>Flatbed</Text>
+      <Value>addon_hookup.maskin</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LL_hookup</Group>
+      <Image />
+      <Text>High painted</Text>
+      <Value>addon_hookup.high_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LL_hookup</Group>
+      <Image />
+      <Text>High Skinnable</Text>
+      <Value>addon_hookup.high_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LL_hookup</Group>
+      <Image />
+      <Text>Lem</Text>
+      <Value>addon_hookup.lem</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LL_hookup</Group>
+      <Image />
+      <Text>Schakt skin</Text>
+      <Value>addon_hookup.schakt_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>LL_hookup</Group>
+      <Image />
+      <Text>Schakt paint</Text>
+      <Value>addon_hookup.schakt_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Timmerbilen</Group>
+      <Image />
+      <Text>Chassi</Text>
+      <Value>kuzov.toplift_swap</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Timmerbilen</Group>
+      <Image />
+      <Text>Crane no load</Text>
+      <Value>r_reflector.crane1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Timmerbilen</Group>
+      <Image />
+      <Text>Crane load</Text>
+      <Value>r_reflector.crane2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Timmerbilen</Group>
+      <Image />
+      <Text>Rear boxes</Text>
+      <Value>bdf_stuff_r.vak_r_box2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rails LL_Timmer</Group>
+      <Image />
+      <Text>Left</Text>
+      <Value>rigid_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rails LL_Timmer</Group>
+      <Image />
+      <Text>Right</Text>
+      <Value>rigid_f_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rails LL_Timmer</Group>
+      <Image />
+      <Text>Autoline</Text>
+      <Value>bdf_stuff.autoline</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rails LL_Timmer</Group>
+      <Image />
+      <Text>Slirej</Text>
+      <Value>bdf_stuff.slirej</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_b.parlok_l_np</Text>
+      <Value>fenders_b.parlok_l_np</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_b.parlok</Text>
+      <Value>fenders_b.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_b.parlok_np</Text>
+      <Value>fenders_b.parlok_np</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_b.parlok_cut</Text>
+      <Value>fenders_b.parlok_cut</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_c.parlok_l_np</Text>
+      <Value>fenders_c.parlok_l_np</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_c.parlok</Text>
+      <Value>fenders_c.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_c.parlok_np</Text>
+      <Value>fenders_c.parlok_np</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_c.parlok_cut</Text>
+      <Value>fenders_c.parlok_cut</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_d.parlok</Text>
+      <Value>fenders_d.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_d.parlok_np</Text>
+      <Value>fenders_d.parlok_np</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_t.parlok_l_np</Text>
+      <Value>fenders_t.parlok_l_np</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_t.parlok</Text>
+      <Value>fenders_t.parlok</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_t.parlok_np</Text>
+      <Value>fenders_t.parlok_np</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_t.parlok_cut</Text>
+      <Value>fenders_t.parlok_cut</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_b.shape1</Text>
+      <Value>fenders_b.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_b.shape2</Text>
+      <Value>fenders_b.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_b.shape3</Text>
+      <Value>fenders_b.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_b.shape4</Text>
+      <Value>fenders_b.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_b.shape4b</Text>
+      <Value>fenders_b.shape4b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_b.shape5</Text>
+      <Value>fenders_b.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_b.shape5b</Text>
+      <Value>fenders_b.shape5b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_b.shape6</Text>
+      <Value>fenders_b.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_b.shape7</Text>
+      <Value>fenders_b.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_b.shape8</Text>
+      <Value>fenders_b.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_b.shape9</Text>
+      <Value>fenders_b.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_b.shape9b</Text>
+      <Value>fenders_b.shape9b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_b.shape10</Text>
+      <Value>fenders_b.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders LL_Timmer</Group>
+      <Image />
+      <Text>fenders_b.shape10b</Text>
+      <Value>fenders_b.shape10b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflap LL_Timmer</Group>
+      <Image />
+      <Text>Rear Mudflap</Text>
+      <Value>r_porikad.r_mdflap</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>D:\Documents\Mods Studio 2\UserVehicles\ETS2.RJL.scania.r4.rigid.options.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>scania.r4</InternalName>
+  <SoundItems />
+  <VehicleAuthor>RJL</VehicleAuthor>
+  <VehicleImage>SCS-Scania-R.png</VehicleImage>
+  <VehicleName>Scania|R 4 series with rigid options</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>normal.scania.r4.cabin</InternalName>
+      <Name>Normal</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>topline.scania.r4.cabin</InternalName>
+      <Name>Topline</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>toplinexc.scania.r4.cabin</InternalName>
+      <Name>Topline Extended</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>longline.scania.r4.cabin</InternalName>
+      <Name>Longline</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Danny Kay - rigid by MR JP</XmlDefinitionAuthor>
+</Variable>
