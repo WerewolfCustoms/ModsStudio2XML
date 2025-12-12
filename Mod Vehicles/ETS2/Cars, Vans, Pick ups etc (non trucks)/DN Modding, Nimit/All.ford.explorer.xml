@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>9dbe9ff6-ceeb-4d94-9554-62b5edd5da73</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>mirror.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>steering_w.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>s_mirror.default</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\salon\Documents\Mods Studio 2\UserVehicles\All.ford.explorer.xml</FilePath>
+  <Game>All</Game>
+  <InternalName>ford.explorer</InternalName>
+  <VehicleAuthor>DN Modding, Nimit</VehicleAuthor>
+  <VehicleName>Ford Explorer Platinum</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>explorer.2019.ford.explorer.cabin</InternalName>
+      <Name>2019</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>MohSkinner</XmlDefinitionAuthor>
+</Variable>
