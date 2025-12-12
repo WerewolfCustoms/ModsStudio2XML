@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>d8622a9a-5062-41e4-a69b-2483f61ffd95</Id>
+  <Id>bd7f698f-7b22-4165-9425-8c1dc3924b21</Id>
   <IsEnabled>true</IsEnabled>
   <AccessoryItems>
     <ListItem>
@@ -9,28 +9,24 @@
       <Value>mirror.default</Value>
     </ListItem>
     <ListItem>
-      <Text>Brown</Text>
-      <Value>steering_w.brown</Value>
-    </ListItem>
-    <ListItem>
-      <Text>Black</Text>
+      <Text>Stock</Text>
       <Value>steering_w.default</Value>
     </ListItem>
     <ListItem>
       <Text>Stock</Text>
-      <Value>s_mirror.default</Value>
+      <Value>s_mirror.1</Value>
     </ListItem>
   </AccessoryItems>
-  <FilePath>C:\Users\salon\Desktop\All.lamb_urus.xml</FilePath>
-  <Game>All</Game>
-  <InternalName>lamb_urus</InternalName>
+  <FilePath>C:\Users\salon\Documents\Mods Studio 2\UserVehicles\ETS2.lambo.countach.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>lambo.countach</InternalName>
   <VehicleAuthor>DN Modding, Nimit, Slav Jerry</VehicleAuthor>
-  <VehicleName>Lamborghini Urus</VehicleName>
+  <VehicleName>Lamborghini Countach</VehicleName>
   <VehicleType>OldTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
-      <InternalName>urus_2018.lamb_urus.cabin</InternalName>
-      <Name>2018</Name>
+      <InternalName>lpi_800_2022.lambo.countach.cabin</InternalName>
+      <Name>LPI 800-4 2022</Name>
     </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>MohSkinner</XmlDefinitionAuthor>
