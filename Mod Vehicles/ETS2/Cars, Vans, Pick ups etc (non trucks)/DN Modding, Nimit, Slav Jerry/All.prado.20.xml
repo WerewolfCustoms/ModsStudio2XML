@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>1155f580-a336-4226-8b38-c3b2c7575dd2</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>mirror.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>steering_w.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>s_mirror.default</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\Salon\Documents\Mods Studio 2\UserVehicles\All.prado.20.xml</FilePath>
+  <Game>All</Game>
+  <InternalName>prado.20</InternalName>
+  <SoundItems />
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>Toyota Land Cruiser Prado</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>j150_2020.prado.20.cabin</InternalName>
+      <Name>J150 2020</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>MohSkinner</XmlDefinitionAuthor>
+</Variable>
