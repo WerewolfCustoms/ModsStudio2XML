@@ -22,7 +22,7 @@
   <InternalName>prado.20</InternalName>
   <SoundItems />
   <VehicleAuthor>SCS Software</VehicleAuthor>
-  <VehicleName>Toyota Land Cruiser Prado</VehicleName>
+  <VehicleName>Toyota Land Cruiser Prado J150 2020</VehicleName>
   <VehicleType>OldTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
@@ -31,4 +31,5 @@
     </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>MohSkinner</XmlDefinitionAuthor>
+
 </Variable>
