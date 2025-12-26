@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+   <!-- Created with v2025.02 Modversions 1.3(addon), 2.5.5(full trailers), 2.8.1 ETS2_v1.57 -->
+  <Game>ETS2</Game>
+  <InternalName>vak.container</InternalName>
+  <SoundItems />
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>KAST  VAK|Container Semi-Trailer</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.cont</InternalName>
+      <Name>VAK Vslider, Container</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <DateUpdated>2025-12-26T00:00:00</DateUpdated>
+  <AccessoryItems>
+    <ListItem>
+      <Description />
+      <Group>Axles</Group>
+      <Image />
+      <Text>Axles 3s</Text>
+      <Value>axles.axles_3s</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Frame</Group>
+      <Image />
+      <Text>Painted Chassiframe 3s</Text>
+      <Value>frame.chassis_3s</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassi Sidecovers Boxes&amp;Rails Left Side</Group>
+      <Image />
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>vak_f_l.paint_box1</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassi Sidecovers Boxes&amp;Rails Right Side</Group>
+      <Image />
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>vak_f_r.rail_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders A</Group>
+      <Image />
+      <Text>Painted Parlok Fenders</Text>
+      <Value>vak_fend_a.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders A</Group>
+      <Image />
+      <Text>Painted Parlok Fenders with Reflector</Text>
+      <Value>vak_fend_a.parlok_ref_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders B</Group>
+      <Image />
+      <Text>Painted Parlok Fenders</Text>
+      <Value>vak_fend_b.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders B</Group>
+      <Image />
+      <Text>Painted Parlok Fenders with Reflector</Text>
+      <Value>vak_fend_b.parlok_ref_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders C</Group>
+      <Image />
+      <Text>Painted Parlok Fenders</Text>
+      <Value>vak_fend_c.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders C</Group>
+      <Image />
+      <Text>Painted Parlok Fenders with Reflector</Text>
+      <Value>vak_fend_c.parlok_ref_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Multiple Variants.</Description>
+      <Group>Rear Bumper</Group>
+      <Image />
+      <Text>Painted Rear Bumpers</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>License Plates</Group>
+      <Image />
+      <Text>Custom LP</Text>
+      <Value>custom_lp.custom_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Mudflap</Group>
+      <Image />
+      <Text>Custom Painted Mudflap</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>

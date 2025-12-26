@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+   <!-- Created with v2025.02 Modversions 1.3(addon), 2.5.5(full trailers), 2.8.1 ETS2_v1.57 -->
+  <Game>ETS2</Game>
+  <InternalName>vak</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>KAST  VAK|Semis,Dolly, VSlider and Krone Configurations</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Needs to be ticked if you want to use\nDollyoption for Semitrailers.</Description>
+      <Group>DOLLY</Group>
+      <InternalName>body.body_dolly</InternalName>
+      <Name>Dolly</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4 Meter Height Trailer</Group>
+      <InternalName>body.4_box_reefer</InternalName>
+      <Name>VAK 4m high, Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4 Meter Height Trailer</Group>
+      <InternalName>body.4_box</InternalName>
+      <Name>VAK 4m high, DRY</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.4 Meter Height Trailer</Group>
+      <InternalName>body.4_4_curtain</InternalName>
+      <Name>VAK 4.4m high, VSlider Curtainside</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.4 Meter Height Trailer</Group>
+      <InternalName>body.4_4_reefer</InternalName>
+      <Name>VAK 4.4m high, VSlider Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.4 Meter Height Trailer</Group>
+      <InternalName>body.4_4_dry</InternalName>
+      <Name>VAK 4.4m high, VSlider DRY</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.4 Meter Height Trailer</Group>
+      <InternalName>body.4_4_reefer5s</InternalName>
+      <Name>VAK 4.4m high, VSlider Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.4 Meter Height Trailer</Group>
+      <InternalName>body.4_4_dry5s</InternalName>
+      <Name>VAK 4.4m high, VSlider DRY</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.4 Meter Height Trailer</Group>
+      <InternalName>body.4_4_s_curt</InternalName>
+      <Name>VAK 4.4m high, Semi Curtainside</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.4 Meter Height Trailer</Group>
+      <InternalName>body.4_4_s_reefer</InternalName>
+      <Name>VAK 4.4m high, Semi Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.4 Meter Height Trailer</Group>
+      <InternalName>body.4_4_s_box</InternalName>
+      <Name>VAK 4.4m high, Semi DRY</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.4 Meter Height 19 Meter Lenght</Group>
+      <InternalName>body.19_reefer</InternalName>
+      <Name>VAK 4.4m high, Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>4.4 Meter Height 19 Meter Lenght</Group>
+      <InternalName>body.19_box</InternalName>
+      <Name>VAK 4.4m high, DRY</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Needs to be ticked when using the\nV-Slider&amp;Krone Addon.</Description>
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic Configuration</Group>
+      <InternalName>body.curtain_136</InternalName>
+      <Name>ProfiLiner Nordic for V-Slider</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <DateUpdated>2025-12-26T00:00:00</DateUpdated>
+  <AccessoryItems>
+    <ListItem>
+      <Description />
+      <Group>Axles</Group>
+      <Image />
+      <Text>Axles 2s</Text>
+      <Value>axles.axles_2s</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Axles</Group>
+      <Image />
+      <Text>Axles 3</Text>
+      <Value>axles.axles_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Axles</Group>
+      <Image />
+      <Text>Axles 3s</Text>
+      <Value>axles.axles_3s</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Axles</Group>
+      <Image />
+      <Text>Axles 4</Text>
+      <Value>axles.axles_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Axles</Group>
+      <Image />
+      <Text>Axles 5s</Text>
+      <Value>axles.axles_5s</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Axles</Group>
+      <Image />
+      <Text>Axles 5</Text>
+      <Value>axles.axles_5</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Frame</Group>
+      <Image />
+      <Text>Painted Chassiframe</Text>
+      <Value>frame.chassis_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Frame</Group>
+      <Image />
+      <Text>Painted Chassiframe 2s</Text>
+      <Value>frame.chassis_2s</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Frame</Group>
+      <Image />
+      <Text>Painted Chassiframe 3</Text>
+      <Value>frame.chassis_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Frame</Group>
+      <Image />
+      <Text>Painted Chassiframe 3s</Text>
+      <Value>frame.chassis_3s</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Frame</Group>
+      <Image />
+      <Text>Painted Chassiframe 4</Text>
+      <Value>frame.chassis_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Frame</Group>
+      <Image />
+      <Text>Painted Chassiframe 5</Text>
+      <Value>frame.chassis_5</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Frame</Group>
+      <Image />
+      <Text>Painted Chassiframe 5s</Text>
+      <Value>frame.chassis_5s</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Thermoking</Group>
+      <Image />
+      <Text>ThermoKing HK430 Heater</Text>
+      <Value>f_body.hk_430_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Thermoking</Group>
+      <Image />
+      <Text>ThermoKing HK430 Heater</Text>
+      <Value>f_body_2.hk_430_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassi Sidecovers Boxes&amp;Rails Left Side</Group>
+      <Image />
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>vak_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassi Sidecovers Boxes&amp;Rails Left Side</Group>
+      <Image />
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>vak_f_l.paint_box1</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassi Sidecovers Boxes&amp;Rails Left Side</Group>
+      <Image />
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>vak_f_l.paint_box2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassi Sidecovers Boxes&amp;Rails Left Side</Group>
+      <Image />
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>vak_f_l.paint_box3</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassi Sidecovers Boxes&amp;Rails Left Side</Group>
+      <Image />
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>chs_m_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassi Sidecovers Boxes&amp;Rails Left Side</Group>
+      <Image />
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>chs_r_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassi Sidecovers Boxes&amp;Rails Left Side</Group>
+      <Image />
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>chs_r_l.paint_box</Value>
+    </ListItem>    
+    <ListItem>
+      <Description />
+      <Group>Chassi Sidecovers Boxes&amp;Rails Left Side</Group>
+      <Image />
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>vak_r_l.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassi Sidecovers Boxes&amp;Rails Right Side</Group>
+      <Image />
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>vak_f_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassi Sidecovers Boxes&amp;Rails Right Side</Group>
+      <Image />
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>vak_f_r.rail_paint</Value>
+    </ListItem>    
+    <ListItem>
+      <Description />
+      <Group>Chassi Sidecovers Boxes&amp;Rails Right Side</Group>
+      <Image />
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>chs_m_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassi Sidecovers Boxes&amp;Rails Right Side</Group>
+      <Image />
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>chs_r_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassi Sidecovers Boxes&amp;Rails Right Side</Group>
+      <Image />
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>chs_r_r.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Chassi Sidecovers Boxes&amp;Rails Right Side</Group>
+      <Image />
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>vak_r_r.paint_box</Value>
+    </ListItem>    
+    <ListItem>
+      <Description />
+      <Group>Fenders A</Group>
+      <Image />
+      <Text>Painted Parlok Fenders</Text>
+      <Value>vak_fend_a.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders A</Group>
+      <Image />
+      <Text>Painted Parlok Fenders with Reflector</Text>
+      <Value>vak_fend_a.parlok_ref_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders B</Group>
+      <Image />
+      <Text>Painted Parlok Fenders</Text>
+      <Value>vak_fend_b.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders B</Group>
+      <Image />
+      <Text>Painted Parlok Fenders with Reflector</Text>
+      <Value>vak_fend_b.parlok_ref_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders C</Group>
+      <Image />
+      <Text>Painted Parlok Fenders</Text>
+      <Value>vak_fend_c.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders C</Group>
+      <Image />
+      <Text>Painted Parlok Fenders with Reflector</Text>
+      <Value>vak_fend_c.parlok_ref_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders D</Group>
+      <Image />
+      <Text>Painted Parlok Fenders</Text>
+      <Value>vak_fend_d.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders D</Group>
+      <Image />
+      <Text>Painted Parlok Fenders with Reflector</Text>
+      <Value>vak_fend_d.parlok_ref_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders E</Group>
+      <Image />
+      <Text>Painted Parlok Fenders</Text>
+      <Value>vak_fend_e.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fenders E</Group>
+      <Image />
+      <Text>Painted Parlok Fenders with Reflector</Text>
+      <Value>vak_fend_e.parlok_ref_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Multiple Variants.</Description>
+      <Group>Rear Bumper</Group>
+      <Image />
+      <Text>Painted Rear Bumpers</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Fueltank</Group>
+      <Image />
+      <Text>Painted Fueltank</Text>
+      <Value>fueltank.fueltank_p</Value>
+    </ListItem>    
+    <ListItem>
+      <Description />
+      <Group>License Plates</Group>
+      <Image />
+      <Text>Custom LP</Text>
+      <Value>custom_lp.custom_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>License Plates</Group>
+      <Image />
+      <Text>Custom LP</Text>
+      <Value>custom_lp.custom_lp2</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>License Plates</Group>
+      <Image />
+      <Text>Custom LP</Text>
+      <Value>custom_lp.custom_lp3</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>License Plates</Group>
+      <Image />
+      <Text>Custom LP</Text>
+      <Value>custom_lp.custom_lp4</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>License Plates</Group>
+      <Image />
+      <Text>Custom LP</Text>
+      <Value>custom_lp.custom_lp5</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Rear Mudflap</Group>
+      <Image />
+      <Text>Custom Painted Mudflap</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Sidecovers&amp;Rails Left Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>chs_f_l.pallet01p</Text>
+      <Value>chs_f_l.pallet01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Sidecovers&amp;Rails Left Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>chs_f_l.side01p</Text>
+      <Value>chs_f_l.side01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Sidecovers&amp;Rails Left Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>chs_f_l.side02p</Text>
+      <Value>chs_f_l.side02p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Sidecovers&amp;Rails Left Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>chs_f_l.side02sp</Text>
+      <Value>chs_f_l.side02sp</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Sidecovers&amp;Rails Left Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>chs_f_l.side02tp</Text>
+      <Value>chs_f_l.side02tp</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Sidecovers&amp;Rails Left Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>chs_f_l.side02tsp</Text>
+      <Value>chs_f_l.side02tsp</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Sidecovers&amp;Rails Right Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>chs_f_r.pallet01p</Text>
+      <Value>chs_f_r.pallet01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Sidecovers&amp;Rails Right Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>chs_f_r.side01p</Text>
+      <Value>chs_f_r.side01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Sidecovers&amp;Rails Right Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>chs_f_r.side02p</Text>
+      <Value>chs_f_r.side02p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Sidecovers&amp;Rails Right Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>chs_f_r.side02sp</Text>
+      <Value>chs_f_r.side02sp</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Sidecovers&amp;Rails Right Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>chs_f_r.side02tp</Text>
+      <Value>chs_f_r.side02tp</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Sidecovers&amp;Rails Right Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>chs_f_r.side02tsp</Text>
+      <Value>chs_f_r.side02tsp</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Sidecovers&amp;Rails Left Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>chs_r_l.pallet01p</Text>
+      <Value>chs_r_l.pallet01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Sidecovers&amp;Rails Left Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>chs_r_l.pallet01sp</Text>
+      <Value>chs_r_l.pallet01sp</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Sidecovers&amp;Rails Right Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>chs_r_r.lc_pallet01p</Text>
+      <Value>chs_r_r.lc_pallet01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Sidecovers&amp;Rails Right Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>chs_r_r.pallet01p</Text>
+      <Value>chs_r_r.pallet01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Sidecovers&amp;Rails Right Side</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>chs_r_r.pallet01sp</Text>
+      <Value>chs_r_r.pallet01sp</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Rear Bumpers</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>r_bumper.bumper01p</Text>
+      <Value>r_bumper.bumper01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Rear Bumpers</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>r_bumper.bumperd01p</Text>
+      <Value>r_bumper.bumperd01p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>V-Slider&amp;Krone ProfiLiner Nordic  Chassis</Group>
+      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\VAK\</Image>
+      <Text>chassis.chassis</Text>
+      <Value>chassis.chassis</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>
