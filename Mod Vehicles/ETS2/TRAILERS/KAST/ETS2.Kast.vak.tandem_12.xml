@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+   <!-- Created with v2025.02 Modversions 1.3(addon), 2.5.5(full trailers), 2.8.1 ETS2_v1.57 -->
+  <Game>ETS2</Game>
+  <InternalName>vak.tandem_12</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Kast</VehicleAuthor>
+  <VehicleName>KAST  VAK|Drawbar-Trailer r19.5 (4.4m-4.5m x 12.6m)</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.4_4_closed</InternalName>
+      <Name>VAK 4.4m, DRY</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.4_4_closed</InternalName>
+      <Name>VAK 4.4m, Reefer</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.4_4_box</InternalName>
+      <Name>VAK 4.4m, DRY</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.4_4_reefer</InternalName>
+      <Name>VAK 4.4m, Reefer</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.4_5_box</InternalName>
+      <Name>VAK 4.5m double deck, DRY</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.4_5_reefer</InternalName>
+      <Name>VAK 4.5m double deck, Reefer</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.body_dolly</InternalName>
+      <Name>Dolly (12.6m body)</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <DateUpdated>2025-12-27T00:00:00</DateUpdated>  
+  <AccessoryItems>
+    <ListItem>
+      <Group>Axles</Group>
+      <Text>Axles 2</Text>
+      <Value>axles.axles_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Axles</Group>
+      <Text>Axles 3</Text>
+      <Value>axles.axles_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Painted Chassiframe 2</Text>
+      <Value>frame.chassis_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Frame</Group>
+      <Text>Painted Chassiframe 3</Text>
+      <Value>frame.chassis_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Thermoking</Group>
+      <Text>ThermoKing HK430 Heater</Text>
+      <Value>f_body.hk_430_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Thermoking</Group>
+      <Text>ThermoKing HK430 Heater</Text>
+      <Value>f_body_2.hk_430_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Sidecovers Boxes&amp;Rails Left Side</Group>
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>vak_f_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Sidecovers Boxes&amp;Rails Left Side</Group>
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>chs_m_l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Sidecovers Boxes&amp;Rails Left Side</Group>
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>vak_r_l.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Sidecovers Boxes&amp;Rails Right Side</Group>
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>vak_f_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Sidecovers Boxes&amp;Rails Right Side</Group>
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>chs_m_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Sidecovers Boxes&amp;Rails Right Side</Group>
+      <Text>Painted Sidecovers&amp;Rails</Text>
+      <Value>vak_r_r.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>Painted Parlok Fenders F</Text>
+      <Value>vak_fend_f.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>Painted Parlok Fenders with Reflector F</Text>
+      <Value>vak_fend_f.parlok_ref_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>Painted Parlok Fenders G</Text>
+      <Value>vak_fend_g.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>Painted Parlok Fenders with Reflector G</Text>
+      <Value>vak_fend_g.parlok_ref_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>Painted Parlok Fenders H</Text>
+      <Value>vak_fend_h.parlok_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>Painted Parlok Fenders with Reflector H</Text>
+      <Value>vak_fend_h.parlok_ref_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Multiple Variants.</Description>
+      <Group>Rear Bumper</Group>
+      <Text>Painted Rear Bumpers</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fueltank</Group>
+      <Text>Painted Fueltank</Text>
+      <Value>fueltank.fueltank_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>License Plates</Group>
+      <Text>Custom LP</Text>
+      <Value>custom_lp.custom_lp2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>License Plates</Group>
+      <Text>Custom LP</Text>
+      <Value>custom_lp.custom_lp3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>License Plates</Group>
+      <Text>Custom LP</Text>
+      <Value>custom_lp.custom_lp4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Mudflap</Group>
+      <Text>Custom Painted Mudflap</Text>
+      <Value>r_mudflap.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>

@@ -31,31 +31,31 @@
     </Variant>
     <Variant>
       <AccessoryDependencies />
-      <Group>4.4 Meter Height Trailer</Group>
+      <Group>4.4 Meter Height VSlider Trailer</Group>
       <InternalName>body.4_4_curtain</InternalName>
       <Name>VAK 4.4m high, VSlider Curtainside</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
-      <Group>4.4 Meter Height Trailer</Group>
+      <Group>4.4 Meter Height VSlider Trailer</Group>
       <InternalName>body.4_4_reefer</InternalName>
       <Name>VAK 4.4m high, VSlider Reefer</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
-      <Group>4.4 Meter Height Trailer</Group>
+      <Group>4.4 Meter Height VSlider Trailer</Group>
       <InternalName>body.4_4_dry</InternalName>
       <Name>VAK 4.4m high, VSlider DRY</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
-      <Group>4.4 Meter Height Trailer</Group>
+      <Group>4.4 Meter Height VSlider Trailer</Group>
       <InternalName>body.4_4_reefer5s</InternalName>
       <Name>VAK 4.4m high, VSlider Reefer</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
-      <Group>4.4 Meter Height Trailer</Group>
+      <Group>4.4 Meter Height VSlider Trailer</Group>
       <InternalName>body.4_4_dry5s</InternalName>
       <Name>VAK 4.4m high, VSlider DRY</Name>
     </Variant>
