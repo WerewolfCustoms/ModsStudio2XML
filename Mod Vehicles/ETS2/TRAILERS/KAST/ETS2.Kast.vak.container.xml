@@ -6,7 +6,7 @@
   <Game>ETS2</Game>
   <InternalName>vak.container</InternalName>
   <SoundItems />
-  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleAuthor>Kast</VehicleAuthor>
   <VehicleName>KAST  VAK|Container Semi-Trailer</VehicleName>
   <VehicleType>Trailers</VehicleType>
   <VehicleVariants>
@@ -110,4 +110,5 @@
       <Value>r_mudflap.paint</Value>
     </ListItem>
   </AccessoryItems>
+
 </Variable>
