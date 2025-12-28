@@ -726,7 +726,28 @@
       <Text>Paint</Text>
       <Value>r_bumper.stock_p</Value>
     </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint w. Detector (Mid,Low)</Text>
+      <Value>f_fender.stock_p_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint&amp;Plastic w. Detector (High)</Text>
+      <Value>f_fender.hgh_blk_p_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint w. Detector (High)</Text>
+      <Value>f_fender.hgh_p_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint&amp;Plastic w. Detector (Mid,Low)</Text>
+      <Value>f_fender.stock_blk_ps</Value>
+    </ListItem>
   </AccessoryItems>
+  <FilePath>D:\Mods Studio 2 v.2025.02\Data\ModData\SCS\Vehicles\ETS2.scania.s_2016.xml</FilePath>
   <Game>ETS2</Game>
   <InternalName>scania.s_2016</InternalName>
   <SoundItems>
@@ -766,5 +787,5 @@
     </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>pete_agreatguy.MS2Crew</XmlDefinitionAuthor>
-  <DateUpdated>2025-11-10T00:00:00</DateUpdated>
+  <DateUpdated>2025-12-28T00:00:00</DateUpdated>
 </Variable>
