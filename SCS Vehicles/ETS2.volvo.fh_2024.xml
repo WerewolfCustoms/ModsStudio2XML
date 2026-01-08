@@ -188,6 +188,13 @@
     </ListItem>
 	<ListItem>
       <Description />
+      	<ListItem>
+      <Description />
+      <Group>Main Mirrors</Group>
+      <Image />
+      <Text>Chrome Luxury (Aero)</Text>
+      <Value>mirror.chrom_spec_a</Value>
+    </ListItem>
       <Group>Corner Deflectors</Group>
       <Image />
       <Text>Paint * DLC *</Text>
@@ -847,5 +854,3 @@
   </VehicleVariants>
   <XmlDefinitionAuthor>Taede, Danny Kay</XmlDefinitionAuthor>
 </Variable>
-
-
