@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>5a3358df-89fe-4607-83c3-21e5e31d0fac</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>4Motion Cinza</Text>
+      <Value>adesivo.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>4Motion Preto</Text>
+      <Value>adesivo.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Capo Fechado</Text>
+      <Value>capo.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sem Capo</Text>
+      <Value>capo.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Transporte</Text>
+      <Value>carga.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Transporte</Text>
+      <Value>carga.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Transporte</Text>
+      <Value>carga.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Transporte</Text>
+      <Value>carga.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Transporte</Text>
+      <Value>carga.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Transporte</Text>
+      <Value>carga.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Transporte</Text>
+      <Value>carga.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Engate Para Reboque</Text>
+      <Value>engate.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sem Engate</Text>
+      <Value>engate.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>estribo.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive</Text>
+      <Value>estribo.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>f_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Para Barro</Text>
+      <Value>parabarro.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Placa Mercosul Particular</Text>
+      <Value>placa.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>European German</Text>
+      <Value>placa.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>European German</Text>
+      <Value>placa.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>santo.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive</Text>
+      <Value>santo.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Volante Amarok</Text>
+      <Value>steering_w.shape1</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>amarokbeta</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Quality3DMods, Cristhian [Workshop Mod]</VehicleAuthor>
+  <VehicleName>Amarok 4Motion [Beta]</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>standard.amarokbeta.cabin</InternalName>
+      <Name>Cabine Dupla</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>MohSkinner</XmlDefinitionAuthor>
+</Variable>
