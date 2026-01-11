@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>ad2358c1-2361-4ee8-a6cd-8f29d8064d9d</Id>
   <IsEnabled>true</IsEnabled>
+  <Validators />
   <AccessoryItems>
     <ListItem>
       <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
@@ -386,48 +386,6 @@
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
-      <Group>Front Fender</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_fender.hgh_blk_p.jpg</Image>
-      <Text>Paint and Plastic (high)</Text>
-      <Value>f_fender.hgh_blk_p</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
-      <Group>Front Fender</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_fender.hgh_p.jpg</Image>
-      <Text>Paint (high)</Text>
-      <Value>f_fender.hgh_p</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
-      <Group>Front Fender</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_fender.hgh_sg_p.jpg</Image>
-      <Text>Paint and Grey Plastic (high) * DLC *</Text>
-      <Value>f_fender.hgh_sg_p</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
-      <Group>Front Fender</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_fender.stock_blk_p.jpg</Image>
-      <Text>Paint and Plastic (mid, low)</Text>
-      <Value>f_fender.stock_blk_p</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
-      <Group>Front Fender</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_fender.stock_p.jpg</Image>
-      <Text>Paint (mid, low)</Text>
-      <Value>f_fender.stock_p</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
-      <Group>Front Fender</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_fender.stock_sg_p.jpg</Image>
-      <Text>Paint and Grey Plastic (mid, low) * DLC *</Text>
-      <Value>f_fender.stock_sg_p</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
       <Group>Side skirts</Group>
       <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\sideskirt.4x2_p.jpg</Image>
       <Text>Paint 4x2</Text>
@@ -726,7 +684,70 @@
       <Text>Paint</Text>
       <Value>r_bumper.stock_p</Value>
     </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_fender.hgh_blk_p.jpg</Image>
+      <Text>Paint and Plastic (high)</Text>
+      <Value>f_fender.hgh_blk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_fender.hgh_p.jpg</Image>
+      <Text>Paint (high)</Text>
+      <Value>f_fender.hgh_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_fender.hgh_sg_p.jpg</Image>
+      <Text>Paint and Grey Plastic (high) * DLC *</Text>
+      <Value>f_fender.hgh_sg_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_fender.stock_blk_p.jpg</Image>
+      <Text>Paint and Plastic (mid, low)</Text>
+      <Value>f_fender.stock_blk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_fender.stock_p.jpg</Image>
+      <Text>Paint (mid, low)</Text>
+      <Value>f_fender.stock_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_fender.stock_sg_p.jpg</Image>
+      <Text>Paint and Grey Plastic (mid, low) * DLC *</Text>
+      <Value>f_fender.stock_sg_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint w. Detector (Mid,Low)</Text>
+      <Value>f_fender.stock_p_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint&amp;Plastic w. Detector (High)</Text>
+      <Value>f_fender.hgh_blk_p_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint w. Detector (High)</Text>
+      <Value>f_fender.hgh_p_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint&amp;Plastic w. Detector (Mid,Low)</Text>
+      <Value>f_fender.stock_blk_ps</Value>
+    </ListItem>
   </AccessoryItems>
+  <FilePath>D:\Mods Studio 2 v.2025.02\Data\ModData\SCS\Vehicles\ETS2.scania.r_2016.xml</FilePath>
   <Game>ETS2</Game>
   <InternalName>scania.r_2016</InternalName>
   <SoundItems>
@@ -747,20 +768,24 @@
   <VehicleType>NewTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSScania\r16normal.jpg</Image>
       <InternalName>normal.scania.r_2016.cabin</InternalName>
       <Name>Normal Roof</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSScania\r16high.jpg</Image>
       <InternalName>highline.scania.r_2016.cabin</InternalName>
       <Name>High Roof</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSScania\r16_8x4.jpg</Image>
       <InternalName>highline_8x4.scania.r_2016.cabin</InternalName>
       <Name>High Roof (8x4)</Name>
     </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>pete_agreatguy, MS2Crew</XmlDefinitionAuthor>
+  <DateUpdated>2026-01-12T00:00:00</DateUpdated>
 </Variable>
