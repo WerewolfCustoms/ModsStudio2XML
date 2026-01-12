@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <Game>ATS</Game>
+  <InternalName>rezworth.w900</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Crash Edits</VehicleAuthor>
+  <VehicleName>Kenworth|Rezworth W900</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>duty.rezworth.w900.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>exclusive.rezworth.w900.cabin</InternalName>
+      <Name>AeroCab Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standard.rezworth.w900.cabin</InternalName>
+      <Name>Studio Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standard_d.rezworth.w900.cabin</InternalName>
+      <Name>Flat Studio Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <DateUpdated>2026-01-12T00:00:00</DateUpdated>
+</Variable>

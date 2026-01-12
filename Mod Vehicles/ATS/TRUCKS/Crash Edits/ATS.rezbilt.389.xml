@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems />
+  <Game>ATS</Game>
+  <InternalName>rezbilt.389</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Crash Edits</VehicleAuthor>
+  <VehicleName>Peterbilt|Rezbilt 389</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>duty.rezbilt.389.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>exclusive.rezbilt.389.cabin</InternalName>
+      <Name>Ultra Cab Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>short_b.rezbilt.389.cabin</InternalName>
+      <Name>Low Roof Short Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>standard.rezbilt.389.cabin</InternalName>
+      <Name>Low Roof Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <DateUpdated>2026-01-12T00:00:00</DateUpdated>
+</Variable>
