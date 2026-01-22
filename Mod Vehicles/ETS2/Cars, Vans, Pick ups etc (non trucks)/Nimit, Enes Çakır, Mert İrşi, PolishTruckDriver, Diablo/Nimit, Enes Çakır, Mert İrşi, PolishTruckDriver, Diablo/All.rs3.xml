@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>ayna.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>camfilmi.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tinted</Text>
+      <Value>camfilmi.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black</Text>
+      <Value>difuzor.difuzor1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>difuzor.difuzor2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Smoke Effect 1</Text>
+      <Value>egzoz.egzoz1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Smoke Effect 2</Text>
+      <Value>egzoz.egzoz2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>farcamfilmi.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Tinted</Text>
+      <Value>farcamfilmi.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lip</Text>
+      <Value>lip.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>steering_w.standard</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>All</Game>
+  <InternalName>rs3</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Nimit, Berat Afşin, Mert İrşi, Metehan Bilal</VehicleAuthor>
+  <VehicleName>Audi RS3 Sportback</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>rs3_8p.rs3.cabin</InternalName>
+      <Name>2011 8P</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>MohSkinner</XmlDefinitionAuthor>
+  <DateUpdated>2026-01-21T00:00:00</DateUpdated>
+</Variable>
