@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Left Side Middle (78)</Group>
+      <Image />
+      <Text>Painted Box</Text>
+      <Value>chs_f_l.paint_box_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (136)</Group>
+      <Text>Pallet Box</Text>
+      <Value>chs_f_l.palletbox</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (136)</Group>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_l.p_box_cage</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (136)</Group>
+      <Text>Painted Box 2x</Text>
+      <Value>chs_f_l.p_box_doubl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (136)</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_f_l.sideskirt_01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (78)</Group>
+      <Text>Full Protection Sideskits (2 axles)</Text>
+      <Value>chs_f_l.sideskirt_03</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (78)</Group>
+      <Text>Full Protection Sideskirts (1 axle)</Text>
+      <Value>chs_f_l.sideskirt_1d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (78)</Group>
+      <Text>Full Protection Sideskirts (3 axles)</Text>
+      <Value>chs_f_l.sideskirt_2d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (78)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_f_r.paint_box_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (136)</Group>
+      <Text>Pallet Box</Text>
+      <Value>chs_f_r.palletbox</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (136)</Group>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_r.p_box_cage</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (136)</Group>
+      <Text>Painted Box 2x</Text>
+      <Value>chs_f_r.p_box_doubl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (136)</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_f_r.sideskirt_01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (78)</Group>
+      <Text>Full Protection Sideskirts (2 axles)</Text>
+      <Value>chs_f_r.sideskirt_03</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (78)</Group>
+      <Text>Full Protection Sideskirts (1 axle)</Text>
+      <Value>chs_f_r.sideskirt_1d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (78)</Group>
+      <Text>Full Protection Sideskirts (3 axles)</Text>
+      <Value>chs_f_r.sideskirt_2d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (136, 2 axles, Spread)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_m_l.paint_box_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (78, 2 axles, Spread)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_m_l.paint_box_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (136, 3 axles, Steerable, Spread, Rear)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_m_l.paint_box_m</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (136, 3 axles, Steerable, Spread, Rear)</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_m_l.sideskirt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (136, 2 axles, Spread)</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_m_l.sideskirt_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (78, 2 axles, Spread)</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_m_l.sideskirt_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (136, 2 axles, Spread)</Group>
+      <Text>Steps</Text>
+      <Value>chs_m_l.step</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (136, 3 axles, Steerable, Spread, Rear)</Group>
+      <Text>Steps</Text>
+      <Value>chs_m_l.step_3ax</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (136, 2 axles, Spread)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_m_r.paint_box_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (78, 2 axles, Spread)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_m_r.paint_box_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (136, 3 axles, Steerable, Spread, Rear)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_m_r.paint_box_m</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (136, 3 axles, Steerable, Spread, Rear)</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_m_r.sideskirt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (136, 2 axles, Spread)</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_m_r.sideskirt_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (78, 2 axles, Spread)</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_m_r.sideskirt_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (136, 2 axles, Spread)</Group>
+      <Text>Steps</Text>
+      <Value>chs_m_r.step</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (136, 3 axles, Steerable, Spread, Rear)</Group>
+      <Text>Steps</Text>
+      <Value>chs_m_r.step_3ax</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Rear (136)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Rear (78)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.paint_box_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Rear (136)</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_r_l.sideskirt_01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Rear (78)</Group>
+      <Text>Full Protection Sideskirts (3 axles)</Text>
+      <Value>chs_r_l.sideskirt_02</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Rear (136)</Group>
+      <Text>Steps</Text>
+      <Value>chs_r_l.step</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Rear (136)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Rear (78)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.paint_box_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Rear (136)</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_r_r.sideskirt_01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Rear (78)</Group>
+      <Text>Full Protection Sideskirts (3 axles)</Text>
+      <Value>chs_r_r.sideskirt_02</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Rear (136)</Group>
+      <Text>Steps</Text>
+      <Value>chs_r_r.step</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>Bumper Exclusive (136)</Text>
+      <Value>r_bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>Bumper Exclusive (Double)</Text>
+      <Value>r_bumper.paint_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>Bumper Exclusive (Dolly)</Text>
+      <Value>r_bumper.paint_dolly</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>scs.flatbed</InternalName>
+  <SoundItems />
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>SCS|Flatbed</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.brick</InternalName>
+      <Name>Drop Side (136)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.brick_78</InternalName>
+      <Name>Drop Side (78)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.brick_c</InternalName>
+      <Name>Drop Side with Crane (136)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.flatbed</InternalName>
+      <Name>Wooden Floor Flatbed (136)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.flatbed_1</InternalName>
+      <Name>Steel Floor Flatbed (136)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.flatbed_1_78</InternalName>
+      <Name>Steel Floor Flatbed (78)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.flatbed_78</InternalName>
+      <Name>Wooden Floor Flatbed (78)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.flatbed_c</InternalName>
+      <Name>Floor with Container Pins (136)</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.flatbed_c_78</InternalName>
+      <Name>Floor with Container Pins (78)</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>The Janitor</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
+</Variable>
