@@ -1,9 +1,39 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>089e258d-5573-4383-b3ef-659e34ec448b</Id>
   <IsEnabled>true</IsEnabled>
+  <Validators />
   <AccessoryItems>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>Front Left Mirror</Text>
+      <Value>fl_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>Front Right Mirror</Text>
+      <Value>fr_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>Main Mirrors</Text>
+      <Value>mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>Main Mirrors MACK DOG</Text>
+      <Value>mirror.paint_dog</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>Paint &amp; Chrome Side Mirror</Text>
+      <Value>s_mirror.paint01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>Paint Side Mirror</Text>
+      <Value>s_mirror.paint02</Value>
+    </ListItem>  
     <ListItem>
       <Description>See screenshot for location.</Description>
       <Group>Cab deflectors</Group>
@@ -45,6 +75,31 @@
       <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackAnthem\cabdefl.s70_rcap_ext.jpg</Image>
       <Text>Exclusive Roof Cab (S70 Cab)</Text>
       <Value>cabdefl.s70_rcap_ext</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cabin Sides</Group>
+      <Text>Paint Ventilation Sleeper 48"</Text>
+      <Value>slp_vent.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Wing</Group>
+      <Text>Paint DayCab</Text>
+      <Value>wing.day_std</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Wing</Group>
+      <Text>Paint&amp;Chrome DayCab</Text>
+      <Value>wing.day_chrom</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Wing</Group>
+      <Text>Paint Sleeper 48"</Text>
+      <Value>wing.s48_std</Value>
+    </ListItem>    
+    <ListItem>
+      <Group>Wing</Group>
+      <Text>Paint&amp;Chrome Sleeper 48"</Text>
+      <Value>wing.s48_chrom</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
@@ -299,8 +354,13 @@
       <Value>sideskirt.lng142d_ps</Value>
     </ListItem>
     <ListItem>
-      <Group>Aero Mudflaps Painted</Group>
-      <Text>Aero painted mudflaps</Text>
+      <Group>Mudguard</Group>
+      <Text>Painted Mudguard</Text>
+      <Value>mudguard.paint</Value>
+    </ListItem>    
+    <ListItem>
+      <Group>Mudflaps (Aero)</Group>
+      <Text>FlowBelow Paint</Text>
       <Value>mudflaps.aero_pnt</Value>
     </ListItem>
   </AccessoryItems>
@@ -319,22 +379,24 @@
   <VehicleType>NewTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMkAnthem\anthem_dc.jpg</Image>
       <InternalName>day.mack.anthem.cabin</InternalName>
       <Name>Day Cab</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMkAnthem\anthem_48.jpg</Image>
       <InternalName>s48.mack.anthem.cabin</InternalName>
-      <Name>48 Sleeper</Name>
+      <Name>48" Sleeper</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMkAnthem\anthem_70.jpg</Image>
       <InternalName>s70.mack.anthem.cabin</InternalName>
-      <Name>70 Sleeper</Name>
+      <Name>70" Sleeper</Name>
     </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>Lucasi and pete_agreatguy</XmlDefinitionAuthor>
-
+  <DateUpdated>2026-02-17T00:00:00</DateUpdated>
 </Variable>
-
