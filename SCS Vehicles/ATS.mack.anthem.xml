@@ -299,7 +299,6 @@
       <Value>sideskirt.lng142d_ps</Value>
     </ListItem>
     <ListItem>
-      <Description>See screenshot for location.</Description>
       <Group>Aero Mudflaps Painted</Group>
       <Text>Aero painted mudflaps</Text>
       <Value>mudflaps.aero_pnt</Value>
@@ -338,3 +337,4 @@
   <XmlDefinitionAuthor>Lucasi and pete_agreatguy</XmlDefinitionAuthor>
 
 </Variable>
+
