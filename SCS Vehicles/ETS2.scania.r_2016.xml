@@ -5,6 +5,26 @@
   <Validators />
   <AccessoryItems>
     <ListItem>
+      <Group>Roof Lights (front top)</Group>
+      <Text>Paint Modern (Normal Cab)</Text>
+      <Value>f_light_top.mod_nrm_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Lights (front top)</Group>
+      <Text>Paint Modern V8 (Normal Cab)</Text>
+      <Value>f_light_top.mod_nrm_v8p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Lights (front top)</Group>
+      <Text>Paint Modern (Highline Cab)</Text>
+      <Value>f_light_top.mod_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Lights (front top)</Group>
+      <Text>Paint Modern V8 (Highline Cab)</Text>
+      <Value>f_light_top.mod_v8_pnt</Value>
+    </ListItem>
+    <ListItem>
       <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
       <Group>Roof Lights (front top)</Group>
       <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_light_top.nrm_covered.jpg</Image>
@@ -124,6 +144,11 @@
       <Value>f_wnd_frame.painted</Value>
     </ListItem>
     <ListItem>
+      <Group>Additional Lights (front middle)</Group>
+      <Text>Paint, No Lights</Text>
+      <Value>f_light_mid.intake</Value>
+    </ListItem>
+    <ListItem>
       <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
       <Group>Additional Lights (front middle)</Group>
       <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_light_mid.painted.jpg</Image>
@@ -140,31 +165,31 @@
     <ListItem>
       <Description>V8 Classic Badge Cabinsides</Description>
       <Group>Badges</Group>
-      <Text>V8 Classic Cabinsides</Text>
+      <Text>V8 Classic Cabinsides * DLC *</Text>
       <Value>s_badge.v8</Value>
     </ListItem>
     <ListItem>
       <Description>SUPER Badge Cabinsides</Description>
       <Group>Badges</Group>
-      <Text>SUPER Badge Cabinsides</Text>
+      <Text>SUPER Badge Cabinsides * DLC *</Text>
       <Value>c_badge.super</Value>
     </ListItem>
     <ListItem>
       <Description>SUPER Logo Front R-Series ONLY</Description>
       <Group>Badges</Group>
-      <Text>SUPER Logo Front Grill LOW</Text>
+      <Text>SUPER Logo Front Grill LOW * DLC *</Text>
       <Value>f_equip.super_lo_pnt</Value>
     </ListItem>
     <ListItem>
       <Description>SUPER Logo Front R&amp;S-Series BOTH</Description>
       <Group>Badges</Group>
-      <Text>SUPER Logo Front Grill MID</Text>
+      <Text>SUPER Logo Front Grill MID * DLC *</Text>
       <Value>f_equip.super_md_pnt</Value>
     </ListItem>
     <ListItem>
       <Description>SUPER Logo Front S-Series ONLY</Description>
       <Group>Badges</Group>
-      <Text>SUPER Logo Front Grill HIGH</Text>
+      <Text>SUPER Logo Front Grill HIGH * DLC *</Text>
       <Value>f_equip.super_hi_pnt</Value>
     </ListItem>
     <ListItem>
@@ -194,6 +219,13 @@
       <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_inlay_cab.painted.jpg</Image>
       <Text>Paint * DLC *</Text>
       <Value>f_inlay_cab.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Description>\nWARNING: This accessory overrides Front Grille (Chassis).\n\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Grille (Cabin)</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_inlay_cab.painted.jpg</Image>
+      <Text>Paint SUPER * DLC *</Text>
+      <Value>f_inlay_cab.painted_supr</Value>
     </ListItem>
     <ListItem>
       <Description>\nWARNING: This accessory is overriden by Front Grille (Cabin).\n\nScania S shown but this is the same for the R variant</Description>
@@ -231,32 +263,46 @@
       <Value>f_light_chs.shape1_p</Value>
     </ListItem>
     <ListItem>
-      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Description>No Lights, Covered</Description>
       <Group>Front Bumper</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_bumper.hgh_p.jpg</Image>
-      <Text>High Paint, inc. Lights</Text>
-      <Value>f_bumper.hgh_p</Value>
+      <Text>Paint, No Lights</Text>
+      <Value>f_light_bmp.covered_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Paint Low Bumper 40mm</Text>
+      <Value>f_bumper.low_40mm_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Paint 40mm</Text>
+      <Value>f_bumper.mid_40mm_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Paint High Bumper 40mm</Text>
+      <Value>f_bumper.hgh_40mm_p</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
       <Group>Front Bumper</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_bumper.hgh_p_nofog.jpg</Image>
-      <Text>High Paint, No Lights</Text>
-      <Value>f_bumper.hgh_p_nofog</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
-      <Group>Front Bumper</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_bumper.mid_p.jpg</Image>
-      <Text>Paint, inc. Lights</Text>
-      <Value>f_bumper.mid_p</Value>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_bumper.low_p_nofog.jpg</Image>
+      <Text>Low Paint, No Lights</Text>
+      <Value>f_bumper.low_nofog</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
       <Group>Front Bumper</Group>
       <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_bumper.mid_p_nofog.jpg</Image>
       <Text>Paint, No Lights</Text>
-      <Value>f_bumper.mid_p_nofog</Value>
+      <Value>f_bumper.mid_nofog</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_bumper.hgh_p_nofog.jpg</Image>
+      <Text>High Paint, No Lights</Text>
+      <Value>f_bumper.hgh_nofog</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
@@ -268,9 +314,52 @@
     <ListItem>
       <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
       <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_bumper.mid_p.jpg</Image>
+      <Text>Paint, inc. Lights</Text>
+      <Value>f_bumper.mid_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_bumper.hgh_p.jpg</Image>
+      <Text>High Paint, inc. Lights</Text>
+      <Value>f_bumper.hgh_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Bumper</Group>
       <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_bumper.low_p_nofog.jpg</Image>
-      <Text>Low Paint, No Lights</Text>
+      <Text>Low Paint, No Lights (Obsolete)</Text>
       <Value>f_bumper.low_p_nofog</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_bumper.mid_p_nofog.jpg</Image>
+      <Text>Paint, No Lights (Obsolete)</Text>
+      <Value>f_bumper.mid_p_nofog</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
+      <Group>Front Bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ETS2\ScaniaNGrs\f_bumper.hgh_p_nofog.jpg</Image>
+      <Text>High Paint, No Lights (Obsolete)</Text>
+      <Value>f_bumper.hgh_p_nofog</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint II w. Detector (High)</Text>
+      <Value>f_fender.hgh_p_s2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint II w. Detector (Mid,Low)</Text>
+      <Value>f_fender.stock_p_s2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint, Chassi</Text>
+      <Value>f_fendr_chs.pnt</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
@@ -710,6 +799,26 @@
       <Group>Rear Fender Top</Group>
       <Text>8x Paint </Text>
       <Value>r_fendr_top.8x4_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender Top LOW</Group>
+      <Text>4x Paint Low</Text>
+      <Value>r_fendr_top.low_4x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender Top LOW</Group>
+      <Text>6x Paint Long Low</Text>
+      <Value>r_fendr_top.low_6x2l_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender Top LOW</Group>
+      <Text>6x Paint Low</Text>
+      <Value>r_fendr_top.low_6x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender Top LOW</Group>
+      <Text>8x Paint Low</Text>
+      <Value>r_fendr_top.low_8x4_p</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.\nScania S shown but this is the same for the R variant</Description>
