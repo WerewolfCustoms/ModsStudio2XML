@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>a301f12d-2d20-4ef1-abf2-387f7e8e131f</Id>
   <IsEnabled>true</IsEnabled>
+  <Validators />
   <AccessoryItems>
     <ListItem>
       <Description>See screenshot for location.</Description>
@@ -17,6 +17,41 @@
       <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\MackPinnacle\cabdefl.s70_rcap_ext.jpg</Image>
       <Text>Roof Cap 70 Exclusive</Text>
       <Value>cabdefl.s70_rcap_ext</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Standard Sunshield Lights</Text>
+      <Value>sunshield.s70_pnt_std</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Chrome Sunshield Lights</Text>
+      <Value>sunshield.s70_pnt_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Standard Sunshield</Text>
+      <Value>sunshield.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Cabin Sides</Group>
+      <Text>Paint Ventilation Sleeper 48"</Text>
+      <Value>slp_vent.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>Paint &amp; Chrome Side Mirror</Text>
+      <Value>s_mirror.paint01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>Main Mirrors</Text>
+      <Value>mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudguard</Group>
+      <Text>Painted Mudguard</Text>
+      <Value>mudguard.paint</Value>
     </ListItem>
   </AccessoryItems>
   <Game>ATS</Game>
@@ -34,20 +69,24 @@
   <VehicleType>NewTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMkPinnacle\pinnacle_dc.jpg</Image>
       <InternalName>day.mack.pinnacle.cabin</InternalName>
       <Name>Day Cab</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMkPinnacle\pinnacle_48.jpg</Image>
       <InternalName>s48.mack.pinnacle.cabin</InternalName>
       <Name>48 Sleeper</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSMkPinnacle\pinnacle_70.jpg</Image>
       <InternalName>s70.mack.pinnacle.cabin</InternalName>
       <Name>70 Sleeper</Name>
     </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>Lucasi &amp; Taede</XmlDefinitionAuthor>
+  <DateUpdated>2026-02-17T00:00:00</DateUpdated>
 </Variable>
