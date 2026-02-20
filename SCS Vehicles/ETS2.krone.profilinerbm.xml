@@ -1,44 +1,23 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>0c176e62-961b-4efb-b86e-77ec69459348</Id>
   <IsEnabled>true</IsEnabled>
+  <Validators />
   <AccessoryItems>
     <ListItem>
       <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
       <Group>Chassis Krone DLC</Group>
-      <Image></Image>
-      <Text>Painted Chassi 40ft Container</Text>
-      <Value>chassis.chassis_40</Value>
+      <Image />
+      <Text>Painted Chassi City Trailer</Text>
+      <Value>chassis.ch_3_13ct</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
       <Group>Chassis Krone DLC</Group>
-      <Image></Image>
-      <Text>Painted Chassi 2x20ft Containers</Text>
-      <Value>chassis.chassis_220</Value>
-    </ListItem>			
-    <ListItem>
-      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
-      <Group>Chassis Krone DLC</Group>
-      <Image></Image>
+      <Image />
       <Text>Painted Chassi 13.6m Trailers</Text>
       <Value>chassis.chassis</Value>
     </ListItem>
-    <ListItem>
-      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
-      <Group>Chassis Krone DLC</Group>
-      <Image></Image>
-      <Text>Painted Chassi Double Small Trailer</Text>
-      <Value>chassis.chassis_d</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location. Use a 4x4 pixel coloured square.</Description>
-      <Group>Chassis Krone DLC</Group>
-      <Image></Image>
-      <Text>Painted Chassi LoadCarrier</Text>
-      <Value>chassis.loadcarrier</Value>
-    </ListItem>	    
     <ListItem>
       <Description>See screenshot for location.</Description>
       <Group>Left Side middle</Group>
@@ -158,26 +137,27 @@
       <Text>Rear Bumper Paint II</Text>
       <Value>r_bumper.bumper02p</Value>
     </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.</Description>
-      <Group>Body Chassis</Group>
-      <Image>Data\ModData\SCS\Vehicles\Images\Trailers\ETS2\KroneBD\chassis.jpg</Image>
-      <Text>Chassis</Text>
-      <Value>chassis.chassis</Value>
-    </ListItem>
   </AccessoryItems>
   <Game>ETS2</Game>
   <InternalName>krone.profilinerbm</InternalName>
+  <SoundItems />
   <VehicleAuthor>SCS Software</VehicleAuthor>
   <VehicleImage>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Krone\build.jpg</VehicleImage>
-  <VehicleName>Krone|Profi Liner Building</VehicleName>
+  <VehicleName>DLC Krone|Profi Liner Building</VehicleName>
   <VehicleType>Trailers</VehicleType>
   <VehicleVariants>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Krone\build.jpg</Image>
       <InternalName>body.building</InternalName>
       <Name>Profi Liner Building</Name>
     </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.build_75</InternalName>
+      <Name>Profi Liner Building 75</Name>
+    </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+  <DateUpdated>2026-02-20T00:00:00</DateUpdated>
 </Variable>
