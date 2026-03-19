@@ -1,0 +1,3806 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Text />
+      <Value>badge.cummins</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>badge.generic</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>badge.none</Value>
+    </ListItem>
+    <ListItem>
+      <Text />
+      <Value>badge.paccar</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Double Radiant Chrome</Text>
+      <Value>beacon.aero_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome mount</Text>
+      <Value>beacon.daylow_mnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Double Radiant Chrome</Text>
+      <Value>beacon.day_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Factory</Text>
+      <Value>bumper.shape_c5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Factory</Text>
+      <Value>bumper.std_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Factory</Text>
+      <Value>bumper.std_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Push bar alum</Text>
+      <Value>bumper.stnd01a_c5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Push bar alum</Text>
+      <Value>bumper.stnd01a_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Push bar alum</Text>
+      <Value>bumper.stnd01a_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard 01</Text>
+      <Value>bumper.stnd01_c5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard 01</Text>
+      <Value>bumper.stnd01_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard 01</Text>
+      <Value>bumper.stnd01_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard 02</Text>
+      <Value>bumper.stnd02_c5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard 02</Text>
+      <Value>bumper.stnd02_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard 02</Text>
+      <Value>bumper.stnd02_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard 03</Text>
+      <Value>bumper.stnd03_c5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard 03</Text>
+      <Value>bumper.stnd03_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard 03</Text>
+      <Value>bumper.stnd03_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch B</Text>
+      <Value>bumper.winch_b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch BH</Text>
+      <Value>bumper.winch_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch Pnt</Text>
+      <Value>bumper.winch_bhp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch Pnt</Text>
+      <Value>bumper.winch_bp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch HH</Text>
+      <Value>bumper.winch_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch Pnt</Text>
+      <Value>bumper.winch_hhp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch SBH</Text>
+      <Value>bumper.winch_sbh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch Pnt</Text>
+      <Value>bumper.winch_sbhp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch B</Text>
+      <Value>bumper.winch_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch Pnt</Text>
+      <Value>bumper.winch_thhp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch B</Text>
+      <Value>bumper.winch_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch Pnt</Text>
+      <Value>bumper.winch_twhp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrom@@</Text>
+      <Value>bunk_handle.s72_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@classic@@</Text>
+      <Value>bunk_handle.s72_classic</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>bunk_handle.s72_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>bunk_handle.s72_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roof Deflector</Text>
+      <Value>cabdefl.s72_std</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Roof Deflector</Text>
+      <Value>cabdefl.s86_std</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Whale Tail, Chromed</Text>
+      <Value>cabdefl.whale</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Whale Tail, Painted</Text>
+      <Value>cabdefl.whale_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Turbo Wing, Chromed</Text>
+      <Value>cabdefl.wing</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Turbo Wing, Painted</Text>
+      <Value>cabdefl.wing_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Adapter</Text>
+      <Value>cabflares.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Adapter</Text>
+      <Value>cabflares.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Adapter</Text>
+      <Value>cabflares.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Adapter</Text>
+      <Value>cabflares.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Adapter</Text>
+      <Value>cabflares.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Adapter</Text>
+      <Value>cabflares.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Adapter</Text>
+      <Value>cabflares.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>RedDOT Unity</Text>
+      <Value>cab_ac.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>RedDOT Unity</Text>
+      <Value>cab_ac.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@safety_window@@</Text>
+      <Value>cab_door.win_dia_blk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@safety_window@@</Text>
+      <Value>cab_door.win_dia_blue</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@safety_window@@</Text>
+      <Value>cab_door.win_dia_brdx</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@safety_window@@</Text>
+      <Value>cab_door.win_dia_gr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@safety_window@@</Text>
+      <Value>cab_door.win_spl_blue</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@safety_window@@</Text>
+      <Value>cab_door.win_spl_brdx</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@safety_window@@</Text>
+      <Value>cab_door.win_spl_gr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@duty@@</Text>
+      <Value>carpet.rubber</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Heavy Duty</Text>
+      <Value>carpet.rub_duty</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Standard</Text>
+      <Value>carpet.rub_logo</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Basic</Text>
+      <Value>carpet.rub_logo_bw</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Premium</Text>
+      <Value>carpet.rub_pre</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chain Rack@@</Text>
+      <Value>chain_rack.rack_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chain Rack@@</Text>
+      <Value>chain_rack.rack_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chain Rack@@</Text>
+      <Value>chain_rack.rack_03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>codrv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@ (Lightbox)</Text>
+      <Value>codrv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@ (Yellow)</Text>
+      <Value>codrv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plate &amp; Telepass Devices (Yellow)</Text>
+      <Value>codrv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plate &amp; Telepass Devices - 2 (Yellow)</Text>
+      <Value>codrv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plate &amp; Telepass Devices</Text>
+      <Value>codrv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Plate &amp; Telepass Devices - 2</Text>
+      <Value>codrv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Telepass Devices - 1</Text>
+      <Value>codrv_plate.tp1tr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Telepass Devices - 2</Text>
+      <Value>codrv_plate.tp2tr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Telepass Devices - 3</Text>
+      <Value>codrv_plate.tp3tr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Emoji Pillow (Customizable)</Text>
+      <Value>codrv_plate.yastik</Value>
+    </ListItem>
+    <ListItem>
+      <Text>100th Anniversary</Text>
+      <Value>codrv_seat.100y</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cloth Black</Text>
+      <Value>codrv_seat.cloth_blk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cloth Blue</Text>
+      <Value>codrv_seat.cloth_blue</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cloth Bordeaux Red</Text>
+      <Value>codrv_seat.cloth_brdx</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cloth Gray</Text>
+      <Value>codrv_seat.cloth_gr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Leather Black</Text>
+      <Value>codrv_seat.leather_blk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Leather Blue</Text>
+      <Value>codrv_seat.leather_blue</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Leather Bordeaux Red</Text>
+      <Value>codrv_seat.leather_brdx</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Leather Gray</Text>
+      <Value>codrv_seat.leather_gr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Leather Gray</Text>
+      <Value>codrv_seat.lth_gray_i</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modura Black</Text>
+      <Value>codrv_seat.modura_blk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modura Blue</Text>
+      <Value>codrv_seat.modura_blue</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modura Bordeaux Red</Text>
+      <Value>codrv_seat.modura_brdx</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modura Gray</Text>
+      <Value>codrv_seat.modura_gr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>100th Anniversary</Text>
+      <Value>codrv_seat.s86_100y</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cloth Black</Text>
+      <Value>codrv_seat.s86_clt_blk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cloth Blue</Text>
+      <Value>codrv_seat.s86_clt_blue</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cloth Bordeaux Red</Text>
+      <Value>codrv_seat.s86_clt_brdx</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cloth Gray</Text>
+      <Value>codrv_seat.s86_clt_gr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Icon 900</Text>
+      <Value>codrv_seat.icon900</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Leather Black</Text>
+      <Value>codrv_seat.s86_lth_blk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Leather Blue</Text>
+      <Value>codrv_seat.s86_lth_blue</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Leather Bordeaux Red</Text>
+      <Value>codrv_seat.s86_lth_brdx</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Leather Gray</Text>
+      <Value>codrv_seat.s86_lth_gr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Leather Gray</Text>
+      <Value>codrv_seat.s86_lth_gr_i</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modura Black</Text>
+      <Value>codrv_seat.s86_mdr_blk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modura Blue</Text>
+      <Value>codrv_seat.s86_mdr_blue</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modura Bordeaux Red</Text>
+      <Value>codrv_seat.s86_mdr_brdx</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modura Gray</Text>
+      <Value>codrv_seat.s86_mdr_gr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Curtain</Text>
+      <Value>curtain.aero_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Curtain</Text>
+      <Value>curtain.day_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Clear</Text>
+      <Value>deflector.aero_clear</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Clear</Text>
+      <Value>deflector.aero_c_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Clear</Text>
+      <Value>deflector.aero_c_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Elegant</Text>
+      <Value>deflector.aero_elegant</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Elegant</Text>
+      <Value>deflector.aero_e_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Elegant</Text>
+      <Value>deflector.aero_e_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Smoke</Text>
+      <Value>deflector.aero_smoke</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Smoke</Text>
+      <Value>deflector.aero_s_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Smoke</Text>
+      <Value>deflector.aero_s_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Moustache Black</Text>
+      <Value>deflector.black_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Moustache Black</Text>
+      <Value>deflector.black_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Moustache Black</Text>
+      <Value>deflector.black_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Clear</Text>
+      <Value>deflector.clear_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Clear</Text>
+      <Value>deflector.clear_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Clear</Text>
+      <Value>deflector.clear_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Elegant</Text>
+      <Value>deflector.el_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Elegant</Text>
+      <Value>deflector.el_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Elegant</Text>
+      <Value>deflector.el_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal</Text>
+      <Value>deflector.metal_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal</Text>
+      <Value>deflector.metal_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal</Text>
+      <Value>deflector.metal_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Moustache Black</Text>
+      <Value>deflector.moust_blk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Moustache Black</Text>
+      <Value>deflector.mou_blk_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Moustache Black</Text>
+      <Value>deflector.mou_blk_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal</Text>
+      <Value>deflector.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal</Text>
+      <Value>deflector.shape01_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Metal</Text>
+      <Value>deflector.shape01_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Smoke</Text>
+      <Value>deflector.smoke_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Smoke</Text>
+      <Value>deflector.smoke_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aero Smoke</Text>
+      <Value>deflector.smoke_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrom@@</Text>
+      <Value>doorhndl.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@classic@@</Text>
+      <Value>doorhndl.classic</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@classic 2@@</Text>
+      <Value>doorhndl.classic_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@classic@@, @@paint@@</Text>
+      <Value>doorhndl.classic_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>doorhndl.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>doorhndl.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@alu@@, @@basic@@</Text>
+      <Value>doorstep.alu_180b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrom2@@, @@basic@@</Text>
+      <Value>doorstep.chr2_180b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrom@@, @@basic@@</Text>
+      <Value>doorstep.chr_180b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@ II, @@basic@@</Text>
+      <Value>doorstep.pnt2_180b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@, @@basic@@</Text>
+      <Value>doorstep.pnt_180b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Storm II, Basic</Text>
+      <Value>doorstep.str2_180b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Storm, Basic</Text>
+      <Value>doorstep.str_180b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blaze</Text>
+      <Value>doortrim.blaze</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Handle Trim</Text>
+      <Value>doortrim.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Trim</Text>
+      <Value>doortrim.chrome2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Window Frame</Text>
+      <Value>doortrim.winframe</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Window Trim</Text>
+      <Value>doortrim.wintrim</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>dove_tail.ramp_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>dove_tail.ramp_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>GPS Projector</Text>
+      <Value>drv_plate.gps</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@</Text>
+      <Value>drv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@ (Lightbox)</Text>
+      <Value>drv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plate_std@@ (Yellow)</Text>
+      <Value>drv_plate.plate</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Telepass Devices - 1</Text>
+      <Value>drv_plate.tp1tr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Telepass Devices - 2</Text>
+      <Value>drv_plate.tp2tr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Telepass Devices - 3</Text>
+      <Value>drv_plate.tp3tr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stock</Text>
+      <Value>exhaust.aero_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Old Style</Text>
+      <Value>exhaust.classic_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>New Style</Text>
+      <Value>exhaust.new_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Low</Text>
+      <Value>filters.low</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Low, @@paint@@</Text>
+      <Value>filters.low_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Basic Air Filters</Text>
+      <Value>filters.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Basic Filters paint</Text>
+      <Value>filters.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Short</Text>
+      <Value>filter_cover.short</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>filter_cover.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@oversize_load@@</Text>
+      <Value>f_banner.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@oversize_load@@</Text>
+      <Value>f_banner.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@oversize_load@@</Text>
+      <Value>f_banner.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@oversize_load@@</Text>
+      <Value>f_banner.shape04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@oversize_load@@</Text>
+      <Value>f_banner.shape05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@oversize_load@@</Text>
+      <Value>f_banner.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@oversize_load@@</Text>
+      <Value>f_banner.shape07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrom@@</Text>
+      <Value>f_cab_trim.day_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrom_modern@@</Text>
+      <Value>f_cab_trim.day_fullchr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>f_cab_trim.day_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>f_cab_trim.day_rub</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrom@@</Text>
+      <Value>f_cab_trim.s72_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrom_modern@@</Text>
+      <Value>f_cab_trim.s72_fullchr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>f_cab_trim.s72_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>f_cab_trim.s72_rub</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plastic@@, @@extended@@</Text>
+      <Value>f_fender.pla_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plastic@@, @@extended@@</Text>
+      <Value>f_fender.pla_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@plastic@@, @@extended@@</Text>
+      <Value>f_fender.pla_t</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Halo Black</Text>
+      <Value>f_light_chs.halo_blk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Halo Black</Text>
+      <Value>f_light_chs.halo_blk_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Halo Chrome</Text>
+      <Value>f_light_chs.halo_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Halo Chrome</Text>
+      <Value>f_light_chs.halo_chr_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Halo Black</Text>
+      <Value>f_light_chs.hl_blk_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Halo Black</Text>
+      <Value>f_light_chs.hl_blk_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Halo Chrome</Text>
+      <Value>f_light_chs.hl_chr_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Halo Chrome</Text>
+      <Value>f_light_chs.hl_chr_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive LED Black</Text>
+      <Value>f_light_chs.ld_blk_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive LED Black</Text>
+      <Value>f_light_chs.ld_blk_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive LED Chrome</Text>
+      <Value>f_light_chs.ld_chr_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive LED Chrome</Text>
+      <Value>f_light_chs.ld_chr_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Simple</Text>
+      <Value>f_light_chs.ld_spl_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Simple</Text>
+      <Value>f_light_chs.ld_spl_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive LED Black</Text>
+      <Value>f_light_chs.led_blk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive LED Black</Text>
+      <Value>f_light_chs.led_blk_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive LED Chrome</Text>
+      <Value>f_light_chs.led_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive LED Chrome</Text>
+      <Value>f_light_chs.led_chr_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Simple</Text>
+      <Value>f_light_chs.led_simple</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED Simple</Text>
+      <Value>f_light_chs.simple_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>f_light_chs.stk_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>f_light_chs.stk_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Trim</Text>
+      <Value>f_light_chs.stk_t_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Trim</Text>
+      <Value>f_light_chs.stk_t_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>f_light_chs.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>f_light_chs.stock_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>f_light_chs.stock_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Trim</Text>
+      <Value>f_light_chs.stock_trim</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>f_light_chs.stock_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Trim</Text>
+      <Value>f_light_chs.trim_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black Longhorn, @@chrom@@</Text>
+      <Value>f_logo.bull_black</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blue Longhorn, @@chrom@@</Text>
+      <Value>f_logo.bull_blue</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Longhorn, @@chrom@@</Text>
+      <Value>f_logo.bull_red</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black Longhorn, @@chrom@@</Text>
+      <Value>f_logo.b_blk_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black Longhorn, @@chrom@@</Text>
+      <Value>f_logo.b_blk_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blue Longhorn, @@chrom@@</Text>
+      <Value>f_logo.b_bl_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blue Longhorn, @@chrom@@</Text>
+      <Value>f_logo.b_bl_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blue Longhorn, @@chrom@@</Text>
+      <Value>f_logo.b_bl_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blue Longhorn, @@chrom@@</Text>
+      <Value>f_logo.b_bl_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blue Longhorn, @@chrom@@</Text>
+      <Value>f_logo.b_bl_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black Longhorn, @@chrom@@</Text>
+      <Value>f_logo.b_b_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black Longhorn, @@chrom@@</Text>
+      <Value>f_logo.b_b_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black Longhorn, @@chrom@@</Text>
+      <Value>f_logo.b_b_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Longhorn, @@chrom@@</Text>
+      <Value>f_logo.b_r_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Longhorn, @@chrom@@</Text>
+      <Value>f_logo.b_r_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Longhorn, @@chrom@@</Text>
+      <Value>f_logo.b_r_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Longhorn, @@chrom@@</Text>
+      <Value>f_logo.b_r_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Longhorn, @@chrom@@</Text>
+      <Value>f_logo.b_r_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>f_logo.kw</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Black, @@chrom@@</Text>
+      <Value>f_logo.kw_blk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Exclusive @@chrom@@</Text>
+      <Value>f_logo.kw_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>f_logo.kw_l_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Black, @@chrom@@</Text>
+      <Value>f_logo.kw_l_blk_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Black, @@chrom@@</Text>
+      <Value>f_logo.kw_l_blk_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Black, @@chrom@@</Text>
+      <Value>f_logo.kw_l_b_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Black, @@chrom@@</Text>
+      <Value>f_logo.kw_l_b_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Black, @@chrom@@</Text>
+      <Value>f_logo.kw_l_b_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Exclusive @@chrom@@</Text>
+      <Value>f_logo.kw_l_chr_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Exclusive @@chrom@@</Text>
+      <Value>f_logo.kw_l_chr_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Exclusive @@chrom@@</Text>
+      <Value>f_logo.kw_l_c_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Exclusive @@chrom@@</Text>
+      <Value>f_logo.kw_l_c_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Exclusive @@chrom@@</Text>
+      <Value>f_logo.kw_l_c_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>f_logo.kw_l_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>f_logo.kw_l_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>f_logo.kw_l_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>f_logo.kw_l_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Retro, @@chrom@@</Text>
+      <Value>f_logo.kw_rtr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Retro Black, @@chrom@@</Text>
+      <Value>f_logo.kw_rtr_blk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Retro, @@chrom@@</Text>
+      <Value>f_logo.kw_rt_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Retro Black, @@chrom@@</Text>
+      <Value>f_logo.kw_rt_blk_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Retro Black, @@chrom@@</Text>
+      <Value>f_logo.kw_rt_blk_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Retro Black, @@chrom@@</Text>
+      <Value>f_logo.kw_rt_b_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Retro Black, @@chrom@@</Text>
+      <Value>f_logo.kw_rt_b_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Retro Black, @@chrom@@</Text>
+      <Value>f_logo.kw_rt_b_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Retro, @@chrom@@</Text>
+      <Value>f_logo.kw_rt_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Retro, @@chrom@@</Text>
+      <Value>f_logo.kw_rt_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Retro, @@chrom@@</Text>
+      <Value>f_logo.kw_rt_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Retro, @@chrom@@</Text>
+      <Value>f_logo.kw_rt_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II</Text>
+      <Value>f_mflaps.bw2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II plain</Text>
+      <Value>f_mflaps.bw2_pln</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chevron II</Text>
+      <Value>f_mflaps.chevron2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear II</Text>
+      <Value>f_mflaps.clr2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II</Text>
+      <Value>f_mflaps.flap_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II plain</Text>
+      <Value>f_mflaps.flap_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chevron II</Text>
+      <Value>f_mflaps.flap_03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear II</Text>
+      <Value>f_mflaps.flap_04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Logo B&amp;W II</Text>
+      <Value>f_mflaps.flap_05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red round_01</Text>
+      <Value>f_mflaps.flap_06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard II</Text>
+      <Value>f_mflaps.flap_07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II</Text>
+      <Value>f_mflaps.flap_08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II</Text>
+      <Value>f_mflaps.flap_09</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II</Text>
+      <Value>f_mflaps.flap_11</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II plain</Text>
+      <Value>f_mflaps.flap_12</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chevron II</Text>
+      <Value>f_mflaps.flap_13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear II</Text>
+      <Value>f_mflaps.flap_14</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Logo B&amp;W II</Text>
+      <Value>f_mflaps.flap_15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red round_01</Text>
+      <Value>f_mflaps.flap_16</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard II</Text>
+      <Value>f_mflaps.flap_17</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II</Text>
+      <Value>f_mflaps.flap_18</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II</Text>
+      <Value>f_mflaps.flap_19</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II</Text>
+      <Value>f_mflaps.flap_21</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II plain</Text>
+      <Value>f_mflaps.flap_22</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chevron II</Text>
+      <Value>f_mflaps.flap_23</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear II</Text>
+      <Value>f_mflaps.flap_24</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Logo B&amp;W II</Text>
+      <Value>f_mflaps.flap_25</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red round_01</Text>
+      <Value>f_mflaps.flap_26</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard II</Text>
+      <Value>f_mflaps.flap_27</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II</Text>
+      <Value>f_mflaps.flap_28</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II</Text>
+      <Value>f_mflaps.flap_29</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Logo B&amp;W II</Text>
+      <Value>f_mflaps.log_bw2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Round</Text>
+      <Value>f_mflaps.red2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard II</Text>
+      <Value>f_mflaps.std2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II</Text>
+      <Value>f_mflaps.wht2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II</Text>
+      <Value>f_mflaps.wht2_pln</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White</Text>
+      <Value>f_mudflap.bw</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II plain</Text>
+      <Value>f_mudflap.bw2_pln</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chevron</Text>
+      <Value>f_mudflap.chevron</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>f_mudflap.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome clear</Text>
+      <Value>f_mudflap.chr_clr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear</Text>
+      <Value>f_mudflap.clr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Basic</Text>
+      <Value>f_mudflap.clr2_pln</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II</Text>
+      <Value>f_mudflap.flap_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II plain</Text>
+      <Value>f_mudflap.flap_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chevron II</Text>
+      <Value>f_mudflap.flap_03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear II</Text>
+      <Value>f_mudflap.flap_04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Logo B&amp;W II</Text>
+      <Value>f_mudflap.flap_05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Round</Text>
+      <Value>f_mudflap.flap_06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard II</Text>
+      <Value>f_mudflap.flap_07</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II</Text>
+      <Value>f_mudflap.flap_08</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II</Text>
+      <Value>f_mudflap.flap_09</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>f_mudflap.std</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard II</Text>
+      <Value>f_mudflap.std2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White</Text>
+      <Value>f_mudflap.wht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II</Text>
+      <Value>f_mudflap.wht2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II plain</Text>
+      <Value>f_mudflap.wht2_pln</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Billet</Text>
+      <Value>f_turn_light.bilet</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Billet</Text>
+      <Value>f_turn_light.bilet_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Orange</Text>
+      <Value>f_turn_light.chr_org</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Orange</Text>
+      <Value>f_turn_light.chr_org_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Red</Text>
+      <Value>f_turn_light.chr_red</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Red</Text>
+      <Value>f_turn_light.chr_red_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic</Text>
+      <Value>f_turn_light.classic</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic</Text>
+      <Value>f_turn_light.classic_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Icon Orange</Text>
+      <Value>f_turn_light.icon_org</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Icon Orange</Text>
+      <Value>f_turn_light.icon_org_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Icon Red</Text>
+      <Value>f_turn_light.icon_red</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Icon Red</Text>
+      <Value>f_turn_light.icon_red_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED</Text>
+      <Value>f_turn_light.led_or</Value>
+    </ListItem>
+    <ListItem>
+      <Text>LED</Text>
+      <Value>f_turn_light.led_or_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round Orange</Text>
+      <Value>f_turn_light.ro_org</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round Orange</Text>
+      <Value>f_turn_light.ro_org_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round Red</Text>
+      <Value>f_turn_light.ro_red</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round Red</Text>
+      <Value>f_turn_light.ro_red_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Simple</Text>
+      <Value>f_turn_light.simple</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>f_turn_light.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>f_turn_light.stock_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>grill.c500_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>grill.c500_bh2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>grill.c500_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>grill.c500_hh2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>grill.c500_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>grill.c500_stock2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>grill.t800_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>grill.t800_hh2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>grill.t800_lh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>grill.t800_lh2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>grill.t800_wh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>grill.t800_wh2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bolted</Text>
+      <Value>hndrail.bolted</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@duty@@</Text>
+      <Value>hndrail.short</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>hndrail.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@C500-BH@@</Text>
+      <Value>hood.c500_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@C500-HH@@</Text>
+      <Value>hood.c500_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@C500-BH-2@@</Text>
+      <Value>hood.c500_sbh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@C500-B@@</Text>
+      <Value>hood.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@T800-HH@@</Text>
+      <Value>hood.t800_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@T800-lh@@</Text>
+      <Value>hood.t800_lh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@T800-WH@@</Text>
+      <Value>hood.t800_wh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Panel@@</Text>
+      <Value>hood_panel.bh_panel</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Panel@@</Text>
+      <Value>hood_panel.sbh_panel</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Horn Adapter</Text>
+      <Value>horns.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Horn Adapter</Text>
+      <Value>horns.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>100th Anniversary</Text>
+      <Value>int_trim.brush_100y</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Burlwood Dark</Text>
+      <Value>int_trim.burlw_drk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Burlwood Dark Full</Text>
+      <Value>int_trim.burlw_drk_f</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Burlwood Olive</Text>
+      <Value>int_trim.brlw_olive</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Burlwood Olive Full</Text>
+      <Value>int_trim.brlw_olive_f</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Carbon Black</Text>
+      <Value>int_trim.crb_blk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Carbon Black Full</Text>
+      <Value>int_trim.crb_blk_f</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Carbon Blue</Text>
+      <Value>int_trim.crb_blue</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Carbon Blue Full</Text>
+      <Value>int_trim.crb_blue_f</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Carbon Red</Text>
+      <Value>int_trim.crb_red</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Carbon Red Full</Text>
+      <Value>int_trim.crb_red_f</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@exclusive@@</Text>
+      <Value>int_trim.exclusive</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Icon 900</Text>
+      <Value>int_trim.icon_900</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mahagony</Text>
+      <Value>int_trim.mahogany</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mahagony Extra</Text>
+      <Value>int_trim.mahogany_e</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mahagony Full</Text>
+      <Value>int_trim.mahogany_f</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted</Text>
+      <Value>int_trim.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Complete</Text>
+      <Value>int_trim.painted_full</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>int_trim.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Crane 01</Text>
+      <Value>kw_crane.crane_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Crane 01 blk</Text>
+      <Value>kw_crane.crane_01b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Crane 02</Text>
+      <Value>kw_crane.crane_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Crane 02 blk</Text>
+      <Value>kw_crane.crane_02b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Crane 03</Text>
+      <Value>kw_crane.crane_03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Crane 03 blk</Text>
+      <Value>kw_crane.crane_03b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lightbar</Text>
+      <Value>lightbar.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@wise_heart_pillow@@</Text>
+      <Value>l_pillow.pill_xmas_20</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern</Text>
+      <Value>mirror.modern1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern, @@paint@@</Text>
+      <Value>mirror.modern1_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern Premium</Text>
+      <Value>mirror.modern2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern Premium, @@paint@@</Text>
+      <Value>mirror.modern2_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Modern Exclusive</Text>
+      <Value>mirror.modern3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@duty@@ II</Text>
+      <Value>mirror.nxtgen1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@duty@@ II, @@paint@@</Text>
+      <Value>mirror.nxtgen1_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@ II</Text>
+      <Value>mirror.nxtgen2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@ II, @@paint@@</Text>
+      <Value>mirror.nxtgen2_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@ II Marker</Text>
+      <Value>mirror.nxtgen3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@duty@@</Text>
+      <Value>mirror.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@duty@@, @@paint@@</Text>
+      <Value>mirror.shape1_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@, @@paint@@</Text>
+      <Value>mirror.shape2_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@ Marker</Text>
+      <Value>mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@CAT@@</Text>
+      <Value>motor.cat_motor</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Cummins@@</Text>
+      <Value>motor.cummins_m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White</Text>
+      <Value>mudflaps.bw</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II</Text>
+      <Value>mudflaps.bw2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II</Text>
+      <Value>mudflaps.bw2_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II plain</Text>
+      <Value>mudflaps.bw2_pln</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II plain</Text>
+      <Value>mudflaps.bw2_pln_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II plain</Text>
+      <Value>mudflaps.bw2_pln_sht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II plain</Text>
+      <Value>mudflaps.bw2_pln_tin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II</Text>
+      <Value>mudflaps.bw2_sht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White II</Text>
+      <Value>mudflaps.bw2_tin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White</Text>
+      <Value>mudflaps.bw_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White</Text>
+      <Value>mudflaps.bw_sht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Black &amp; White</Text>
+      <Value>mudflaps.bw_tin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chevron</Text>
+      <Value>mudflaps.chevron</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chevron II</Text>
+      <Value>mudflaps.chevron2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chevron II</Text>
+      <Value>mudflaps.chevron2_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chevron</Text>
+      <Value>mudflaps.chevron_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Mudflaps</Text>
+      <Value>mudflaps.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear Chrome</Text>
+      <Value>mudflaps.chr_clr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear Chrome</Text>
+      <Value>mudflaps.chr_clr_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear Chrome</Text>
+      <Value>mudflaps.chr_clr_sht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear Chrome</Text>
+      <Value>mudflaps.chr_clr_tin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Chrome</Text>
+      <Value>mudflaps.chrome_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Chrome</Text>
+      <Value>mudflaps.chrome_sht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Chrome</Text>
+      <Value>mudflaps.chrome_tin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear</Text>
+      <Value>mudflaps.clr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear II</Text>
+      <Value>mudflaps.clr2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear II</Text>
+      <Value>mudflaps.clr2_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear II</Text>
+      <Value>mudflaps.clr2_sht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear II</Text>
+      <Value>mudflaps.clr2_tin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear</Text>
+      <Value>mudflaps.clr_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Basic</Text>
+      <Value>mudflaps.clr_pln</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Basic</Text>
+      <Value>mudflaps.clr_pln_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Basic</Text>
+      <Value>mudflaps.clr_pln_sht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Basic</Text>
+      <Value>mudflaps.clr_pln_tin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear</Text>
+      <Value>mudflaps.clr_sht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear</Text>
+      <Value>mudflaps.clr_tin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Logo B&amp;W</Text>
+      <Value>mudflaps.log_bw</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Logo B&amp;W II</Text>
+      <Value>mudflaps.log_bw2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Logo B&amp;W II</Text>
+      <Value>mudflaps.log_bw2_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Logo B&amp;W</Text>
+      <Value>mudflaps.log_bw_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Logo Plain</Text>
+      <Value>mudflaps.log_pln</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Logo</Text>
+      <Value>mudflaps.log_pln_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Round</Text>
+      <Value>mudflaps.red2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Round</Text>
+      <Value>mudflaps.red2_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Round</Text>
+      <Value>mudflaps.red2_sht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Red Round</Text>
+      <Value>mudflaps.red2_tin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>SCS Mudflaps</Text>
+      <Value>mudflaps.scs</Value>
+    </ListItem>
+    <ListItem>
+      <Text>SCS Mudflaps</Text>
+      <Value>mudflaps.scs_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Mudflaps</Text>
+      <Value>mudflaps.std</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard II</Text>
+      <Value>mudflaps.std2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard II</Text>
+      <Value>mudflaps.std2_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard II</Text>
+      <Value>mudflaps.std2_sht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard II</Text>
+      <Value>mudflaps.std2_tin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>mudflaps.std_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>mudflaps.std_sht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>mudflaps.std_tin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White Mudflaps</Text>
+      <Value>mudflaps.wht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II</Text>
+      <Value>mudflaps.wht2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II</Text>
+      <Value>mudflaps.wht2_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II</Text>
+      <Value>mudflaps.wht2_pln</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White Mudflaps</Text>
+      <Value>mudflaps.wht2_pln_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II</Text>
+      <Value>mudflaps.wht2_pln_sht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II</Text>
+      <Value>mudflaps.wht2_pln_tin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II</Text>
+      <Value>mudflaps.wht2_sht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White II</Text>
+      <Value>mudflaps.wht2_tin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White</Text>
+      <Value>mudflaps.wht_fld</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White</Text>
+      <Value>mudflaps.wht_sht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>White</Text>
+      <Value>mudflaps.wht_tin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>mudguard.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear</Text>
+      <Value>mudguard.clr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Clear II</Text>
+      <Value>mudguard.clr2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>mudguard.kw_bw</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth White</Text>
+      <Value>mudguard.kw_wht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard</Text>
+      <Value>mudguard.std</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard White</Text>
+      <Value>mudguard.wht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Eagle</Text>
+      <Value>ornament.eagle</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Eagle</Text>
+      <Value>ornament.eagle_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Eagle</Text>
+      <Value>ornament.eagle_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Eagle</Text>
+      <Value>ornament.eagle_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Eagle</Text>
+      <Value>ornament.eagle_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Eagle</Text>
+      <Value>ornament.eagle_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Longhorn</Text>
+      <Value>ornament.lhorn_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Longhorn</Text>
+      <Value>ornament.lhorn_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Longhorn</Text>
+      <Value>ornament.lhorn_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Longhorn</Text>
+      <Value>ornament.longhorn</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Longhorn</Text>
+      <Value>ornament.longhorn_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Longhorn</Text>
+      <Value>ornament.longhorn_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mad Duck</Text>
+      <Value>ornament.madduck</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mad Duck</Text>
+      <Value>ornament.madduck_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mad Duck</Text>
+      <Value>ornament.madduck_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mad Duck</Text>
+      <Value>ornament.mduck_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mad Duck</Text>
+      <Value>ornament.mduck_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mad Duck</Text>
+      <Value>ornament.mduck_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stallion</Text>
+      <Value>ornament.stallion</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stallion</Text>
+      <Value>ornament.stallion_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stallion</Text>
+      <Value>ornament.stallion_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stallion</Text>
+      <Value>ornament.stal_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stallion</Text>
+      <Value>ornament.stal_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stallion</Text>
+      <Value>ornament.stal_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Swan</Text>
+      <Value>ornament.swan</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Swan</Text>
+      <Value>ornament.swan_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Swan</Text>
+      <Value>ornament.swan_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Swan</Text>
+      <Value>ornament.swan_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Swan</Text>
+      <Value>ornament.swan_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Swan</Text>
+      <Value>ornament.swan_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>rear_cab.rails_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>rear_cab.rails_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Visor</Text>
+      <Value>rear_cab.visor_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Visor</Text>
+      <Value>rear_cab.visor_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>None</Text>
+      <Value>roof_window.day_dia_bk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>None</Text>
+      <Value>roof_window.day_dia_blue</Value>
+    </ListItem>
+    <ListItem>
+      <Text>None</Text>
+      <Value>roof_window.day_dia_brdx</Value>
+    </ListItem>
+    <ListItem>
+      <Text>None</Text>
+      <Value>roof_window.day_dia_gr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>None</Text>
+      <Value>roof_window.day_spl_blue</Value>
+    </ListItem>
+    <ListItem>
+      <Text>None</Text>
+      <Value>roof_window.day_spl_brdx</Value>
+    </ListItem>
+    <ListItem>
+      <Text>None</Text>
+      <Value>roof_window.day_spl_gr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Boxer</Text>
+      <Value>r_bumper.boxer</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrom_modern@@</Text>
+      <Value>r_bumper.modern</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round Chrome</Text>
+      <Value>r_bumper.ro_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round Modern</Text>
+      <Value>r_bumper.ro_mod</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round Standard</Text>
+      <Value>r_bumper.ro_std</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Chrome</Text>
+      <Value>r_bumper.std_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>r_bumper.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Thor</Text>
+      <Value>r_bumper.thor</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@alu@@ II, @@6x4@@</Text>
+      <Value>r_chs_cover.alu_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@alu@@ II, @@6x4s@@</Text>
+      <Value>r_chs_cover.alu_6x4s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@alu@@ II, @@8x6m@@</Text>
+      <Value>r_chs_cover.alu_8x6m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@alu@@ II, @@8x6s@@</Text>
+      <Value>r_chs_cover.alu_8x6s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Quarter square</Text>
+      <Value>r_fender.chain_half</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Quarter square 8x6</Text>
+      <Value>r_fender.chain_half2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Quarter chrome</Text>
+      <Value>r_fender.chr_half</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Quarter chrome 8x6</Text>
+      <Value>r_fender.chr_half2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Quarter lift 8x6</Text>
+      <Value>r_fender.chr_half3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round chrome</Text>
+      <Value>r_fender.chr_round</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round chrome 8x6</Text>
+      <Value>r_fender.chr_round3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round lift 8x6</Text>
+      <Value>r_fender.chr_round4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Quarter plastic</Text>
+      <Value>r_fender.pls_half</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Quarter plsatic 8x6</Text>
+      <Value>r_fender.pls_half2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Quarter plastic 8x6</Text>
+      <Value>r_fender.pls_half2l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round plastic</Text>
+      <Value>r_fender.pls_round</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round plastic 8x6</Text>
+      <Value>r_fender.pls_round3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round lift P 8x6</Text>
+      <Value>r_fender.pls_round4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Quarter</Text>
+      <Value>r_fender.qrt_kw</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Logo Quarter</Text>
+      <Value>r_fender.qrt_log</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>r_fender.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch 6x4</Text>
+      <Value>r_fender.winch_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch 8x6</Text>
+      <Value>r_fender.winch_8x6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lograck 01</Text>
+      <Value>r_grill.a_lograck01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lograck 01</Text>
+      <Value>r_grill.a_lograck01l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lograck 01</Text>
+      <Value>r_grill.a_lograck01m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lograck 02</Text>
+      <Value>r_grill.a_lograck02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lograck 02</Text>
+      <Value>r_grill.a_lograck02l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lograck 02</Text>
+      <Value>r_grill.a_lograck02m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lograck 03</Text>
+      <Value>r_grill.a_lograck03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lograck 03</Text>
+      <Value>r_grill.a_lograck03l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lograck 03</Text>
+      <Value>r_grill.a_lograck03m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lograck 04</Text>
+      <Value>r_grill.a_lograck04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lograck 04</Text>
+      <Value>r_grill.a_lograck04l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lograck 04</Text>
+      <Value>r_grill.a_lograck04m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lograck 01</Text>
+      <Value>r_grill.a_lograk1dc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lograck 02</Text>
+      <Value>r_grill.a_lograk2dc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lograck 03</Text>
+      <Value>r_grill.a_lograk3dc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lograck 04</Text>
+      <Value>r_grill.a_lograk4dc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabinet</Text>
+      <Value>r_grill.boxrack_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabinet</Text>
+      <Value>r_grill.boxrack_1l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabinet</Text>
+      <Value>r_grill.boxrack_1ldc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabinet</Text>
+      <Value>r_grill.boxrack_1m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabinet 2</Text>
+      <Value>r_grill.boxrack_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabinet 2</Text>
+      <Value>r_grill.boxrack_2l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabinet 2</Text>
+      <Value>r_grill.boxrack_2ldc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabinet 2</Text>
+      <Value>r_grill.boxrack_2m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabinet 3</Text>
+      <Value>r_grill.boxrack_3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabinet 3</Text>
+      <Value>r_grill.boxrack_3l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabinet 3</Text>
+      <Value>r_grill.boxrack_3ldc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabinet 3</Text>
+      <Value>r_grill.boxrack_3m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabinet 4</Text>
+      <Value>r_grill.boxrack_4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabinet 4</Text>
+      <Value>r_grill.boxrack_4l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabinet 4</Text>
+      <Value>r_grill.boxrack_4ldc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cabinet 4</Text>
+      <Value>r_grill.boxrack_4m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch B DC</Text>
+      <Value>r_grill.wdc_01bl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch Pnt DC</Text>
+      <Value>r_grill.wdc_01pl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch B</Text>
+      <Value>r_grill.winch_01b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch B</Text>
+      <Value>r_grill.winch_01bl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch B</Text>
+      <Value>r_grill.winch_01bm</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch Pnt</Text>
+      <Value>r_grill.winch_01p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch Pnt</Text>
+      <Value>r_grill.winch_01pl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Winch Pnt</Text>
+      <Value>r_grill.winch_01pm</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@cup_holder@@</Text>
+      <Value>set_cuphold.set1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>KW Custom 01</Text>
+      <Value>shifter.custom_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>KW Custom 01a</Text>
+      <Value>shifter.custom_01a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>KW Custom 02</Text>
+      <Value>shifter.custom_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>KW Custom 02a</Text>
+      <Value>shifter.custom_02a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Basic Paint</Text>
+      <Value>sideflares.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>sideflares.s72_chr0</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome, Extended</Text>
+      <Value>sideflares.s72_chr0_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome, Oval</Text>
+      <Value>sideflares.s72_chr1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Extended, Oval</Text>
+      <Value>sideflares.s72_chr1_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome, Round</Text>
+      <Value>sideflares.s72_chr2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Extended Round</Text>
+      <Value>sideflares.s72_chr2_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome, Round Small</Text>
+      <Value>sideflares.s72_chr3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Extended, Round Small</Text>
+      <Value>sideflares.s72_chr3_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome, Rectangle</Text>
+      <Value>sideflares.s72_chr4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Extended, Rectangle</Text>
+      <Value>sideflares.s72_chr4_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome, Oval LED</Text>
+      <Value>sideflares.s72_chr5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Extended, Oval LED</Text>
+      <Value>sideflares.s72_chr5_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II</Text>
+      <Value>sideflares.s72_pnf0</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II, Extended</Text>
+      <Value>sideflares.s72_pnf0_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II, Oval</Text>
+      <Value>sideflares.s72_pnf1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II Extended, Oval</Text>
+      <Value>sideflares.s72_pnf1_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II, Round</Text>
+      <Value>sideflares.s72_pnf2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II Extended, Round</Text>
+      <Value>sideflares.s72_pnf2_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II, Round Small</Text>
+      <Value>sideflares.s72_pnf3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II Extended, Round Small</Text>
+      <Value>sideflares.s72_pnf3_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II, Rectangle</Text>
+      <Value>sideflares.s72_pnf4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II Extended, Rectangle</Text>
+      <Value>sideflares.s72_pnf4_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II, Oval LED</Text>
+      <Value>sideflares.s72_pnf5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II Extended, Oval LED</Text>
+      <Value>sideflares.s72_pnf5_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Industrial</Text>
+      <Value>sideflares.s72_ind</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Industrial, Extended</Text>
+      <Value>sideflares.s72_ind_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Maximus</Text>
+      <Value>sideflares.s72_maximus</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted</Text>
+      <Value>sideflares.s72_pnt0</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted, Extended</Text>
+      <Value>sideflares.s72_pnt0_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted, Oval</Text>
+      <Value>sideflares.s72_pnt1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Extended, Oval</Text>
+      <Value>sideflares.s72_pnt1_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted, Round</Text>
+      <Value>sideflares.s72_pnt2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Extended, Round</Text>
+      <Value>sideflares.s72_pnt2_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted, Round Small</Text>
+      <Value>sideflares.s72_pnt3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Extended, Round Small</Text>
+      <Value>sideflares.s72_pnt3_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted, Rectangle</Text>
+      <Value>sideflares.s72_pnt4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Extended, Rectangle</Text>
+      <Value>sideflares.s72_pnt4_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted, Oval LED</Text>
+      <Value>sideflares.s72_pnt5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Extended, Oval LED</Text>
+      <Value>sideflares.s72_pnt5_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Shield Chrome</Text>
+      <Value>sideflares.s72_shi_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Shield Chrome, Extended</Text>
+      <Value>sideflares.s72_s_chr_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Shield Painted</Text>
+      <Value>sideflares.s72_s_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Shield Painted, Extended</Text>
+      <Value>sideflares.s72_s_pnt_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Spartacus</Text>
+      <Value>sideflares.s72_sparta</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>sideflares.s86_chr0</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Extended</Text>
+      <Value>sideflares.s86_chr0_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome, Oval</Text>
+      <Value>sideflares.s86_chr1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Extended, Oval</Text>
+      <Value>sideflares.s86_chr1_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Round</Text>
+      <Value>sideflares.s86_chr2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Extended, Round</Text>
+      <Value>sideflares.s86_chr2_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome, Round Small</Text>
+      <Value>sideflares.s86_chr3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Extended, Round Small</Text>
+      <Value>sideflares.s86_chr3_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome, Rectangle</Text>
+      <Value>sideflares.s86_chr4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Extended, Rectangle</Text>
+      <Value>sideflares.s86_chr4_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome, Oval LED</Text>
+      <Value>sideflares.s86_chr5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Extended, Oval LED</Text>
+      <Value>sideflares.s86_chr5_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II</Text>
+      <Value>sideflares.s86_pnf0</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II, Extended</Text>
+      <Value>sideflares.s86_pnf0_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II, Oval</Text>
+      <Value>sideflares.s86_pnf1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II Extended, Oval</Text>
+      <Value>sideflares.s86_pnf1_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II, Round</Text>
+      <Value>sideflares.s86_pnf2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II Extended, Round</Text>
+      <Value>sideflares.s86_pnf2_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II, Round Small</Text>
+      <Value>sideflares.s86_pnf3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II Extended, Round Small</Text>
+      <Value>sideflares.s86_pnf3_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II, Rectangle</Text>
+      <Value>sideflares.s86_pnf4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II Extended, Rectangle</Text>
+      <Value>sideflares.s86_pnf4_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II, Oval LED</Text>
+      <Value>sideflares.s86_pnf5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted II Extended, Oval LED</Text>
+      <Value>sideflares.s86_pnf5_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Industrial</Text>
+      <Value>sideflares.s86_ind</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Industrial, Extended</Text>
+      <Value>sideflares.s86_ind_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Maximus</Text>
+      <Value>sideflares.s86_maximus</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted</Text>
+      <Value>sideflares.s86_pnt0</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted, Extended</Text>
+      <Value>sideflares.s86_pnt0_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted, Oval</Text>
+      <Value>sideflares.s86_pnt1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Extended, Oval</Text>
+      <Value>sideflares.s86_pnt1_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted, Round</Text>
+      <Value>sideflares.s86_pnt2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Extended, Round</Text>
+      <Value>sideflares.s86_pnt2_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted, Round Small</Text>
+      <Value>sideflares.s86_pnt3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Extended, Round Small</Text>
+      <Value>sideflares.s86_pnt3_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted, Rectangle</Text>
+      <Value>sideflares.s86_pnt4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Extended, Rectangle</Text>
+      <Value>sideflares.s86_pnt4_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted, Oval LED</Text>
+      <Value>sideflares.s86_pnt5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Extended, Oval LED</Text>
+      <Value>sideflares.s86_pnt5_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Shield Chrome</Text>
+      <Value>sideflares.s86_s_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Shield Chrome, Extended</Text>
+      <Value>sideflares.s86_s_chr_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Shield Painted</Text>
+      <Value>sideflares.s86_s_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Shield Painted, Extended</Text>
+      <Value>sideflares.s86_s_pnt_ex</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Spartacus</Text>
+      <Value>sideflares.s86_sparta</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Basic Chrome</Text>
+      <Value>sideflares.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>sidelight.aero_02c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>sidelight.aero_72</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>sidelight.daycab</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>sidelight.daylow_02c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>sidelight.daylow_c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome</Text>
+      <Value>sidelight.flat_top</Value>
+    </ListItem>
+    <ListItem>
+      <Text>KW Custom 01</Text>
+      <Value>steering_w.custom_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>KW Custom 01a</Text>
+      <Value>steering_w.custom_01a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>KW Custom 02</Text>
+      <Value>steering_w.custom_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>KW Custom 02a</Text>
+      <Value>steering_w.custom_02a</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Modern</Text>
+      <Value>steering_w.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth Classic</Text>
+      <Value>steering_w.exclusive</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ace with Black Line</Text>
+      <Value>steering_w.sci_ace</Value>
+    </ListItem>
+    <ListItem>
+      <Text>The Beast</Text>
+      <Value>steering_w.sci_beast</Value>
+    </ListItem>
+    <ListItem>
+      <Text>The Beast VIP</Text>
+      <Value>steering_w.sci_beastvip</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blaze</Text>
+      <Value>steering_w.sci_blaze</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Traveler Burl</Text>
+      <Value>steering_w.sci_burl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Traveler - Carbon Fiber</Text>
+      <Value>steering_w.sci_burl_c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Traveler Burl Elite 4</Text>
+      <Value>steering_w.sci_burl_el4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Traveler Burl Paint</Text>
+      <Value>steering_w.sci_burl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Truck Color</Text>
+      <Value>steering_w.sci_cl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Green Carbon</Text>
+      <Value>steering_w.sci_cl_carb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Combo</Text>
+      <Value>steering_w.sci_cl_c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Combo Blue</Text>
+      <Value>steering_w.sci_cl_c_bl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Combo Viper Red</Text>
+      <Value>steering_w.sci_cl_c_vr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Leather</Text>
+      <Value>steering_w.sci_cl_l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Polyurethane</Text>
+      <Value>steering_w.sci_cl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Skulls White</Text>
+      <Value>steering_w.sci_cl_s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Onyx Viper Red</Text>
+      <Value>steering_w.sci_cl_ovr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Colts</Text>
+      <Value>steering_w.sci_colts</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dart</Text>
+      <Value>steering_w.sci_dart</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Eagle</Text>
+      <Value>steering_w.sci_eagle</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Evolution Euro Pad</Text>
+      <Value>steering_w.sci_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Excalibur</Text>
+      <Value>steering_w.sci_excal</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Flames</Text>
+      <Value>steering_w.sci_flames</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Flight</Text>
+      <Value>steering_w.sci_flight</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Genesis</Text>
+      <Value>steering_w.sci_genesis</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mud Flap Girl</Text>
+      <Value>steering_w.sci_girl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lincoln</Text>
+      <Value>steering_w.sci_lincoln</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Milestone</Text>
+      <Value>steering_w.sci_milest</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Overland Sport 3</Text>
+      <Value>steering_w.sci_overlnd</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Phantom</Text>
+      <Value>steering_w.sci_phantom</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Phoenix</Text>
+      <Value>steering_w.sci_phoenix</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Phoenix Black Leather</Text>
+      <Value>steering_w.sci_phoenix2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Phoenix Viper Red Leather</Text>
+      <Value>steering_w.sci_phoenix3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Truck Color</Text>
+      <Value>steering_w.sci_pin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Leather</Text>
+      <Value>steering_w.sci_pin_l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Mahogany</Text>
+      <Value>steering_w.sci_pin_m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Polyurethane</Text>
+      <Value>steering_w.sci_pin_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Racer Mahogany</Text>
+      <Value>steering_w.sci_racer</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro</Text>
+      <Value>steering_w.sci_retro</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro Blackout</Text>
+      <Value>steering_w.sci_retro_b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro Blue Sparkles</Text>
+      <Value>steering_w.sci_retro_bl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro Bone</Text>
+      <Value>steering_w.sci_retro_bo</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro Brown Leather</Text>
+      <Value>steering_w.sci_retro_br</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro Red Sparkles</Text>
+      <Value>steering_w.sci_retro_r</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Riveted Sport</Text>
+      <Value>steering_w.sci_riv_sprt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Royal</Text>
+      <Value>steering_w.sci_royal</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sky Black</Text>
+      <Value>steering_w.sci_sky_blk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Taft</Text>
+      <Value>steering_w.sci_taft</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Thunderbolt</Text>
+      <Value>steering_w.sci_thunder</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Voltage 3</Text>
+      <Value>steering_w.sci_voltage3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Voltage 4</Text>
+      <Value>steering_w.sci_voltage4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wildwood Mahagony</Text>
+      <Value>steering_w.sci_wildw</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wildwood Light Mahagony</Text>
+      <Value>steering_w.sci_wildw_l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Box 01@@</Text>
+      <Value>step_box.box_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Box 02@@</Text>
+      <Value>step_box.box_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chainrack 01@@</Text>
+      <Value>step_box.chainrack_01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Protech Step@@</Text>
+      <Value>step_box.chainrack_02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chainrack S@@</Text>
+      <Value>step_box.chainrack_1s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Chainrack S2@@</Text>
+      <Value>step_box.chainrak_1s2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Protech Step@@</Text>
+      <Value>step_box.pro_step01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Protech Step@@</Text>
+      <Value>step_box.pro_step02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Protech Step@@</Text>
+      <Value>step_box.pro_step03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Drop Visor</Text>
+      <Value>sunshield.lights</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Sunshield</Text>
+      <Value>sunshield.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blind Mount Visor</Text>
+      <Value>sunshield.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exclusive Sunshield</Text>
+      <Value>sunshield.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Visor 04</Text>
+      <Value>sunshield.visor_04</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Visor 05</Text>
+      <Value>sunshield.visor_05</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Aerocab</Text>
+      <Value>s_badge.aerocab</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Icon 900</Text>
+      <Value>s_badge.icon_900</Value>
+    </ListItem>
+    <ListItem>
+      <Text>100th Anniversary</Text>
+      <Value>s_badge.kw_100y</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>s_badge.kw_icon</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Studio Sleeper</Text>
+      <Value>s_badge.studio_slp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear Support, Oval</Text>
+      <Value>s_deflector.s72_r_oval</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear Support, Oval LED</Text>
+      <Value>s_deflector.s72_r_oval2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear Support, Round</Text>
+      <Value>s_deflector.s72_r_rnd</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Reverse Helper</Text>
+      <Value>s_deflector.s72_rev</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oval Side Markers</Text>
+      <Value>s_deflector.s72_s_oval</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oval LED Side Markers</Text>
+      <Value>s_deflector.s72_s_oval2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round Side Markers</Text>
+      <Value>s_deflector.s72_s_rnd</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rectangle Side Markers</Text>
+      <Value>s_deflector.s72_s_sqr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>s_deflector.s72_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear Support, Oval</Text>
+      <Value>s_deflector.s86_r_oval</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear Support, Oval LED</Text>
+      <Value>s_deflector.s86_r_oval2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rear Support, Round</Text>
+      <Value>s_deflector.s86_r_rnd</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Reverse Helper</Text>
+      <Value>s_deflector.s86_rev</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oval Side Markers</Text>
+      <Value>s_deflector.s86_s_oval</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Oval LED Side Markers</Text>
+      <Value>s_deflector.s86_s_oval2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Round Side Markers</Text>
+      <Value>s_deflector.s86_s_rnd</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Rectangle Side Markers</Text>
+      <Value>s_deflector.s86_s_sqr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>s_deflector.s86_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Old Glory</Text>
+      <Value>s_logo.am_flag</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Old Glory</Text>
+      <Value>s_logo.am_flag_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Angel</Text>
+      <Value>s_logo.angel</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Angel</Text>
+      <Value>s_logo.angel_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Angel</Text>
+      <Value>s_logo.a_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Angel</Text>
+      <Value>s_logo.a_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Angel</Text>
+      <Value>s_logo.a_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blaze</Text>
+      <Value>s_logo.blaze</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blaze</Text>
+      <Value>s_logo.blaze_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blaze</Text>
+      <Value>s_logo.blaze_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blaze</Text>
+      <Value>s_logo.blaze_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blaze</Text>
+      <Value>s_logo.blaze_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic Kenworth</Text>
+      <Value>s_logo.epic</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic Kenworth</Text>
+      <Value>s_logo.epic_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic Kenworth</Text>
+      <Value>s_logo.epic_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED Orange</Text>
+      <Value>s_logo.epic_led_org</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED Red</Text>
+      <Value>s_logo.epic_led_red</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED White</Text>
+      <Value>s_logo.epic_led_wht</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED Orange</Text>
+      <Value>s_logo.epic_lorg_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED Orange</Text>
+      <Value>s_logo.epic_lorg_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED Red</Text>
+      <Value>s_logo.epic_lred_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED Red</Text>
+      <Value>s_logo.epic_lred_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED White</Text>
+      <Value>s_logo.epic_lwht_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED White</Text>
+      <Value>s_logo.epic_lwht_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic Kenworth</Text>
+      <Value>s_logo.epic_sbh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic Kenworth</Text>
+      <Value>s_logo.epic_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic Kenworth</Text>
+      <Value>s_logo.epic_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic Kenworth</Text>
+      <Value>s_logo.epic_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED Orange</Text>
+      <Value>s_logo.e_lorg_sbh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED Red</Text>
+      <Value>s_logo.e_lred_sbh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED White</Text>
+      <Value>s_logo.e_lwht_sbh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Old Glory</Text>
+      <Value>s_logo.flag_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Old Glory</Text>
+      <Value>s_logo.flag_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Old Glory</Text>
+      <Value>s_logo.flag_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED Orange</Text>
+      <Value>s_logo.lorg_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED Orange</Text>
+      <Value>s_logo.lorg_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED Orange</Text>
+      <Value>s_logo.lorg_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED Red</Text>
+      <Value>s_logo.lred_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED Red</Text>
+      <Value>s_logo.lred_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED Red</Text>
+      <Value>s_logo.lred_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED White</Text>
+      <Value>s_logo.lwht_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED White</Text>
+      <Value>s_logo.lwht_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Epic LED White</Text>
+      <Value>s_logo.lwht_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Patriot</Text>
+      <Value>s_logo.patriot</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Patriot</Text>
+      <Value>s_logo.patriot_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Patriot</Text>
+      <Value>s_logo.patriot_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Patriot</Text>
+      <Value>s_logo.patriot_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Patriot</Text>
+      <Value>s_logo.patriot_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Phoenix</Text>
+      <Value>s_logo.phoenix</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Phoenix</Text>
+      <Value>s_logo.phoenix_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Phoenix</Text>
+      <Value>s_logo.phoenix_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Phoenix</Text>
+      <Value>s_logo.phoenix_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Phoenix</Text>
+      <Value>s_logo.phoenix_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Checkers</Text>
+      <Value>s_logo.race_flag</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Checkers</Text>
+      <Value>s_logo.race_flag_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Checkers</Text>
+      <Value>s_logo.race_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Checkers</Text>
+      <Value>s_logo.race_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Checkers</Text>
+      <Value>s_logo.race_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slash</Text>
+      <Value>s_logo.slash</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slash</Text>
+      <Value>s_logo.slash_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slash</Text>
+      <Value>s_logo.slash_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slash</Text>
+      <Value>s_logo.slash_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slash</Text>
+      <Value>s_logo.slash_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>s_logo.spread</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>s_logo.spread_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>s_logo.spread_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>s_logo.spread_sbh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>s_logo.spread_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>s_logo.spread_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>s_logo.spread_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>s_logo.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>s_logo.stock_bh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>s_logo.stock_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>s_logo.stock_sbh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>s_logo.stock_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>s_logo.stock_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>s_logo.stock_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wing</Text>
+      <Value>s_logo.wing</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wing</Text>
+      <Value>s_logo.wing_hh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wing</Text>
+      <Value>s_logo.wing_thh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wing</Text>
+      <Value>s_logo.wing_tlh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wing</Text>
+      <Value>s_logo.wing_twh</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>s_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Window</Text>
+      <Value>s_panel.s72_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Window Chopped</Text>
+      <Value>s_panel.s72_chr_chp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Windows Divided</Text>
+      <Value>s_panel.s72_chr_div</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Chrome</Text>
+      <Value>s_panel.s72_dia_bk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Painted</Text>
+      <Value>s_panel.s72_dia_bk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Chrome</Text>
+      <Value>s_panel.s72_dia_bl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Painted</Text>
+      <Value>s_panel.s72_dia_bl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Chrome</Text>
+      <Value>s_panel.s72_dia_rd</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Painted</Text>
+      <Value>s_panel.s72_dia_rd_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Chrome</Text>
+      <Value>s_panel.s72_dia_gr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Painted</Text>
+      <Value>s_panel.s72_dia_gr_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@exclusive@@</Text>
+      <Value>s_panel.s72_div</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Chrome</Text>
+      <Value>s_panel.s72_spl_gr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Painted</Text>
+      <Value>s_panel.s72_spl_gr_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>s_panel.s72_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Window</Text>
+      <Value>s_panel.s86_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Window Chopped</Text>
+      <Value>s_panel.s86_chr_chp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Windows Divided</Text>
+      <Value>s_panel.s86_chr_div</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Chrome</Text>
+      <Value>s_panel.s86_dia_bk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Painted</Text>
+      <Value>s_panel.s86_dia_bk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Chrome</Text>
+      <Value>s_panel.s86_dia_bl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Painted</Text>
+      <Value>s_panel.s86_dia_bl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Chrome</Text>
+      <Value>s_panel.s86_dia_rd</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Painted</Text>
+      <Value>s_panel.s86_dia_rd_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Chrome</Text>
+      <Value>s_panel.s86_dia_gr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Painted</Text>
+      <Value>s_panel.s86_dia_gr_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@exclusive@@</Text>
+      <Value>s_panel.s86_div</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Chrome</Text>
+      <Value>s_panel.s86_spl_gr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Vent Window, Painted</Text>
+      <Value>s_panel.s86_spl_gr_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>s_panel.s86_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Steps L@@</Text>
+      <Value>tank_steps.step_l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Steps M@@</Text>
+      <Value>tank_steps.step_m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome mount</Text>
+      <Value>topflares.aero2_mnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome mount</Text>
+      <Value>topflares.aerod_mnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Double Radiant Chrome</Text>
+      <Value>topflares.aero_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome mount</Text>
+      <Value>topflares.daylow2_mnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome mount</Text>
+      <Value>topflares.daylow_mnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Double Radiant Chrome</Text>
+      <Value>topflares.day_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome mount</Text>
+      <Value>topflares.day_mnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome mount</Text>
+      <Value>topflares.ftop_mnt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@holy_field_blanket@@</Text>
+      <Value>toybed.blan_xmas_20</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@care_blanket@@</Text>
+      <Value>toybed.x22_blanket</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth W900 Model 1:64</Text>
+      <Value>toydash.kw900_model</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Emoji Pillow (Customizable)</Text>
+      <Value>toyseat.yastik</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@candle_of_hope@@</Text>
+      <Value>toystand.x22_candle</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bold</Text>
+      <Value>windowtrim.bold</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Guard</Text>
+      <Value>windowtrim.guard</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Kenworth</Text>
+      <Value>windowtrim.kenworth</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slim</Text>
+      <Value>windowtrim.slim</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wings</Text>
+      <Value>windowtrim.wings</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\Anthony\Documents\Mods Studio 2\UserVehicles\ATS.kenworth_hdc.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>kenworth_hdc</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Heavy Duty Customs</VehicleAuthor>
+  <VehicleName>HDC Kenworth</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>aero72.kenworth_hdc.cabin</InternalName>
+      <Name>72' Aerocab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>aeroday.kenworth_hdc.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>aero_02.kenworth_hdc.cabin</InternalName>
+      <Name>Aerodyne 2</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>day.kenworth_hdc.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>day_low.kenworth_hdc.cabin</InternalName>
+      <Name>38' Aero Flat</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>day_low2.kenworth_hdc.cabin</InternalName>
+      <Name>62' Aero Flat</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>flat_top.kenworth_hdc.cabin</InternalName>
+      <Name>36' Flat Top</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Remiix</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
+</Variable>
