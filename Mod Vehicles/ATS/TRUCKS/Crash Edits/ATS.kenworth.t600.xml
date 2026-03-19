@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Crash Edits\ATS.kenworth.t600.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>kenworth.t600</InternalName>
+  <SoundItems />
+  <VehicleAuthor>crash edits</VehicleAuthor>
+  <VehicleName>Crash|Kenwortht600</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>duty.kenworth.t600.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>exclusive.kenworth.t600.cabin</InternalName>
+      <Name>AeroCab Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>modular.kenworth.t600.cabin</InternalName>
+      <Name>modular</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standard.kenworth.t600.cabin</InternalName>
+      <Name>Studio Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-08-21T00:00:00</DateUpdated>
+</Variable>

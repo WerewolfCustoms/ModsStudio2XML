@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Crash Edits\ATS.kenworth.t610_gtm.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>kenworth.t610_gtm</InternalName>
+  <SoundItems />
+  <VehicleAuthor>crash edits/GTM</VehicleAuthor>
+  <VehicleName>Crash|Kenworth T610 GTM</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>duty.kenworth.t610_gtm.cabin</InternalName>
+      <Name>Duty Day Cabin</Name>
+    </Variant>
+    <Variant>
+      <InternalName>exclusive.kenworth.t610_gtm.cabin</InternalName>
+      <Name>Aero Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standard.kenworth.t610_gtm.cabin</InternalName>
+      <Name>Standard Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-08-18T00:00:00</DateUpdated>
+</Variable>

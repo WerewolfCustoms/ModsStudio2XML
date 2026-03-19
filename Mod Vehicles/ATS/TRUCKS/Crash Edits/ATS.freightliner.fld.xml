@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Crash Edits\ATS.freightliner.fld.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>freightliner.fld</InternalName>
+  <SoundItems />
+  <VehicleAuthor>crash edits</VehicleAuthor>
+  <VehicleName>Crash|Freightliner FLD</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>highroof.freightliner.fld.cabin</InternalName>
+      <Name>Raised Roof</Name>
+    </Variant>
+    <Variant>
+      <InternalName>lowroof.freightliner.fld.cabin</InternalName>
+      <Name>Mid Roof</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-08-20T00:00:00</DateUpdated>
+</Variable>

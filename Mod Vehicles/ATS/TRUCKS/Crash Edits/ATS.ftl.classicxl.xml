@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Crash Edits\ATS.ftl.classicxl.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>ftl.classicxl</InternalName>
+  <SoundItems />
+  <VehicleAuthor>crash editz</VehicleAuthor>
+  <VehicleName>Crash|Freightliner FLD132 Classic XL</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>highr84f.ftl.classicxl.cabin</InternalName>
+      <Name>84'' Raised Roof Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>highroof.ftl.classicxl.cabin</InternalName>
+      <Name>70'' Raised Roof Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>lowroof.ftl.classicxl.cabin</InternalName>
+      <Name>70'' Mid Roof Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-10-02T00:00:00</DateUpdated>
+</Variable>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Crash Edits\ATS.mack_titan.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>mack_titan</InternalName>
+  <SoundItems />
+  <VehicleAuthor>crash edits</VehicleAuthor>
+  <VehicleName>Crash|Mack Titan</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>standard.mack_titan.cabin</InternalName>
+      <Name>Super Liner</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-08-20T00:00:00</DateUpdated>
+</Variable>

@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>Double Radiant</Text>
+      <Value>beacon.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>dump truck</Text>
+      <Value>bumper.dump_truck</Value>
+    </ListItem>
+    <ListItem>
+      <Text>dump truck c</Text>
+      <Value>bumper.dump_truckc</Value>
+    </ListItem>
+    <ListItem>
+      <Text>dump truck p</Text>
+      <Value>bumper.dump_truckp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper paint</Text>
+      <Value>bumper.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Sensor</Text>
+      <Value>bumper.sensor</Value>
+    </ListItem>
+    <ListItem>
+      <Text>sensor paint</Text>
+      <Value>bumper.sensorp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Bumper Standard</Text>
+      <Value>bumper.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Light Adapter</Text>
+      <Value>cabflares.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>carpado m</Text>
+      <Value>cargas.shape13</Value>
+    </ListItem>
+    <ListItem>
+      <Text>furgon</Text>
+      <Value>cargas.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Text>estacas</Text>
+      <Value>cargas.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exhaust Bottom</Text>
+      <Value>exhaust.bottom</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exhaust long</Text>
+      <Value>exhaust.long_truck</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exhaust Dual</Text>
+      <Value>exhaust.small_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Exhaust Single</Text>
+      <Value>exhaust.small_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Left Hood Mirror</Text>
+      <Value>fl_mirror.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Left Hood chrom</Text>
+      <Value>fl_mirror.standard_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Left Hood paint</Text>
+      <Value>fl_mirror.standard_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Right Hood Mirror</Text>
+      <Value>fr_mirror.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Right Hood chrom</Text>
+      <Value>fr_mirror.standard_1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Right Hood paint</Text>
+      <Value>fr_mirror.standard_2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Horn Adapter</Text>
+      <Value>horns.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Red Lights</Text>
+      <Value>luz_interior.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Green Lights</Text>
+      <Value>luz_interior.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Blue Lights</Text>
+      <Value>luz_interior.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior White Lights</Text>
+      <Value>luz_interior.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Yellow Lights</Text>
+      <Value>luz_interior.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Orange Lights</Text>
+      <Value>luz_interior.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Interior Light Blue Lights</Text>
+      <Value>luz_interior.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@chrom@@</Text>
+      <Value>mirror.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>mirror.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Text>International</Text>
+      <Value>mudflaps.logo</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>mudflaps.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Text>tuning</Text>
+      <Value>mudflaps.tuning</Value>
+    </ListItem>
+    <ListItem>
+      <Text>corto_estandar</Text>
+      <Value>mudguard.cortoe</Value>
+    </ListItem>
+    <ListItem>
+      <Text>corto_pintable</Text>
+      <Value>mudguard.cortop</Value>
+    </ListItem>
+    <ListItem>
+      <Text>logo_cromo</Text>
+      <Value>mudguard.logo</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@standard@@</Text>
+      <Value>mudguard.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Text>parrilla</Text>
+      <Value>parrilla.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>parrilla paint</Text>
+      <Value>parrilla.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>parrilla chrom</Text>
+      <Value>parrilla.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lonestar Steering Wheel</Text>
+      <Value>steering_w.default</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lonestar Steering Wheel Diamond</Text>
+      <Value>steering_w.exclusive</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dragon Flame</Text>
+      <Value>steering_w.fire</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Ace with Black Line</Text>
+      <Value>steering_w.sci_ace</Value>
+    </ListItem>
+    <ListItem>
+      <Text>The Beast</Text>
+      <Value>steering_w.sci_beast</Value>
+    </ListItem>
+    <ListItem>
+      <Text>The Beast VIP</Text>
+      <Value>steering_w.sci_beastvip</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Blaze</Text>
+      <Value>steering_w.sci_blaze</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Traveler Burl</Text>
+      <Value>steering_w.sci_burl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Traveler - Carbon Fiber</Text>
+      <Value>steering_w.sci_burl_c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Traveler Burl Elite 4</Text>
+      <Value>steering_w.sci_burl_el4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Traveler Burl Paint</Text>
+      <Value>steering_w.sci_burl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Truck Color</Text>
+      <Value>steering_w.sci_cl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Green Carbon</Text>
+      <Value>steering_w.sci_cl_carb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Combo</Text>
+      <Value>steering_w.sci_cl_c</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Combo Blue</Text>
+      <Value>steering_w.sci_cl_c_bl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Combo Viper Red</Text>
+      <Value>steering_w.sci_cl_c_vr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Leather</Text>
+      <Value>steering_w.sci_cl_l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Polyurethane</Text>
+      <Value>steering_w.sci_cl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Skulls White</Text>
+      <Value>steering_w.sci_cl_s</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Classic Onyx Viper Red</Text>
+      <Value>steering_w.sci_cl_ovr</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Colts</Text>
+      <Value>steering_w.sci_colts</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Dart</Text>
+      <Value>steering_w.sci_dart</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Eagle</Text>
+      <Value>steering_w.sci_eagle</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Evolution Euro Pad</Text>
+      <Value>steering_w.sci_evo</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Excalibur</Text>
+      <Value>steering_w.sci_excal</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Flames</Text>
+      <Value>steering_w.sci_flames</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Flight</Text>
+      <Value>steering_w.sci_flight</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Genesis</Text>
+      <Value>steering_w.sci_genesis</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Mud Flap Girl</Text>
+      <Value>steering_w.sci_girl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Lincoln</Text>
+      <Value>steering_w.sci_lincoln</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Milestone</Text>
+      <Value>steering_w.sci_milest</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Overland Sport 3</Text>
+      <Value>steering_w.sci_overlnd</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Phantom</Text>
+      <Value>steering_w.sci_phantom</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Phoenix</Text>
+      <Value>steering_w.sci_phoenix</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Phoenix Black Leather</Text>
+      <Value>steering_w.sci_phoenix2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Phoenix Viper Red Leather</Text>
+      <Value>steering_w.sci_phoenix3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Truck Color</Text>
+      <Value>steering_w.sci_pin</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Leather</Text>
+      <Value>steering_w.sci_pin_l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Mahogany</Text>
+      <Value>steering_w.sci_pin_m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pinion Polyurethane</Text>
+      <Value>steering_w.sci_pin_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Racer Mahogany</Text>
+      <Value>steering_w.sci_racer</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro</Text>
+      <Value>steering_w.sci_retro</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro Blackout</Text>
+      <Value>steering_w.sci_retro_b</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro Blue Sparkles</Text>
+      <Value>steering_w.sci_retro_bl</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro Bone</Text>
+      <Value>steering_w.sci_retro_bo</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro Brown Leather</Text>
+      <Value>steering_w.sci_retro_br</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Retro Red Sparkles</Text>
+      <Value>steering_w.sci_retro_r</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Riveted Sport</Text>
+      <Value>steering_w.sci_riv_sprt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Royal</Text>
+      <Value>steering_w.sci_royal</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sky Black</Text>
+      <Value>steering_w.sci_sky_blk</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Taft</Text>
+      <Value>steering_w.sci_taft</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Thunderbolt</Text>
+      <Value>steering_w.sci_thunder</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Voltage 3</Text>
+      <Value>steering_w.sci_voltage3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Voltage 4</Text>
+      <Value>steering_w.sci_voltage4</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wildwood Mahagony</Text>
+      <Value>steering_w.sci_wildw</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Wildwood Light Mahagony</Text>
+      <Value>steering_w.sci_wildw_l</Value>
+    </ListItem>
+    <ListItem>
+      <Text>True Heart</Text>
+      <Value>steering_w.val</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Sunshield</Text>
+      <Value>sunshield.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Chrome Sun Visor Sharp</Text>
+      <Value>sunshield.chrome2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>No Sunshield</Text>
+      <Value>sunshield.none</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Standard Sunshield</Text>
+      <Value>sunshield.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Text>swatter</Text>
+      <Value>swatter.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Passenger Side Mirror</Text>
+      <Value>s_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>cr Side Mirror</Text>
+      <Value>s_mirror.shape2</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Crash Edits\ATS.workstar.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>workstar</InternalName>
+  <SoundItems />
+  <VehicleAuthor>crash editz</VehicleAuthor>
+  <VehicleName>Crash|International4700</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>day.workstar.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
+</Variable>

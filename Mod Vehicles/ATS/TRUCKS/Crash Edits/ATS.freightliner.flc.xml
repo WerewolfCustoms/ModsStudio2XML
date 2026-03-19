@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Crash Edits\ATS.freightliner.flc.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>freightliner.flc</InternalName>
+  <SoundItems />
+  <VehicleAuthor>crash editz/XBS</VehicleAuthor>
+  <VehicleName>Crash|Freightliner FLC 12064-T</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>cab_b.freightliner.flc.cabin</InternalName>
+      <Name>Flat Top Sleeper 36'</Name>
+    </Variant>
+    <Variant>
+      <InternalName>duty.freightliner.flc.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standard.freightliner.flc.cabin</InternalName>
+      <Name>Flat Top Sleeper 60'</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
+</Variable>

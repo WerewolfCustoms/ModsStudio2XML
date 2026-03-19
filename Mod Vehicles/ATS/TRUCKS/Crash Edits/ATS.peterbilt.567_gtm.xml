@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+ 
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Crash Edits\ATS.peterbilt.567_gtm.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>peterbilt.567_gtm</InternalName>
+  <SoundItems />
+  <VehicleAuthor>crash edits/GTM</VehicleAuthor>
+  <VehicleName>Crash|Peterbilt 567</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>Day Cabins</Group>
+      <InternalName>duty.peterbilt.567_gtm.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <Group>Sleeper Cabins</Group>
+      <InternalName>exclusive.peterbilt.567_gtm.cabin</InternalName>
+      <Name>Ultra Cab Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-08-20T00:00:00</DateUpdated>
+</Variable>

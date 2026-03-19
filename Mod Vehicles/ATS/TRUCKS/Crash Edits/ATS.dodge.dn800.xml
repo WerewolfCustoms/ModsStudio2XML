@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Painted Headlights</Group>
+      <Text>Head Lights V2 paint</Text>
+      <Value>biseles.biseles2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Bumpers</Group>
+      <Text>Bumper 4</Text>
+      <Value>bumper.bump_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Bumpers</Group>
+      <Text>Bumper 5</Text>
+      <Value>bumper.bump_3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Van Paint</Text>
+      <Value>carrs.furgon_l_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Van Paint</Text>
+      <Value>carrs.furgon_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Platform paint</Text>
+      <Value>carrs.plat_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Platform Paint</Text>
+      <Value>carrs.plat_p_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Hopper Paint</Text>
+      <Value>carrs.volq_long_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Hopper Paint</Text>
+      <Value>carrs.volq_shrt_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>BullBar 2 paint</Text>
+      <Value>f_grill.def_front2pa</Value>
+    </ListItem>
+    <ListItem>
+      <Text>BullBar 3 paint</Text>
+      <Value>f_grill.def_front3pa</Value>
+    </ListItem>
+    <ListItem>
+      <Text>BullBar 1 paint</Text>
+      <Value>f_grill.def_frontpa</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Crash Edits\ATS.dodge.dn800.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>dodge.dn800</InternalName>
+  <SoundItems />
+  <VehicleAuthor>crash editz</VehicleAuthor>
+  <VehicleName>Crash|Dodge DN800</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>dn_800.dodge.dn800.cabin</InternalName>
+      <Name>D 800</Name>
+    </Variant>
+    <Variant>
+      <InternalName>d_500.dodge.dn800.cabin</InternalName>
+      <Name>D 500</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
+</Variable>

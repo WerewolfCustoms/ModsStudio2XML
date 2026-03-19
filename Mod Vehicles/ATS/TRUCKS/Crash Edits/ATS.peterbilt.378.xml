@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Crash Edits\ATS.peterbilt.378.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>peterbilt.378</InternalName>
+  <SoundItems />
+  <VehicleAuthor>crash edits</VehicleAuthor>
+  <VehicleName>Crash|Peterbilt378</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>exclusive.peterbilt.378.cabin</InternalName>
+      <Name>Ultra Cab Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standard.peterbilt.378.cabin</InternalName>
+      <Name>Low Roof Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-08-21T00:00:00</DateUpdated>
+</Variable>

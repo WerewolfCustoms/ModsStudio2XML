@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Crash Edits\ATS.kenworth.w900b_gtm.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>kenworth.w900b_gtm</InternalName>
+  <SoundItems />
+  <VehicleAuthor>crash edits/GTM</VehicleAuthor>
+  <VehicleName>Crash|Kenworth_w900B</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>duty.kenworth.w900b_gtm.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <InternalName>exclusive.kenworth.w900b_gtm.cabin</InternalName>
+      <Name>AeroCab Sleeper</Name>
+    </Variant>
+    <Variant>
+      <InternalName>standard.kenworth.w900b_gtm.cabin</InternalName>
+      <Name>Studio Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-08-18T00:00:00</DateUpdated>
+</Variable>
