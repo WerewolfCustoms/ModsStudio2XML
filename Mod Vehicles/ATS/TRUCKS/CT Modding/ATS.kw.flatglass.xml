@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Hoods</Group>
+      <Text>Factory Hood</Text>
+      <Value>hood.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Hoods</Group>
+      <Text>A Model</Text>
+      <Value>hood.shape02</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\CT Modding\ATS.kw.flatglass.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>kw.flatglass</InternalName>
+  <SoundItems />
+  <VehicleAuthor>CT Modding</VehicleAuthor>
+  <VehicleName>CT Modding|Kenworth Flatglass</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>aerodyne.kw.flatglass.cabin</InternalName>
+      <Name>Aerodyne 1</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>aero_2.kw.flatglass.cabin</InternalName>
+      <Name>Aero 2</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>day_cab.kw.flatglass.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>db_eagle.kw.flatglass.cabin</InternalName>
+      <Name>Double Eagle 70`</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>flat_42.kw.flatglass.cabin</InternalName>
+      <Name>Flattop 42`</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>flat_60.kw.flatglass.cabin</InternalName>
+      <Name>Flattop 60`</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
+</Variable>
