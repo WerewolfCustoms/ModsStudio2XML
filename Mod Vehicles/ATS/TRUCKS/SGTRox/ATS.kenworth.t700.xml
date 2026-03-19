@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Painted Bumper</Group>
+      <Text>Painted bumper </Text>
+      <Value>bumper.bumper_01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted sideskirts</Group>
+      <Text>Full Painted Sideskirt</Text>
+      <Value>sideskirt.sideskirt_02</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted sideskirts</Group>
+      <Text>Painted Sideskirt</Text>
+      <Value>sideskirt.sideskirt_03</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted sideskirts</Group>
+      <Text>Painted Sideskirt + Deflector</Text>
+      <Value>sideskirt.sideskirt_04</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted sideskirts</Group>
+      <Text>Fully Painted Sideskirt + Deflector</Text>
+      <Value>sideskirt.sideskirt_01</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS.kenworth.t700.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>kenworth.t700</InternalName>
+  <SoundItems />
+  <VehicleAuthor>sgtrox modding</VehicleAuthor>
+  <VehicleName>SgtRox Modding|Kenworth T700</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>hirirse.kenworth.t700.cabin</InternalName>
+      <Name>76' Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-04-14T00:00:00</DateUpdated>
+</Variable>
