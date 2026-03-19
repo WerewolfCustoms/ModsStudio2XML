@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Custome backlights </Group>
+      <Text>Custom Box, Diamond painted</Text>
+      <Value>backlights.cb_dia_01p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Custome backlights </Group>
+      <Text>Custom Box, painted</Text>
+      <Value>backlights.cb_01p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Custome backlights </Group>
+      <Text>Custom Box, painted &amp; Insert Plate</Text>
+      <Value>backlights.cb_01p_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted fridge grill</Group>
+      <Text>Casing grill painted</Text>
+      <Value>casing_cr.7500x_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Rear of Trailer</Group>
+      <Text>Door Hinges</Text>
+      <Value>d_hinge.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Landing legs</Group>
+      <Text>Painted landing leg frame (bottom)</Text>
+      <Value>foot_chs.jost_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted front wall various parts</Group>
+      <Text>Base of front wall</Text>
+      <Value>fs_base.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted reefer fuel tanks</Group>
+      <Text>100gal, paint</Text>
+      <Value>ft_reefer.100gal_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted reefer fuel tanks</Group>
+      <Text>60gal, paint</Text>
+      <Value>ft_reefer.60gal_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted reefer fuel tanks</Group>
+      <Text>60gal + 60gal, paint</Text>
+      <Value>ft_reefer.60x2gal_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted front wall</Group>
+      <Text>standard, paint</Text>
+      <Value>f_body.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted front wall various parts</Group>
+      <Text>Front corner </Text>
+      <Value>f_corner.std_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted fridge units</Group>
+      <Text>Carrier 7500x4, paint</Text>
+      <Value>f_unit.7500x_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted fridge units</Group>
+      <Text>ThermoKing Precedent C-600, Paint</Text>
+      <Value>f_unit.c600_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted fridge units</Group>
+      <Text>ThermoKing SB230, paint</Text>
+      <Value>f_unit.sb230_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Landing legs</Group>
+      <Text>Painted landing leg frame (top)</Text>
+      <Value>landing.paint_ss</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Custom Number Plate</Group>
+      <Text>Your number plate</Text>
+      <Value>l_plate.custom_01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Trailer roof</Group>
+      <Text>Painted roof</Text>
+      <Value>roof_body.paint_53</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear back bumper</Group>
+      <Text>Painted standard bumper</Text>
+      <Value>r_base.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear back bumper</Group>
+      <Text>Painted short bumper</Text>
+      <Value>r_base.std_pnt_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Rear of Trailer</Group>
+      <Text>Diamond, painted doors</Text>
+      <Value>r_body.dia_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Rear of Trailer</Group>
+      <Text>Painted doors</Text>
+      <Value>r_body.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Rear of Trailer</Group>
+      <Text>Rear Ladder, painted</Text>
+      <Value>r_ladder.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Rear of Trailer</Group>
+      <Text>Painted door handles</Text>
+      <Value>r_parts.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted sideskirts</Group>
+      <Text>TrailerBlade Fleet, paint</Text>
+      <Value>sideskirt.tblade_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted sideskirts</Group>
+      <Text>TRANSTEX, paint</Text>
+      <Value>sideskirt.transtex_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ribbed painted sides</Group>
+      <Text>48' Ribbed painted trailer</Text>
+      <Value>s_base.48_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Ribbed painted sides</Group>
+      <Text>53' Ribbed painted trailer</Text>
+      <Value>s_base.53_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>48 'Sheet Painted Trailers</Group>
+      <Text>Smooth Sheet, painted</Text>
+      <Value>s_body.smooth_48_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>53 'Sheet Painted Trailers</Group>
+      <Text>Smooth Sheet, painted</Text>
+      <Value>s_body.smooth_53_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>48 'Sheet Painted Trailers</Group>
+      <Text>stock Sheet, painted</Text>
+      <Value>s_body.std_48_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>53 'Sheet Painted Trailers</Group>
+      <Text>Stock Sheet, painted</Text>
+      <Value>s_body.std_53_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>48 'Sheet Painted Trailers</Group>
+      <Text>Strip Sheet, painted V2</Text>
+      <Value>s_body.strap_48_2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>48 'Sheet Painted Trailers</Group>
+      <Text>Strip Sheet, painted</Text>
+      <Value>s_body.strap_48_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>53 'Sheet Painted Trailers</Group>
+      <Text>Strip Sheet, painted V2</Text>
+      <Value>s_body.strap_53_2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>53 'Sheet Painted Trailers</Group>
+      <Text>Strip Sheet, painted</Text>
+      <Value>s_body.strap_53_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted logos</Group>
+      <Text>GreatDane, paint</Text>
+      <Value>s_logo.gd_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted logos</Group>
+      <Text>New GreatDane, paint</Text>
+      <Value>s_logo.n_gd_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted front wall various parts</Group>
+      <Text>Top corner</Text>
+      <Value>t_corner.std_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted base of trailer</Group>
+      <Text>53' Painted base rail of trailer</Text>
+      <Value>s_base.53_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted base of trailer</Group>
+      <Text>48' Painted base rail of trailer</Text>
+      <Value>s_base.48_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Fridge Units</Group>
+      <Text>ThermoKing Whisper edition SB3 </Text>
+      <Value>f_unit.sb3_pnt</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Jasper Modding\ATS.greatdane.ss.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>greatdane.ss</InternalName>
+  <SoundItems />
+  <VehicleAuthor>jasper modding</VehicleAuthor>
+  <VehicleName>Jasper Modding|Greatdane Trailers Everest SS</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>48' Trailers</Group>
+      <InternalName>body.ev_ss_48</InternalName>
+      <Name>Everest SS 48feet</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>48' Trailers</Group>
+      <InternalName>body.ev_ss_48_lc</InternalName>
+      <Name>Everest SS 48feet, Low Air Cables</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>53' Trailers</Group>
+      <InternalName>body.ev_ss_53</InternalName>
+      <Name>Everest SS 53feet</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>53' Trailers</Group>
+      <InternalName>body.ev_ss_53_lc</InternalName>
+      <Name>Everest SS 53feet, Low Air Cables</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Jasper/Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-10-06T00:00:00</DateUpdated>
+</Variable>
