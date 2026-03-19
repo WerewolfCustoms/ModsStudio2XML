@@ -66,12 +66,12 @@
       <Value>f_fender.sng_rnd</Value>
     </ListItem>
   </AccessoryItems>
-  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS.intnational.5070_scr.xml</FilePath>
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Smarty\ATS.intnational.5070_scr.xml</FilePath>
   <Game>ATS</Game>
   <InternalName>intnational.5070_scr</InternalName>
   <SoundItems />
   <VehicleAuthor>Smarty</VehicleAuthor>
-  <VehicleName>International|5070</VehicleName>
+  <VehicleName>Smarty|Paystar 5070</VehicleName>
   <VehicleType>NewTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
