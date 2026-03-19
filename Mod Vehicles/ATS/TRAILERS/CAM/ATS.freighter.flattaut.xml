@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Text>@@Painted Deck@@</Text>
+      <Value>deck.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Painted Guards@@</Text>
+      <Value>guards.guards2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Double ToolBox@@</Text>
+      <Value>toolbox.double</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Single ToolBox@@</Text>
+      <Value>toolbox.single</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Double ToolBox@@</Text>
+      <Value>toolbox.tag</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Wings Skinned@@</Text>
+      <Value>wings.oldlead</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Wings Skinned@@</Text>
+      <Value>wings.oldtag</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@Wings Skinned@@</Text>
+      <Value>wings.oldtug</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\CAM-TSA Trailers\ATS.freighter.flattaut.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>freighter.flattaut</InternalName>
+  <SoundItems />
+  <VehicleAuthor>c.a.m/tsa</VehicleAuthor>
+  <VehicleName>C.A.M|freighter.flattaut</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.curlead</InternalName>
+      <Name>Lead Trailer</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.curtag</InternalName>
+      <Name>Tag Trailer</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.curtug</InternalName>
+      <Name>Tug Trailer</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
+</Variable>
