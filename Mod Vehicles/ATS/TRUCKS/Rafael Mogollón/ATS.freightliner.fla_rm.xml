@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Rafael Mogollón\ATS.freightliner.fla_rm.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>freightliner.fla_rm</InternalName>
+  <SoundItems />
+  <VehicleAuthor>rafael mogollon</VehicleAuthor>
+  <VehicleName>Rafael Mogollon|Freightliner FLA</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>cab_d_st.freightliner.fla_rm.cabin</InternalName>
+      <Name>Cab 10464 ST</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_d_t.freightliner.fla_rm.cabin</InternalName>
+      <Name>Cab 10464 T</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_a_st.freightliner.fla_rm.cabin</InternalName>
+      <Name>Cab 6364 ST</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_a_t.freightliner.fla_rm.cabin</InternalName>
+      <Name>Cab 6364 T</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_b_t.freightliner.fla_rm.cabin</InternalName>
+      <Name>Cab 7564 T</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_b1_t.freightliner.fla_rm.cabin</InternalName>
+      <Name>Cab 7564 T @@rear@@ @@window@@</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_c_st.freightliner.fla_rm.cabin</InternalName>
+      <Name>Cab 8664 ST</Name>
+    </Variant>
+    <Variant>
+      <InternalName>cab_c_t.freightliner.fla_rm.cabin</InternalName>
+      <Name>Cab 8664 T</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
+</Variable>
