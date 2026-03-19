@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\CT Modding\All.ct.w900a.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>ct.w900a</InternalName>
+  <SoundItems />
+  <VehicleAuthor>CT Modding</VehicleAuthor>
+  <VehicleName>CT Modding|1979 KenworthW900A</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>aero.ct.w900a.cabin</InternalName>
+      <Name>Aerodyne</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>day.ct.w900a.cabin</InternalName>
+      <Name>Day Cab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>eagle.ct.w900a.cabin</InternalName>
+      <Name>Double Eagle</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>36' Cabins</Group>
+      <InternalName>flat_36.ct.w900a.cabin</InternalName>
+      <Name>36` flat top</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>60' Cabins</Group>
+      <InternalName>flat_60.ct.w900a.cabin</InternalName>
+      <Name>60` flat top</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>36' Cabins</Group>
+      <InternalName>merc_36.ct.w900a.cabin</InternalName>
+      <Name>36` Mercury Polished</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>36' Cabins</Group>
+      <InternalName>merc_36p.ct.w900a.cabin</InternalName>
+      <Name>36` Mercury Painted</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>60' Cabins</Group>
+      <InternalName>merc_60.ct.w900a.cabin</InternalName>
+      <Name>60` Mercury Polished</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>60' Cabins</Group>
+      <InternalName>merc_60p.ct.w900a.cabin</InternalName>
+      <Name>60` Mercury Painted</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>CT Modding/Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-12-03T00:00:00</DateUpdated>
+</Variable>
