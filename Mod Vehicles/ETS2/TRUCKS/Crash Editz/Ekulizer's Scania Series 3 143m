@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Crash Edits\ETS2.scania.143m.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>scania.143m</InternalName>
+  <SoundItems />
+  <VehicleAuthor>crash editz/ekuliser</VehicleAuthor>
+  <VehicleName>Crash|Scania 3 Series</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>topline.scania.143m.cabin</InternalName>
+      <Name>Streamline</Name>
+    </Variant>
+    <Variant>
+      <InternalName>toplinec.scania.143m.cabin</InternalName>
+      <Name>Streamline</Name>
+    </Variant>
+    <Variant>
+      <InternalName>toplined.scania.143m.cabin</InternalName>
+      <Name>Maggie</Name>
+    </Variant>
+    <Variant>
+      <InternalName>toplinee.scania.143m.cabin</InternalName>
+      <Name>Streamline</Name>
+    </Variant>
+    <Variant>
+      <InternalName>toplinef.scania.143m.cabin</InternalName>
+      <Name>Josephine</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
+</Variable>
