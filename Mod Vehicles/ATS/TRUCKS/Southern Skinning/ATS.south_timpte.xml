@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Southern Skinning\ATS.south_timpte.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>south_timpte</InternalName>
+  <SoundItems />
+  <VehicleAuthor>southern skinning</VehicleAuthor>
+  <VehicleName>Southern Skinning|Southern Timpte Grain</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <Group>Without Tarp</Group>
+      <InternalName>body.78hghwall</InternalName>
+      <Name>78 Inch High Wall</Name>
+    </Variant>
+    <Variant>
+      <Group>With Painted Tarp</Group>
+      <InternalName>body.78hghwallp</InternalName>
+      <Name>78 Inch High Wall Painted Tarp</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
+</Variable>
