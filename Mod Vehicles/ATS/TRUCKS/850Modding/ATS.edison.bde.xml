@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>0912d793-6369-4295-baa4-841c2705b17f</Id>
   <IsEnabled>true</IsEnabled>
   <Validators />
   <AccessoryItems />
-  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS.edison.bde.xml</FilePath>
+  <FilePath>C:\Users\shawh\Documents\Mods Studio 2\UserVehicles\850 Modding\ATS.edison.bde.xml</FilePath>
   <Game>ATS</Game>
   <InternalName>edison.bde</InternalName>
   <SoundItems />
   <VehicleAuthor>850 Modding</VehicleAuthor>
-  <VehicleName>850 Modding|Edison Motors BDE</VehicleName>
+  <VehicleName>850 Modding|Edison Motors BDE Wrecker</VehicleName>
   <VehicleType>OldTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
       <AccessoryDependencies />
-      <InternalName>truck.edison.bde.cabin</InternalName>
+      <InternalName>daycab.edison.bde.cabin</InternalName>
+      <Name>Daycab</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>sleeper01.edison.bde.cabin</InternalName>
       <Name>Flattop</Name>
     </Variant>
   </VehicleVariants>
-  <XmlDefinitionAuthor>Pauly Custom Skins</XmlDefinitionAuthor>
+  <XmlDefinitionAuthor>Dr.PupzEditz.scs, Pauly, 850 Modding</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
 </Variable>
