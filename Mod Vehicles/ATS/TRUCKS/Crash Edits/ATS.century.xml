@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Crash Edits\ATS.century.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>century</InternalName>
+  <SoundItems />
+  <VehicleAuthor>crash editz</VehicleAuthor>
+  <VehicleName>Crash Editz|Freightliner Century</VehicleName>
+  <VehicleType>OldTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>standard.century.cabin</InternalName>
+      <Name>Century</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
+</Variable>
