@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>Mirage</Text>
+      <Value>b_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>Samurai</Text>
+      <Value>b_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>Dragonfly</Text>
+      <Value>b_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Corner Deflator</Group>
+      <Text>@@paint@@</Text>
+      <Value>cor_def.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>C Grill</Group>
+      <Text>Dragonfly</Text>
+      <Value>c_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Doorhandle</Group>
+      <Text>Paint_chrome</Text>
+      <Value>doorhndl.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Doorhandle</Group>
+      <Text>Paint</Text>
+      <Value>doorhndl.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Filter</Group>
+      <Text>Stock1 Paint</Text>
+      <Value>filter.shape01_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>High_bumper Paint</Text>
+      <Value>f_bumper.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Low_bumper Paint</Text>
+      <Value>f_bumper.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>Paint</Text>
+      <Value>f_fender_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Custom Parts SI104 Paint</Text>
+      <Value>f_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Custom Parts SI105 Paint</Text>
+      <Value>f_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Custom Parts SI106</Text>
+      <Value>f_grill.cpfi_si106</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Custom Parts SI106 Paint</Text>
+      <Value>f_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Sting Paint</Text>
+      <Value>f_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Goliath</Text>
+      <Value>f_grill.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Goliath Paint</Text>
+      <Value>f_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Joker Paint</Text>
+      <Value>f_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F inlay</Group>
+      <Text>Paint</Text>
+      <Value>f_inlay_cab.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F inlay</Group>
+      <Text>Paint</Text>
+      <Value>f_inlay_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F intake</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_cab.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F intake</Group>
+      <Text>Paint</Text>
+      <Value>f_intake_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F light</Group>
+      <Text>Halogen Paint</Text>
+      <Value>f_light_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F light</Group>
+      <Text>Paint</Text>
+      <Value>f_light_top.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F light</Group>
+      <Text>Paint</Text>
+      <Value>f_light_top.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F logo</Group>
+      <Text>Stock Paint I</Text>
+      <Value>f_logo.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F logo</Group>
+      <Text>Stock Paint II</Text>
+      <Value>f_logo.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F logo</Group>
+      <Text>Stock Paint III</Text>
+      <Value>f_logo.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F mirror</Group>
+      <Text>Paint II</Text>
+      <Value>f_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F mirror</Group>
+      <Text>Paint I</Text>
+      <Value>f_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F mirror</Group>
+      <Text>Paint II</Text>
+      <Value>f_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F mirror</Group>
+      <Text>Paint I</Text>
+      <Value>f_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Window Frame</Group>
+      <Text>Paint</Text>
+      <Value>f_wnd_frame.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirror</Group>
+      <Text>Paint I</Text>
+      <Value>mirror.stock1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirror</Group>
+      <Text>Paint II</Text>
+      <Value>mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Deflector</Group>
+      <Text>Paint</Text>
+      <Value>r_deflector.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Deflector</Group>
+      <Text>Paint</Text>
+      <Value>r_deflector.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Parlok White Line Paint</Text>
+      <Value>r_fender.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Parlok White Line + Quarter Paint</Text>
+      <Value>r_fender.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Parlok White Line + F150 Paint</Text>
+      <Value>r_fender.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Parlok White Line + F150 + Quarter Paint</Text>
+      <Value>r_fender.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Parlok White Line Paint</Text>
+      <Value>r_fender.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Parlok White Line + Quarter Paint</Text>
+      <Value>r_fender.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Grill</Group>
+      <Text>Custom Parts SI203 Paint</Text>
+      <Value>r_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Grill</Group>
+      <Text>RST-Steel Paint</Text>
+      <Value>r_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Grill</Group>
+      <Text>Mirage Paint</Text>
+      <Value>r_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Ranger</Text>
+      <Value>sunshld.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Ranger</Text>
+      <Value>sunshld.shape10_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Stock Paint</Text>
+      <Value>sunshld.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Stock Paint</Text>
+      <Value>sunshld.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Samurai</Text>
+      <Value>sunshld.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Samurai</Text>
+      <Value>sunshld.shape3_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Titan</Text>
+      <Value>sunshld.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Titan</Text>
+      <Value>sunshld.shape4_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Dragonfly</Text>
+      <Value>sunshld.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Dragonfly</Text>
+      <Value>sunshld.shape5_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Mirage</Text>
+      <Value>sunshld.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Mirage</Text>
+      <Value>sunshld.shape6_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Sting</Text>
+      <Value>sunshld.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Sting</Text>
+      <Value>sunshld.shape7_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Viking</Text>
+      <Value>sunshld.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Viking</Text>
+      <Value>sunshld.shape8_bc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>S mirror</Group>
+      <Text>Paint II</Text>
+      <Value>s_mirror.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>S mirror</Group>
+      <Text>Paint I</Text>
+      <Value>s_mirror.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>S panel</Group>
+      <Text>Paint_box</Text>
+      <Value>s_panel.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>S panel</Group>
+      <Text>Window + Paint_box</Text>
+      <Value>s_panel.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Windowtrim</Group>
+      <Text>Paint</Text>
+      <Value>windowtrim.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>6x2b</Text>
+      <Value>chassis.6x2b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>6x2</Text>
+      <Value>chassis.6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>6x4b</Text>
+      <Value>chassis.6x4b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>6x4</Text>
+      <Value>chassis.6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>8x4b</Text>
+      <Value>chassis.8x4b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>8x4</Text>
+      <Value>chassis.8x4</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>D:\doks\Mods Studio 2\UserVehicles\Mod Vehicles\ETS2\TRUCKS\LoaderSaints\ETS2.sisu.r500.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>sisu.r500</InternalName>
+  <SoundItems />
+  <VehicleAuthor>LoaderSaints</VehicleAuthor>
+  <VehicleName>LoaderSaints|Sisu R &amp; C-series</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>higher.c500.sisu.r500.cabin</InternalName>
+      <Name>C500 High Roof</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>higher.c600.sisu.r500.cabin</InternalName>
+      <Name>C600 High Roof</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>higher.sisu.r500.cabin</InternalName>
+      <Name>R500 High Roof</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>normal.c500.sisu.r500.cabin</InternalName>
+      <Name>C500 Normal Roof</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>normal.c600.sisu.r500.cabin</InternalName>
+      <Name>C600 Normal Roof</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>normal.sisu.r500.cabin</InternalName>
+      <Name>R500 Normal Roof</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>MR JP</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
+</Variable>
