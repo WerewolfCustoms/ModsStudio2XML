@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Text>Painted Arms</Text>
+      <Value>arms.armsp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Axle</Text>
+      <Value>axle.axlep</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Box</Text>
+      <Value>box.boxp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Axle Cover</Text>
+      <Value>box.boxsp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Tank Ends</Text>
+      <Value>caps.capsp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Catwalk Frame</Text>
+      <Value>catwalk.cwalkp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Cover</Text>
+      <Value>cover.cover2p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Cover</Text>
+      <Value>cover.coverp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Frame</Text>
+      <Value>frame.framep</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Front Fenders</Text>
+      <Value>guard.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Ladder</Text>
+      <Value>ladder_f.ladderp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Ladder</Text>
+      <Value>ladder_r.ladderp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Legs</Text>
+      <Value>legs.legsp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Double Fenders</Text>
+      <Value>mudguard.shape02</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Long Fenders</Text>
+      <Value>mudguard.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Hoop Fenders</Text>
+      <Value>mudguard.shape06</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Bumper Part</Text>
+      <Value>rbumper.shape01</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Tank Rings</Text>
+      <Value>rings.ringsp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Fitting</Text>
+      <Value>r_light.shape03</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Fitting w/ Nodes</Text>
+      <Value>r_light.shape03f</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Shield with Cables</Text>
+      <Value>shield.shield2p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Sheild</Text>
+      <Value>shield.shieldp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Toolbox 1</Text>
+      <Value>toolbox.p1</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Toolbox 2</Text>
+      <Value>toolbox.p2</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Toolbox 3</Text>
+      <Value>toolbox.p3</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Painted Toolbox 4</Text>
+      <Value>toolbox.p4</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Tyrone Booth\ATS.plr.tank.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>plr.tank</InternalName>
+  <SoundItems />
+  <VehicleAuthor>TB, Rockwood_Mods</VehicleAuthor>
+  <VehicleName>Polar Fuel Tank</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.plr_p0</InternalName>
+      <Name>Polar Tank Paint</Name>
+    </Variant>
+  </VehicleVariants>
+  <DateUpdated xsi:nil="true" />
+</Variable>
