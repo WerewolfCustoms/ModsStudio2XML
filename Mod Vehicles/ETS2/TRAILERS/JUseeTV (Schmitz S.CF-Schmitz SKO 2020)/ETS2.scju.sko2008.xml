@@ -36,28 +36,23 @@
     </ListItem>
     <ListItem>
       <Group>Reefer</Group>
+      <Text>Carrier Vector 1550 Paint</Text>
+      <Value>reefer.c_v1550p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Reefer</Group>
       <Text>Schmitz S.CU Paint</Text>
       <Value>reefer.sc_scup</Value>
     </ListItem>
     <ListItem>
+      <Group>Reefer</Group>
+      <Text>Thermo King SLX 400 Paint</Text>
+      <Value>reefer.tk_slx_400p</Value>
+    </ListItem>
+    <ListItem>
       <Group>Front Wall</Group>
-      <Text>Stock</Text>
+      <Text>Front Wall</Text>
       <Value>f_wall.stock4</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Corners</Group>
-      <Text>Paint</Text>
-      <Value>corners.paint</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Corners</Group>
-      <Text>Paint + logo</Text>
-      <Value>corners.paint_logo</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Corners</Group>
-      <Text>Paint + logo 2024</Text>
-      <Value>corners.paintlogonew</Value>
     </ListItem>
     <ListItem>
       <Group>Frame</Group>
@@ -80,59 +75,81 @@
       <Value>frame.paint320i</Value>
     </ListItem>
     <ListItem>
-      <Group>Front Sideskirts (Left)</Group>
+      <Group>Sideskirt Left</Group>
       <Text>Palletbox paint</Text>
       <Value>f_side_l.pallet_b_p</Value>
     </ListItem>
     <ListItem>
-      <Group>Front Sideskirts (Left)</Group>
+      <Group>Sideskirt Left</Group>
       <Text>Palletbox paint intermodal</Text>
       <Value>f_side_l.pallet_b_pi</Value>
     </ListItem>
     <ListItem>
-      <Group>Front Sideskirts (Left)</Group>
+      <Group>Sideskirt Left</Group>
       <Text>Rails paint</Text>
       <Value>f_side_l.side_p</Value>
     </ListItem>
     <ListItem>
-      <Group>Front Sideskirts (Left)</Group>
+      <Group>Sideskirt Left</Group>
       <Text>Rails paint closed</Text>
       <Value>f_side_l.side_p_c</Value>
     </ListItem>
     <ListItem>
-      <Group>Front Sideskirts (Left)</Group>
+      <Group>Sideskirt Left</Group>
       <Text>Rails paint Intermodal</Text>
       <Value>f_side_l.side_pi</Value>
     </ListItem>
     <ListItem>
-      <Group>Front Sideskirts (Left)</Group>
+      <Description>Left&amp;Right Side Custom Palletbox</Description>
+      <Group>Sideskirt Left</Group>
+      <Text>Palletbox Custom L&amp;R Side</Text>
+      <Value>f_side_l.pallet_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Left</Group>
       <Text>Rails paint</Text>
       <Value>f2_side_l.side_p</Value>
     </ListItem>
     <ListItem>
-      <Group>Rear Sideskirt (Left)</Group>
-      <Text>Palletbox paint</Text>
-      <Value>r_side_l.palletbox_p</Value>
+      <Description>if not ticked it will apply the main skin (modelerror)</Description>
+      <Group>Sideskirt Left</Group>
+      <Text>Rails Stock (paint)</Text>
+      <Value>f2_side_l.side_s</Value>
     </ListItem>
     <ListItem>
-      <Group>Front Sideskirts (Right)</Group>
+      <Group>Sideskirt Right</Group>
       <Text>Rails paint</Text>
       <Value>f_side_r.side_p</Value>
     </ListItem>
     <ListItem>
-      <Group>Front Sideskirts (Right)</Group>
-      <Text>Rails paint closed</Text>
-      <Value>f_side_r.side_p_c</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Front Sideskirts (Right)</Group>
+      <Group>Sideskirt Right</Group>
       <Text>Rails paint Intermodal</Text>
       <Value>f_side_r.side_pi</Value>
     </ListItem>
     <ListItem>
-      <Group>Front Sideskirts (Right)</Group>
+      <Group>Sideskirt Right</Group>
+      <Text>Rails paint closed</Text>
+      <Value>f_side_r.side_p_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Right</Group>
       <Text>Rails paint</Text>
       <Value>f2_side_r.side_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Right</Group>
+      <Text>Sideskirt custom</Text>
+      <Value>r_side_l.custom_dhol</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Right</Group>
+      <Text>Sideskirt custom</Text>
+      <Value>r_side_l.custom_dhol2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt Right</Group>
+      <Text>Palletbox paint</Text>
+      <Value>r_side_l.palletbox_p</Value>
     </ListItem>
     <ListItem>
       <Group>Intermodal</Group>
@@ -196,8 +213,18 @@
     </ListItem>
     <ListItem>
       <Group>Rear Bumper Hold</Group>
-      <Text>Dhollandia Full-Paint</Text>
-      <Value>r_bpr_hold.fpaint_dh</Value>
+      <Text>Paint</Text>
+      <Value>r_bpr_hold.paint_i</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper Hold</Group>
+      <Text>Dhollandia Paint</Text>
+      <Value>r_bumper.dhol_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper Hold</Group>
+      <Text>Dhollandia Paint Extended</Text>
+      <Value>r_bumper.dhol_p_ext</Value>
     </ListItem>
     <ListItem>
       <Group>Rear Bumper Hold</Group>
@@ -206,8 +233,8 @@
     </ListItem>
     <ListItem>
       <Group>Rear Bumper Hold</Group>
-      <Text>Paint</Text>
-      <Value>r_bpr_hold.paint_i</Value>
+      <Text>Dhollandia Full-Paint</Text>
+      <Value>r_bpr_hold.fpaint_dh</Value>
     </ListItem>
     <ListItem>
       <Group>Rear Stopper</Group>
@@ -221,18 +248,13 @@
     </ListItem>
     <ListItem>
       <Group>Rear Bumper</Group>
-      <Text>Dhollandia paint</Text>
-      <Value>r_bumper.dhol_p</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Rear Bumper</Group>
-      <Text>Dhollandia paint extended</Text>
-      <Value>r_bumper.dhol_p_ext</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Rear Bumper</Group>
       <Text>Slim paint</Text>
       <Value>r_bumper.slim_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Slim paint w/ cover</Text>
+      <Value>r_bumper.slim_p_rn</Value>
     </ListItem>
     <ListItem>
       <Group>Rear Bumper</Group>
@@ -242,7 +264,17 @@
     <ListItem>
       <Group>Rear Bumper</Group>
       <Text>Slim paint w/ cover for ladder middle</Text>
+      <Value>r_bumper.slim_p_rm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Slim paint w/ cover for ladder middle</Text>
       <Value>r_bumper.slim_p_sm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Slim paint w/ cover for ladder right</Text>
+      <Value>r_bumper.slim_p_r</Value>
     </ListItem>
     <ListItem>
       <Group>Rear Bumper</Group>
@@ -256,8 +288,33 @@
     </ListItem>
     <ListItem>
       <Group>Rear Bumper</Group>
+      <Text>Wide paint without logo</Text>
+      <Value>r_bumper.wide_p_wl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Wide paint w/ cover</Text>
+      <Value>r_bumper.wide_p_rn</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
       <Text>Wide paint w/ cover</Text>
       <Value>r_bumper.wide_p_sn</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Wide paint w/ cover without logo</Text>
+      <Value>r_bumper.wide_p_rn_wl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Wide paint w/ cover without logo</Text>
+      <Value>r_bumper.wide_p_sn_wl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Wide paint w/ cover for ladder middle</Text>
+      <Value>r_bumper.wide_p_rm</Value>
     </ListItem>
     <ListItem>
       <Group>Rear Bumper</Group>
@@ -267,7 +324,17 @@
     <ListItem>
       <Group>Rear Bumper</Group>
       <Text>Wide paint w/ cover for ladder middle without logo</Text>
+      <Value>r_bumper.wide_p_rm_wl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Wide paint w/ cover for ladder middle without logo</Text>
       <Value>r_bumper.wide_p_sm_wl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Wide paint w/ cover for ladder right</Text>
+      <Value>r_bumper.wide_p_r</Value>
     </ListItem>
     <ListItem>
       <Group>Rear Bumper</Group>
@@ -277,62 +344,12 @@
     <ListItem>
       <Group>Rear Bumper</Group>
       <Text>Wide paint w/ cover for ladder right without logo</Text>
-      <Value>r_bumper.wide_p_s_wl</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Rear Bumper</Group>
-      <Text>Wide paint w/ cover without logo</Text>
-      <Value>r_bumper.wide_p_sn_wl</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Rear Bumper</Group>
-      <Text>Wide paint without logo</Text>
-      <Value>r_bumper.wide_p_wl</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Rear Bumper</Group>
-      <Text>Slim paint w/ cover</Text>
-      <Value>r_bumper.slim_p_rn</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Rear Bumper</Group>
-      <Text>Slim paint w/ cover for ladder middle</Text>
-      <Value>r_bumper.slim_p_rm</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Rear Bumper</Group>
-      <Text>Slim paint w/ cover for ladder right</Text>
-      <Value>r_bumper.slim_p_r</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Rear Bumper</Group>
-      <Text>Wide paint w/ cover</Text>
-      <Value>r_bumper.wide_p_rn</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Rear Bumper</Group>
-      <Text>Wide paint w/ cover for ladder middle</Text>
-      <Value>r_bumper.wide_p_rm</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Rear Bumper</Group>
-      <Text>Wide paint w/ cover for ladder middle without logo</Text>
-      <Value>r_bumper.wide_p_rm_wl</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Rear Bumper</Group>
-      <Text>Wide paint w/ cover for ladder right</Text>
-      <Value>r_bumper.wide_p_r</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Rear Bumper</Group>
-      <Text>Wide paint w/ cover for ladder right without logo</Text>
       <Value>r_bumper.wide_p_r_wl</Value>
     </ListItem>
     <ListItem>
       <Group>Rear Bumper</Group>
-      <Text>Wide paint w/ cover without logo</Text>
-      <Value>r_bumper.wide_p_rn_wl</Value>
+      <Text>Wide paint w/ cover for ladder right without logo</Text>
+      <Value>r_bumper.wide_p_s_wl</Value>
     </ListItem>
     <ListItem>
       <Group>Mudflaps</Group>
@@ -353,6 +370,31 @@
       <Group>Mudflaps</Group>
       <Text>Mudflap Rear Paint</Text>
       <Value>mudflap_r.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps</Group>
+      <Text>Dhollandia Rear Paint</Text>
+      <Value>mudflap_r.paint_dhol</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear License Plate EU</Group>
+      <Text>Custom EU</Text>
+      <Value>r_lp.custom</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear License Plate EU</Group>
+      <Text>Custom EU</Text>
+      <Value>r_lp.custom_dh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear License Plate EU</Group>
+      <Text>Custom EU</Text>
+      <Value>r_lp.custom_fl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear License Plate EU</Group>
+      <Text>Custom EU</Text>
+      <Value>r_lp.custom_slim</Value>
     </ListItem>
     <ListItem>
       <Group>Rear License Plate EU</Group>
@@ -376,6 +418,16 @@
     </ListItem>
     <ListItem>
       <Group>Rear License Plate ES</Group>
+      <Text>Custom Spain</Text>
+      <Value>r_lp.custom_sp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear License Plate ES</Group>
+      <Text>Custom Spain</Text>
+      <Value>r_lp.custom_sp_fl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear License Plate ES</Group>
       <Text>Paint Spain</Text>
       <Value>r_lp.skin_sp</Value>
     </ListItem>
@@ -383,6 +435,21 @@
       <Group>Rear License Plate ES</Group>
       <Text>Paint Spain</Text>
       <Value>r_lp.skin_sp_fl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear License Plate UK</Group>
+      <Text>Custom UK</Text>
+      <Value>r_lp.ukcustom</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear License Plate UK</Group>
+      <Text>Custom UK</Text>
+      <Value>r_lp.ukcustom_dh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear License Plate UK</Group>
+      <Text>Custom UK</Text>
+      <Value>r_lp.ukcustom_sl</Value>
     </ListItem>
     <ListItem>
       <Group>Rear License Plate UK</Group>
@@ -401,18 +468,18 @@
     </ListItem>
   </AccessoryItems>
   <Game>ETS2</Game>
-  <InternalName>scju.skoe</InternalName>
+  <InternalName>scju.sko2008</InternalName>
   <SoundItems />
   <VehicleAuthor>JUseeTV</VehicleAuthor>
-  <VehicleName>Schmitz|S.KOe COOL 2020</VehicleName>
+  <VehicleName>Schmitz|S.KO COOL 2008</VehicleName>
   <VehicleType>Trailers</VehicleType>
   <VehicleVariants>
     <Variant>
       <AccessoryDependencies />
       <InternalName>body.reefer4m</InternalName>
-      <Name>S.KOe</Name>
+      <Name>S.KO 2008</Name>
     </Variant>
   </VehicleVariants>
-  <XmlDefinitionAuthor>Chiky Chuky</XmlDefinitionAuthor>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
   <DateUpdated>2026-04-06T00:00:00</DateUpdated>
 </Variable>
