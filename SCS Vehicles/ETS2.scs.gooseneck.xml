@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Left Side Rear (40ft)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_f_l.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (20ft)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_f_l.paint_box_8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (Double Rear)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_f_l.paint_box_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (40ft)</Group>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_f_l.palletbox</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (B-Double Front)</Group>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_f_l.palletboxbd</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (40ft)</Group>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_l.p_box_cage</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (B-Double Front)</Group>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_l.p_box_cageb</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (40ft)</Group>
+      <Text>Painted Box 2x</Text>
+      <Value>chs_f_l.p_box_doubl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (B-Double Front)</Group>
+      <Text>Painted Box 2x</Text>
+      <Value>chs_f_l.p_box_doublb</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (Extendable)</Group>
+      <Text>Full Side Protection</Text>
+      <Value>chs_f_l.side01_sh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (40ft)</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_f_l.sideskirt_01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (20ft Normal/B-Double)</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_f_l.sideskirt_02</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (B-Double Front)</Group>
+      <Text>Full Protection Sideskirt</Text>
+      <Value>chs_f_l.sideskirt_1d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (Double Rear)</Group>
+      <Text>Full Protection Sideskirts (2 Axles)</Text>
+      <Value>chs_f_l.sideskirt_2d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle (Double Rear)</Group>
+      <Text>Full Protection Sideskirt (3 Axles)</Text>
+      <Value>chs_f_l.sideskirt_03</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Rear (40ft)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_f_r.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (20ft)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_f_r.paint_box_8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (Double Rear)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_f_r.paint_box_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (40ft)</Group>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_f_r.palletbox</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (B-Double Front)</Group>
+      <Text>Painted Pallet Box</Text>
+      <Value>chs_f_r.palletboxbd</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (40ft)</Group>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_r.p_box_cage</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (B-Double Front)</Group>
+      <Text>Simple Side Protection + Painted Box</Text>
+      <Value>chs_f_r.p_box_cageb</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (40ft)</Group>
+      <Text>Painted Box, 2x</Text>
+      <Value>chs_f_r.p_box_doubl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (B-Double Front)</Group>
+      <Text>Painted Box 2x</Text>
+      <Value>chs_f_r.p_box_doublb</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (Extendable)</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_f_r.side01_sh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (Extendable)</Group>
+      <Text>Full Protection Sideskirts + Spare Tyre</Text>
+      <Value>chs_f_r.side01_sh_t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (40ft)</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_f_r.sideskirt_01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (20ft Normal/B-Double)</Group>
+      <Text>Full Protection Sideskirts</Text>
+      <Value>chs_f_r.sideskirt_02</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (B-Double Front)</Group>
+      <Text>Full Protection Sideskirt</Text>
+      <Value>chs_f_r.sideskirt_1d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (Double Rear)</Group>
+      <Text>Full Protection Sideskirts (2 Axles)</Text>
+      <Value>chs_f_r.sideskirt_2d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle (Double Rear)</Group>
+      <Text>Full Protection Sideskirt (3 Axles)</Text>
+      <Value>chs_f_r.sideskirt_03</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Dolly</Group>
+      <Text>Painted Box Left</Text>
+      <Value>chs_m_l.paint_box_m</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Dolly</Group>
+      <Text>Fully Protection Sideskirts Left</Text>
+      <Value>chs_m_l.sideskirt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Dolly</Group>
+      <Text>Painted Box Right</Text>
+      <Value>chs_m_r.paint_box_m</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Dolly</Group>
+      <Text>Fully Protection Sideskirts Right</Text>
+      <Value>chs_m_r.sideskirt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Rear (40ft)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_l.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Rear (40ft)</Group>
+      <Text>Painted Box</Text>
+      <Value>chs_r_r.paint_box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Standard Eco (40ft Single/ Double Rear/HCT)</Text>
+      <Value>r_bumper.eco_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Standard Eco (B-Double)</Text>
+      <Value>r_bumper.eco_2_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Standard (40ft Single/ Double Rear/HCT)</Text>
+      <Value>r_bumper.euro_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Standard (B-Double)</Text>
+      <Value>r_bumper.euro_3_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Exclusive LED (40ft Single/ Double Rear/HCT)</Text>
+      <Value>r_bumper.led</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Exclusive LED (B-Double)</Text>
+      <Value>r_bumper.led_bd</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Exclusive (Dolly)</Text>
+      <Value>r_bumper.paint_dolly</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>scs.gooseneck</InternalName>
+  <SoundItems />
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>SCS|Gooseneck</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.cont_20</InternalName>
+      <Name>Carrier 20ft</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.cont_220</InternalName>
+      <Name>Carrier 2x20ft</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.cont_40</InternalName>
+      <Name>Carrier 40ft</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>The Janitor</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
+</Variable>
