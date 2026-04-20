@@ -169,7 +169,23 @@
       <Text>Peterbilt 36"</Text>
       <Value>sleeper.pb36_4dr</Value>
     </ListItem>
+    <ListItem>
+      <Group>Rafael Tandem Addon Parts</Group>
+      <Text>DryVan Box</Text>
+      <Value>body.dryvan60_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rafael Tandem Addon Parts</Group>
+      <Text>Fuel Tanker</Text>
+      <Value>body.fuel_t_a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rafael Tandem Addon Parts</Group>
+      <Text>Flatbed Body</Text>
+      <Value>body.flatbed55_p</Value>
+    </ListItem>
   </AccessoryItems>
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS Smarty.peterbilt.351_scr.xml</FilePath>
   <Game>ATS</Game>
   <InternalName>peterbilt.351_scr</InternalName>
   <SoundItems />
