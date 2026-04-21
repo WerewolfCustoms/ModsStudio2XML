@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>6b96a34f-6192-489a-87fe-0b7012f63a74</Id>
   <IsEnabled>true</IsEnabled>
+  <Validators />
   <AccessoryItems>
     <ListItem>
       <Description>See screenshot for location.</Description>
@@ -74,7 +74,13 @@
       <Text>Sleeper 82 Cab</Text>
       <Value>sideskirt.s82</Value>
     </ListItem>
+    <ListItem>
+      <Group>Mudflaps</Group>
+      <Text>FlowBelow Painted</Text>
+      <Value>mudflaps.aero_pnt</Value>
+    </ListItem>
   </AccessoryItems>
+  <FilePath>C:\Users\paulb\Desktop\Modstudio november 2025\Data\ModData\SCS\Vehicles\ATS.westernstar.5700xe.xml</FilePath>
   <Game>ATS</Game>
   <InternalName>westernstar.5700xe</InternalName>
   <SoundItems>
@@ -90,20 +96,24 @@
   <VehicleType>NewTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSWest5700XE\day.jpg</Image>
       <InternalName>day.westernstar.5700xe.cabin</InternalName>
       <Name>Day Cab</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSWest5700XE\s54.jpg</Image>
       <InternalName>s54.westernstar.5700xe.cabin</InternalName>
       <Name>54 Sleeper</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSWest5700XE\s82.jpg</Image>
       <InternalName>s82.westernstar.5700xe.cabin</InternalName>
       <Name>82 Sleeper</Name>
     </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>pete_agreatguy</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
 </Variable>
