@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Cabin Roof Deflectors</Group>
+      <Text>840 Roof Deflector</Text>
+      <Value>cabdefl.std_74m</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Rear Bumper</Group>
+      <Text>Flowbelow painted</Text>
+      <Value>r_bumper.fl_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Sideskirts</Group>
+      <Text>Day Cab Sideskirts</Text>
+      <Value>sideskirt.std_pnt_dc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Sideskirts</Group>
+      <Text>440 Sideskirts</Text>
+      <Value>sideskirt.std_pnt_42</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Sideskirts</Group>
+      <Text>840/860 Painted Sideskirts</Text>
+      <Value>sideskirt.std_pnt_74</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\Desktop\Modstudio november 2025\Data\ModData\SCS\Vehicles\ATS.volvo.vnl2025.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>volvo.vnl2025</InternalName>
+  <SoundItems />
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>ScS Software|Volvo_vnl2025</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>dc.volvo.vnl2025.cabin</InternalName>
+      <Name>cabin_300</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>42m.volvo.vnl2025.cabin</InternalName>
+      <Name>cabin_440</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>74m.volvo.vnl2025.cabin</InternalName>
+      <Name>cabin_840</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>74h.volvo.vnl2025.cabin</InternalName>
+      <Name>cabin_860</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2026-05-14T00:00:00</DateUpdated>
+</Variable>
