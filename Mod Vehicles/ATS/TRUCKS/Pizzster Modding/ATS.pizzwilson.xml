@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>e91bdadc-9f51-44ad-906b-229320639db8</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Pizzster Modding\ATS.pizzwilson.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>pizzwilson</InternalName>
+  <SoundItems />
+  <VehicleAuthor>pizzster modding</VehicleAuthor>
+  <VehicleName>Pizzster Modding|Wilson Commander</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Wilson Commander without Tarp</Description>
+      <InternalName>body.wilbody</InternalName>
+      <Name>Wilson Commander</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Wilson Commander painted tarp</Group>
+      <InternalName>body.wilbodyp</InternalName>
+      <Name>Painted Tarp Wilson Commander</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>
