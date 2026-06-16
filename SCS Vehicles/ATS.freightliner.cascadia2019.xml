@@ -111,6 +111,13 @@
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
+      <Group>Mudflaps</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia2024\mudflaps.aero_pnt.jpg</Image>
+      <Text>FlowBelow</Text>
+      <Value>mudflaps.aero_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
       <Group>Sideskirt 200 Chassis</Group>
       <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\ATS\FLcascadia\sideskirt.lng200_pt_a.jpg</Image>
       <Text>Aero paint</Text>
