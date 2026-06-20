@@ -2407,7 +2407,272 @@
       <Text>Roof (4100, 4700)</Text>
       <Value>roof_3.vangs_7_5</Value>
     </ListItem>	
+   <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4m</Group>
+      <Text>Body Main</Text>
+      <Value>body_main.bygg6_1x4_0</Value>
+    </ListItem>
     <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.bygg6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.bygg6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4m</Group>
+      <Text>Box Rear</Text>
+      <Value>body_rear_1.bygg6_1x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4.2m</Group>
+      <Text>Body Main</Text>
+      <Value>body_main.bygg6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4.2m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.bygg6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4.2m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.bygg6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4.2m</Group>
+      <Text>Box Rear</Text>
+      <Value>body_rear_1.bygg6_1x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4.4m</Group>
+      <Text>Body Main</Text>
+      <Value>body_main.bygg6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4.4m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.bygg6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4.4m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.bygg6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1) 4.4m</Group>
+      <Text>Box Rear</Text>
+      <Value>body_rear_1.bygg6_1x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1)</Group>
+      <Text>Ventilation Cover Left</Text>
+      <Value>l_body_2.bygg_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (3900, 6_1)</Group>
+      <Text>Ventilation Cover Right</Text>
+      <Value>r_body_2.bygg_6_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4m</Group>
+      <Text>Body Main</Text>
+      <Value>body_main.bygg6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.bygg6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.bygg6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4m</Group>
+      <Text>Box Rear</Text>
+      <Value>body_rear_1.bygg6_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4,2m</Group>
+      <Text>Body Main</Text>
+      <Value>body_main.bygg6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4,2m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.bygg6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4,2m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.bygg6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4,2m</Group>
+      <Text>Box Rear</Text>
+      <Value>body_rear_1.bygg6_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4,4m</Group>
+      <Text>Body Main</Text>
+      <Value>body_main.bygg6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4,4m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.bygg6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4,4m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.bygg6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5) 4,4m</Group>
+      <Text>Box Rear</Text>
+      <Value>body_rear_1.bygg6_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5)</Group>
+      <Text>Ventilation Cover Left</Text>
+      <Value>l_body_2.bygg_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4300, 6_5)</Group>
+      <Text>Ventilation Cover Right</Text>
+      <Value>r_body_2.bygg_6_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4m</Group>
+      <Text>Body Main</Text>
+      <Value>body_main.bygg7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.bygg7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.bygg7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4m</Group>
+      <Text>Box Rear</Text>
+      <Value>body_rear_1.bygg7_5x4_0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4,2m</Group>
+      <Text>Body Main</Text>
+      <Value>body_main.bygg7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4,2m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.bygg7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4,2m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.bygg7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4,2m</Group>
+      <Text>Box Rear</Text>
+      <Value>body_rear_1.bygg7_5x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4,4m</Group>
+      <Text>Body Main</Text>
+      <Value>body_main.bygg7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4,4m</Group>
+      <Text>Box Left</Text>
+      <Value>l_body_1.bygg7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4,4m</Group>
+      <Text>Box Right</Text>
+      <Value>r_body_1.bygg7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5) 4,4m</Group>
+      <Text>Box Rear</Text>
+      <Value>body_rear_1.bygg7_5x4_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5)</Group>
+      <Text>Ventilation Cover Left</Text>
+      <Value>l_body_2.bygg_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg (4100,4700,5700, 7_5)</Group>
+      <Text>Ventilation Cover Right</Text>
+      <Value>r_body_2.bygg_7_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Sidecover</Group>
+      <Text>Left</Text>
+      <Value>rigid_rail_l.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Sidecover</Group>
+      <Text>Right</Text>
+      <Value>rigid_rail_r.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Sidecover</Group>
+      <Text>Standard Left</Text>
+      <Value>rigid_rail_l.bussbygg2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Sidecover</Group>
+      <Text>Standard Right</Text>
+      <Value>rigid_rail_r.bussbygg2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Toolbox</Group>
+      <Text>Rigid Toolboxes Left Bussbygg</Text>
+      <Value>rigid_chs_l.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Toolbox</Group>
+      <Text>Rigid Toolboxes Right Bussbygg</Text>
+      <Value>rigid_chs_r.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Toolbox</Group>
+      <Text>rig_plate_a Bussbygg</Text>
+      <Value>rig_plate_a.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Toolbox</Group>
+      <Text>rig_plate_b Bussbygg</Text>
+      <Value>rig_plate_b.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Toolbox</Group>
+      <Text>Rigid Rear Toolbox Left Bussbygg</Text>
+      <Value>rigid_rear_l.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg Toolbox</Group>
+      <Text>Rigid Rear Toolbox Right Bussbygg</Text>
+      <Value>rigid_rear_r.bussbygg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bussbygg body_l_frame</Group>
+      <Text>Default/Default Extra Rubber</Text>
+      <Value>body_l_frame.paint</Value>
+    </ListItem>
+	  <ListItem>
       <Group>MT Eskjö Crane (3900)</Group>
       <Text>Body Crane 4.8x4.0m</Text>
       <Value>body_main.mte1_4_8x4_0</Value>
