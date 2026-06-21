@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>260" Custom, paint</Text>
+      <Value>chs_frame.260_ctm_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>260" Custom, paint II</Text>
+      <Value>chs_frame.260_ctm_03_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>260" Custom, paint &amp; Rear Frame</Text>
+      <Value>chs_frame.260_ctm_rfp</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>260" standard, paint</Text>
+      <Value>chs_frame.260_std_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>260" standard &amp; Rear Frame, paint</Text>
+      <Value>chs_frame.260_std_rf_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>275" Custom, paint</Text>
+      <Value>chs_frame.275_ctm_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>275" Custom, paint II</Text>
+      <Value>chs_frame.275_ctm_03_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>275" Custom, paint &amp; Rear Frame</Text>
+      <Value>chs_frame.275_ctm_rfp</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>275" standard, paint</Text>
+      <Value>chs_frame.275_std_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>275" standard &amp; Rear Frame, paint</Text>
+      <Value>chs_frame.275_std_rf_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>280" Custom, paint</Text>
+      <Value>chs_frame.280_ctm_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>280" Custom, paint II</Text>
+      <Value>chs_frame.280_ctm_03_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>280" Custom, paint &amp; Rear Frame</Text>
+      <Value>chs_frame.280_ctm_rfp</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>280" standard, paint</Text>
+      <Value>chs_frame.280_std_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>280" standard &amp; Rear Frame, paint</Text>
+      <Value>chs_frame.280_std_rf_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>285" Custom, paint</Text>
+      <Value>chs_frame.285_ctm_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>285" Custom, paint II</Text>
+      <Value>chs_frame.285_ctm_03_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>285" standard, paint</Text>
+      <Value>chs_frame.285_std_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>285" standard &amp; Rear Frame, paint</Text>
+      <Value>chs_frame.285_std_rf_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>295" Custom, paint</Text>
+      <Value>chs_frame.295_ctm_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>295" Custom, paint II</Text>
+      <Value>chs_frame.295_ctm_03_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>295" Custom, paint &amp; Rear Frame</Text>
+      <Value>chs_frame.295_ctm_rfp</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>295" standard, paint</Text>
+      <Value>chs_frame.295_std_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>295" standard &amp; Rear Frame, paint</Text>
+      <Value>chs_frame.295_std_rf_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>305" Custom, paint</Text>
+      <Value>chs_frame.305_ctm_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>305" Custom, paint II</Text>
+      <Value>chs_frame.305_ctm_03_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>305" Custom, paint &amp; Rear Frame</Text>
+      <Value>chs_frame.305_ctm_rfp</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>305" standard, paint</Text>
+      <Value>chs_frame.305_std_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>305" standard &amp; Rear Frame, paint</Text>
+      <Value>chs_frame.305_std_rf_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.244_w9b_62_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.244_w9b_62p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.244_w9b_72_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.244_w9b_72p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.260_62_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.260_62p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.260_72_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.260_72p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.260_w9b_62p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.260_w9b_72_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.260_w9b_72p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.275_62_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.275_62p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.275_72_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.275_72p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.275_86_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.275_86p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.280_62_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.280_62p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.280_72_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.280_72p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.280_86_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.280_86p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.285_62_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.285_62p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.285_72_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.285_72p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.285_86_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.285_86p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, chrom</Text>
+      <Value>r_chs_cover.295_62c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, chrom</Text>
+      <Value>r_chs_cover.295_62_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.295_62_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.295_62p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.295_72_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.295_72p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.295_86_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.305_62_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.305_62p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.305_72_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.305_72p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate II, paint</Text>
+      <Value>r_chs_cover.305_86_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" smooth Deckplate, paint</Text>
+      <Value>r_chs_cover.305_86p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>Rear Frame Cover, paint</Text>
+      <Value>r_deckplate.rf_cover_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" Smooth Deckplate, paint</Text>
+      <Value>r_deckplate.custom_02_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" Smooth Deckplate, paint</Text>
+      <Value>r_deckplate.custom_03_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" Smooth Deckplate &amp; Cover, paint</Text>
+      <Value>r_deckplate.cover_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Sunvisors</Group>
+      <Text>Bowtie, paint II</Text>
+      <Value>sunshield.bo_lcp2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Sunvisors</Group>
+      <Text>Bowtie paint</Text>
+      <Value>sunshield.bo_lc_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Sunvisors</Group>
+      <Text>Bowtie, Short paint II</Text>
+      <Value>sunshield.bo_s_lcp2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Sunvisors</Group>
+      <Text>Bowtie, paint &amp; Short</Text>
+      <Value>sunshield.bo_s_lc_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Sunvisors</Group>
+      <Text>exclusive, paint</Text>
+      <Value>sunshield.exc_chr_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Sunvisors</Group>
+      <Text>Forward Bowtie paint</Text>
+      <Value>sunshield.fwbo_lc_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Sunvisors</Group>
+      <Text>Forward Bowtie, Short paint</Text>
+      <Value>sunshield.fwbo_s_lcp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Sunvisors</Group>
+      <Text>OEM, paint paint</Text>
+      <Value>sunshield.oem_chr_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Sunvisors</Group>
+      <Text>Straight, paint</Text>
+      <Value>sunshield.sgt_lc_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Sunvisors</Group>
+      <Text>Straight, Short  paint</Text>
+      <Value>sunshield.sgt_s_lc_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>244" Custom, paint</Text>
+      <Value>w9b_chs_fr.244_ctm_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>244" Custom, paint II</Text>
+      <Value>w9b_chs_fr.244_ctm_03_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>244" Custom, paint &amp; Rear Frame</Text>
+      <Value>w9b_chs_fr.244_ctm_rfp</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>244" standard, paint</Text>
+      <Value>w9b_chs_fr.244_std_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>244" standard &amp; Rear Frame, paint</Text>
+      <Value>w9b_chs_fr.244_std_rf_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>260" Custom, paint</Text>
+      <Value>w9b_chs_fr.260_ctm_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>260" Custom, paint II</Text>
+      <Value>w9b_chs_fr.260_ctm_03_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>260" Custom, paint &amp; Rear Frame</Text>
+      <Value>w9b_chs_fr.260_ctm_rfp</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>260" standard, paint</Text>
+      <Value>w9b_chs_fr.260_std_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>260" standard &amp; Rear Frame, paint</Text>
+      <Value>w9b_chs_fr.260_std_rf_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>270" Custom, paint</Text>
+      <Value>w9b_chs_fr.270_ctm_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>270" Custom, paint II</Text>
+      <Value>w9b_chs_fr.270_ctm_03_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>270" Custom, paint &amp; Rear Frame</Text>
+      <Value>w9b_chs_fr.270_ctm_rfp</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>270" standard, paint</Text>
+      <Value>w9b_chs_fr.270_std_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>270" standard &amp; Rear Frame, paint</Text>
+      <Value>w9b_chs_fr.270_std_rf_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>280" Custom, paint</Text>
+      <Value>w9b_chs_fr.280_ctm_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>280" Custom, paint II</Text>
+      <Value>w9b_chs_fr.280_ctm_03_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>280" Custom, paint &amp; Rear Frame</Text>
+      <Value>w9b_chs_fr.280_ctm_rfp</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>280" standard, paint</Text>
+      <Value>w9b_chs_fr.280_std_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>280" standard &amp; Rear Frame, paint</Text>
+      <Value>w9b_chs_fr.280_std_rf_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>Rear Frame Cover</Text>
+      <Value>w9b_r_deck.rf_cover_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" Smooth Deckplate, paint</Text>
+      <Value>w9b_r_deck.custom_02_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" Smooth Deckplate, paint</Text>
+      <Value>w9b_r_deck.custom_03_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>TEMPLATE_Chassis_cover</Group>
+      <Text>30" Smooth deckplate &amp; cover</Text>
+      <Value>w9_r_deck.cover_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>Fifth Wheel and Rear Axles - W900L</Text>
+      <Value>chassi.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>Front Axle - W900L</Text>
+      <Value>f_chs_w9l.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>Fifth Wheel and Rear Axles - W900B</Text>
+      <Value>w9b_chassi.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>Front Axle - W900B</Text>
+      <Value>w9b_f_chs.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Hood</Group>
+      <Text>HOOD - W900B</Text>
+      <Value>w9b_hood.s_w900b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Hood</Group>
+      <Text>HOOD - W900L</Text>
+      <Value>hood.s_w900l</Value>
+    </ListItem>
+    <ListItem>
+      <Group> Necessary use 4x4 texture - NOMAP</Group>
+      <Text>285" Custom &amp; Rear Frame, paint</Text>
+      <Value>chs_frame.285_ctm_rfp</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\lucas\Documents\Mods Studio 2\UserVehicles\ATS.kw.w900_jsp.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>kw.w900_jsp</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Jasper.</VehicleAuthor>
+  <VehicleName>Jasper Modding|kenworth W900 Series (Nov 2025)</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>72' Cabins</Group>
+      <InternalName>72_flatop.kw.w900_jsp.cabin</InternalName>
+      <Name>72" AeroCab FlatTop</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>72' Cabins</Group>
+      <InternalName>72_sleeper.kw.w900_jsp.cabin</InternalName>
+      <Name>72" AeroCab Sleeper</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-11-20T00:00:00</DateUpdated>
+</Variable>
