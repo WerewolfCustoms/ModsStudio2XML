@@ -195,8 +195,20 @@
     <ListItem>
       <Description>Moffett Forklift</Description>
       <Group>Frame</Group>
-      <Text>Chains Middle/Right</Text>
+      <Text>Moffett</Text>
       <Value>r_equip_ext.moffett</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Zepro Small</Description>
+      <Group>Frame</Group>
+      <Text>Zepro Small</Text>
+      <Value>r_equip_ext.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Zepro Big</Description>
+      <Group>Frame</Group>
+      <Text>Zepro Big</Text>
+      <Value>r_equip_ext.paint</Value>
     </ListItem>
     <ListItem>
       <Description>Toolboxes Front/Left</Description>

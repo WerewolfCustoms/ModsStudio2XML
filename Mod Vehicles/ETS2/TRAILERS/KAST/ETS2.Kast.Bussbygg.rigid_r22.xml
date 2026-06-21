@@ -193,6 +193,18 @@
       <Value>chains_m_r.bussbygg</Value>
     </ListItem>
     <ListItem>
+      <Description>Zepro Small</Description>
+      <Group>Frame</Group>
+      <Text>Zepro Small</Text>
+      <Value>r_equip_ext.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Zepro Big</Description>
+      <Group>Frame</Group>
+      <Text>Zepro Big</Text>
+      <Value>r_equip_ext.paint</Value>
+    </ListItem>
+    <ListItem>
       <Description>Toolboxes Front/Left</Description>
       <Group>Sidecovers</Group>
       <Text>Toolboxes Front/Left</Text>
