@@ -59,6 +59,16 @@
       <Text>Lund Painted</Text>
       <Value>sunshield.lund</Value>
     </ListItem>
+     <ListItem>
+      <Group>Painted Fuel Tanks</Group>
+      <Text>60gal Single</Text>
+      <Value>tank.60gal_pnt</Value>
+    </ListItem>
+     <ListItem>
+      <Group>Painted Fuel Tanks</Group>
+      <Text>120gal Double</Text>
+      <Value>tank.120gal_pnt</Value>
+    </ListItem>
   </AccessoryItems>
   <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\International Conco 4170.xml</FilePath>
   <Game>ATS</Game>
