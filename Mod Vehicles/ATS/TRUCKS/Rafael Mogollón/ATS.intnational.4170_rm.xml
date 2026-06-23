@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>Paint</Text>
+      <Value>filters.pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>Paint/Dull</Text>
+      <Value>filters.pnt2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>Paint/Chrome</Text>
+      <Value>filters.pnt3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>Kysor KA300 (Paint)</Text>
+      <Value>r_deflector.kysor_col</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Deflector</Group>
+      <Text>Deflector 15¨ (Paint)</Text>
+      <Value>r_deflector.defl_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Bumpers</Group>
+      <Text>Standard Painted</Text>
+      <Value>bumper.st10_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Bumpers</Group>
+      <Text>Standard Painted Short</Text>
+      <Value>bumper.st10_pnts</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Bumpers</Group>
+      <Text>Gap Painted </Text>
+      <Value>bumper.gap_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Bumpers</Group>
+      <Text>FH Painted</Text>
+      <Value>bumper.fh_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshields</Group>
+      <Text>Stock Painted</Text>
+      <Value>sunshield.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshields</Group>
+      <Text>Lund Painted</Text>
+      <Value>sunshield.lund</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\International Conco 4170.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>intnational.4170_rm</InternalName>
+  <SoundItems />
+  <VehicleAuthor>rafael mogollón</VehicleAuthor>
+  <VehicleName>Rafael Mogollón|Intnational Conco F-4170</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>daycab.intnational.4170_rm.cabin</InternalName>
+      <Name>Daycab</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2026-06-23T00:00:00</DateUpdated>
+</Variable>
