@@ -2,23 +2,28 @@
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
   <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems />
   <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Crash Edits\ATS.freightliner.fld.xml</FilePath>
+  <XmlSource>User</XmlSource>
   <Game>ATS</Game>
   <InternalName>freightliner.fld</InternalName>
   <SoundItems />
-  <VehicleAuthor>crash edits</VehicleAuthor>
+  <VehicleAuthor>crash editz,oddfellow</VehicleAuthor>
   <VehicleName>Crash|Freightliner FLD</VehicleName>
   <VehicleType>OldTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
+      <AccessoryDependencies />
       <InternalName>highroof.freightliner.fld.cabin</InternalName>
       <Name>Raised Roof</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <InternalName>lowroof.freightliner.fld.cabin</InternalName>
       <Name>Mid Roof</Name>
     </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
-  <DateUpdated>2025-08-20T00:00:00</DateUpdated>
+  <DateUpdated>2026-06-26T00:00:00</DateUpdated>
 </Variable>
