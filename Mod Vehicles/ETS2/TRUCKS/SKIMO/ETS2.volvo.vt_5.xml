@@ -1,0 +1,2470 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 1 @@paint@@</Text>
+      <Value>air_bar.bar_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 1 Black Glossy @@paint@@</Text>
+      <Value>air_bar.bar_1_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 2 @@paint@@</Text>
+      <Value>air_bar.bar_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 2 Black Glossy @@paint@@</Text>
+      <Value>air_bar.bar_2_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 1 FH Black Glossy @@paint@@</Text>
+      <Value>air_bar.bar_3_bg_fh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 1 Volvo Black Glossy @@paint@@</Text>
+      <Value>air_bar.bar_3_bg_vo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 1 FH @@paint@@</Text>
+      <Value>air_bar.bar_3_fh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 1 Volvo @@paint@@</Text>
+      <Value>air_bar.bar_3_vo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 4 @@paint@@</Text>
+      <Value>air_bar.bar_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 4 FH @@paint@@</Text>
+      <Value>air_bar.bar_4fh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 4 Volvo @@paint@@</Text>
+      <Value>air_bar.bar_4vo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 5 @@paint@@</Text>
+      <Value>air_bar.bar_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 5 Black Glossy</Text>
+      <Value>air_bar.bar_5_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 5 @@chrome@@</Text>
+      <Value>air_bar.bar_5_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 5 Black Glossy @@paint@@</Text>
+      <Value>air_bar.bar_5_pbg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 5 @@paint@@ @@chrome@@</Text>
+      <Value>air_bar.bar_5_pc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 6 @@paint@@</Text>
+      <Value>air_bar.bar_6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 6 FH @@paint@@</Text>
+      <Value>air_bar.bar_6_fh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>Airbar 6 Volvo @@paint@@</Text>
+      <Value>air_bar.bar_6_vo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>@@stock@@</Text>
+      <Value>air_bar.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>@@stock@@</Text>
+      <Value>air_bar.stock_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>@@stock@@ @@chrome@@</Text>
+      <Value>air_bar.stock_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbar</Group>
+      <Text>@@stock@@ @@paint@@</Text>
+      <Value>air_bar.stock_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tandem</Group>
+      <Text>BDF Aufbau</Text>
+      <Value>aufbauten.box_tnk</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tandem</Group>
+      <Text>Fishtank</Text>
+      <Value>aufbauten.fsh_tnk</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tandem</Group>
+      <Text>Oiltank</Text>
+      <Value>aufbauten.oil_tnk</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text>420 @@chrome@@</Text>
+      <Value>badge.badge_420</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text>420 Black Glossy</Text>
+      <Value>badge.badge_420bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text>460 @@chrome@@</Text>
+      <Value>badge.badge_460</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text>460 Black Glossy</Text>
+      <Value>badge.badge_460bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text>500 @@chrome@@</Text>
+      <Value>badge.badge_500</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text>500 Black Glossy</Text>
+      <Value>badge.badge_500bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text>540 @@chrome@@</Text>
+      <Value>badge.badge_540</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text>540 Black Glossy</Text>
+      <Value>badge.badge_540bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text>550 @@chrome@@</Text>
+      <Value>badge.badge_550</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text>550 Black Glossy</Text>
+      <Value>badge.badge_550bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text>650 @@chrome@@</Text>
+      <Value>badge.badge_650</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text>650 Black Glossy</Text>
+      <Value>badge.badge_650bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text>750 @@chrome@@</Text>
+      <Value>badge.badge_750</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text>750 Black Glossy</Text>
+      <Value>badge.badge_750bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Slots</Group>
+      <Text>Slots</Text>
+      <Value>beacon.slot</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Slots</Group>
+      <Text>Slots</Text>
+      <Value>beacon.slot_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>3 Part @@chrome@@</Text>
+      <Value>b_grill.grill_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>3 Part Black Glossy</Text>
+      <Value>b_grill.grill_1bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>3 Part Sidemarker Black Glossy</Text>
+      <Value>b_grill.grill_1bgm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>3 Part Sidemarker @@chrome@@</Text>
+      <Value>b_grill.grill_1m</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>3 Part @@paint@@</Text>
+      <Value>b_grill.grill_1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>3 Part Sidemarker @@paint@@</Text>
+      <Value>b_grill.grill_1pm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>3 Part @@chrome@@</Text>
+      <Value>b_grill.grill_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>3 Part Black Glossy</Text>
+      <Value>b_grill.grill_2bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>3 Part Sidemarker Black Glossy</Text>
+      <Value>b_grill.grill_2bgm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>3 Part Sidemarker @@chrome@@</Text>
+      <Value>b_grill.grill_2m</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>3 Part @@paint@@</Text>
+      <Value>b_grill.grill_2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>3 Part Sidemarker @@paint@@</Text>
+      <Value>b_grill.grill_2pm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>1 Part @@chrome@@</Text>
+      <Value>b_grill.grill_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>1 Part Black Glossy</Text>
+      <Value>b_grill.grill_3bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>1 Part @@paint@@</Text>
+      <Value>b_grill.grill_3p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>1 Part @@chrome@@</Text>
+      <Value>b_grill.grill_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>1 Part Black Glossy</Text>
+      <Value>b_grill.grill_4bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B Grill</Group>
+      <Text>1 Part @@paint@@</Text>
+      <Value>b_grill.grill_4p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Box</Group>
+      <Text>Custom Box</Text>
+      <Value>chs_lr.box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Box</Group>
+      <Text>Custom Box</Text>
+      <Value>chs_lr.box_fsh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Estinguiser</Group>
+      <Text>Feuerloescher</Text>
+      <Value>chs_lr.fire_ext</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Estinguiser</Group>
+      <Text>Feuerloescher</Text>
+      <Value>chs_lr.fire_ext_fsh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Wheel chocks</Group>
+      <Text>Unterlegkeile + Box</Text>
+      <Value>chs_lr.keile</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Wheel chocks</Group>
+      <Text>Unterlegkeile + Box</Text>
+      <Value>chs_lr.keile_fsh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spare wheel</Group>
+      <Text>Ersatzrad</Text>
+      <Value>chs_lr.rad</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spare wheel</Group>
+      <Text>Ersatzrad</Text>
+      <Value>chs_lr.rad_fsh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Custom Box</Group>
+      <Image />
+      <Text>Custom Box</Text>
+      <Value>chs_rr.box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Custom Box</Group>
+      <Text>Custom Box</Text>
+      <Value>chs_rr.box_fsh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Extinguisher</Group>
+      <Text>Feuerloescher</Text>
+      <Value>chs_rr.fire_ext</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Extinguisher</Group>
+      <Text>Feuerloescher</Text>
+      <Value>chs_rr.fire_ext_fsh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Wheel chocks</Group>
+      <Text>Unterlegkeile + Box</Text>
+      <Value>chs_rr.keile</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Wheel chocks</Group>
+      <Text>Unterlegkeile + Box</Text>
+      <Value>chs_rr.keile_fsh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spare wheel</Group>
+      <Text>Ersatzrad</Text>
+      <Value>chs_rr.rad</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spare wheel</Group>
+      <Text>Ersatzrad</Text>
+      <Value>chs_rr.rad_fsh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Container </Group>
+      <Text>Metallschrott</Text>
+      <Value>container.metall</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Decals</Group>
+      <Text>@@paint@@</Text>
+      <Value>decals.decal_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Decals</Group>
+      <Text>No Lamps @@paint@@</Text>
+      <Value>decals.decal_p_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Decals</Group>
+      <Text>No Lamps @@paint@@</Text>
+      <Value>decals.decal_p_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Decals</Group>
+      <Text>Your Text</Text>
+      <Value>decals.decal_yt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Decals</Group>
+      <Text>No Lamps Your Text</Text>
+      <Value>decals.decal_yt_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Decals</Group>
+      <Text>No Lamps Your Text</Text>
+      <Value>decals.decal_yt_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Doorhndl</Group>
+      <Text>Black Glossy</Text>
+      <Value>doorhndl.blck_gloss</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Doorhndl</Group>
+      <Text>@@chrome@@</Text>
+      <Value>doorhndl.chrm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Doorhndl</Group>
+      <Text>@@paint@@</Text>
+      <Value>doorhndl.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Doorstep</Group>
+      <Text>@@stock@@ @@paint@@</Text>
+      <Value>doorstep.step_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Doorstep</Group>
+      <Text>@@stock@@ Black Glossy</Text>
+      <Value>doorstep.step_1bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Doorstep</Group>
+      <Text>@@stock@@ @@chrome@@</Text>
+      <Value>doorstep.step_1c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Doorstep</Group>
+      <Text>@@stock@@ @@paint@@</Text>
+      <Value>doorstep.step_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Doorstep</Group>
+      <Text>@@stock@@ Black Glossy</Text>
+      <Value>doorstep.step_8x4bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Doorstep</Group>
+      <Text>@@stock@@ @@chrome@@</Text>
+      <Value>doorstep.step_8x4c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Pipe Curved 2 @@chrome@@</Text>
+      <Value>exhaust_m.curv_2c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Pipe Curved 2 @@paint@@</Text>
+      <Value>exhaust_m.curv_2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Pipe Curved @@chrome@@</Text>
+      <Value>exhaust_m.curv_8x4c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Pipe Curved @@paint@@</Text>
+      <Value>exhaust_m.curv_8x4p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Pipe Curved @@chrome@@</Text>
+      <Value>exhaust_m.curv_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Pipe Curved @@paint@@</Text>
+      <Value>exhaust_m.curv_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Pipe Flat 2 @@chrome@@</Text>
+      <Value>exhaust_m.flat_2c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Pipe Flat 2 @@paint@@</Text>
+      <Value>exhaust_m.flat_2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Pipe Flat @@chrome@@</Text>
+      <Value>exhaust_m.flat_8x4c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Pipe Flat @@paint@@</Text>
+      <Value>exhaust_m.flat_8x4p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Pipe Flat @@chrome@@</Text>
+      <Value>exhaust_m.flat_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Pipe Flat @@paint@@</Text>
+      <Value>exhaust_m.flat_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>No Pipe @@paint@@</Text>
+      <Value>exhaust_m.no_pipe</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Pipe Oldschool @@chrome@@</Text>
+      <Value>exhaust_m.old_8x4_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Pipe Oldschool @@paint@@</Text>
+      <Value>exhaust_m.old_8x4_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Pipe Oldschool @@chrome@@</Text>
+      <Value>exhaust_m.old_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>Pipe Oldschool @@paint@@</Text>
+      <Value>exhaust_m.old_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Filter</Group>
+      <Text>Black Glossy</Text>
+      <Value>filter.glossy</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Filter</Group>
+      <Text>@@paint@@</Text>
+      <Value>filter.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Filter</Group>
+      <Text>@@plastic@@</Text>
+      <Value>filter.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Badge</Group>
+      <Text>FH @@chrome@@</Text>
+      <Value>f_badge.fh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Badge</Group>
+      <Text>FH16 @@chrome@@</Text>
+      <Value>f_badge.fh16</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Badge</Group>
+      <Text>FH16 @@paint@@</Text>
+      <Value>f_badge.fh16_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Badge</Group>
+      <Text>FH @@paint@@</Text>
+      <Value>f_badge.fh_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Bumper</Group>
+      <Text>@@stock@@</Text>
+      <Value>f_bumper.bumper_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Bumper</Group>
+      <Text>@@stock@@ with Lip</Text>
+      <Value>f_bumper.bumper_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Bumper</Group>
+      <Text>Highbeam with Lip @@paint@@</Text>
+      <Value>f_bumper.bumper_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Bumper</Group>
+      <Text>Highbeam with Lip Tinted @@paint@@</Text>
+      <Value>f_bumper.bumper_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Bumper</Group>
+      <Text>Lip @@paint@@</Text>
+      <Value>f_bumper.bumper_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Fender</Group>
+      <Text>Stock</Text>
+      <Value>f_fender_cab.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Fender</Group>
+      <Image />
+      <Text>Stock</Text>
+      <Value>f_fender_chs.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>City @@chrome@@</Text>
+      <Value>f_grill.grill_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>City Black Glossy</Text>
+      <Value>f_grill.grill_1bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>City @@paint@@</Text>
+      <Value>f_grill.grill_1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Highway @@chrome@@</Text>
+      <Value>f_grill.grill_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Highway Black Glossy</Text>
+      <Value>f_grill.grill_2bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Highway @@paint@@</Text>
+      <Value>f_grill.grill_2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Offroad @@chrome@@</Text>
+      <Value>f_grill.grill_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Offroad Black Glossy</Text>
+      <Value>f_grill.grill_3bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Offroad @@paint@@</Text>
+      <Value>f_grill.grill_3p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Offroad 2 @@chrome@@</Text>
+      <Value>f_grill.grill_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Offroad 2 Black Glossy</Text>
+      <Value>f_grill.grill_4bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Offroad 2 @@paint@@</Text>
+      <Value>f_grill.grill_4p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Freeway @@chrome@@</Text>
+      <Value>f_grill.grill_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Freeway Black Glossy</Text>
+      <Value>f_grill.grill_5bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>Freeway @@paint@@</Text>
+      <Value>f_grill.grill_5p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Inlay</Group>
+      <Text>@@paint@@</Text>
+      <Value>f_inlay_chs.inlay_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Inlay</Group>
+      <Text>Custom @@paint@@</Text>
+      <Value>f_inlay_chs.shape_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Inlay</Group>
+      <Text>Custom @@paint@@ @@chrome@@</Text>
+      <Value>f_inlay_chs.shape_1c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Inlay</Group>
+      <Text>Custom @@chrome@@</Text>
+      <Value>f_inlay_chs.shape_1c1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Inlay</Group>
+      <Text>Custom Plastic Glossy</Text>
+      <Value>f_inlay_chs.shape_1pg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Inlay</Group>
+      <Text>Custom Plastic Glossy</Text>
+      <Value>f_inlay_chs.shape_1pg1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Inlay</Group>
+      <Text>@@paint@@ @@chrome@@</Text>
+      <Value>f_inlay_chs.stock_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Inlay</Group>
+      <Text>@@chrome@@</Text>
+      <Value>f_inlay_chs.stock_c1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Inlay</Group>
+      <Text>Plastic Glossy @@paint@@</Text>
+      <Value>f_inlay_chs.stock_pg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Inlay</Group>
+      <Text>Plastic Glossy</Text>
+      <Value>f_inlay_chs.stock_pg1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F inlay</Group>
+      <Text>@@paint@@</Text>
+      <Value>f_intake_cab.inlay_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F intake</Group>
+      <Text>@@paint@@ @@chrome@@</Text>
+      <Value>f_intake_cab.inlay_1c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F inlay</Group>
+      <Text>@@chrome@@</Text>
+      <Value>f_intake_cab.inlay_1c1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F inlay</Group>
+      <Text>Plastic Glossy @@paint@@</Text>
+      <Value>f_intake_cab.inlay_1pg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F inlay</Group>
+      <Text>Plastic Glossy</Text>
+      <Value>f_intake_cab.inlay_1pg1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F inlay</Group>
+      <Text>@@paint@@ @@chrome@@</Text>
+      <Value>f_intake_chs.inlay_1c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F inlay</Group>
+      <Text>@@paint@@</Text>
+      <Value>f_intake_chs.inlay_1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F inlay</Group>
+      <Text>Plastic Glossy @@paint@@</Text>
+      <Value>f_intake_chs.inlay_1pg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F inlay</Group>
+      <Text>Plastic Glossy @@paint@@</Text>
+      <Value>f_intake_chs.inlay_1pg1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F inlay</Group>
+      <Text>Plastic Glossy</Text>
+      <Value>f_intake_chs.inlay_1pg2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F inlay</Group>
+      <Text>Plastic Glossy @@chrome@@</Text>
+      <Value>f_intake_chs.inlay_1pgc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F inlay</Group>
+      <Text>Plastic Glossy @@chrome@@</Text>
+      <Value>f_intake_chs.inlay_1pgc1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F inlay</Group>
+      <Text>@@paint@@ @@chrome@@</Text>
+      <Value>f_intake_chs.inlay_2c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F inlay</Group>
+      <Text>@@chrome@@</Text>
+      <Value>f_intake_chs.inlay_3c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Light</Group>
+      <Text>@@stock@@Full Paint</Text>
+      <Value>f_light_chs.led_fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Light</Group>
+      <Text>Orange DRL @@stock@@Full Paint</Text>
+      <Value>f_light_chs.led_fpo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Light</Group>
+      <Text>Tinted Glas @@stock@@Full Paint</Text>
+      <Value>f_light_chs.led_fp_t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Light</Group>
+      <Text>Orange DRL Tinted Glas @@stock@@Full Paint</Text>
+      <Value>f_light_chs.led_fp_to</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Light</Group>
+      <Text>Yellow Tinted Glas @@stock@@Full Paint</Text>
+      <Value>f_light_chs.led_fp_ty</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Light</Group>
+      <Text>Orange DRL Yellow Tinted @@stock@@Full Paint</Text>
+      <Value>f_light_chs.led_fp_tyo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Light</Group>
+      <Text>@@stock@@</Text>
+      <Value>f_light_chs.led</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Light</Group>
+      <Text>Orange DRL @@stock@@</Text>
+      <Value>f_light_chs.led_o</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Light</Group>
+      <Text>Tinted Glas @@stock@@</Text>
+      <Value>f_light_chs.led_t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Light</Group>
+      <Text>Orange DRL Tinted Glas @@stock@@</Text>
+      <Value>f_light_chs.led_to</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Light</Group>
+      <Text>Yellow Tinted Glas @@stock@@</Text>
+      <Value>f_light_chs.led_ty</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Light</Group>
+      <Text>Orange DRL Yellow Tinted @@stock@@</Text>
+      <Value>f_light_chs.led_tyo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F logo</Group>
+      <Text>@@paint@@</Text>
+      <Value>f_logo.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F logo</Group>
+      <Text>Orange Light @@paint@@</Text>
+      <Value>f_logo.paint_o</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F logo</Group>
+      <Text>White Light @@paint@@</Text>
+      <Value>f_logo.paint_w</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F logo</Group>
+      <Text>@@stock@@</Text>
+      <Value>f_logo.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F logo</Group>
+      <Text>Orange Light@@stock@@</Text>
+      <Value>f_logo.stock_o</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F logo</Group>
+      <Text>White Light@@stock@@</Text>
+      <Value>f_logo.stock_w</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Step</Group>
+      <Text>@@stock@@ @@paint@@</Text>
+      <Value>f_step.step_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Step</Group>
+      <Text>@@stock@@ Black Glossy</Text>
+      <Value>f_step.step_1bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Step</Group>
+      <Text>@@stock@@ @@chrome@@</Text>
+      <Value>f_step.step_1c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Step</Group>
+      <Text>Plate @@paint@@</Text>
+      <Value>f_step.step_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Wind frame</Group>
+      <Text>@@stock@@</Text>
+      <Value>f_wnd_frame.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Guide poles</Group>
+      <Text>Orange Light Black Glossy</Text>
+      <Value>guide_poles.black_o</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Guide poles</Group>
+      <Text>White Light Black Glossy</Text>
+      <Value>guide_poles.black_w</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Guide poles</Group>
+      <Text>Orange Light @@chrome@@</Text>
+      <Value>guide_poles.chrome_o</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Guide poles</Group>
+      <Text>White Light @@chrome@@</Text>
+      <Value>guide_poles.chrome_w</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Guide poles</Group>
+      <Text>Orange Light @@paint@@</Text>
+      <Value>guide_poles.paint_o</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Guide poles</Group>
+      <Text>White Light @@paint@@</Text>
+      <Value>guide_poles.paint_w</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Hood</Group>
+      <Text>@@paint@@</Text>
+      <Value>hood.f_painted</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Hood</Group>
+      <Text>@@paint@@</Text>
+      <Value>hood.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Group>L Box</Group>
+      <Text>@@paint@@</Text>
+      <Value>l_box.box_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>L Box</Group>
+      <Text>Beacon Highbeam @@paint@@</Text>
+      <Value>l_box.box_1_hb</Value>
+    </ListItem>
+    <ListItem>
+      <Group>L Box</Group>
+      <Text>Michelin Orange @@paint@@</Text>
+      <Value>l_box.box_1_mo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>L Box</Group>
+      <Text>Michelin White @@paint@@</Text>
+      <Value>l_box.box_1_mw</Value>
+    </ListItem>
+    <ListItem>
+      <Group>L Box</Group>
+      <Text>@@paint@@</Text>
+      <Value>l_box.box_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>L Box</Group>
+      <Text>Beacon Highbeam @@paint@@</Text>
+      <Value>l_box.box_2_hb</Value>
+    </ListItem>
+    <ListItem>
+      <Group>L Box</Group>
+      <Text>Michelin Orange @@paint@@</Text>
+      <Value>l_box.box_2_mo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>L Box</Group>
+      <Text>Michelin White @@paint@@</Text>
+      <Value>l_box.box_2_mw</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirror</Group>
+      <Text>@@camera@@</Text>
+      <Value>mirror.cam_digi</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirror</Group>
+      <Text>Black Glossy @@camera@@</Text>
+      <Value>mirror.cam_digi_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirror</Group>
+      <Text>@@paint@@</Text>
+      <Value>mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirror</Group>
+      <Text>Black Glossy</Text>
+      <Value>mirror.shape1_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirror</Group>
+      <Text>Black Glossy @@chrome@@</Text>
+      <Value>mirror.shape1_bgc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirror</Group>
+      <Text>@@paint@@</Text>
+      <Value>mirror.shape1_fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirror</Group>
+      <Text>@@paint@@ @@chrome@@</Text>
+      <Value>mirror.shape1_fpc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>Custom bumper @@paint@@</Text>
+      <Value>r_bumper.custom_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>Custom bumper Slots @@paint@@</Text>
+      <Value>r_bumper.custom_1ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>Custom bumper Slots @@paint@@</Text>
+      <Value>r_bumper.custom_1s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>Custom bumper 2 @@paint@@</Text>
+      <Value>r_bumper.custom_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>@@stock@@</Text>
+      <Value>r_bumper.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>Euro 3 @@chrome@@</Text>
+      <Value>r_bumper.swp_eu3_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>Euro 3 @@steel@@</Text>
+      <Value>r_bumper.swp_eu3_m</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>Euro 3 @@paint@@</Text>
+      <Value>r_bumper.swp_eu3_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>Slots @@chrome@@</Text>
+      <Value>r_bumper.swp_slot_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>Slots @@steel@@</Text>
+      <Value>r_bumper.swp_slot_m</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>Slots @@paint@@</Text>
+      <Value>r_bumper.swp_slot_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom @@chrome@@</Text>
+      <Value>r_chs_cover.chrm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom @@chrome@@</Text>
+      <Value>r_chs_cover.chrm_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom Checkerplate @@chrome@@</Text>
+      <Value>r_chs_cover.chrm_4x2r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom @@chrome@@</Text>
+      <Value>r_chs_cover.chrm_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom Checkerplate @@chrome@@</Text>
+      <Value>r_chs_cover.chrm_8x4r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom @@chrome@@</Text>
+      <Value>r_chs_cover.chrm_hkl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom Checkerplate @@chrome@@</Text>
+      <Value>r_chs_cover.chrm_hklr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom @@chrome@@</Text>
+      <Value>r_chs_cover.chrm_oil</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom Checkerplate @@chrome@@</Text>
+      <Value>r_chs_cover.chrm_oilr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom Checkerplate @@chrome@@</Text>
+      <Value>r_chs_cover.chrm_r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom @@chrome@@</Text>
+      <Value>r_chs_cover.chrm_swp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom Checkerplate @@chrome@@</Text>
+      <Value>r_chs_cover.chrm_swpr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom @@chrome@@</Text>
+      <Value>r_chs_cover.chrm_tnk</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom Checkerplate @@chrome@@</Text>
+      <Value>r_chs_cover.chrm_tnkr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom @@paint@@</Text>
+      <Value>r_chs_cover.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom @@paint@@</Text>
+      <Value>r_chs_cover.painted_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom Checkerplate @@paint@@</Text>
+      <Value>r_chs_cover.painted_4x2r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom @@paint@@</Text>
+      <Value>r_chs_cover.painted_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom Checkerplate @@paint@@</Text>
+      <Value>r_chs_cover.painted_8x4r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom @@paint@@</Text>
+      <Value>r_chs_cover.painted_hkl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom Checkerplate @@paint@@</Text>
+      <Value>r_chs_cover.painted_hklr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom @@paint@@</Text>
+      <Value>r_chs_cover.painted_oil</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom Checkerplate @@paint@@</Text>
+      <Value>r_chs_cover.painted_oilr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom Checkerplate @@paint@@</Text>
+      <Value>r_chs_cover.painted_r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom @@paint@@</Text>
+      <Value>r_chs_cover.painted_swp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom Checkerplate @@paint@@</Text>
+      <Value>r_chs_cover.painted_swpr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom @@paint@@</Text>
+      <Value>r_chs_cover.painted_tnk</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>Custom Checkerplate @@paint@@</Text>
+      <Value>r_chs_cover.painted_tnkr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>@@stock@@</Text>
+      <Value>r_chs_cover.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>@@stock@@</Text>
+      <Value>r_chs_cover.stock_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>@@stock@@ Black Glossy</Text>
+      <Value>r_chs_cover.stock_8x4bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>@@stock@@ @@chrome@@</Text>
+      <Value>r_chs_cover.stock_8x4c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>@@stock@@ @@paint@@</Text>
+      <Value>r_chs_cover.stock_8x4p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>@@stock@@ Black Glossy</Text>
+      <Value>r_chs_cover.stock_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>@@stock@@ @@chrome@@</Text>
+      <Value>r_chs_cover.stock_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R chassis</Group>
+      <Text>@@stock@@ @@paint@@</Text>
+      <Value>r_chs_cover.stock_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>@@paint@@</Text>
+      <Value>r_fender.4x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>@@paint@@</Text>
+      <Value>r_fender.6x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>@@paint@@</Text>
+      <Value>r_fender.6x4_swp_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>@@paint@@</Text>
+      <Value>r_fender.8x4_hkl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>@@paint@@</Text>
+      <Value>r_fender.8x4_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>@@paint@@</Text>
+      <Value>r_fender_cov.4x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>@@paint@@</Text>
+      <Value>r_fender_cov.6x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Box @@paint@@</Text>
+      <Value>r_fender_cov.6x2_p1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Box @@paint@@ @@chrome@@</Text>
+      <Value>r_fender_cov.6x2_p1c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Box Checkerplate @@paint@@ @@chrome@@</Text>
+      <Value>r_fender_cov.6x2_p1cr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Box Checkerplate @@paint@@</Text>
+      <Value>r_fender_cov.6x2_p1r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Box @@chrome@@</Text>
+      <Value>r_fender_cov.8x4_hkl_c1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Box Checkerplate @@chrome@@</Text>
+      <Value>r_fender_cov.8x4_hkl_c1r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>@@paint@@</Text>
+      <Value>r_fender_cov.8x4_hkl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Box @@paint@@</Text>
+      <Value>r_fender_cov.8x4_hkl_p1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Box Checkerplate @@paint@@</Text>
+      <Value>r_fender_cov.8x4_hkl_p1r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>@@paint@@</Text>
+      <Value>r_fender_cov.8x4_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Box @@paint@@</Text>
+      <Value>r_fender_cov.8x4_p1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Box @@paint@@ @@chrome@@</Text>
+      <Value>r_fender_cov.8x4_p1c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Box Checkerplate @@paint@@ @@chrome@@</Text>
+      <Value>r_fender_cov.8x4_p1cr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Box Checkerplate @@paint@@</Text>
+      <Value>r_fender_cov.8x4_p1r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Grill</Group>
+      <Text>Grill 1 @@paint@@</Text>
+      <Value>r_grill.grill_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Grill</Group>
+      <Text>Grill 1 Black Glossy</Text>
+      <Value>r_grill.grill_1bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Grill</Group>
+      <Text>Grill 1 @@chrome@@</Text>
+      <Value>r_grill.grill_1c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Grill</Group>
+      <Text>Grill 2 @@paint@@</Text>
+      <Value>r_grill.grill_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Grill</Group>
+      <Text>Grill 2 Black Glossy</Text>
+      <Value>r_grill.grill_2bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Grill</Group>
+      <Text>Grill 2 @@chrome@@</Text>
+      <Value>r_grill.grill_2c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Grill</Group>
+      <Text>Grill 3 @@paint@@</Text>
+      <Value>r_grill.grill_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Grill</Group>
+      <Text>Grill 3 Black Glossy</Text>
+      <Value>r_grill.grill_3bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Grill</Group>
+      <Text>Grill 3 @@chrome@@</Text>
+      <Value>r_grill.grill_3c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Stiholt</Text>
+      <Value>r_mudflap.cus_1_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Stiholt</Text>
+      <Value>r_mudflap.cus_1_4x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Stiholt</Text>
+      <Value>r_mudflap.cus_1_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Stiholt</Text>
+      <Value>r_mudflap.cus_1_6x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Stiholt</Text>
+      <Value>r_mudflap.cus_1_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Stiholt</Text>
+      <Value>r_mudflap.cus_1_8x4ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Truckjunkie</Text>
+      <Value>r_mudflap.cus_2_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Truckjunkie</Text>
+      <Value>r_mudflap.cus_2_4x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Truckjunkie</Text>
+      <Value>r_mudflap.cus_2_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Truckjunkie</Text>
+      <Value>r_mudflap.cus_2_6x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Truckjunkie</Text>
+      <Value>r_mudflap.cus_2_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Truckjunkie</Text>
+      <Value>r_mudflap.cus_2_8x4ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>King of the Road</Text>
+      <Value>r_mudflap.cus_3_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>King of the Road</Text>
+      <Value>r_mudflap.cus_3_4x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>King of the Road</Text>
+      <Value>r_mudflap.cus_3_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>King of the Road</Text>
+      <Value>r_mudflap.cus_3_6x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>King of the Road</Text>
+      <Value>r_mudflap.cus_3_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>King of the Road</Text>
+      <Value>r_mudflap.cus_3_8x4ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>No Friends</Text>
+      <Value>r_mudflap.cus_4_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>No Friends</Text>
+      <Value>r_mudflap.cus_4_4x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>No Friends</Text>
+      <Value>r_mudflap.cus_4_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>No Friends</Text>
+      <Value>r_mudflap.cus_4_6x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>No Friends</Text>
+      <Value>r_mudflap.cus_4_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>No Friends</Text>
+      <Value>r_mudflap.cus_4_8x4ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Volvo</Text>
+      <Value>r_mudflap.cus_5_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Volvo</Text>
+      <Value>r_mudflap.cus_5_4x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Volvo</Text>
+      <Value>r_mudflap.cus_5_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Volvo</Text>
+      <Value>r_mudflap.cus_5_6x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Volvo</Text>
+      <Value>r_mudflap.cus_5_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Volvo</Text>
+      <Value>r_mudflap.cus_5_8x4ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Your Text</Text>
+      <Value>r_mudflap.cus_6_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Your Text</Text>
+      <Value>r_mudflap.cus_6_4x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Your Text</Text>
+      <Value>r_mudflap.cus_6_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Your Text</Text>
+      <Value>r_mudflap.cus_6_6x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Your Text</Text>
+      <Value>r_mudflap.cus_6_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Your Text</Text>
+      <Value>r_mudflap.cus_6_8x4ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Volvo @@stock@@</Text>
+      <Value>r_mudflap.stck_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>@@stock@@</Text>
+      <Value>r_mudflap.stck_4x2_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Your Text @@stock@@</Text>
+      <Value>r_mudflap.stck_4x2_yt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Volvo @@stock@@</Text>
+      <Value>r_mudflap.stck_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>@@stock@@</Text>
+      <Value>r_mudflap.stck_6x2_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Your Text @@stock@@</Text>
+      <Value>r_mudflap.stck_6x2_yt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Volvo @@stock@@</Text>
+      <Value>r_mudflap.stck_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>@@stock@@</Text>
+      <Value>r_mudflap.stck_8x4_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Your Text @@stock@@</Text>
+      <Value>r_mudflap.stck_8x4_yt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Volvo @@stock@@</Text>
+      <Value>r_mudflap.stck_hkl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>@@stock@@</Text>
+      <Value>r_mudflap.stck_hkl_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Your Text @@stock@@</Text>
+      <Value>r_mudflap.stck_hkl_yt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Volvo @@stock@@</Text>
+      <Value>r_mudflap.stck_tnk</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>@@stock@@</Text>
+      <Value>r_mudflap.stck_tnk_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Your Text @@stock@@</Text>
+      <Value>r_mudflap.stck_tnk_yt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube Black Glossy</Text>
+      <Value>sidebar.cus4xp_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@chrome@@</Text>
+      <Value>sidebar.cus4xp_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.cus4xp_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube Black Glossy</Text>
+      <Value>sidebar.cus4x_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@chrome@@</Text>
+      <Value>sidebar.cus4x_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.cus4x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube Black Glossy</Text>
+      <Value>sidebar.cus6xp_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@chrome@@</Text>
+      <Value>sidebar.cus6xp_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.cus6xp_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube Black Glossy</Text>
+      <Value>sidebar.cus6x_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@chrome@@</Text>
+      <Value>sidebar.cus6x_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.cus6x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube Black Glossy</Text>
+      <Value>sidebar.cus8x_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@chrome@@</Text>
+      <Value>sidebar.cus8x_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.cus8x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube Black Glossy</Text>
+      <Value>sidebar.cus_hkl_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@chrome@@</Text>
+      <Value>sidebar.cus_hkl_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.cus_hkl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube Black Glossy</Text>
+      <Value>sidebar.cus_swp_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@chrome@@</Text>
+      <Value>sidebar.cus_swp_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.cus_swp_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube Black Glossy</Text>
+      <Value>sidebar.cus_tnk_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@chrome@@</Text>
+      <Value>sidebar.cus_tnk_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.cus_tnk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe Black Glossy</Text>
+      <Value>sidebar.pi_cus4xp_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@chrome@@</Text>
+      <Value>sidebar.pi_cus4xp_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_cus4xp_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe Black Glossy</Text>
+      <Value>sidebar.pi_cus4x_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@chrome@@</Text>
+      <Value>sidebar.pi_cus4x_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_cus4x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe Black Glossy</Text>
+      <Value>sidebar.pi_cus6xp_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@chrome@@</Text>
+      <Value>sidebar.pi_cus6xp_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_cus6xp_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe Black Glossy</Text>
+      <Value>sidebar.pi_cus6x_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@chrome@@</Text>
+      <Value>sidebar.pi_cus6x_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_cus6x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe Black Glossy</Text>
+      <Value>sidebar.pi_cus8x_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@chrome@@</Text>
+      <Value>sidebar.pi_cus8x_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_cus8x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe Black Glossy</Text>
+      <Value>sidebar.pi_cus_hkl_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@chrome@@</Text>
+      <Value>sidebar.pi_cus_hkl_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_cus_hkl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe Black Glossy</Text>
+      <Value>sidebar.pi_cus_swp_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@chrome@@</Text>
+      <Value>sidebar.pi_cus_swp_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_cus_swp_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe Black Glossy</Text>
+      <Value>sidebar.pi_cus_tnk_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@chrome@@</Text>
+      <Value>sidebar.pi_cus_tnk_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_cus_tnk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe Black Glossy</Text>
+      <Value>sidebar.pi_stk4x_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@chrome@@</Text>
+      <Value>sidebar.pi_stk4x_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_stk4x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe Black Glossy</Text>
+      <Value>sidebar.pi_stk6x_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@chrome@@</Text>
+      <Value>sidebar.pi_stk6x_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_stk6x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe Black Glossy</Text>
+      <Value>sidebar.pi_stk8x_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@chrome@@</Text>
+      <Value>sidebar.pi_stk8x_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_stk8x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe Black Glossy</Text>
+      <Value>sidebar.pi_stk_hkl_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@chrome@@</Text>
+      <Value>sidebar.pi_stk_hkl_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_stk_hkl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe Black Glossy</Text>
+      <Value>sidebar.pi_stk_swp_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@chrome@@</Text>
+      <Value>sidebar.pi_stk_swp_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_stk_swp_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe Black Glossy</Text>
+      <Value>sidebar.pi_stk_tnk_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@chrome@@</Text>
+      <Value>sidebar.pi_stk_tnk_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_stk_tnk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube Black Glossy</Text>
+      <Value>sidebar.stk4x_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@chrome@@</Text>
+      <Value>sidebar.stk4x_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.stk4x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube Black Glossy</Text>
+      <Value>sidebar.stk6x_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@chrome@@</Text>
+      <Value>sidebar.stk6x_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.stk6x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube Black Glossy</Text>
+      <Value>sidebar.stk8x_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@chrome@@</Text>
+      <Value>sidebar.stk8x_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.stk8x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube Black Glossy</Text>
+      <Value>sidebar.stk_hkl_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@chrome@@</Text>
+      <Value>sidebar.stk_hkl_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.stk_hkl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube Black Glossy</Text>
+      <Value>sidebar.stk_swp_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@chrome@@</Text>
+      <Value>sidebar.stk_swp_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.stk_swp_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube Black Glossy</Text>
+      <Value>sidebar.stk_tnk_b</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@chrome@@</Text>
+      <Value>sidebar.stk_tnk_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebar</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.stk_tnk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Flat</Text>
+      <Value>sideskirt.custom_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Flat and Pipe</Text>
+      <Value>sideskirt.custom_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Boxes</Text>
+      <Value>sideskirt.custom_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Boxes and Pipe</Text>
+      <Value>sideskirt.custom_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Stripes</Text>
+      <Value>sideskirt.custom_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Stripes Black Glossy</Text>
+      <Value>sideskirt.custom_5bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Stripes @@chrome@@</Text>
+      <Value>sideskirt.custom_5c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Stripes and Pipe</Text>
+      <Value>sideskirt.custom_6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Stripes Black Glossy and Pipe</Text>
+      <Value>sideskirt.custom_6bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Stripes @@chrome@@ and Pipe</Text>
+      <Value>sideskirt.custom_6c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Boxes</Text>
+      <Value>sideskirt.custom_8x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Flat</Text>
+      <Value>sideskirt.cus_1_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Flat and Pipe</Text>
+      <Value>sideskirt.cus_2_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Boxes</Text>
+      <Value>sideskirt.cus_3_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Boxes and Pipe</Text>
+      <Value>sideskirt.cus_4_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Stripes Black Glossy</Text>
+      <Value>sideskirt.cus_5bg_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Stripes @@chrome@@</Text>
+      <Value>sideskirt.cus_5c_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Stripes</Text>
+      <Value>sideskirt.cus_5_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Stripes Black Glossy and Pipe</Text>
+      <Value>sideskirt.cus_6bg_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Stripes @@chrome@@ and Pipe</Text>
+      <Value>sideskirt.cus_6c_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Stripes and Pipe</Text>
+      <Value>sideskirt.cus_6_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Custom Boxes</Text>
+      <Value>sideskirt.cus_fsh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Custom Boxes</Text>
+      <Value>sideskirt.cus_hkl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Custom Boxes</Text>
+      <Value>sideskirt.cus_oil</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Custom Boxes</Text>
+      <Value>sideskirt.cus_swp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>@@stock@@</Text>
+      <Value>sideskirt.stock_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>@@stock@@</Text>
+      <Value>sideskirt.stock_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>@@stock@@</Text>
+      <Value>sideskirt.stock_8x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>@@stock@@</Text>
+      <Value>sideskirt.stock_fsh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>@@stock@@</Text>
+      <Value>sideskirt.stock_hkl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>@@stock@@</Text>
+      <Value>sideskirt.stock_oil</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>@@stock@@</Text>
+      <Value>sideskirt.stock_swp</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>sunshld.sun_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Antenna @@paint@@</Text>
+      <Value>sunshld.sun_1a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Antenna Black Glossy</Text>
+      <Value>sunshld.sun_1abg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Black Glossy</Text>
+      <Value>sunshld.sun_1bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Extended @@paint@@</Text>
+      <Value>sunshld.sun_1e</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Extended Antenna @@paint@@</Text>
+      <Value>sunshld.sun_1ea</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Extended Antenna Black Glossy</Text>
+      <Value>sunshld.sun_1eabg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Extended Black Glossy</Text>
+      <Value>sunshld.sun_1ebg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Oldschool @@paint@@</Text>
+      <Value>sunshld.sun_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Oldschool Antenna @@paint@@</Text>
+      <Value>sunshld.sun_2a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Oldschool Antenna Black Glossy</Text>
+      <Value>sunshld.sun_2abg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Oldschool Black Glossy</Text>
+      <Value>sunshld.sun_2bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Orange Marker @@paint@@</Text>
+      <Value>sunshld.sun_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Orange Marker Antenna @@paint@@</Text>
+      <Value>sunshld.sun_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Orange Marker Antenna Black Glossy</Text>
+      <Value>sunshld.sun_3abg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Orange Marker Black Glossy</Text>
+      <Value>sunshld.sun_3bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>White Marker @@paint@@</Text>
+      <Value>sunshld.sun_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>White Marker Antenna @@paint@@</Text>
+      <Value>sunshld.sun_4a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>White Marker Antenna Black Glossy</Text>
+      <Value>sunshld.sun_4abg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>White Marker Black Glossy</Text>
+      <Value>sunshld.sun_4bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>S Deflector</Group>
+      <Text>Backbar @@paint@@</Text>
+      <Value>s_deflector.backbar</Value>
+    </ListItem>
+    <ListItem>
+      <Group>S Deflector</Group>
+      <Text>Backbar @@chrome@@</Text>
+      <Value>s_deflector.backbar_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>S Deflector</Group>
+      <Text>Backwall @@paint@@</Text>
+      <Value>s_deflector.backwall</Value>
+    </ListItem>
+    <ListItem>
+      <Group>S Deflector</Group>
+      <Text>Backwall Working light @@paint@@</Text>
+      <Value>s_deflector.backwall_wl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>S Deflector</Group>
+      <Text>@@paint@@</Text>
+      <Value>s_deflector.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>S Guard</Group>
+      <Text>Black Glossy</Text>
+      <Value>s_guard.guard_1bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>S Guard</Group>
+      <Text>@@paint@@</Text>
+      <Value>s_guard.guard_1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>S Guard</Group>
+      <Text>Black Glossy</Text>
+      <Value>s_guard.guard_2bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>S Guard</Group>
+      <Text>@@chrome@@</Text>
+      <Value>s_guard.guard_2c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>S Guard</Group>
+      <Text>@@paint@@</Text>
+      <Value>s_guard.guard_2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>S Mirror</Group>
+      <Text>@@stock@@</Text>
+      <Value>s_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>S Mirror</Group>
+      <Text>Black Glossy</Text>
+      <Value>s_mirror.shape1_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>S Mirror</Group>
+      <Text>@@paint@@</Text>
+      <Value>s_mirror.shape1_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Wind deflector</Group>
+      <Text>@@paint@@</Text>
+      <Value>wnd_defl.defl_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Wind deflector</Group>
+      <Text>Black Glossy</Text>
+      <Value>wnd_defl.defl_1bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Wind deflector</Group>
+      <Text>Tinted Glas</Text>
+      <Value>wnd_defl.defl_1tint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>D:\doks\Mods Studio 2\UserVehicles\Mod Vehicles\skimo\ETS2.volvo.vt_5.xml</FilePath>
+  <XmlSource>User</XmlSource>
+  <Game>ETS2</Game>
+  <InternalName>volvo.vt_5</InternalName>
+  <SoundItems />
+  <VehicleAuthor>skimo</VehicleAuthor>
+  <VehicleName>SKIMO|volvo_vt_5</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>vt_8x4.volvo.vt_5.cabin</InternalName>
+      <Name>High Roof</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>vt_xl.volvo.vt_5.cabin</InternalName>
+      <Name>High Roof</Name>
+    </Variant>
+  </VehicleVariants>
+  <DateUpdated xsi:nil="true" />
+</Variable>
