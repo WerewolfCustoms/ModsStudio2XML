@@ -281,13 +281,13 @@
       <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Krone\profi.jpg</Image>
       <InternalName>body.curtain_136</InternalName>
-      <Name>Profi Liner (136)</Name>
+      <Name>Profi Liner (136) ( pre ETS2 1.60 - Double Configuration)</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TrailerPreviews\ETS2\Krone\load_car.jpg</Image>
       <InternalName>body.curtain_78</InternalName>
-      <Name>Load Carrier (78)</Name>
+      <Name>Load Carrier (78) (Double Configuration)</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
