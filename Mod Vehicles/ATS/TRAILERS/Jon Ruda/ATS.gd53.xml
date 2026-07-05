@@ -1,30 +1,47 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>7c70ea17-9255-4891-8f2b-a07a902d79c1</Id>
+  <Id>a1a783f3-997a-48e3-beae-bad8e0a2f9e3</Id>
   <IsEnabled>true</IsEnabled>
-  <FilePath>C:\Users\paulb\OneDrive\Documents\Mods Studio 2\UserVehicles\ATS.gd53.xml</FilePath>
+  <Validators />
+  <AccessoryItems />
   <Game>ATS</Game>
   <InternalName>gd53</InternalName>
+  <SoundItems />
   <VehicleAuthor>jon-ruda</VehicleAuthor>
-  <VehicleName>Refrigerator Trailer</VehicleName>
+  <VehicleName>JonRuda|Refrigerator Trailer</VehicleName>
   <VehicleType>Trailers</VehicleType>
   <VehicleVariants>
     <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.dry48paint</InternalName>
+      <Name>48` Dryvan Paint</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.dry53paint</InternalName>
+      <Name>53` Dryvan Paint</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
       <InternalName>body.gd_48</InternalName>
-      <Name>48` bs_reefer Paint</Name>
+      <Name>48` Reefer Paint</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <InternalName>body.gd_48chr</InternalName>
-      <Name>48` bs_reefer Chrome</Name>
+      <Name>48` Reefer Chrome</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <InternalName>body.gd_53</InternalName>
-      <Name>53` bs_reefer Paint</Name>
+      <Name>53` Reefer Paint</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <InternalName>body.gd_chr</InternalName>
-      <Name>53` bs_reefer Chrome</Name>
+      <Name>53` Reefer Chrome</Name>
     </Variant>
   </VehicleVariants>
+  <XmlDefinitionAuthor>jon-ruda</XmlDefinitionAuthor>
 </Variable>
