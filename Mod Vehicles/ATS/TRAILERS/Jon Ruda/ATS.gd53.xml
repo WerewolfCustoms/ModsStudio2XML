@@ -1,46 +1,78 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>a1a783f3-997a-48e3-beae-bad8e0a2f9e3</Id>
+  <Id>7bd9282b-8c34-49ff-87cd-0d0883c48c89</Id>
   <IsEnabled>true</IsEnabled>
-  <Validators />
   <AccessoryItems />
   <Game>ATS</Game>
   <InternalName>gd53</InternalName>
-  <SoundItems />
   <VehicleAuthor>jon-ruda</VehicleAuthor>
-  <VehicleName>JonRuda|Refrigerator Trailer</VehicleName>
+  <VehicleName>Refrigerator Trailer</VehicleName>
   <VehicleType>Trailers</VehicleType>
   <VehicleVariants>
     <Variant>
-      <AccessoryDependencies />
-      <InternalName>body.dry48paint</InternalName>
-      <Name>48` Dryvan Paint</Name>
+      <InternalName>body.cmp</InternalName>
+      <Name>28' DryVan Cust.Connection</Name>
     </Variant>
     <Variant>
-      <AccessoryDependencies />
-      <InternalName>body.dry53paint</InternalName>
-      <Name>53` Dryvan Paint</Name>
+      <InternalName>body.cmp</InternalName>
+      <Name>28' DryVan Std.Connection</Name>
     </Variant>
     <Variant>
-      <AccessoryDependencies />
-      <InternalName>body.gd_48</InternalName>
-      <Name>48` Reefer Paint</Name>
+      <InternalName>body.cmp</InternalName>
+      <Name>36' DryVan Cust.Connection</Name>
     </Variant>
     <Variant>
-      <AccessoryDependencies />
-      <InternalName>body.gd_48chr</InternalName>
-      <Name>48` Reefer Chrome</Name>
+      <InternalName>body.cmp</InternalName>
+      <Name>36' DryVan Std.Connection</Name>
     </Variant>
     <Variant>
-      <AccessoryDependencies />
-      <InternalName>body.gd_53</InternalName>
-      <Name>53` Reefer Paint</Name>
+      <InternalName>body.cmp</InternalName>
+      <Name>48' DryVan Cust.Connection</Name>
     </Variant>
     <Variant>
-      <AccessoryDependencies />
-      <InternalName>body.gd_chr</InternalName>
-      <Name>53` Reefer Chrome</Name>
+      <InternalName>body.cmp</InternalName>
+      <Name>48' DryVan Std.Connection</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.cmp</InternalName>
+      <Name>53' DryVan Cust.Connection</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.cmp</InternalName>
+      <Name>53' DryVan Std.Connection</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.eve</InternalName>
+      <Name>28' Reefer Cust.Connection</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.eve</InternalName>
+      <Name>28' Reefer Std.Connection</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.eve</InternalName>
+      <Name>36' Reefer Cust.Connection</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.eve</InternalName>
+      <Name>36' Reefer Std.Connection</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.eve</InternalName>
+      <Name>48' Reefer Cust.Connection</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.eve</InternalName>
+      <Name>48' Reefer Std.Connection</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.eve</InternalName>
+      <Name>53' Reefer Cust.Connection</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.eve</InternalName>
+      <Name>53' Reefer Std.Connection</Name>
     </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>jon-ruda</XmlDefinitionAuthor>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>113e6bcb-862d-4320-8b63-5e2aabbd86f0</Id>
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\Admin\Documents\Mods Studio 2\UserVehicles\ATS.livestockjr.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>livestockjr</InternalName>
+  <VehicleAuthor>jon-ruda</VehicleAuthor>
+  <VehicleName>Livestock PSDLC</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.body50cust</InternalName>
+      <Name>50' Custom Connectors</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.body50std</InternalName>
+      <Name>50' Standard Connectors</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.body53cust</InternalName>
+      <Name>53' Custom Connectors</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.body53std</InternalName>
+      <Name>53' Standard Connectors</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>
