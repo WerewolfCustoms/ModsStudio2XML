@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Pizzster Modding\ATS.wade.53.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>wade.53</InternalName>
+  <SoundItems />
+  <VehicleAuthor>pizzster modding </VehicleAuthor>
+  <VehicleName>Pizzster Modding|Wade 53ft Stepdeck</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.curtain</InternalName>
+      <Name>Curtain Side Wade Stepdeck 53FT</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.lightwood</InternalName>
+      <Name>Wade Stepdeck 53FT</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2025-04-09T00:00:00</DateUpdated>
+</Variable>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>451db9ca-9790-439c-8c1f-578ef618e8c2</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Painted bulkhead</Group>
+      <Text>Painted Bulkhead Frame</Text>
+      <Value>blkheadframe.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted bulkhead</Group>
+      <Text>Painted Bulkhead Wall</Text>
+      <Value>blkheadwall.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted body rails</Group>
+      <Text>Painted Body Rails</Text>
+      <Value>bodyrails.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted axle light panel</Group>
+      <Text>Axle Painted Light Panel</Text>
+      <Value>chasslight.lightp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted axle light panel</Group>
+      <Text>Axle Painted Light Panel Slots</Text>
+      <Value>chasslight.lightp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted doors</Group>
+      <Text>Painted Front Door Handles</Text>
+      <Value>doorhandles.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted fenders</Group>
+      <Text>Hogebuilt Quarter Fenders Painted</Text>
+      <Value>fenders.fenders2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted fenders</Group>
+      <Text>Hogebuilt Quarter Fenders Painted 2</Text>
+      <Value>fenders.fenders3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted brackets</Group>
+      <Text>Plastic Fenders W/ Painted Bracket</Text>
+      <Value>fenders.fenders7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted hangers</Group>
+      <Text>Skinnable Mudflap Hangers</Text>
+      <Value>fenders.fenders9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted doors</Group>
+      <Text>Painted Front Doors</Text>
+      <Value>frontdoor.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted ladder</Group>
+      <Text>Painted Front Ladder</Text>
+      <Value>frontladder.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted panels</Group>
+      <Text>Painted Front Wall Panels</Text>
+      <Value>frontwall.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted hangers</Group>
+      <Text>Mudflap Hangers Skinnable</Text>
+      <Value>mudflap.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted mudflaps</Group>
+      <Text>Stock Mudflaps Skinnable</Text>
+      <Value>mudflaps.mudflaps2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted ladder</Group>
+      <Text>Painted Rear Ladder</Text>
+      <Value>rearladder.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted panels</Group>
+      <Text>Painted Rear Wall</Text>
+      <Value>rearwall.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted brackets</Group>
+      <Text>Shovel W/ Painted Bracket</Text>
+      <Value>shovel.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted brackets</Group>
+      <Text>Shovel Position 2 W/ Painted Bracket</Text>
+      <Value>shovel.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted panels</Group>
+      <Text>Painted Side Wall Panels</Text>
+      <Value>sidewalls.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted doors</Group>
+      <Text>Painted Small Rear Door Frame</Text>
+      <Value>smldoorframe.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted crank</Group>
+      <Text>E-Cargo Painted Manual Crank Tarp System</Text>
+      <Value>tarp.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted crank</Group>
+      <Text>E-Cargo Painted Manual Crank Tarp System Open</Text>
+      <Value>tarp.shape4</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Pizzster Modding\ATS.temisko.dump.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>temisko.dump</InternalName>
+  <SoundItems />
+  <VehicleAuthor>pizzster modding</VehicleAuthor>
+  <VehicleName>Pizzster Modding|Temsiko End Dump</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.body_brush</InternalName>
+      <Name>End Dump Body</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.body_wot</InternalName>
+      <Name>WOT End Dump - DO NOT OPEN TARP</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+</Variable>
