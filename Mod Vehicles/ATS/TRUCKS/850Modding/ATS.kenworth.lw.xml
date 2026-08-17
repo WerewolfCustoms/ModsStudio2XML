@@ -19,14 +19,24 @@
       <Text>Painted steps</Text>
       <Value>steps.stock03</Value>
     </ListItem>
+	<ListItem>
+      <Group>Painted Air Filter</Group>
+      <Text>Painted</Text>
+      <Value>filters.stock06</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Painted Air Filter</Group>
+      <Text>Painted</Text>
+      <Value>filters.stock08</Value>
+    </ListItem>
   </AccessoryItems>
-  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\850 Modding\ATS.kenworth.lw.xml</FilePath>
+  <FilePath>C:\Users\shawh\Documents\Mods Studio 2\UserVehicles\850 Modding\ATS.kenworth.lw.xml</FilePath>
   <Game>ATS</Game>
   <InternalName>kenworth.lw</InternalName>
   <SoundItems />
   <VehicleAuthor>850 modding</VehicleAuthor>
   <VehicleName>850 Modding|Kenworth LW</VehicleName>
-  <VehicleType>NewTrucks</VehicleType>
+  <VehicleType>OldTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
       <AccessoryDependencies />
@@ -48,7 +58,27 @@
       <InternalName>shorty.kenworth.lw.cabin</InternalName>
       <Name>Shorty Sleeper</Name>
     </Variant>
+	<Variant>
+      <AccessoryDependencies />
+      <InternalName>daycab_a.kenworth.lw.cabin</InternalName>
+      <Name>Alaska Daycab Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>mercury_a.kenworth.lw.cabin</InternalName>
+      <Name>Alaska Mercury Sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>mercury_p_a.kenworth.lw.cabin</InternalName>
+      <Name>Alaska Mercury Sleeper Painted</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>shorty_a.kenworth.lw.cabin</InternalName>
+      <Name>Alaska Shorty Sleeper</Name>
+    </Variant>
   </VehicleVariants>
-  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <XmlDefinitionAuthor>Pauly, Dr.PupzEditz.scs</XmlDefinitionAuthor>
   <DateUpdated>2025-06-04T00:00:00</DateUpdated>
 </Variable>
