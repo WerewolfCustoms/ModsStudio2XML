@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Air Filter</Group>
+      <Text>Stock Chrome</Text>
+      <Value>air_filter.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filter</Group>
+      <Text>Stock Paint</Text>
+      <Value>air_filter.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filter</Group>
+      <Text>Plastic</Text>
+      <Value>air_filter.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filter</Group>
+      <Text>Vertical plastic</Text>
+      <Value>air_filter.verthr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filter</Group>
+      <Text>Vertical plastic and paint</Text>
+      <Value>air_filter.verthrp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filter</Group>
+      <Text>Vertical plastic</Text>
+      <Value>air_filter.vertlr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filter</Group>
+      <Text>Vertical plastic and paint</Text>
+      <Value>air_filter.vertlrp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text />
+      <Value>badge.340</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text />
+      <Value>badge.350</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text />
+      <Value>badge.380</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text />
+      <Value>badge.385</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Badge</Group>
+      <Text />
+      <Value>badge.420</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof front</Group>
+      <Text>metal bandeau</Text>
+      <Value>bandeau.alu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof front</Group>
+      <Text>Paint bandeau</Text>
+      <Value>bandeau.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Beacon</Group>
+      <Text>Bonfire</Text>
+      <Value>beacon.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Beacon</Group>
+      <Text>Space</Text>
+      <Value>beacon.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid</Group>
+      <Text>Curtain</Text>
+      <Value>body.curtain</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid</Group>
+      <Text>Curtain</Text>
+      <Value>body.curtain2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rigid</Group>
+      <Text>Dry Van</Text>
+      <Value>body.dryvan</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumper</Group>
+      <Text>paint custom low_bumper</Text>
+      <Value>b_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumper</Group>
+      <Text>plastic custom low_bumper</Text>
+      <Value>b_grill.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bottom Grill</Group>
+      <Text>free slot</Text>
+      <Value>b_grill.x1slot</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bottom Grill</Group>
+      <Text>free slot</Text>
+      <Value>b_grill.x1slotab</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bottom Grill</Group>
+      <Text>free slot</Text>
+      <Value>b_grill.x2slot</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>stock paint</Text>
+      <Value>exhaust.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>paint double closed light</Text>
+      <Value>f_bumper.dpaintab</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>paint double white light</Text>
+      <Value>f_bumper.dpaintw</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>paint double yellow light</Text>
+      <Value>f_bumper.dpainty</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>plastic double closed light</Text>
+      <Value>f_bumper.dplastab</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>plastic double white light</Text>
+      <Value>f_bumper.dplastw</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>plastic double yellow light</Text>
+      <Value>f_bumper.dplasty</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>paint single</Text>
+      <Value>f_bumper.spaint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>paint single closed light</Text>
+      <Value>f_bumper.spaintab</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>paint single white light</Text>
+      <Value>f_bumper.spaintw</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>paint single yellow light</Text>
+      <Value>f_bumper.spainty</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>plastic single</Text>
+      <Value>f_bumper.splast</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>plastic single closed light</Text>
+      <Value>f_bumper.splastab</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>plastic single white light</Text>
+      <Value>f_bumper.splastw</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>plastic single yellow light</Text>
+      <Value>f_bumper.splasty</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Deflector</Group>
+      <Text>Deflector</Text>
+      <Value>f_deflector.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>paint fender</Text>
+      <Value>f_fender.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fender</Group>
+      <Text>plastic fender</Text>
+      <Value>f_fender.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bullbar</Group>
+      <Text>chrome bullbar</Text>
+      <Value>f_grill.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bullbar</Group>
+      <Text>paint bullbar</Text>
+      <Value>f_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>chrome light support</Text>
+      <Value>f_grill.support_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Grill</Group>
+      <Text>paint light support</Text>
+      <Value>f_grill.support_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Intake</Group>
+      <Text>paint</Text>
+      <Value>f_intake_cab.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Intake</Group>
+      <Text>plastic</Text>
+      <Value>f_intake_cab.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Group>F Light</Group>
+      <Text>Orange</Text>
+      <Value>f_light.orange</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Lightbox</Group>
+      <Text>lightbox</Text>
+      <Value>lightbox.lightbox</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Logo</Group>
+      <Text>Renault</Text>
+      <Value>logo.gris</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirror</Group>
+      <Text>paint</Text>
+      <Value>mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirror</Group>
+      <Text>@@plastic@@</Text>
+      <Value>mirror.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>Custom bumper</Text>
+      <Value>r_bumper.custom</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>Custom bumper</Text>
+      <Value>r_bumper.custom_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>free slot</Text>
+      <Value>r_bumper.slot</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>free slot</Text>
+      <Value>r_bumper.slott</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>free slot</Text>
+      <Value>r_bumper.slot_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>standard</Text>
+      <Value>r_bumper.vignal</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>standard</Text>
+      <Value>r_bumper.vignalt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Bumper</Group>
+      <Text>standard</Text>
+      <Value>r_bumper.vignal_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Metal fender</Text>
+      <Value>r_fender.metal4x2t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>Metal fender</Text>
+      <Value>r_fender.metal6x2t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>paint fender open</Text>
+      <Value>r_fender.paint4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>paint fender</Text>
+      <Value>r_fender.paint4x2sup</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>paint fender</Text>
+      <Value>r_fender.paint4x2supt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>paint fender open</Text>
+      <Value>r_fender.paint4x2t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>paint fender</Text>
+      <Value>r_fender.paint6x2supt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>paint fender open</Text>
+      <Value>r_fender.paint6x2t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>paint fender open</Text>
+      <Value>r_fender.paint6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>paint fender</Text>
+      <Value>r_fender.paint6x4sup</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>plastic fender open</Text>
+      <Value>r_fender.plast4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>plastic fender</Text>
+      <Value>r_fender.plast4x2sup</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>plastic fender</Text>
+      <Value>r_fender.plast4x2supt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>plastic fender open</Text>
+      <Value>r_fender.plast4x2t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>plastic fender</Text>
+      <Value>r_fender.plast6x2supt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>plastic fender open</Text>
+      <Value>r_fender.plast6x2t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>plastic fender open</Text>
+      <Value>r_fender.plast6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Fender</Group>
+      <Text>plastic fender</Text>
+      <Value>r_fender.plast6x4sup</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Grill</Group>
+      <Text>free slot</Text>
+      <Value>r_grill.hr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Grill</Group>
+      <Text>free slot</Text>
+      <Value>r_grill.lr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Grill</Group>
+      <Text>free slot</Text>
+      <Value>r_grill.spoiler</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Renault mudflap</Text>
+      <Value>r_mudflap.renault</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>standard mudflap</Text>
+      <Value>r_mudflap.standard</Value>
+    </ListItem>
+    <ListItem>
+      <Group>R Mudflap</Group>
+      <Text>Truck Access Simulator mudflap</Text>
+      <Value>r_mudflap.tas</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>short chrome sideskirt</Text>
+      <Value>sideskirt.4x2chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>short paint sideskirt</Text>
+      <Value>sideskirt.4x2paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>sideskirt</Text>
+      <Value>sideskirt.4x2t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>sideskirt</Text>
+      <Value>sideskirt.6x2t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>short chrome sideskirt</Text>
+      <Value>sideskirt.6x4chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>short paint sideskirt</Text>
+      <Value>sideskirt.6x4paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler</Group>
+      <Text>Spoiler</Text>
+      <Value>spoiler.spoiler</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Paint Sunshield</Text>
+      <Value>sunshld.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>suspension</Group>
+      <Text>suspension</Text>
+      <Value>suspension.4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>suspension</Group>
+      <Text>suspension</Text>
+      <Value>suspension.6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>suspension</Group>
+      <Text>suspension</Text>
+      <Value>suspension.6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>S Mirror</Group>
+      <Text>@@plastic@@</Text>
+      <Value>s_mirror.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Chrome</Text>
+      <Value>tank.4x2chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Metal</Text>
+      <Value>tank.4x2metal</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Paint</Text>
+      <Value>tank.4x2paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Chrome</Text>
+      <Value>tank.6x4chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Metal</Text>
+      <Value>tank.6x4metal</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Paint</Text>
+      <Value>tank.6x4paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4x2</Text>
+      <Value>chassis.4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4x2 Tandem</Text>
+      <Value>chassis.4x2t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>6x2 Tandem</Text>
+      <Value>chassis.6x2t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>6x4 Tandem</Text>
+      <Value>chassis.6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Suspension</Group>
+      <Text>4x2</Text>
+      <Value>suspension.4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Suspension</Group>
+      <Text>6x2</Text>
+      <Value>suspension.6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Suspension</Group>
+      <Text>6x4</Text>
+      <Value>suspension.6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5 th wheel</Group>
+      <Text>4x2</Text>
+      <Value>trlr_cables.4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5 th wheel</Group>
+      <Text>6x4</Text>
+      <Value>trlr_cables.6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5 th wheel</Group>
+      <Text>Tandem</Text>
+      <Value>trlr_cables.tandem</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5 th wheel</Group>
+      <Text>Tandem</Text>
+      <Value>trlr_cables.tandem_c</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>D:\doks\Mods Studio 2\UserVehicles\Mod Vehicles\Truck Access Simulator\ETS2.renault.mjr.xml</FilePath>
+  <XmlSource>User</XmlSource>
+  <Game>ETS2</Game>
+  <InternalName>renault.mjr</InternalName>
+  <SoundItems />
+  <VehicleAuthor>TAS</VehicleAuthor>
+  <VehicleName>TAS|Renault Major</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>highroof.renault.mjr.cabin</InternalName>
+      <Name>High Roof</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>lowroof.renault.mjr.cabin</InternalName>
+      <Name>Low Roof</Name>
+    </Variant>
+  </VehicleVariants>
+  <DateUpdated xsi:nil="true" />
+</Variable>

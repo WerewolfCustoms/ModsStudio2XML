@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Tandem</Group>
+      <Text>benne</Text>
+      <Value>body.benne</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tandem</Group>
+      <Text>Curtain</Text>
+      <Value>body.curtain</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tandem</Group>
+      <Text>Curtain</Text>
+      <Value>body.curtain2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tandem</Group>
+      <Text>Dry Van</Text>
+      <Value>body.dryvan</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tandem</Group>
+      <Text>citerne</Text>
+      <Value>body.cistern</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bullbar</Group>
+      <Text>b_grill_Paint</Text>
+      <Value>b_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>exhaust paint</Text>
+      <Value>exhaust.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>f bumper Custom Paint</Text>
+      <Value>f_bumper.custom_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>f bumper Custom Paint with light</Text>
+      <Value>f_bumper.custom_pl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>f bumper paint</Text>
+      <Value>f_bumper.stock_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Grill</Group>
+      <Text>paint ramp 01</Text>
+      <Value>f_grill.paint_01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Grill</Group>
+      <Text>paint ramp 02</Text>
+      <Value>f_grill.paint_02</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Intake</Group>
+      <Text>calandre paint and plastic</Text>
+      <Value>f_intake_cab.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Intake</Group>
+      <Text>calandre paint and chrome</Text>
+      <Value>f_intake_cab.paint_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Motorhood</Group>
+      <Text>custom motor hood</Text>
+      <Value>motorhood.custom</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Motorhood</Group>
+      <Text>stock motor hood</Text>
+      <Value>motorhood.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>r bumper custom</Text>
+      <Value>r_bumper.custom</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>r bumper custom double</Text>
+      <Value>r_bumper.customx2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>paint fender 4x2</Text>
+      <Value>r_fender.paint4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>paint fender 6x4</Text>
+      <Value>r_fender.paint6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler</Group>
+      <Text>full spoiler</Text>
+      <Value>spoiler.full</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler</Group>
+      <Text>lateral spoiler</Text>
+      <Value>spoiler.lateral</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler</Group>
+      <Text>lateral spoiler série 3</Text>
+      <Value>spoiler.lateral_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler</Group>
+      <Text>roof spoiler</Text>
+      <Value>spoiler.roof</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Paint Sunshield</Text>
+      <Value>sunshield.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Metal tank paint</Text>
+      <Value>tank.metal_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Chrome tank paint</Text>
+      <Value>tank.chrome_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Metal tank paint</Text>
+      <Value>tank.metal</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Chrome tank paint</Text>
+      <Value>tank.chrome</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Paint tank</Text>
+      <Value>tank.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Paint tank dual</Text>
+      <Value>tank.paintx2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Paint tank dual small</Text>
+      <Value>tank.paintx2_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Paint tank small</Text>
+      <Value>tank.paint_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Spoiler</Group>
+      <Text>lateral spoiler série 3</Text>
+      <Value>spoiler.lateral_3hr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>custom r bumper 4x2</Text>
+      <Value>r_bumper.custom_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>custom r bumper 6x4</Text>
+      <Value>r_bumper.custom_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5 th wheel</Group>
+      <Text>4200 4x2</Text>
+      <Value>trlr_cables.4200_4x2_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5 th wheel</Group>
+      <Text>4600 4x2 short</Text>
+      <Value>trlr_cables.4600_4x2_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5 th wheel</Group>
+      <Text>4600 4x2 long</Text>
+      <Value>trlr_cables.4600_4x2_l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5 th wheel</Group>
+      <Text>6x4</Text>
+      <Value>trlr_cables.6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5 th wheel</Group>
+      <Text>4600 6x4</Text>
+      <Value>trlr_cables.4600_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>5 th wheel</Group>
+      <Text>5800 tandem</Text>
+      <Value>trlr_cables.5800t_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>sideskirt 4200</Text>
+      <Value>sideskirt.paint4200</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>sideskirt 4600</Text>
+      <Value>sideskirt.paint4600</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>sideskirt tandem box</Text>
+      <Value>sideskirt.paint5800t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>sideskirt tandem citern</Text>
+      <Value>sideskirt.paint5800t2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4200 4x2</Text>
+      <Value>chassis.42004x2s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4200 6x4</Text>
+      <Value>chassis.6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4200 6x4 Tandem</Text>
+      <Value>chassis.4200t6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4600 4x2</Text>
+      <Value>chassis.46004x2s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4600 4x2 Tandem</Text>
+      <Value>chassis.4600t4x2s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4600 4x2 Long</Text>
+      <Value>chassis4x2l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4600 6x4</Text>
+      <Value>chassis.46006x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4600 6x4 Tandem</Text>
+      <Value>chassis.4600t6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>5800 6x4 Tandem</Text>
+      <Value>chassis.5800t6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Suspension </Group>
+      <Text>4x2</Text>
+      <Value>suspension.4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Suspension</Group>
+      <Text>6x4</Text>
+      <Value>suspension.6x4</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>D:\doks\Mods Studio 2\UserVehicles\Mod Vehicles\Truck Access Simulator\ETS.scania.t2.xml</FilePath>
+  <XmlSource>User</XmlSource>
+  <Game>ETS2</Game>
+  <InternalName>scania.t2</InternalName>
+  <SoundItems />
+  <VehicleAuthor>TAS</VehicleAuthor>
+  <VehicleName>TAS|Scania Torpedo serie 2</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>hr.scania.t2.cabin</InternalName>
+      <Name>Long cabin with high roof</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>longtol.scania.t2.cabin</InternalName>
+      <Name>Long cabin</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>longwin.scania.t2.cabin</InternalName>
+      <Name>Long with window</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>smalltol.scania.t2.cabin</InternalName>
+      <Name>Small cabin</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>smallwin.scania.t2.cabin</InternalName>
+      <Name>Small with window</Name>
+    </Variant>
+  </VehicleVariants>
+  <DateUpdated xsi:nil="true" />
+</Variable>

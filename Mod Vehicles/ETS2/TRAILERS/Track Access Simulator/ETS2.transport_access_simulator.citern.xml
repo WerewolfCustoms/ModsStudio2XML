@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Rear Accessorie</Group>
+      <Text>Left Box</Text>
+      <Value>acc_l.box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Accessorie</Group>
+      <Text>Left spear Wheel</Text>
+      <Value>acc_l.sos</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Accessorie</Group>
+      <Text>Right Box</Text>
+      <Value>acc_r.box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Accessorie</Group>
+      <Text>Right spear Wheel</Text>
+      <Value>acc_r.sos</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>C163 Light</Text>
+      <Value>r_bumper.c163</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>LA38 Light</Text>
+      <Value>r_bumper.la38</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>free slot</Text>
+      <Value>r_bumper.slot</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fender</Group>
+      <Text>tole long</Text>
+      <Value>r_fender.double</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fender</Group>
+      <Text>metal</Text>
+      <Value>r_fender.metalr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>metal</Text>
+      <Value>sideskirt.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>Chassi</Text>
+      <Value>chassis.ch2</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>D:\doks\Mods Studio 2\UserVehicles\Mod Vehicles\Truck Access Simulator\ETS2.transport_access_simulator.citern.xml</FilePath>
+  <XmlSource>User</XmlSource>
+  <Game>ETS2</Game>
+  <InternalName>trailertas.citern</InternalName>
+  <SoundItems />
+  <VehicleAuthor>TAS</VehicleAuthor>
+  <VehicleName>TAS|Cistern Trailer Semi</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.citern</InternalName>
+      <Name>Citerne</Name>
+    </Variant>
+  </VehicleVariants>
+  <DateUpdated xsi:nil="true" />
+</Variable>

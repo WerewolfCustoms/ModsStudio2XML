@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\Skimo Modding\ETS2.krone.jumbo.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>krone.jumbo</InternalName>
+  <SoundItems />
+  <VehicleAuthor>skimo</VehicleAuthor>
+  <VehicleName>Skimo|Krone Jumbo</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>body.curtain_136</InternalName>
+      <Name>Krone SD27 Jumbo</Name>
+    </Variant>
+    <Variant>
+      <InternalName>body.lowbed_136</InternalName>
+      <Name>Krone SD27 Jumbo Lowbed</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2026-01-04T00:00:00</DateUpdated>
+</Variable>
