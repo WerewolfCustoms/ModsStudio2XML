@@ -15,39 +15,24 @@
       <Value>doorhndl.std</Value>
     </ListItem>
     <ListItem>
-      <Group>Door Step</Group>
+      <Group>Door Steps</Group>
       <Text>Step Paint</Text>
       <Value>doorstep.paint</Value>
     </ListItem>
     <ListItem>
-      <Group>Air Filters</Group>
-      <Text>Farr (Chrome)</Text>
-      <Value>filters.sfarr_chr</Value>
+      <Group>Door Steps</Group>
+      <Text>Step Paint Dual</Text>
+      <Value>doorstep.paint_dual</Value>
     </ListItem>
     <ListItem>
-      <Group>Air Filters</Group>
-      <Text>15' Oil Bath Tall (Chrome)</Text>
-      <Value>filters.d15_batt_chr</Value>
+      <Group>Door Steps</Group>
+      <Text>Step Paint Dual Rear</Text>
+      <Value>doorstep.pnt_dualr</Value>
     </ListItem>
     <ListItem>
-      <Group>Air Filters</Group>
-      <Text>15' Oil Bath (Dull)</Text>
-      <Value>filters.d15_bath_alu</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Air Filters</Group>
-      <Text>15' Oil Bath (Chrome)</Text>
-      <Value>filters.d15_bath_chr</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Air Filters</Group>
-      <Text>15' Dry (Chrome)</Text>
-      <Value>filters.d15_dry_chr</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Air Filters</Group>
-      <Text>16' Oil Bath (Chrome)</Text>
-      <Value>filters.d16_bath_chr</Value>
+      <Group>Door Steps</Group>
+      <Text>Step Paint Rear</Text>
+      <Value>doorstep.pnt_r</Value>
     </ListItem>
     <ListItem>
       <Group>Air Filters</Group>
@@ -56,8 +41,18 @@
     </ListItem>
     <ListItem>
       <Group>Air Filters</Group>
+      <Text>Farr (Dull)</Text>
+      <Value>filters.sfarr_alu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
       <Text>Farr (Chrome)</Text>
       <Value>filters.dfarr_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>Farr (Chrome)</Text>
+      <Value>filters.sfarr_chr</Value>
     </ListItem>
     <ListItem>
       <Group>Air Filters</Group>
@@ -102,7 +97,17 @@
     <ListItem>
       <Group>Air Filters</Group>
       <Text>15' Oil Bath Tall (Chrome)</Text>
+      <Value>filters.d15_batt_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>15' Oil Bath Tall (Chrome)</Text>
       <Value>filters.s15_batt_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>15' Oil Bath (Dull)</Text>
+      <Value>filters.d15_bath_alu</Value>
     </ListItem>
     <ListItem>
       <Group>Air Filters</Group>
@@ -112,7 +117,17 @@
     <ListItem>
       <Group>Air Filters</Group>
       <Text>15' Oil Bath (Chrome)</Text>
+      <Value>filters.d15_bath_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>15' Oil Bath (Chrome)</Text>
       <Value>filters.s15_bath_chr</Value>
+    </ListItem>
+     <ListItem>
+      <Group>Air Filters</Group>
+      <Text>15' Dry (Chrome)</Text>
+      <Value>filters.d15_dry_chr</Value>
     </ListItem>
     <ListItem>
       <Group>Air Filters</Group>
@@ -122,12 +137,12 @@
     <ListItem>
       <Group>Air Filters</Group>
       <Text>16' Oil Bath (Chrome)</Text>
-      <Value>filters.s16_bath_chr</Value>
+      <Value>filters.d16_bath_chr</Value>
     </ListItem>
     <ListItem>
       <Group>Air Filters</Group>
-      <Text>Farr (Dull)</Text>
-      <Value>filters.sfarr_alu</Value>
+      <Text>16' Oil Bath (Chrome)</Text>
+      <Value>filters.s16_bath_chr</Value>
     </ListItem>
     <ListItem>
       <Group>Bumpers</Group>
@@ -140,19 +155,54 @@
       <Value>bumper.chan</Value>
     </ListItem>
     <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Rolled Double Taper (Paint)</Text>
+      <Value>bumper.1_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bumpers</Group>
+      <Text>Frame Channel (Paint)</Text>
+      <Value>bumper.chan_pnt</Value>
+    </ListItem>
+    <ListItem>
       <Group>Bull Bar</Group>
       <Text>Bull Bar Paint</Text>
       <Value>f_grill.pnt</Value>
     </ListItem>
     <ListItem>
-      <Group>Rear Fenders</Group>
-      <Text>WTI Full Fender</Text>
-      <Value>mudguard.ff_wti</Value>
+      <Group>Hood</Group>
+      <Text>Paint</Text>
+      <Value>hood.pnt_54</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Hood</Group>
+      <Text>Paint</Text>
+      <Value>hood.pnt_60</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Badge</Group>
+      <Text>Oval Paint</Text>
+      <Value>f_badge.1954_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Badge</Group>
+      <Text>Square Paint</Text>
+      <Value>f_badge.1954_pntsq</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Badge</Group>
+      <Text>Oval Paint</Text>
+      <Value>f_badge.1960_pnt</Value>
     </ListItem>
     <ListItem>
       <Group>Sleeper</Group>
-      <Text>Mercury 36in</Text>
+      <Text>Mercury 36"</Text>
       <Value>sleeper.merc36</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sleeper</Group>
+      <Text>Peterbilt 36"</Text>
+      <Value>sleeper.pb36_4dr</Value>
     </ListItem>
     <ListItem>
       <Group>Mirrors</Group>
@@ -170,19 +220,19 @@
       <Value>sunshield.2pnt</Value>
     </ListItem>
     <ListItem>
-      <Group>Door Steps</Group>
-      <Text>Step Paint Dual</Text>
-      <Value>doorstep.paint_dual</Value>
+      <Group>Roof Deflectors</Group>
+      <Text>Kysor E-20000</Text>
+      <Value>r_deflector.e20000</Value>
     </ListItem>
     <ListItem>
-      <Group>Door Steps</Group>
-      <Text>Step Paint Dual Rear</Text>
-      <Value>doorstep.pnt_dualr</Value>
+      <Group>Roof Deflectors</Group>
+      <Text>Kysor KA300</Text>
+      <Value>r_deflector.kysor</Value>
     </ListItem>
     <ListItem>
-      <Group>Door Steps</Group>
-      <Text>Step Paint Rear</Text>
-      <Value>doorstep.pnt_r</Value>
+      <Group>Roof Deflectors</Group>
+      <Text>Kysor KA300 (Paint)</Text>
+      <Value>r_deflector.kysor_col</Value>
     </ListItem>
     <ListItem>
       <Group>Fuel Tanks</Group>
@@ -220,69 +270,9 @@
       <Value>tank.200_pnt</Value>
     </ListItem>
     <ListItem>
-      <Group>Air Filters</Group>
-      <Text>Layer Cake (Chrome)</Text>
-      <Value>filters.2_pnt</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Air Filters</Group>
-      <Text>Caterpillar 9L699</Text>
-      <Value>filters.duel</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Bumpers</Group>
-      <Text>Rolled Double Taper (Paint)</Text>
-      <Value>bumper.1_pnt</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Bumpers</Group>
-      <Text>Frame Channel (Paint)</Text>
-      <Value>bumper.chan_pnt</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Hood</Group>
-      <Text>Paint</Text>
-      <Value>hood.pnt_54</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Hood</Group>
-      <Text>Paint</Text>
-      <Value>hood.pnt_60</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Front Badge</Group>
-      <Text>Oval Paint</Text>
-      <Value>f_badge.1954_pnt</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Front Badge</Group>
-      <Text>Square Paint</Text>
-      <Value>f_badge.1954_pntsq</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Front Badge</Group>
-      <Text>Oval Paint</Text>
-      <Value>f_badge.1960_pnt</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Sleeper</Group>
-      <Text>Peterbilt 36"</Text>
-      <Value>sleeper.pb36_4dr</Value>
-    </ListItem>
-       <ListItem>
-      <Group>Roof Deflectors</Group>
-      <Text>Kysor E-20000</Text>
-      <Value>r_deflector.e20000</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Roof Deflectors</Group>
-      <Text>Kysor KA300</Text>
-      <Value>r_deflector.kysor</Value>
-    </ListItem>
-    <ListItem>
-      <Group>Roof Deflectors</Group>
-      <Text>Kysor KA300 (Paint)</Text>
-      <Value>r_deflector.kysor_col</Value>
+      <Group>Rear Fenders</Group>
+      <Text>WTI Full Fender</Text>
+      <Value>mudguard.ff_wti</Value>
     </ListItem>
     <ListItem>
       <Group>Rafael Tandem Addon Parts</Group>
@@ -344,5 +334,5 @@
     </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>GearJammer</XmlDefinitionAuthor>
-  <DateUpdated>2025-05-19T00:00:00</DateUpdated>
+  <DateUpdated>2026-09-03T00:00:00</DateUpdated>
 </Variable>
