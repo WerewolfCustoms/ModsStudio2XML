@@ -21,13 +21,113 @@
     </ListItem>
     <ListItem>
       <Group>Air Filters</Group>
+      <Text>Farr (Chrome)</Text>
+      <Value>filters.sfarr_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>15' Oil Bath Tall (Chrome)</Text>
+      <Value>filters.d15_batt_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>15' Oil Bath (Dull)</Text>
+      <Value>filters.d15_bath_alu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>15' Oil Bath (Chrome)</Text>
+      <Value>filters.d15_bath_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>15' Dry (Chrome)</Text>
+      <Value>filters.d15_dry_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>16' Oil Bath (Chrome)</Text>
+      <Value>filters.d16_bath_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>Farr (Dull)</Text>
+      <Value>filters.dfarr_alu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>Farr (Chrome)</Text>
+      <Value>filters.dfarr_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>Classic (Chrome)</Text>
+      <Value>filters.0</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>Classic (Dull)</Text>
+      <Value>filters.0_dull</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
       <Text>Classic (Paint)</Text>
       <Value>filters.0_pnt</Value>
     </ListItem>
     <ListItem>
       <Group>Air Filters</Group>
+      <Text>Modern (Chrome)</Text>
+      <Value>filters.1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>Modern (Dull)</Text>
+      <Value>filters.1_dull</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
       <Text>Modern (Paint)</Text>
       <Value>filters.1_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>Layer Cake (Chrome)</Text>
+      <Value>filters.2_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>Caterpillar 9L699</Text>
+      <Value>filters.duel</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>15' Oil Bath Tall (Chrome)</Text>
+      <Value>filters.s15_batt_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>15' Oil Bath (Dull)</Text>
+      <Value>filters.s15_bath_alu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>15' Oil Bath (Chrome)</Text>
+      <Value>filters.s15_bath_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>15' Dry (Chrome)</Text>
+      <Value>filters.s15_dry_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>16' Oil Bath (Chrome)</Text>
+      <Value>filters.s16_bath_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Air Filters</Group>
+      <Text>Farr (Dull)</Text>
+      <Value>filters.sfarr_alu</Value>
     </ListItem>
     <ListItem>
       <Group>Bumpers</Group>
@@ -169,6 +269,21 @@
       <Text>Peterbilt 36"</Text>
       <Value>sleeper.pb36_4dr</Value>
     </ListItem>
+       <ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>Kysor E-20000</Text>
+      <Value>r_deflector.e20000</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>Kysor KA300</Text>
+      <Value>r_deflector.kysor</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Deflectors</Group>
+      <Text>Kysor KA300 (Paint)</Text>
+      <Value>r_deflector.kysor_col</Value>
+    </ListItem>
     <ListItem>
       <Group>Rafael Tandem Addon Parts</Group>
       <Text>DryVan Box</Text>
@@ -185,7 +300,6 @@
       <Value>body.flatbed55_p</Value>
     </ListItem>
   </AccessoryItems>
-  <FilePath>C:\Users\paulb\Documents\Mods Studio 2\UserVehicles\ATS Smarty.peterbilt.351_scr.xml</FilePath>
   <Game>ATS</Game>
   <InternalName>peterbilt.351_scr</InternalName>
   <SoundItems />
