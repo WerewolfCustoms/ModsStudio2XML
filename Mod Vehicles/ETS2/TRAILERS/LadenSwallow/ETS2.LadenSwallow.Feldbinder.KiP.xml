@@ -2,7 +2,8 @@
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
   <IsEnabled>true</IsEnabled>
-   <!-- Created with v2025.01 Modversion 2.1/6.0 -->
+  <Validators />
+<!-- Created with v2026.01 Modversion 2.2/8.3 -->
   <Game>ETS2</Game>
   <InternalName>feldbinder.kip</InternalName>
   <SoundItems />
@@ -11,6 +12,7 @@
   <VehicleType>Trailers</VehicleType>
   <VehicleVariants>
     <Variant>
+      <AccessoryDependencies />
       <Description />
       <Group />
       <Image />
@@ -18,6 +20,7 @@
       <Name>Silo 30m³</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Description />
       <Group />
       <Image />
@@ -25,6 +28,7 @@
       <Name>Silo 42m³</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Description />
       <Group />
       <Image />
@@ -32,6 +36,7 @@
       <Name>Silo 52m³</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Description />
       <Group>ADR Body</Group>
       <Image />
@@ -39,12 +44,14 @@
       <Name>Silo 60m³ ADR</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Description>3 Axles Version</Description>
       <Group />
       <InternalName>body.cistern633</InternalName>
       <Name>Silo 63m³</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Description />
       <Group>ADR Body</Group>
       <Image />
@@ -52,6 +59,7 @@
       <Name>Silo 63m³ ADR S+D</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Description>4 Axles Version</Description>
       <Group />
       <Image />
@@ -59,8 +67,8 @@
       <Name>Silo 63m³</Name>
     </Variant>
   </VehicleVariants>
-  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
-  <DateUpdated>2025-10-23T00:00:00</DateUpdated>
+  <XmlDefinitionAuthor>m1key</XmlDefinitionAuthor>
+  <DateUpdated>2026-09-05T00:00:00</DateUpdated>
   <AccessoryItems>
     <ListItem>
       <Description>Rockinger</Description>
@@ -103,63 +111,63 @@
       <Image />
       <Text />
       <Value>chassis.dolly_hcts</Value>
-    </ListItem>	
+    </ListItem>
     <ListItem>
       <Description />
       <Group>Chassis * Dolly Option *</Group>
       <Image />
       <Text />
       <Value>chassis.dolly95</Value>
-    </ListItem>		
+    </ListItem>
     <ListItem>
       <Description />
       <Group>Chassis * Dolly Option *</Group>
       <Image />
       <Text />
       <Value>chassis.dolly116</Value>
-    </ListItem>		
+    </ListItem>
     <ListItem>
       <Description />
       <Group>Chassis * Dolly Option *</Group>
       <Image />
       <Text />
       <Value>chassis.dolly136</Value>
-    </ListItem>		
+    </ListItem>
     <ListItem>
       <Description />
       <Group>Chassis * Dolly Option *</Group>
       <Image />
       <Text />
       <Value>chassis.tandem_95</Value>
-    </ListItem>	
+    </ListItem>
     <ListItem>
       <Description />
       <Group>Chassis * Dolly Option *</Group>
       <Image />
       <Text />
       <Value>chassis.tandem_116</Value>
-    </ListItem>		
+    </ListItem>
     <ListItem>
       <Description />
       <Group>Chassis * Dolly Option *</Group>
       <Image />
       <Text />
       <Value>chassis.tandem_1162</Value>
-    </ListItem>		
+    </ListItem>
     <ListItem>
       <Description />
       <Group>Chassis * Dolly Option *</Group>
       <Image />
       <Text />
       <Value>chassis.tandem_3ax</Value>
-    </ListItem>		
+    </ListItem>
     <ListItem>
       <Description />
       <Group>Chassis * Dolly Option *</Group>
       <Image />
       <Text />
       <Value>chassis.tandem_4ax</Value>
-    </ListItem>		
+    </ListItem>
     <ListItem>
       <Description />
       <Group>Chassis</Group>
@@ -173,7 +181,7 @@
       <Image />
       <Text />
       <Value>chassis.chs95_hook</Value>
-    </ListItem>		
+    </ListItem>
     <ListItem>
       <Description />
       <Group>Chassis</Group>
@@ -187,7 +195,7 @@
       <Image />
       <Text />
       <Value>chassis.chs116_hook</Value>
-    </ListItem>	
+    </ListItem>
     <ListItem>
       <Description />
       <Group>Chassis</Group>
@@ -201,42 +209,42 @@
       <Image />
       <Text />
       <Value>chassis.chs136_0</Value>
-    </ListItem>		
+    </ListItem>
     <ListItem>
       <Description />
       <Group>Chassis</Group>
       <Image />
       <Text />
       <Value>chassis.chs136_4</Value>
-    </ListItem>			
+    </ListItem>
     <ListItem>
       <Description />
       <Group>Chassis</Group>
       <Image />
       <Text />
       <Value>chassis.chs1364_hook</Value>
-    </ListItem>	
+    </ListItem>
     <ListItem>
       <Description />
       <Group>Chassis</Group>
       <Image />
       <Text />
       <Value>chassis.chs136_hook</Value>
-    </ListItem>		
+    </ListItem>
     <ListItem>
       <Description />
       <Group>Chassis</Group>
       <Image />
       <Text />
       <Value>chassis.chs140_0</Value>
-    </ListItem>	
+    </ListItem>
     <ListItem>
       <Description />
       <Group>Chassis</Group>
       <Image />
       <Text />
       <Value>chassis.chs302_cet</Value>
-    </ListItem>	
+    </ListItem>
     <ListItem>
       <Description />
       <Group>Side Boxes / Protection</Group>
@@ -473,7 +481,46 @@
       <Group>Side Boxes / Protection</Group>
       <Image />
       <Text>Double Door paint</Text>
+      <Value>s_lbox.dual_bdp</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>Double Door paint</Text>
       <Value>s_rbox.dual_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Side Boxes / Protection</Group>
+      <Image />
+      <Text>Double Door paint</Text>
+      <Value>s_rbox.dual_bdp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Boxes / Protection</Group>
+      <Text>paint single box</Text>
+      <Value>r_lbox.single_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Boxes / Protection</Group>
+      <Text>paint single box</Text>
+      <Value>r_lbox.single_bdp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Boxes / Protection</Group>    
+      <Text>paint single box</Text>
+      <Value>r_rbox.single_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Boxes / Protection</Group>      
+      <Text>paint single box</Text>
+      <Value>r_rbox.single_bdp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Boxes / Protection</Group>   
+      <Text>paint box</Text>
+      <Value>w_rbox.protect_p</Value>
     </ListItem>
     <ListItem>
       <Description />
@@ -488,7 +535,7 @@
       <Image />
       <Text>paint</Text>
       <Value>s_tubes.paint95</Value>
-    </ListItem>	
+    </ListItem>
     <ListItem>
       <Description />
       <Group>Tubes</Group>
