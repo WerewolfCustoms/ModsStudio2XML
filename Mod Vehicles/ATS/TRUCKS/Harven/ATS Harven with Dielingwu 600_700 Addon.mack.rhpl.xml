@@ -51,6 +51,11 @@
       <Value>grill.painted</Value>
     </ListItem>
     <ListItem>
+		<Group>Other Accessories</Group>
+		<Text>r700 fullpainted</Text>
+		<Value>grill.grill700fp</Value>
+	</ListItem>
+	<ListItem>
       <Group>Headlights</Group>
       <Text>Dual Headlights Painted</Text>
       <Value>lamps.double</Value>
@@ -152,7 +157,7 @@
   <SoundItems />
   <VehicleAuthor>Harven</VehicleAuthor>
   <VehicleName>DielingWu|Mack R600/700 Addon</VehicleName>
-  <VehicleType>NewTrucks</VehicleType>
+  <VehicleType>AllTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
       <AccessoryDependencies />
