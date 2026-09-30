@@ -8,8 +8,8 @@
   <InternalName>volvo.vnr_e</InternalName>
   <SoundItems />
   <VehicleAuthor>SCS Software</VehicleAuthor>
-  <VehicleName>ScS Software|Volvo_vnr_e</VehicleName>
-  <VehicleType>OldTrucks</VehicleType>
+  <VehicleName>Volvo|VNR E</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
       <InternalName>day.volvo.vnr_e.cabin</InternalName>
