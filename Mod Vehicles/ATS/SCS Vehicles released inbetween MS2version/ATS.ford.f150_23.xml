@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Hood</Group>
+      <Text>Standard Painted</Text>
+      <Value>hood.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Standard Painted</Text>
+      <Value>f_bumper.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirror</Group>
+      <Text>Standard Painted</Text>
+      <Value>mirror.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Handle</Group>
+      <Text>Standard Painted</Text>
+      <Value>doorhndl.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trunk</Group>
+      <Text>Standard Painted</Text>
+      <Value>trunk.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Trunk</Group>
+      <Text>Standard Chromed</Text>
+      <Value>trunk.std_chr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>Standard Painted</Text>
+      <Value>r_bumper.std_pnt</Value>
+    </ListItem>
+  </AccessoryItems>
+  <XmlSource>User</XmlSource>
+  <Game>ATS</Game>
+  <InternalName>ford.f150_23</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>Ford|2023 F-150</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>pckup4d_55.ford.f150_23.cabin</InternalName>
+      <Name>Lariat SuperCrew</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>LinTK</XmlDefinitionAuthor>
+  <DateUpdated>2026-09-30T00:00:00</DateUpdated>
+</Variable>

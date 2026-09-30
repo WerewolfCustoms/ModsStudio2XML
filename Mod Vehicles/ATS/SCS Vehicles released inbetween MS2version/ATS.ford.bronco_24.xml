@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Grille</Group>
+      <Text>Badlands Painted</Text>
+      <Value>grill.bad_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fender</Group>
+      <Text>Standard Painted</Text>
+      <Value>fenders.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fender</Group>
+      <Text>Sasquatch Painted</Text>
+      <Value>fenders.ssq_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main Mirror</Group>
+      <Text>Standard Painted</Text>
+      <Value>mirror.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Door Handle</Group>
+      <Text>Standard Painted</Text>
+      <Value>doorhndl.std_pnt</Value>
+    </ListItem>
+  </AccessoryItems>
+  <XmlSource>User</XmlSource>
+  <Game>ATS</Game>
+  <InternalName>ford.bronco_24</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>Ford|2024 Bronco</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>offrd_4d.ford.bronco_24.cabin</InternalName>
+      <Name>Badlands 4-Door</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>LinTK</XmlDefinitionAuthor>
+  <DateUpdated>2026-09-30T00:00:00</DateUpdated>
+</Variable>

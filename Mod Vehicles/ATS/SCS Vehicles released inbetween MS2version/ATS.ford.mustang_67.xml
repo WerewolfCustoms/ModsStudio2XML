@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems />
+  <XmlSource>All</XmlSource>
+  <Game>ATS</Game>
+  <InternalName>ford.mustang_67</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>Ford|1967 Mustang</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>fastb.ford.mustang_67.cabin</InternalName>
+      <Name>Fastback</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>LinTK</XmlDefinitionAuthor>
+  <DateUpdated>2026-09-30T00:00:00</DateUpdated>
+</Variable>
