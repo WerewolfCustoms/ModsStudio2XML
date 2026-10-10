@@ -2,26 +2,30 @@
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
   <IsEnabled>true</IsEnabled>
-  <AccessoryItems />
-  <XmlSource>All</XmlSource>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Hood</Group>
+      <Text>Decor Group Painted</Text>
+      <Value>hood.dec_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Hood</Group>
+      <Text>Standard Painted</Text>
+      <Value>hood.std_pnt</Value>
+    </ListItem>
+  </AccessoryItems>
   <Game>ATS</Game>
   <InternalName>ford.mustang_67</InternalName>
-  <SoundItems>
-    <ListItem>
-      <Group>SCS Software</Group>
-      <Text>Default sound</Text>
-      <Value>sound</Value>
-    </ListItem>
-  </SoundItems>
+  <SoundItems />
   <VehicleAuthor>SCS Software</VehicleAuthor>
-  <VehicleName>Ford|1967 Mustang</VehicleName>
-  <VehicleType>AllTrucks</VehicleType>
+  <VehicleName>Ford|1967 Ford Mustang Fastback</VehicleName>
+  <VehicleType>All</VehicleType>
   <VehicleVariants>
     <Variant>
+      <AccessoryDependencies />
       <InternalName>fastb.ford.mustang_67.cabin</InternalName>
       <Name>Fastback</Name>
     </Variant>
   </VehicleVariants>
-  <XmlDefinitionAuthor>LinTK</XmlDefinitionAuthor>
-  <DateUpdated>2026-09-30T00:00:00</DateUpdated>
 </Variable>

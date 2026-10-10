@@ -5,17 +5,17 @@
   <Validators />
   <AccessoryItems>
     <ListItem>
-      <Group>Grille</Group>
+      <Group>Grill</Group>
       <Text>Badlands Painted</Text>
       <Value>grill.bad_pnt</Value>
     </ListItem>
     <ListItem>
-      <Group>Fender</Group>
+      <Group>Fenders</Group>
       <Text>Standard Painted</Text>
       <Value>fenders.std_pnt</Value>
     </ListItem>
     <ListItem>
-      <Group>Fender</Group>
+      <Group>Fenders</Group>
       <Text>Sasquatch Painted</Text>
       <Value>fenders.ssq_pnt</Value>
     </ListItem>
@@ -25,12 +25,11 @@
       <Value>mirror.std_pnt</Value>
     </ListItem>
     <ListItem>
-      <Group>Door Handle</Group>
+      <Group>Door Handles</Group>
       <Text>Standard Painted</Text>
       <Value>doorhndl.std_pnt</Value>
     </ListItem>
   </AccessoryItems>
-  <XmlSource>User</XmlSource>
   <Game>ATS</Game>
   <InternalName>ford.bronco_24</InternalName>
   <SoundItems>
@@ -41,8 +40,8 @@
     </ListItem>
   </SoundItems>
   <VehicleAuthor>SCS Software</VehicleAuthor>
-  <VehicleName>Ford|2024 Bronco</VehicleName>
-  <VehicleType>AllTrucks</VehicleType>
+  <VehicleName>Ford|2024 Ford Bronco Badlands</VehicleName>
+  <VehicleType>All</VehicleType>
   <VehicleVariants>
     <Variant>
       <AccessoryDependencies />
@@ -50,6 +49,4 @@
       <Name>Badlands 4-Door</Name>
     </Variant>
   </VehicleVariants>
-  <XmlDefinitionAuthor>LinTK</XmlDefinitionAuthor>
-  <DateUpdated>2026-09-30T00:00:00</DateUpdated>
 </Variable>

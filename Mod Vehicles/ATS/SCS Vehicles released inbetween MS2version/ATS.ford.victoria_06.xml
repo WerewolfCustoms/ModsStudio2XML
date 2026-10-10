@@ -2,26 +2,93 @@
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
   <IsEnabled>true</IsEnabled>
-  <AccessoryItems />
-  <XmlSource>All</XmlSource>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Door Handles</Group>
+      <Text>Standard Fully Painted</Text>
+      <Value>doorhndl.std_pnf</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumpers</Group>
+      <Text>Standard Fully Painted</Text>
+      <Value>f_bumper.std_pnf</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumpers</Group>
+      <Text>Standard Painted</Text>
+      <Value>f_bumper.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumpers</Group>
+      <Text>Standard Painted&amp;Chromed</Text>
+      <Value>f_bumper.std_pnc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Grill</Group>
+      <Text>LX Painted</Text>
+      <Value>grill.lx_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Grill</Group>
+      <Text>Standard Painted</Text>
+      <Value>grill.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Hood</Group>
+      <Text>Standard Painted</Text>
+      <Value>hood.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>Standard Painted</Text>
+      <Value>mirror.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Standard Fully Painted</Text>
+      <Value>r_bumper.std_pnf</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Standard Painted</Text>
+      <Value>r_bumper.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Standard Painted&amp;Chromed</Text>
+      <Value>r_bumper.std_pnc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Panel</Group>
+      <Text>Standard Fully Painted</Text>
+      <Value>r_panel.std_pnf</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Panel</Group>
+      <Text>Standard Painted&amp;Chromed Strip</Text>
+      <Value>r_panel.std_pnc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Strip</Group>
+      <Text>Standard Fully Painted</Text>
+      <Value>s_strip.std_pnf</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side Strip</Group>
+      <Text>Standard Painted&amp;Chromed</Text>
+      <Value>s_strip.std_pnc</Value>
+    </ListItem>
+  </AccessoryItems>
   <Game>ATS</Game>
   <InternalName>ford.victoria_06</InternalName>
-  <SoundItems>
-    <ListItem>
-      <Group>SCS Software</Group>
-      <Text>Default sound</Text>
-      <Value>sound</Value>
-    </ListItem>
-  </SoundItems>
+  <SoundItems />
   <VehicleAuthor>SCS Software</VehicleAuthor>
-  <VehicleName>Ford|2006 Crown Victoria</VehicleName>
-  <VehicleType>AllTrucks</VehicleType>
+  <VehicleName>Ford|2006 Ford Crown Victoria</VehicleName>
+  <VehicleType>All</VehicleType>
   <VehicleVariants>
     <Variant>
       <InternalName>sedan.ford.victoria_06.cabin</InternalName>
       <Name>Sedan</Name>
     </Variant>
   </VehicleVariants>
-  <XmlDefinitionAuthor>LinTK</XmlDefinitionAuthor>
-  <DateUpdated>2026-09-30T00:00:00</DateUpdated>
 </Variable>
