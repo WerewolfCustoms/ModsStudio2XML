@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>Variant 1</Description>
+      <Group>Spoiler</Group>
+      <Text>Spoiler Model 1</Text>
+      <Value>spoiler.spo_1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Variant 2</Description>
+      <Group>Spoiler</Group>
+      <Text>Spoiler Model 2</Text>
+      <Value>spoiler.spo_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Variant 3</Description>
+      <Group>Spoiler</Group>
+      <Text>Spoiler Model 3</Text>
+      <Value>spoiler.spo_3</Value>
+    </ListItem>
+  </AccessoryItems>
+  <XmlSource>All</XmlSource>
+  <Game>ATS</Game>
+  <InternalName>chevy.camaro_69</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Ananda Andika BP</VehicleAuthor>
+  <VehicleName>Chevrolet|1969 Chevrolet Camaro Z/28</VehicleName>
+  <VehicleType>All</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>standard.chevy.camaro_69.cabin</InternalName>
+      <Name>Standard</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <DateUpdated>2026-10-10T00:00:00</DateUpdated>
+</Variable>
