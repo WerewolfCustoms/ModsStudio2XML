@@ -1,0 +1,1709 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>9037754e-2cbf-4fc9-b281-1d6033405669</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 2 Chrome/Paint</Text>
+      <Value>36h_rack.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 2 Paint/Chrome</Text>
+      <Value>36h_rack.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 2 Paint</Text>
+      <Value>36h_rack.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 3 Chrome/Paint</Text>
+      <Value>36h_rack.shape25</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 3 Paint/Chrome</Text>
+      <Value>36h_rack.shape26</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 3 Paint</Text>
+      <Value>36h_rack.shape27</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 4 Chrome/Paint</Text>
+      <Value>36h_rack.shape34</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 4 Paint/Chrome</Text>
+      <Value>36h_rack.shape35</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 4 Paint</Text>
+      <Value>36h_rack.shape36</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 1 Chrome/Paint</Text>
+      <Value>36h_rack.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 1 Paint/Chrome</Text>
+      <Value>36h_rack.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 1 Paint</Text>
+      <Value>36h_rack.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>Paint</Text>
+      <Value>3axlefender.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 2 Chrome/Paint</Text>
+      <Value>48h_rack.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 2 Paint/Chrome</Text>
+      <Value>48h_rack.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 2 Paint</Text>
+      <Value>48h_rack.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 3 Chrome/Paint</Text>
+      <Value>48h_rack.shape25</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 3 Paint/Chrome</Text>
+      <Value>48h_rack.shape26</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 3 Paint</Text>
+      <Value>48h_rack.shape27</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 4 Chrome/Paint</Text>
+      <Value>48h_rack.shape34</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 4 Paint/Chrome</Text>
+      <Value>48h_rack.shape35</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 4 Paint</Text>
+      <Value>48h_rack.shape36</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 1 Chrome/Paint</Text>
+      <Value>48h_rack.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 1 Paint/Chrome</Text>
+      <Value>48h_rack.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 1 Paint</Text>
+      <Value>48h_rack.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 2 Chrome/Paint</Text>
+      <Value>day_h_rack.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 2 Paint/Chrome</Text>
+      <Value>day_h_rack.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 2 Paint</Text>
+      <Value>day_h_rack.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 3 Chrome/Paint</Text>
+      <Value>day_h_rack.shape25</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 3 Paint/Chrome</Text>
+      <Value>day_h_rack.shape26</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 3 Paint</Text>
+      <Value>day_h_rack.shape27</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 4 Chrome/Paint</Text>
+      <Value>day_h_rack.shape34</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 4 Paint/Chrome</Text>
+      <Value>day_h_rack.shape35</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 4 Paint</Text>
+      <Value>day_h_rack.shape36</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 1 Chrome/Paint</Text>
+      <Value>day_h_rack.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 1 Paint/Chrome</Text>
+      <Value>day_h_rack.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 1 Paint</Text>
+      <Value>day_h_rack.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>FiberGlass Single Axle v.1</Text>
+      <Value>fenders.shape31</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>FiberGlass Single Axle v.2</Text>
+      <Value>fenders.shape32</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>FiberGlass Full Fender v.1</Text>
+      <Value>fenders.shape33</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>FiberGlass Full Fender v.2</Text>
+      <Value>fenders.shape34</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>FiberGlass EURO Double Hump</Text>
+      <Value>fenders.shape35</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>FiberGlass Double Hump v.1</Text>
+      <Value>fenders.shape36</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>FiberGlass Single Axle v.1</Text>
+      <Value>fenders.shape37</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>FiberGlass Single Axle v.2</Text>
+      <Value>fenders.shape38</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>FiberGlass Full Fender v.1</Text>
+      <Value>fenders.shape39</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>FiberGlass Full Fender v.2</Text>
+      <Value>fenders.shape40</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>FiberGlass EURO Double Hump</Text>
+      <Value>fenders.shape41</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Fenders</Group>
+      <Text>FiberGlass Double Hump v.1</Text>
+      <Value>fenders.shape42</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 2 Chrome/Paint</Text>
+      <Value>h_rack.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 2 Paint/Chrome</Text>
+      <Value>h_rack.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 2 Paint</Text>
+      <Value>h_rack.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 3 Chrome/Paint</Text>
+      <Value>h_rack.shape25</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 3 Paint/Chrome</Text>
+      <Value>h_rack.shape26</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 3 Paint</Text>
+      <Value>h_rack.shape27</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 4 Chrome/Paint</Text>
+      <Value>h_rack.shape34</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 4 Paint/Chrome</Text>
+      <Value>h_rack.shape35</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 4 Paint</Text>
+      <Value>h_rack.shape36</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 1 Chrome/Paint</Text>
+      <Value>h_rack.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 1 Paint/Chrome</Text>
+      <Value>h_rack.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 1 Paint</Text>
+      <Value>h_rack.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Standard Hybrid Painted 4-lights</Text>
+      <Value>r_bumper.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Rails-Bumper Painted 6-lights</Text>
+      <Value>r_bumper.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Rails-Bumper Painted 8-lights</Text>
+      <Value>r_bumper.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Paint</Text>
+      <Value>r_bumper.shape1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Custom Rounded Painted 6-lights</Text>
+      <Value>r_bumper.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Custom Rounded Painted 8-lights</Text>
+      <Value>r_bumper.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Custom Painted 6-lights</Text>
+      <Value>r_bumper.shape26</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Custom Painted 8-lights</Text>
+      <Value>r_bumper.shape28</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Custom Paint</Text>
+      <Value>r_bumper.shape2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Custom Small Painted 2-lights</Text>
+      <Value>r_bumper.shape38</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Standard Paint</Text>
+      <Value>r_bumper.shape3p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Custom Small Painted 4-lights</Text>
+      <Value>r_bumper.shape40</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Custom Hybrid Painted 2-lights</Text>
+      <Value>r_bumper.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Custom Hybrid Painted 4-lights</Text>
+      <Value>r_bumper.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Standard Hybrid Painted 2-lights</Text>
+      <Value>r_bumper.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Rails-Bumper Painted 10-lights</Text>
+      <Value>r_bumper.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Custom Rounded Painted 10-lights</Text>
+      <Value>r_bumper.shape24</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumpers</Group>
+      <Text>Custom Painted 10-lights</Text>
+      <Value>r_bumper.shape30</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 2 Chrome/Paint</Text>
+      <Value>63h_rack.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 2 Paint/Chrome</Text>
+      <Value>63h_rack.shape17</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 2 Paint</Text>
+      <Value>63h_rack.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 3 Chrome/Paint</Text>
+      <Value>63h_rack.shape25</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 3 Paint/Chrome</Text>
+      <Value>63h_rack.shape26</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 3 Paint</Text>
+      <Value>63h_rack.shape27</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 4 Chrome/Paint</Text>
+      <Value>63h_rack.shape34</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 4 Paint/Chrome</Text>
+      <Value>63h_rack.shape35</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 4 Paint</Text>
+      <Value>63h_rack.shape36</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 1 Chrome/Paint</Text>
+      <Value>63h_rack.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 1 Paint/Chrome</Text>
+      <Value>63h_rack.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Headache Racks</Group>
+      <Text>Type 1 Paint</Text>
+      <Value>63h_rack.shape9</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Standard (389/388)</Text>
+      <Value>frontfenders.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Standard (378)</Text>
+      <Value>frontfenders.shape1_378</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Standard (379)</Text>
+      <Value>frontfenders.shape1_379</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Custom 1 (389/388)</Text>
+      <Value>frontfenders.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Custom 1 (378)</Text>
+      <Value>frontfenders.shape2_378</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Custom 2 (389/388)</Text>
+      <Value>frontfenders.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Custom 2 (378)</Text>
+      <Value>frontfenders.shape3_378</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Pride &amp; Class (389/388)</Text>
+      <Value>frontfenders.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Chrome (378)</Text>
+      <Value>frontfenders.shape4_378</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Fenders</Group>
+      <Text>Chrome (379)</Text>
+      <Value>frontfenders.shape4_379</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Visors</Group>
+      <Text>Custom 4 Paint</Text>
+      <Value>visors.shape10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Visors</Group>
+      <Text>Custom 5 Paint</Text>
+      <Value>visors.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Visors</Group>
+      <Text>Custom 6 Paint</Text>
+      <Value>visors.shape14</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Visors</Group>
+      <Text>Custom 7 Paint</Text>
+      <Value>visors.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Visors</Group>
+      <Text>Custom 8 Paint</Text>
+      <Value>visors.shape18</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Visors</Group>
+      <Text>Custom 9 Paint</Text>
+      <Value>visors.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Visors</Group>
+      <Text>Custom 10 Paint</Text>
+      <Value>visors.shape22</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Visors</Group>
+      <Text>Custom 11 Paint Custom</Text>
+      <Value>visors.shape23cp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Visors</Group>
+      <Text>Custom 11 Paint</Text>
+      <Value>visors.shape23p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Visors</Group>
+      <Text>Custom 12 Paint</Text>
+      <Value>visors.shape24p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Visors</Group>
+      <Text>Custom 13 Paint</Text>
+      <Value>visors.shape25p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Visors</Group>
+      <Text>Custom 14 Paint</Text>
+      <Value>visors.shape26p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Visors</Group>
+      <Text>Custom 15 Paint</Text>
+      <Value>visors.shape27p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Visors</Group>
+      <Text>Custom Paint</Text>
+      <Value>visors.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Visors</Group>
+      <Text>Stock Paint</Text>
+      <Value>visors.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Visors</Group>
+      <Text>Custom 2 Paint</Text>
+      <Value>visors.shape6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Visors</Group>
+      <Text>Custom 3 Paint</Text>
+      <Value>visors.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Rear Lightbars</Group>
+      <Text>Lightbar Paint</Text>
+      <Value>rear_bar.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Paintable Rear Lightbars</Group>
+      <Text>Lightbar Paint</Text>
+      <Value>rear_bar.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Company Logo - Your Logo</Group>
+      <Text>Your Logo Black (High Roof 389/388)</Text>
+      <Value>companylogo.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Company Logo - Your Logo</Group>
+      <Text>Your Logo Black (36in)</Text>
+      <Value>companylogo.shape3_36</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Company Logo - Your Logo</Group>
+      <Text>Your Logo Black (High Roof 379/378)</Text>
+      <Value>companylogo.shape3_379</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Company Logo - Your Logo</Group>
+      <Text>Your Logo Black (48/63in)</Text>
+      <Value>companylogo.shape3_48</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Company Logo - Your Logo</Group>
+      <Text>Your Logo Black (Daycab)</Text>
+      <Value>companylogo.shape3_day</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Company Logo - Your Logo</Group>
+      <Text>Your Logo Black (Flattop 389/388)</Text>
+      <Value>companylogo.shape3f</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Company Logo - Your Logo</Group>
+      <Text>Your Logo Black (Flattop 379/378)</Text>
+      <Value>companylogo.shape3f_379</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Company Logo - Your Logo</Group>
+      <Text>Your Logo White (High Roof 389/388)</Text>
+      <Value>companylogo.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Company Logo - Your Logo</Group>
+      <Text>Your Logo White (36in)</Text>
+      <Value>companylogo.shape4_36</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Company Logo - Your Logo</Group>
+      <Text>Your Logo White (High Roof 379/378)</Text>
+      <Value>companylogo.shape4_379</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Company Logo - Your Logo</Group>
+      <Text>Your Logo White (48/63in)</Text>
+      <Value>companylogo.shape4_48</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Company Logo - Your Logo</Group>
+      <Text>Your Logo White (Daycab)</Text>
+      <Value>companylogo.shape4_day</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Company Logo - Your Logo</Group>
+      <Text>Your Logo White (Flattop 389/388)</Text>
+      <Value>companylogo.shape4f</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Company Logo - Your Logo</Group>
+      <Text>Your Logo White (Flattop 379/378)</Text>
+      <Value>companylogo.shape4f_379</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo - Your Logo</Group>
+      <Text>Your Logo Black</Text>
+      <Value>frontlogo.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo - Your Logo</Group>
+      <Text>Your Logo White</Text>
+      <Value>frontlogo.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo - Your Logo</Group>
+      <Text>Your Logo Black</Text>
+      <Value>frontlogo.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo - Your Logo</Group>
+      <Text>Your Logo White</Text>
+      <Value>frontlogo.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo - Your Logo</Group>
+      <Text>Your Logo Black</Text>
+      <Value>frontlogo.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo - Your Logo</Group>
+      <Text>Your Logo White</Text>
+      <Value>frontlogo.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo - Your Logo</Group>
+      <Text>Your Logo Black</Text>
+      <Value>frontlogo.shape23</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo - Your Logo</Group>
+      <Text>Your Logo White</Text>
+      <Value>frontlogo.shape24</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo - Your Logo</Group>
+      <Text>Your Logo Black</Text>
+      <Value>frontlogo.shape27</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo - Your Logo</Group>
+      <Text>Your Logo White</Text>
+      <Value>frontlogo.shape28</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo - Your Logo</Group>
+      <Text>Your Logo Black</Text>
+      <Value>frontlogo.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo - Your Logo</Group>
+      <Text>Your Logo White</Text>
+      <Value>frontlogo.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo - Your Logo</Group>
+      <Text>Your Logo Black</Text>
+      <Value>frontlogo.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Logo - Your Logo</Group>
+      <Text>Your Logo White</Text>
+      <Value>frontlogo.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Logo - Your Logo</Group>
+      <Text>Your Logo Black</Text>
+      <Value>rearlogo.shape11</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Logo - Your Logo</Group>
+      <Text>Your Logo White</Text>
+      <Value>rearlogo.shape12</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Logo - Your Logo</Group>
+      <Text>Your Logo Black</Text>
+      <Value>rearlogo.shape15</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Logo - Your Logo</Group>
+      <Text>Your Logo White</Text>
+      <Value>rearlogo.shape16</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Logo - Your Logo</Group>
+      <Text>Your Logo Black</Text>
+      <Value>rearlogo.shape19</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Logo - Your Logo</Group>
+      <Text>Your Logo White</Text>
+      <Value>rearlogo.shape20</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Logo - Your Logo</Group>
+      <Text>Your Logo Black</Text>
+      <Value>rearlogo.shape23</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Logo - Your Logo</Group>
+      <Text>Your Logo White</Text>
+      <Value>rearlogo.shape24</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Logo - Your Logo</Group>
+      <Text>Your Logo Black</Text>
+      <Value>rearlogo.shape27</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Logo - Your Logo</Group>
+      <Text>Your Logo White</Text>
+      <Value>rearlogo.shape28</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Logo - Your Logo</Group>
+      <Text>Your Logo Black</Text>
+      <Value>rearlogo.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Logo - Your Logo</Group>
+      <Text>Your Logo White</Text>
+      <Value>rearlogo.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Logo - Your Logo</Group>
+      <Text>Your Logo Black</Text>
+      <Value>rearlogo.shape7</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Logo - Your Logo</Group>
+      <Text>Your Logo White</Text>
+      <Value>rearlogo.shape8</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IFTA Decals</Group>
+      <Text>Ifta 25'</Text>
+      <Value>ifta.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IFTA Decals</Group>
+      <Text>Ifta 25'/24'</Text>
+      <Value>ifta.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>IFTA Decals</Group>
+      <Text>Ifta 25'/24'/23'</Text>
+      <Value>ifta.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps - Front</Group>
+      <Text>Variant 1</Text>
+      <Value>mudfl_f.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps - Front</Group>
+      <Text>Variant 2</Text>
+      <Value>mudfl_f.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps - Front</Group>
+      <Text>Variant 3</Text>
+      <Value>mudfl_f.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps - Front</Group>
+      <Text>Variant 4</Text>
+      <Value>mudfl_f.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps - Rear</Group>
+      <Text>Variant 1</Text>
+      <Value>mudfl_r.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps - Rear</Group>
+      <Text>Variant 1s</Text>
+      <Value>mudfl_r.shape1s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps - Rear</Group>
+      <Text>Variant 2</Text>
+      <Value>mudfl_r.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps - Rear</Group>
+      <Text>Variant 2s</Text>
+      <Value>mudfl_r.shape2s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps - Rear</Group>
+      <Text>Variant 3</Text>
+      <Value>mudfl_r.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps - Rear</Group>
+      <Text>Variant 3s</Text>
+      <Value>mudfl_r.shape3s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps - Rear</Group>
+      <Text>Variant 4</Text>
+      <Value>mudfl_r.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps - Rear</Group>
+      <Text>Variant 4s</Text>
+      <Value>mudfl_r.shape4s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps - Rear</Group>
+      <Text>Variant 5</Text>
+      <Value>mudfl_r.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps - Rear</Group>
+      <Text>Variant 5s</Text>
+      <Value>mudfl_r.shape5s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps - Side</Group>
+      <Text>Variant 1</Text>
+      <Value>mudfl_s.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps - Side</Group>
+      <Text>Variant 2</Text>
+      <Value>mudfl_s.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps - Side</Group>
+      <Text>Variant 3</Text>
+      <Value>mudfl_s.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mudflaps - Side</Group>
+      <Text>Variant 4</Text>
+      <Value>mudfl_s.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Custom Mudflaps - Front</Group>
+      <Text>Variant 1</Text>
+      <Value>cmudfl_f.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Custom Mudflaps - Front</Group>
+      <Text>Variant 2</Text>
+      <Value>cmudfl_f.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Custom Mudflaps - Front</Group>
+      <Text>Variant 3</Text>
+      <Value>cmudfl_f.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Custom Mudflaps - Front</Group>
+      <Text>Variant 4</Text>
+      <Value>cmudfl_f.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Custom Mudflaps - Side</Group>
+      <Text>Variant 1</Text>
+      <Value>cmudfl_s.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Custom Mudflaps - Side</Group>
+      <Text>Variant 2</Text>
+      <Value>cmudfl_s.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Custom Mudflaps - Side</Group>
+      <Text>Variant 3</Text>
+      <Value>cmudfl_s.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Custom Mudflaps - Side</Group>
+      <Text>Variant 4</Text>
+      <Value>cmudfl_s.shape4</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>Mods Studio 2\\UserVehicles\\ATS.Jon Ruda.Pete Glider.xml</FilePath>
+  <Game>ATS</Game>
+  <InternalName>pete.jc</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Jon Ruda</VehicleAuthor>
+  <VehicleName>Jon Ruda | Pete Glider 389 / 388 / 379 / 378</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies>
+        <string>shape1.pete.jc.hood</string>
+      </AccessoryDependencies>
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>daycabd.pete.jc.cabin</InternalName>
+      <Name>389 Daycab Short Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>daycab.pete.jc.cabin</InternalName>
+      <Name>389 Daycab Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>daycab86.pete.jc.cabin</InternalName>
+      <Name>389 Daycab 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>daycabl.pete.jc.cabin</InternalName>
+      <Name>389 Daycab Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>36.pete.jc.cabin</InternalName>
+      <Name>389 36` Flattop Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>3686.pete.jc.cabin</InternalName>
+      <Name>389 36` Flattop 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <Image />
+      <InternalName>36l.pete.jc.cabin</InternalName>
+      <Name>389 36` Flattop Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>48.pete.jc.cabin</InternalName>
+      <Name>389 48` Flattop Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>4886.pete.jc.cabin</InternalName>
+      <Name>389 48` Flattop 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>48l.pete.jc.cabin</InternalName>
+      <Name>389 48` Flattop Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>48able.pete.jc.cabin</InternalName>
+      <Name>389 48` Able Body Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>4886able.pete.jc.cabin</InternalName>
+      <Name>389 48` Able Body 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>48lable.pete.jc.cabin</InternalName>
+      <Name>389 48` Able Body Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>63.pete.jc.cabin</InternalName>
+      <Name>389 63` Flattop Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>6386.pete.jc.cabin</InternalName>
+      <Name>389 63` Flattop 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>63l.pete.jc.cabin</InternalName>
+      <Name>389 63` Flattop Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>63able.pete.jc.cabin</InternalName>
+      <Name>389 63` Able Body Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>6386able.pete.jc.cabin</InternalName>
+      <Name>389 63` Able Body 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>63lable.pete.jc.cabin</InternalName>
+      <Name>389 63` Able Body Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>flattop.pete.jc.cabin</InternalName>
+      <Name>389 72` Flattop Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>flattop86.pete.jc.cabin</InternalName>
+      <Name>389 72` Flattop 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>flattopl.pete.jc.cabin</InternalName>
+      <Name>389 72` Flattop Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>highroof.pete.jc.cabin</InternalName>
+      <Name>389 72` High Roof Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>highroof86.pete.jc.cabin</InternalName>
+      <Name>389 72` High Roof 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>389 Chassis</Group>
+      <InternalName>highroofl.pete.jc.cabin</InternalName>
+      <Name>389 72` High Roof Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>daycabd_379.pete.jc.cabin</InternalName>
+      <Name>379 Daycab Short Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>daycab_379.pete.jc.cabin</InternalName>
+      <Name>379 Daycab Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>daycab86_379.pete.jc.cabin</InternalName>
+      <Name>379 Daycab 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>daycabl_379.pete.jc.cabin</InternalName>
+      <Name>379 Daycab Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>36_379.pete.jc.cabin</InternalName>
+      <Name>379 36` Flattop Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>3686_379.pete.jc.cabin</InternalName>
+      <Name>379 36` Flattop 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>36l_379.pete.jc.cabin</InternalName>
+      <Name>379 36` Flattop Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>48_379.pete.jc.cabin</InternalName>
+      <Name>379 48` Flattop Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>4886_379.pete.jc.cabin</InternalName>
+      <Name>379 48` Flattop 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>48l_379.pete.jc.cabin</InternalName>
+      <Name>379 48` Flattop Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>48_379a.pete.jc.cabin</InternalName>
+      <Name>379 48` Able Body Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>4886_379a.pete.jc.cabin</InternalName>
+      <Name>379 48` Able Body 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>48l_379a.pete.jc.cabin</InternalName>
+      <Name>379 48` Able Body Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>63_379a.pete.jc.cabin</InternalName>
+      <Name>379 63` Able Body Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>6386_379a.pete.jc.cabin</InternalName>
+      <Name>379 63` Able Body 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>63l_379a.pete.jc.cabin</InternalName>
+      <Name>379 63` Able Body Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>flattop_379.pete.jc.cabin</InternalName>
+      <Name>379 63` Flattop Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>flat86_379.pete.jc.cabin</InternalName>
+      <Name>379 63` Flattop 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>flatl_379.pete.jc.cabin</InternalName>
+      <Name>379 63` Flattop Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>highroof_379.pete.jc.cabin</InternalName>
+      <Name>379 63` High Roof Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>hroof86_379.pete.jc.cabin</InternalName>
+      <Name>379 63` High Roof 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>379 Chassis</Group>
+      <InternalName>hroofl_379.pete.jc.cabin</InternalName>
+      <Name>379 63` High Roof Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies>
+        <string>shape1.pete.jc.hood</string>
+      </AccessoryDependencies>
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>daycabd.pete.jc.cabin</InternalName>
+      <Name>388 Daycab Short Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>daycab.pete.jc.cabin</InternalName>
+      <Name>388 Daycab Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>daycab86.pete.jc.cabin</InternalName>
+      <Name>388 Daycab 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>daycabl.pete.jc.cabin</InternalName>
+      <Name>388 Daycab Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>36.pete.jc.cabin</InternalName>
+      <Name>388 36` Flattop Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>3686.pete.jc.cabin</InternalName>
+      <Name>388 36` Flattop 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <Image />
+      <InternalName>36l.pete.jc.cabin</InternalName>
+      <Name>388 36` Flattop Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>48.pete.jc.cabin</InternalName>
+      <Name>388 48` Flattop Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>4886.pete.jc.cabin</InternalName>
+      <Name>388 48` Flattop 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>48l.pete.jc.cabin</InternalName>
+      <Name>388 48` Flattop Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>48able.pete.jc.cabin</InternalName>
+      <Name>388 48` Able Body Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>4886able.pete.jc.cabin</InternalName>
+      <Name>388 48` Able Body 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>48lable.pete.jc.cabin</InternalName>
+      <Name>388 48` Able Body Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>63.pete.jc.cabin</InternalName>
+      <Name>388 63` Flattop Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>6386.pete.jc.cabin</InternalName>
+      <Name>388 63` Flattop 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>63l.pete.jc.cabin</InternalName>
+      <Name>388 63` Flattop Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>63able.pete.jc.cabin</InternalName>
+      <Name>388 63` Able Body Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>6386able.pete.jc.cabin</InternalName>
+      <Name>388 63` Able Body 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>63lable.pete.jc.cabin</InternalName>
+      <Name>388 63` Able Body Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>flattop.pete.jc.cabin</InternalName>
+      <Name>388 72` Flattop Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>flattop86.pete.jc.cabin</InternalName>
+      <Name>388 72` Flattop 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>flattopl.pete.jc.cabin</InternalName>
+      <Name>388 72` Flattop Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>highroof.pete.jc.cabin</InternalName>
+      <Name>388 72` High Roof Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>highroof86.pete.jc.cabin</InternalName>
+      <Name>388 72` High Roof 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>388 Chassis</Group>
+      <InternalName>highroofl.pete.jc.cabin</InternalName>
+      <Name>388 72` High Roof Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>daycabd_379.pete.jc.cabin</InternalName>
+      <Name>378 Daycab Short Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>daycab_379.pete.jc.cabin</InternalName>
+      <Name>378 Daycab Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>daycab86_379.pete.jc.cabin</InternalName>
+      <Name>378 Daycab 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>daycabl_379.pete.jc.cabin</InternalName>
+      <Name>378 Daycab Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>36_379.pete.jc.cabin</InternalName>
+      <Name>378 36` Flattop Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>3686_379.pete.jc.cabin</InternalName>
+      <Name>378 36` Flattop 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>36l_379.pete.jc.cabin</InternalName>
+      <Name>378 36` Flattop Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>48_379.pete.jc.cabin</InternalName>
+      <Name>378 48` Flattop Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>4886_379.pete.jc.cabin</InternalName>
+      <Name>378 48` Flattop 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>48l_379.pete.jc.cabin</InternalName>
+      <Name>378 48` Flattop Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>48_379a.pete.jc.cabin</InternalName>
+      <Name>378 48` Able Body Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>4886_379a.pete.jc.cabin</InternalName>
+      <Name>378 48` Able Body 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>48l_379a.pete.jc.cabin</InternalName>
+      <Name>378 48` Able Body Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>63_379a.pete.jc.cabin</InternalName>
+      <Name>378 63` Able Body Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>6386_379a.pete.jc.cabin</InternalName>
+      <Name>378 63` Able Body 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>63l_379a.pete.jc.cabin</InternalName>
+      <Name>378 63` Able Body Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>flattop_379.pete.jc.cabin</InternalName>
+      <Name>378 63` Flattop Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>flat86_379.pete.jc.cabin</InternalName>
+      <Name>378 63` Flattop 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>flatl_379.pete.jc.cabin</InternalName>
+      <Name>378 63` Flattop Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>highroof_379.pete.jc.cabin</InternalName>
+      <Name>378 63` High Roof Standard Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>hroof86_379.pete.jc.cabin</InternalName>
+      <Name>378 63` High Roof 8x6 Chassis</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>378 Chassis</Group>
+      <InternalName>hroofl_379.pete.jc.cabin</InternalName>
+      <Name>378 63` High Roof Long Chassis</Name>
+    </Variant>
+    <Variant>
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>Wrecker Chassis</Group>
+      <InternalName>36wr.pete.jc.cabin</InternalName>
+      <Name>389 36` Flattop Wrecker</Name>
+    </Variant>
+    <Variant>
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>Wrecker Chassis</Group>
+      <InternalName>48wr.pete.jc.cabin</InternalName>
+      <Name>389 48` Flattop Wrecker</Name>
+    </Variant>
+    <Variant>
+      <Description>Add "suitable_for[]: "*.389.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>Wrecker Chassis</Group>
+      <InternalName>daywr.pete.jc.cabin</InternalName>
+      <Name>389 Daycab Wrecker</Name>
+    </Variant>
+    <Variant>
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>Wrecker Chassis</Group>
+      <InternalName>36wr.pete.jc.cabin</InternalName>
+      <Name>388 36` Flattop Wrecker</Name>
+    </Variant>
+    <Variant>
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>Wrecker Chassis</Group>
+      <InternalName>48wr.pete.jc.cabin</InternalName>
+      <Name>388 48` Flattop Wrecker</Name>
+    </Variant>
+    <Variant>
+      <Description>Add "suitable_for[]: "*.388.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>Wrecker Chassis</Group>
+      <InternalName>daywr.pete.jc.cabin</InternalName>
+      <Name>388 Daycab Wrecker</Name>
+    </Variant>
+    <Variant>
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>Wrecker Chassis</Group>
+      <InternalName>36wr_379.pete.jc.cabin</InternalName>
+      <Name>379 36` Flattop Wrecker</Name>
+    </Variant>
+    <Variant>
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>Wrecker Chassis</Group>
+      <InternalName>48wr_379.pete.jc.cabin</InternalName>
+      <Name>379 48` Flattop Wrecker</Name>
+    </Variant>
+    <Variant>
+      <Description>Add "suitable_for[]: "*.379.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>Wrecker Chassis</Group>
+      <InternalName>daywr_379.pete.jc.cabin</InternalName>
+      <Name>379 Daycab Wrecker</Name>
+    </Variant>
+    <Variant>
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>Wrecker Chassis</Group>
+      <InternalName>36wr_379.pete.jc.cabin</InternalName>
+      <Name>378 36` Flattop Wrecker</Name>
+    </Variant>
+    <Variant>
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>Wrecker Chassis</Group>
+      <InternalName>48wr_379.pete.jc.cabin</InternalName>
+      <Name>378 48` Flattop Wrecker</Name>
+    </Variant>
+    <Variant>
+      <Description>Add "suitable_for[]: "*.378.pete.jc.chassis" in paintjob suitable list to make it compatible only with this type of chassis</Description>
+      <Group>Wrecker Chassis</Group>
+      <InternalName>daywr_379.pete.jc.cabin</InternalName>
+      <Name>378 Daycab Wrecker</Name>
+    </Variant>
+  </VehicleVariants>
+</Variable>
