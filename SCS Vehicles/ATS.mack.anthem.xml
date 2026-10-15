@@ -33,7 +33,7 @@
       <Group>Mirrors</Group>
       <Text>Paint Side Mirror</Text>
       <Value>s_mirror.paint02</Value>
-    </ListItem>  
+    </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
       <Group>Cab deflectors</Group>
@@ -77,6 +77,78 @@
       <Value>cabdefl.s70_rcap_ext</Value>
     </ListItem>
     <ListItem>
+      <Description>add main template</Description>
+      <Group>Side Deflectors</Group>
+      <Text>DayCab side deflector side fairings</Text>
+      <Value>s_deflector.day_std_bl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>add main template</Description>
+      <Group>Side Deflectors</Group>
+      <Text>DayCab side deflector side fairings chromed</Text>
+      <Value>s_deflector.day_std_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description>add main template</Description>
+      <Group>Side Deflectors</Group>
+      <Text>DayCab side deflector exclusive side fairings</Text>
+      <Value>s_deflector.day_exc_bl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>add main template</Description>
+      <Group>Side Deflectors</Group>
+      <Text>DayCab side deflector exclusive side fairings chromed</Text>
+      <Value>s_deflector.day_exc_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description>add main template</Description>
+      <Group>Side Deflectors</Group>
+      <Text>48" side deflector side fairings</Text>
+      <Value>s_deflector.s48_std_bl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>add main template</Description>
+      <Group>Side Deflectors</Group>
+      <Text>48" side deflector side fairings chromed</Text>
+      <Value>s_deflector.s48_std_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description>add main template</Description>
+      <Group>Side Deflectors</Group>
+      <Text>48" side deflector exclusive side fairings</Text>
+      <Value>s_deflector.s48_exc_bl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>add main template</Description>
+      <Group>Side Deflectors</Group>
+      <Text>48" side deflector exclusive side fairings chromed</Text>
+      <Value>s_deflector.s48_exc_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description>add main template</Description>
+      <Group>Side Deflectors</Group>
+      <Text>70" side deflector side fairings</Text>
+      <Value>s_deflector.s70_std_bl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>add main template</Description>
+      <Group>Side Deflectors</Group>
+      <Text>70" side deflector side fairings chromed</Text>
+      <Value>s_deflector.s70_std_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description>add main template</Description>
+      <Group>Side Deflectors</Group>
+      <Text>70" side deflector exclusive side fairings</Text>
+      <Value>s_deflector.s70_exc_bl</Value>
+    </ListItem>
+    <ListItem>
+      <Description>add main template</Description>
+      <Group>Side Deflectors</Group>
+      <Text>70" side deflector exclusive side fairings chromed</Text>
+      <Value>s_deflector.s70_exc_ch</Value>
+    </ListItem>
+    <ListItem>
       <Group>Cabin Sides</Group>
       <Text>Paint Ventilation Sleeper 48"</Text>
       <Value>slp_vent.paint</Value>
@@ -95,7 +167,7 @@
       <Group>Wing</Group>
       <Text>Paint Sleeper 48"</Text>
       <Value>wing.s48_std</Value>
-    </ListItem>    
+    </ListItem>
     <ListItem>
       <Group>Wing</Group>
       <Text>Paint&amp;Chrome Sleeper 48"</Text>
@@ -357,7 +429,7 @@
       <Group>Mudguard</Group>
       <Text>Painted Mudguard</Text>
       <Value>mudguard.paint</Value>
-    </ListItem>    
+    </ListItem>
     <ListItem>
       <Group>Mudflaps (Aero)</Group>
       <Text>FlowBelow Paint</Text>
