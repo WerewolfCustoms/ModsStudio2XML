@@ -3,53 +3,6 @@
   <ChildVariables />
   <IsEnabled>true</IsEnabled>
   <Validators />
-   <!-- Created with v2025.02 Modversion 2.0 ETS2_v1.57 -->
-  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
-  <DateUpdated>2025-11-27T00:00:00</DateUpdated>
-  <Game>ETS2</Game>
-  <InternalName>ntm.semi_r19twin</InternalName>
-  <SoundItems />
-  <VehicleAuthor>KAST</VehicleAuthor>
-  <VehicleName>KAST  NTM|Semi-Trailers R19Twin with Dolly Option</VehicleName>
-  <VehicleType>Trailers</VehicleType>
-  <VehicleVariants>
-    <Variant>
-      <Description>Tick this Box for Dolly Options</Description>
-      <Group>Dolly</Group>
-      <InternalName>body.dolly</InternalName>
-      <Name>Solo</Name>
-    </Variant>
-    <Variant>
-      <Group>Dryvan</Group>
-      <InternalName>body.4_0x13_6</InternalName>
-      <Name>4.0m Dryvan</Name>
-    </Variant>
-    <Variant>
-      <Group>Dryvan</Group>
-      <InternalName>body.4_2x13_6</InternalName>
-      <Name>4.2m Dryvan</Name>
-    </Variant>
-    <Variant>
-      <Group>Dryvan</Group>
-      <InternalName>body.4_4x13_6</InternalName>
-      <Name>4.4m Dryvan</Name>
-    </Variant>
-    <Variant>
-      <Group>Reefer</Group>
-      <InternalName>body.4_0x13_6</InternalName>
-      <Name>4.0m Reefer</Name>
-    </Variant>
-    <Variant>
-      <Group>Reefer</Group>
-      <InternalName>body.4_2x13_6</InternalName>
-      <Name>4.2m Reefer</Name>
-    </Variant>
-    <Variant>
-      <Group>Reefer</Group>
-      <InternalName>body.4_4x13_6</InternalName>
-      <Name>4.4m Reefer</Name>
-    </Variant>
-  </VehicleVariants>
   <AccessoryItems>
     <ListItem>
       <Description>Closed Sides/Doors</Description>
@@ -195,6 +148,21 @@
       <Group>Axles</Group>
       <Text>Axles</Text>
       <Value>axles.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Axles</Group>
+      <Text>Axles</Text>
+      <Value>axles_0.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Axles</Group>
+      <Text>Axles</Text>
+      <Value>axles_1.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Axles</Group>
+      <Text>Axles</Text>
+      <Value>axles_2.paint</Value>
     </ListItem>
     <ListItem>
       <Group>Frame/Chassi Corners</Group>
@@ -591,7 +559,7 @@
       <Group>Rear Bumper</Group>
       <Text>Paintable Rear Bumper</Text>
       <Value>r_bumper.paint</Value>
-    </ListItem>   
+    </ListItem>
     <ListItem>
       <Group>Rear Guard</Group>
       <Text>Paint</Text>
@@ -773,4 +741,57 @@
       <Value>r_mudflap.paint</Value>
     </ListItem>
   </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>ntm.semi_r19twin</InternalName>
+  <SoundItems />
+  <VehicleAuthor>KAST</VehicleAuthor>
+  <VehicleName>KAST  NTM|Semi-Trailers R19Twin with Dolly Option</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Tick this Box for Dolly Options</Description>
+      <Group>Dolly</Group>
+      <InternalName>body.dolly</InternalName>
+      <Name>Solo</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Dryvan</Group>
+      <InternalName>body.4_0x13_6</InternalName>
+      <Name>4.0m Dryvan</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Dryvan</Group>
+      <InternalName>body.4_2x13_6</InternalName>
+      <Name>4.2m Dryvan</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Dryvan</Group>
+      <InternalName>body.4_4x13_6</InternalName>
+      <Name>4.4m Dryvan</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Reefer</Group>
+      <InternalName>body.4_0x13_6</InternalName>
+      <Name>4.0m Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Reefer</Group>
+      <InternalName>body.4_2x13_6</InternalName>
+      <Name>4.2m Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Reefer</Group>
+      <InternalName>body.4_4x13_6</InternalName>
+      <Name>4.4m Reefer</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <DateUpdated>2025-11-27T00:00:00</DateUpdated>
 </Variable>

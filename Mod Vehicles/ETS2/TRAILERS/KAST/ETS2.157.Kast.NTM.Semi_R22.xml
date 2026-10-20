@@ -3,201 +3,64 @@
   <ChildVariables />
   <IsEnabled>true</IsEnabled>
   <Validators />
-   <!-- Created with v2025.02 Modversion 2.0 ETS2_v1.57 -->
-  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
-  <DateUpdated>2025-11-28T00:00:00</DateUpdated>
-  <Game>ETS2</Game>
-  <InternalName>ntm.semi_r22</InternalName>
-  <SoundItems />
-  <VehicleAuthor>KAST</VehicleAuthor>
-  <VehicleName>KAST  NTM|Semi-Trailers R22 with Dolly Option</VehicleName>
-  <VehicleType>Trailers</VehicleType>
-  <VehicleVariants>
-    <Variant>
-      <Description>Tick this Box for Dolly Options</Description>
-      <Group>Dolly</Group>
-      <InternalName>body.dolly</InternalName>
-      <Name>Solo</Name>
-    </Variant>
-    <Variant>
-      <Group>Dryvan  (4.0m 7.5m)</Group>
-      <InternalName>body.4_0x7_5b1</InternalName>
-      <Name>4.0m Dryvan</Name>
-    </Variant>
-    <Variant>
-      <Group>Dryvan  (4.0m 7.5m)</Group>
-      <InternalName>body.4_0x7_5b2</InternalName>
-      <Name>4.0m Dryvan</Name>
-    </Variant>
-    <Variant>
-      <Group>Dryvan  (4.0m 13.6m)</Group>
-      <InternalName>body.4_0x13_6_a</InternalName>
-      <Name>4.0m Dryvan</Name>
-    </Variant>
-    <Variant>
-      <Group>Dryvan  (4.0m 13.6m)</Group>
-      <InternalName>body.4_0x13_6_b</InternalName>
-      <Name>4.0m Dryvan</Name>
-    </Variant>
-    <Variant>
-      <Group>Dryvan  (4.2m 7.5m)</Group>
-      <InternalName>body.4_2x7_5b1</InternalName>
-      <Name>4.2m Dryvan</Name>
-    </Variant>
-    <Variant>
-      <Group>Dryvan  (4.2m 7.5m)</Group>
-      <InternalName>body.4_2x7_5b2</InternalName>
-      <Name>4.2m Dryvan</Name>
-    </Variant>
-    <Variant>
-      <Group>Dryvan  (4.2m 13.6m)</Group>
-      <InternalName>body.4_2x13_6_a</InternalName>
-      <Name>4.2m Dryvan</Name>
-    </Variant>
-    <Variant>
-      <Group>Dryvan  (4.2m 13.6m)</Group>
-      <InternalName>body.4_2x13_6_b</InternalName>
-      <Name>4.2m Dryvan</Name>
-    </Variant>
-    <Variant>
-      <Group>Dryvan  (4.4m 7.5m)</Group>
-      <InternalName>body.4_4x7_5b1</InternalName>
-      <Name>4.4m Dryvan</Name>
-    </Variant>
-    <Variant>
-      <Group>Dryvan  (4.4m 7.5m)</Group>
-      <InternalName>body.4_4x7_5b2</InternalName>
-      <Name>4.4m Dryvan</Name>
-    </Variant>
-    <Variant>
-      <Group>Dryvan  (4.4m 13.6m)</Group>
-      <InternalName>body.4_4x13_6_a</InternalName>
-      <Name>4.4m Dryvan</Name>
-    </Variant>
-    <Variant>
-      <Group>Dryvan  (4.4m 13.6m)</Group>
-      <InternalName>body.4_4x13_6_b</InternalName>
-      <Name>4.4m Dryvan</Name>
-    </Variant>
-    <Variant>
-      <Group>Reefer  (4.0m 7.5m)</Group>
-      <InternalName>body.4_0x7_5b1</InternalName>
-      <Name>4.0m Reefer</Name>
-    </Variant>
-    <Variant>
-      <Group>Reefer  (4.0m 7.5m)</Group>
-      <InternalName>body.4_0x7_5b2</InternalName>
-      <Name>4.0m Reefer</Name>
-    </Variant>
-    <Variant>
-      <Group>Reefer  (4.0m 13.6m)</Group>
-      <InternalName>body.4_0x13_6_a</InternalName>
-      <Name>4.0m Reefer</Name>
-    </Variant>
-    <Variant>
-      <Group>Reefer  (4.0m 13.6m)</Group>
-      <InternalName>body.4_0x13_6_b</InternalName>
-      <Name>4.0m Reefer</Name>
-    </Variant>
-    <Variant>
-      <Group>Reefer  (4.2m 7.5m)</Group>
-      <InternalName>body.4_2x7_5b1</InternalName>
-      <Name>4.2m Reefer</Name>
-    </Variant>
-    <Variant>
-      <Group>Reefer  (4.2m 7.5m)</Group>
-      <InternalName>body.4_2x7_5b2</InternalName>
-      <Name>4.2m Reefer</Name>
-    </Variant>
-    <Variant>
-      <Group>Reefer  (4.2m 13.6m)</Group>
-      <InternalName>body.4_2x13_6_a</InternalName>
-      <Name>4.2m Reefer</Name>
-    </Variant>
-    <Variant>
-      <Group>Reefer  (4.2m 13.6m)</Group>
-      <InternalName>body.4_2x13_6_b</InternalName>
-      <Name>4.2m Reefer</Name>
-    </Variant>
-    <Variant>
-      <Group>Reefer  (4.4m 7.5m)</Group>
-      <InternalName>body.4_4x7_5b1</InternalName>
-      <Name>4.4m Reefer</Name>
-    </Variant>
-    <Variant>
-      <Group>Reefer  (4.4m 7.5m)</Group>
-      <InternalName>body.4_4x7_5b2</InternalName>
-      <Name>4.4m Reefer</Name>
-    </Variant>
-    <Variant>
-      <Group>Reefer  (4.4m 13.6m)</Group>
-      <InternalName>body.4_4x13_6_a</InternalName>
-      <Name>4.4m Reefer</Name>
-    </Variant>
-    <Variant>
-      <Group>Reefer  (4.4m 13.6m)</Group>
-      <InternalName>body.4_4x13_6_b</InternalName>
-      <Name>4.4m Reefer</Name>
-    </Variant>
-  </VehicleVariants>  
   <AccessoryItems>
     <ListItem>
-      <Group>Main Body (4.0m x 7.5m)</Group>
+      <Group>Main Body LINK (4.0m x 7.5m)</Group>
       <Text>Closed side</Text>
       <Value>l_body.4_0x7_5b_c1</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.0m x 7.5m)</Group>
+      <Group>Main Body LINK (4.0m x 7.5m)</Group>
       <Text>Closed side</Text>
       <Value>l_body.4_0x7_5b_c2</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.0m x 7.5m)</Group>
+      <Group>Main Body LINK (4.0m x 7.5m)</Group>
       <Text>Doors</Text>
       <Value>l_body.4_0x7_5b_d1</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.0m x 7.5m)</Group>
+      <Group>Main Body LINK (4.0m x 7.5m)</Group>
       <Text>Doors</Text>
       <Value>l_body.4_0x7_5b_d2</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.2m x 7.5m)</Group>
+      <Group>Main Body LINK (4.2m x 7.5m)</Group>
       <Text>Closed side</Text>
       <Value>l_body.4_2x7_5b_c1</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.2m x 7.5m)</Group>
+      <Group>Main Body LINK (4.2m x 7.5m)</Group>
       <Text>Closed side</Text>
       <Value>l_body.4_2x7_5b_c2</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.2m x 7.5m)</Group>
+      <Group>Main Body LINK (4.2m x 7.5m)</Group>
       <Text>Doors</Text>
       <Value>l_body.4_2x7_5b_d1</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.2m x 7.5m)</Group>
+      <Group>Main Body LINK (4.2m x 7.5m)</Group>
       <Text>Doors</Text>
       <Value>l_body.4_2x7_5b_d2</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.4m x 7.5m)</Group>
+      <Group>Main Body LINK (4.4m x 7.5m)</Group>
       <Text>Closed side</Text>
       <Value>l_body.4_4x7_5b_c1</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.4m x 7.5m)</Group>
+      <Group>Main Body LINK (4.4m x 7.5m)</Group>
       <Text>Closed side</Text>
       <Value>l_body.4_4x7_5b_c2</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.4m x 7.5m)</Group>
+      <Group>Main Body LINK (4.4m x 7.5m)</Group>
       <Text>Doors</Text>
       <Value>l_body.4_4x7_5b_d1</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.4m x 7.5m)</Group>
+      <Group>Main Body LINK (4.4m x 7.5m)</Group>
       <Text>Doors</Text>
       <Value>l_body.4_4x7_5b_d2</Value>
     </ListItem>
@@ -262,65 +125,65 @@
       <Value>l_body.4_4x13_6_d_b</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.0m x 7.5m)</Group>
+      <Group>Main Body LINK (4.0m x 7.5m)</Group>
       <Text>Closed side</Text>
       <Value>r_body.4_0x7_5b_c1</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.0m x 7.5m)</Group>
+      <Group>Main Body LINK (4.0m x 7.5m)</Group>
       <Text>Closed side</Text>
       <Value>r_body.4_0x7_5b_c2</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.0m x 7.5m)</Group>
+      <Group>Main Body LINK (4.0m x 7.5m)</Group>
       <Text>Doors</Text>
       <Value>r_body.4_0x7_5b_d1</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.0m x 7.5m)</Group>
+      <Group>Main Body LINK (4.0m x 7.5m)</Group>
       <Text>Doors</Text>
       <Value>r_body.4_0x7_5b_d2</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.2m x 7.5m)</Group>
+      <Group>Main Body LINK (4.2m x 7.5m)</Group>
       <Text>Closed side</Text>
       <Value>r_body.4_2x7_5b_c1</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.2m x 7.5m)</Group>
+      <Group>Main Body LINK (4.2m x 7.5m)</Group>
       <Text>Closed side</Text>
       <Value>r_body.4_2x7_5b_c2</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.2m x 7.5m)</Group>
+      <Group>Main Body LINK (4.2m x 7.5m)</Group>
       <Text>Doors</Text>
       <Value>r_body.4_2x7_5b_d1</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.2m x 7.5m)</Group>
+      <Group>Main Body LINK (4.2m x 7.5m)</Group>
       <Text>Doors</Text>
       <Value>r_body.4_2x7_5b_d2</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.4m x 7.5m)</Group>
+      <Group>Main Body LINK (4.4m x 7.5m)</Group>
       <Text>Closed side</Text>
       <Value>r_body.4_4x7_5b_c1</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.4m x 7.5m)</Group>
+      <Group>Main Body LINK (4.4m x 7.5m)</Group>
       <Text>Closed side</Text>
       <Value>r_body.4_4x7_5b_c2</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.4m x 7.5m)</Group>
+      <Group>Main Body LINK (4.4m x 7.5m)</Group>
       <Text>Doors</Text>
       <Value>r_body.4_4x7_5b_d1</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.4m x 7.5m)</Group>
+      <Group>Main Body LINK (4.4m x 7.5m)</Group>
       <Text>Doors</Text>
       <Value>r_body.4_4x7_5b_d2</Value>
-    </ListItem>    
+    </ListItem>
     <ListItem>
       <Group>Main Body (4.0m x 13.6m)</Group>
       <Text>Closed side</Text>
@@ -382,65 +245,65 @@
       <Value>r_body.4_4x13_6_d_b</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.0m x 7.5m)</Group>
+      <Group>Main Body LINK (4.0m x 7.5m)</Group>
       <Text>Doors v1</Text>
       <Value>rear_body.4_0x7_5b_d1</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.0m x 7.5m)</Group>
+      <Group>Main Body LINK (4.0m x 7.5m)</Group>
       <Text>Doors v2</Text>
       <Value>rear_body.4_0x7_5b_d1</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.0m x 7.5m)</Group>
+      <Group>Main Body LINK (4.0m x 7.5m)</Group>
       <Text>Doors v1</Text>
       <Value>rear_body.4_0x7_5b_d2</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.0m x 7.5m)</Group>
+      <Group>Main Body LINK (4.0m x 7.5m)</Group>
       <Text>Doors v2</Text>
       <Value>rear_body.4_0x7_5b_d2</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.2m x 7.5m)</Group>
+      <Group>Main Body LINK (4.2m x 7.5m)</Group>
       <Text>Doors v1</Text>
       <Value>rear_body.4_2x7_5b_d1</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.2m x 7.5m)</Group>
+      <Group>Main Body LINK (4.2m x 7.5m)</Group>
       <Text>Doors v2</Text>
       <Value>rear_body.4_2x7_5b_d1</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.2m x 7.5m)</Group>
+      <Group>Main Body LINK (4.2m x 7.5m)</Group>
       <Text>Doors v1</Text>
       <Value>rear_body.4_2x7_5b_d2</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.2m x 7.5m)</Group>
+      <Group>Main Body LINK (4.2m x 7.5m)</Group>
       <Text>Doors v2</Text>
       <Value>rear_body.4_2x7_5b_d2</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.4m x 7.5m)</Group>
+      <Group>Main Body LINK (4.4m x 7.5m)</Group>
       <Text>Doors v1</Text>
       <Value>rear_body.4_4x7_5b_d1</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.4m x 7.5m)</Group>
+      <Group>Main Body LINK (4.4m x 7.5m)</Group>
       <Text>Doors v2</Text>
       <Value>rear_body.4_4x7_5b_d1</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.4m x 7.5m)</Group>
+      <Group>Main Body LINK (4.4m x 7.5m)</Group>
       <Text>Doors v1</Text>
       <Value>rear_body.4_4x7_5b_d2</Value>
     </ListItem>
     <ListItem>
-      <Group>Main Body (4.4m x 7.5m)</Group>
+      <Group>Main Body LINK (4.4m x 7.5m)</Group>
       <Text>Doors v2</Text>
       <Value>rear_body.4_4x7_5b_d2</Value>
-    </ListItem>        
+    </ListItem>
     <ListItem>
       <Group>Main Body (4.0m x 13.6m)</Group>
       <Text>Doors v1</Text>
@@ -561,7 +424,7 @@
       <Text>Open + Lift Small</Text>
       <Value>rear_body.4_4x13_6_o_b</Value>
     </ListItem>
-     <ListItem>
+    <ListItem>
       <Group>Roof</Group>
       <Text>Tarpaulin roof</Text>
       <Value>roof_1.roof_tarp</Value>
@@ -575,11 +438,26 @@
       <Group>Roof</Group>
       <Text>Tarpaulin roof</Text>
       <Value>roof_3.roof_tarp</Value>
-    </ListItem> 
+    </ListItem>
     <ListItem>
       <Group>Axles</Group>
       <Text>Axles</Text>
       <Value>axles.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Axles</Group>
+      <Text>Axles</Text>
+      <Value>axles_0.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Axles</Group>
+      <Text>Axles</Text>
+      <Value>axles_1.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Axles</Group>
+      <Text>Axles</Text>
+      <Value>axles_2.paint</Value>
     </ListItem>
     <ListItem>
       <Group>Axles</Group>
@@ -590,13 +468,13 @@
       <Group>Frame/Chassi Corners</Group>
       <Text>Frame</Text>
       <Value>frame.paint</Value>
-    </ListItem>    
+    </ListItem>
     <ListItem>
       <Group>Frame/Chassi Corners</Group>
       <Text>Rear Frame</Text>
       <Value>r_frame.paint</Value>
-    </ListItem>   
-     <ListItem>
+    </ListItem>
+    <ListItem>
       <Group>Frame/Chassi Corners</Group>
       <Text>Paint Corner</Text>
       <Value>f_corner.4_0x13_6_a</Value>
@@ -608,12 +486,12 @@
     </ListItem>
     <ListItem>
       <Group>Frame/Chassi Corners</Group>
-      <Text>Paint Corner</Text>
+      <Text>Paint Corner LINK</Text>
       <Value>f_corner.4_0x7_5b1</Value>
     </ListItem>
     <ListItem>
       <Group>Frame/Chassi Corners</Group>
-      <Text>Paint Corner</Text>
+      <Text>Paint Corner LINK</Text>
       <Value>f_corner.4_0x7_5b2</Value>
     </ListItem>
     <ListItem>
@@ -628,12 +506,12 @@
     </ListItem>
     <ListItem>
       <Group>Frame/Chassi Corners</Group>
-      <Text>Paint Corner</Text>
+      <Text>Paint Corner LINK</Text>
       <Value>f_corner.4_2x7_5b1</Value>
     </ListItem>
     <ListItem>
       <Group>Frame/Chassi Corners</Group>
-      <Text>Paint Corner</Text>
+      <Text>Paint Corner LINK</Text>
       <Value>f_corner.4_2x7_5b2</Value>
     </ListItem>
     <ListItem>
@@ -648,12 +526,12 @@
     </ListItem>
     <ListItem>
       <Group>Frame/Chassi Corners</Group>
-      <Text>Paint Corner</Text>
+      <Text>Paint Corner LINK</Text>
       <Value>f_corner.4_4x7_5b1</Value>
     </ListItem>
     <ListItem>
       <Group>Frame/Chassi Corners</Group>
-      <Text>Paint Corner</Text>
+      <Text>Paint Corner LINK</Text>
       <Value>f_corner.4_4x7_5b2</Value>
     </ListItem>
     <ListItem>
@@ -679,13 +557,13 @@
       <Group>Ventilation Hatches</Group>
       <Text>Ventilation hatch</Text>
       <Value>f_vent_3.paint</Value>
-    </ListItem>   
+    </ListItem>
     <ListItem>
       <Description>Rear Door</Description>
       <Group>Ventilation Hatches</Group>
       <Text>Ventilation hatch</Text>
       <Value>r_vent.paint</Value>
-    </ListItem>    
+    </ListItem>
     <ListItem>
       <Group>Front Body 1  Cooler/Heater Units</Group>
       <Text>Paint Carrier Vector 1800</Text>
@@ -865,12 +743,12 @@
       <Group>Front Body 3  Cooler/Heater Units</Group>
       <Text>Paint ThermoKing SL-400e</Text>
       <Value>f_body_3.paint</Value>
-    </ListItem> 
+    </ListItem>
     <ListItem>
       <Group>Fuel Tank</Group>
       <Text>Paint Fueltank</Text>
       <Value>fueltank.paint</Value>
-    </ListItem>    
+    </ListItem>
     <ListItem>
       <Group>Boxes Rails Sidecovers Left Side</Group>
       <Text>Paint 1box 600mm, No Step</Text>
@@ -900,8 +778,8 @@
       <Group>Boxes Rails Sidecovers Left Side</Group>
       <Text>Paint 3box 600mm, Step</Text>
       <Value>ntm_f_l.paint</Value>
-    </ListItem>    
-     <ListItem>
+    </ListItem>
+    <ListItem>
       <Group>Boxes Rails Sidecovers Left Side</Group>
       <Text>Paint 2box Big, No Step</Text>
       <Value>ntm_f_l.paint</Value>
@@ -910,7 +788,7 @@
       <Group>Boxes Rails Sidecovers Left Side</Group>
       <Text>Paint 2box Big, Step</Text>
       <Value>ntm_f_l.paint</Value>
-    </ListItem>    
+    </ListItem>
     <ListItem>
       <Group>Boxes Rails Sidecovers Left Side</Group>
       <Text>Paint 2box Long, No Step</Text>
@@ -1080,7 +958,7 @@
       <Group>Boxes Rails Sidecovers Right Side</Group>
       <Text>Paint Large Toolbox</Text>
       <Value>rail_f_r.paint</Value>
-    </ListItem>    
+    </ListItem>
     <ListItem>
       <Group>Boxes Rails Sidecovers Right Side</Group>
       <Text>Paint Sidecover</Text>
@@ -1090,7 +968,7 @@
       <Group>Boxes Rails Sidecovers Right Side</Group>
       <Text>1side Paint Box 500mm</Text>
       <Value>chs_m_r.paint</Value>
-    </ListItem>  
+    </ListItem>
     <ListItem>
       <Group>Boxes Rails Sidecovers Right Side</Group>
       <Text>1side Paint Box 350mm</Text>
@@ -1344,4 +1222,165 @@
       <Value>r_mudflap.paint</Value>
     </ListItem>
   </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>ntm.semi_r22</InternalName>
+  <SoundItems />
+  <VehicleAuthor>KAST</VehicleAuthor>
+  <VehicleName>KAST  NTM|Semi-Trailers R22 with Dolly Option</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <Description>Tick this Box for Dolly Options</Description>
+      <Group>Dolly</Group>
+      <InternalName>body.dolly</InternalName>
+      <Name>Solo</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Dryvan LINK (4.0m 7.5m)</Group>
+      <InternalName>body.4_0x7_5b1</InternalName>
+      <Name>4.0m Dryvan</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Dryvan LINK (4.0m 7.5m)</Group>
+      <InternalName>body.4_0x7_5b2</InternalName>
+      <Name>4.0m Dryvan</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Dryvan  (4.0m 13.6m)</Group>
+      <InternalName>body.4_0x13_6_a</InternalName>
+      <Name>4.0m Dryvan</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Dryvan  (4.0m 13.6m)</Group>
+      <InternalName>body.4_0x13_6_b</InternalName>
+      <Name>4.0m Dryvan</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Dryvan LINK (4.2m 7.5m)</Group>
+      <InternalName>body.4_2x7_5b1</InternalName>
+      <Name>4.2m Dryvan</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Dryvan LINK (4.2m 7.5m)</Group>
+      <InternalName>body.4_2x7_5b2</InternalName>
+      <Name>4.2m Dryvan</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Dryvan  (4.2m 13.6m)</Group>
+      <InternalName>body.4_2x13_6_a</InternalName>
+      <Name>4.2m Dryvan</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Dryvan  (4.2m 13.6m)</Group>
+      <InternalName>body.4_2x13_6_b</InternalName>
+      <Name>4.2m Dryvan</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Dryvan LINK (4.4m 7.5m)</Group>
+      <InternalName>body.4_4x7_5b1</InternalName>
+      <Name>4.4m Dryvan</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Dryvan LINK (4.4m 7.5m)</Group>
+      <InternalName>body.4_4x7_5b2</InternalName>
+      <Name>4.4m Dryvan</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Dryvan  (4.4m 13.6m)</Group>
+      <InternalName>body.4_4x13_6_a</InternalName>
+      <Name>4.4m Dryvan</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Dryvan  (4.4m 13.6m)</Group>
+      <InternalName>body.4_4x13_6_b</InternalName>
+      <Name>4.4m Dryvan</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Reefer LINK (4.0m 7.5m)</Group>
+      <InternalName>body.4_0x7_5b1</InternalName>
+      <Name>4.0m Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Reefer LINK (4.0m 7.5m)</Group>
+      <InternalName>body.4_0x7_5b2</InternalName>
+      <Name>4.0m Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Reefer  (4.0m 13.6m)</Group>
+      <InternalName>body.4_0x13_6_a</InternalName>
+      <Name>4.0m Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Reefer  (4.0m 13.6m)</Group>
+      <InternalName>body.4_0x13_6_b</InternalName>
+      <Name>4.0m Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Reefer LINK (4.2m 7.5m)</Group>
+      <InternalName>body.4_2x7_5b1</InternalName>
+      <Name>4.2m Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Reefer LINK (4.2m 7.5m)</Group>
+      <InternalName>body.4_2x7_5b2</InternalName>
+      <Name>4.2m Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Reefer  (4.2m 13.6m)</Group>
+      <InternalName>body.4_2x13_6_a</InternalName>
+      <Name>4.2m Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Reefer  (4.2m 13.6m)</Group>
+      <InternalName>body.4_2x13_6_b</InternalName>
+      <Name>4.2m Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Reefer LINK (4.4m 7.5m)</Group>
+      <InternalName>body.4_4x7_5b1</InternalName>
+      <Name>4.4m Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Reefer LINK (4.4m 7.5m)</Group>
+      <InternalName>body.4_4x7_5b2</InternalName>
+      <Name>4.4m Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Reefer  (4.4m 13.6m)</Group>
+      <InternalName>body.4_4x13_6_a</InternalName>
+      <Name>4.4m Reefer</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <Group>Reefer  (4.4m 13.6m)</Group>
+      <InternalName>body.4_4x13_6_b</InternalName>
+      <Name>4.4m Reefer</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
+  <DateUpdated>2025-11-28T00:00:00</DateUpdated>
 </Variable>
