@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <Id>fc6389cc-8c90-4bdf-ad32-6af30e447131</Id>
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+   <!-- Created with v2024.03 Modversion 2.1 -->
+  <Game>ETS2</Game>
+  <InternalName>schmitz.scs24</InternalName>
+  <VehicleAuthor>Schumi</VehicleAuthor>
+  <VehicleName>SCHUMI Schmitz|Cargobull SCS24</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants />
+  <AccessoryItems>
+
+    <ListItem>
+      <Description>Add main skin to this.</Description>
+      <Group>Variants - Add main skin to this.</Group>
+      <Text>series_schmitz_scs24</Text>
+      <Value>body.scs24</Value>
+    </ListItem>
+
+    <ListItem>
+      <Description>Add main skin to this.</Description>
+      <Group>Variants - Add main skin to this.</Group>
+      <Text>series_schmitz_scs24</Text>
+      <Value>body.scs24_2</Value>
+    </ListItem>
+
+    <ListItem>
+      <Description>Add main skin to this.</Description>
+      <Group>Variants - Add main skin to this.</Group>
+      <Text>series_schmitz_scs24</Text>
+      <Value>body.scs24_al</Value>
+    </ListItem>
+
+    <ListItem>
+      <Description>Add main skin to this.</Description>
+      <Group>Variants - Add main skin to this.</Group>
+      <Text>series_schmitz_scs24</Text>
+      <Value>body.scs24_al_2</Value>
+    </ListItem>
+
+    <ListItem>
+      <Description>Add main skin to this.</Description>
+      <Group>Variants - Add main skin to this.</Group>
+      <Text>series_schmitz_scs24</Text>
+      <Value>body.scs24_s</Value>
+    </ListItem>
+
+    <ListItem>
+      <Description>Add main skin to this.</Description>
+      <Group>Variants - Add main skin to this.</Group>
+      <Text>series_schmitz_scs24</Text>
+      <Value>body.scs24_s_2</Value>
+    </ListItem>
+
+    <ListItem>
+      <Description>Use single color.</Description>
+      <Group>Sidecovers</Group>
+      <Text>pallet box paint</Text>
+      <Value>sideskirt.shape6</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Description>Use single color.</Description>
+      <Group>Rear Body</Group>
+      <Text>rear body paint</Text>
+      <Value>rear_body.shape3</Value>
+    </ListItem>
+  </AccessoryItems>
+</Variable>
