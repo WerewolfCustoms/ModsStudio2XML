@@ -218,6 +218,34 @@
     </Variable>
     <Variable xsi:type="ListItemVariable">
       <ChildVariables />
+      <Group>basic</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineType</Name>
+      <Text>Engine Type</Text>
+      <QuickHelp>This defines type and behavior of engine, powertrain, and few other aspects of the vehicle. 
+      Acceptable values are diesel, electric, or petrol. Any other (or unset) value defaults to diesel. (Added in 1.50, petrol added in 1.61)</QuickHelp>
+      <PredefinedValues>
+        <anyType xsi:type="ListItemVariable">
+          <Value>diesel</Value>
+          <Text>Diesel</Text>
+          <Group>FuelType</Group>
+        </anyType>
+        <anyType xsi:type="ListItemVariable">
+          <Value>petrol</Value>
+          <Text>Petrol</Text>
+          <Group>FuelType</Group>
+        </anyType>
+        <anyType xsi:type="ListItemVariable">
+          <Value>electric</Value>
+          <Text>Electric</Text>
+          <Group>FuelType</Group>
+        </anyType>
+      </PredefinedValues>
+      <PredefinedValuesSelected>true</PredefinedValuesSelected>
+      <Value>diesel</Value>
+    </Variable>
+    <Variable xsi:type="ListItemVariable">
+      <ChildVariables />
       <Group>sounds</Group>
       <IsEnabled>true</IsEnabled>
       <Name>EngineSound</Name>
