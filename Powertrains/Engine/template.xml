@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Template xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="TruckEngine">
+  <BuildActions>
+    <Action xsi:type="CreateDirectory">
+      <Paths>
+        <string>\def\vehicle\truck\{{Truck}}\engine\</string>
+        <string>\material\ui\accessory\engine\ms2\</string>
+      </Paths>
+    </Action>
+    <Action xsi:type="CopyFile">
+      <Paths>
+        <CopyPair>
+          <From>TruckEngine.sii</From>
+          <To>\def\vehicle\truck\{{Truck}}\engine\{{InternalName}}.sii</To>
+        </CopyPair>
+      </Paths>
+    </Action>
+    <Action xsi:type="UpdateTextVariables">
+      <Paths>
+        <string>\def\vehicle\truck\{{Truck}}\engine\{{InternalName}}.sii</string>
+      </Paths>
+    </Action>
+    <Action xsi:type="ImportImage">
+      <Destination>\material\ui\accessory\engine\ms2\{{InternalName}}.dds</Destination>
+      <OutputFormat>
+        <Format>Dds</Format>
+        <Preset>ScsIconImage</Preset>
+      </OutputFormat>
+      <Source>{{EngineIcon}}</Source>
+    </Action>
+    <Action xsi:type="GenerateTobjFile">
+      <Content>/material/ui/accessory/engine/ms2/{{InternalName}}.dds</Content>
+      <FileName>\material\ui\accessory\engine\ms2\{{InternalName}}.tobj</FileName>
+      <TobjType>UIIcon</TobjType>
+    </Action>
+    <Action xsi:type="WriteTextFile">
+      <FileName>\material\ui\accessory\engine\ms2\{{InternalName}}.mat</FileName>
+      <TextLines>
+        <string>effect : "ui.rfx" {</string>
+        <string>	texture : "texture" {</string>
+        <string>		source : "{{InternalName}}.tobj"</string>
+        <string>		u_address : clamp</string>
+        <string>		v_address : clamp</string>
+        <string>		mip_filter : none</string>
+        <string>	}</string>
+        <string>}</string>
+      </TextLines>
+    </Action>
+  </BuildActions>
+  <MS2LibraryVersion>
+    <Major>2026</Major>
+    <Minor>1</Minor>
+  </MS2LibraryVersion>
+  <TemplateBaseFolder>\Data\ModProjects\ETS2\Templates\TruckEngine\</TemplateBaseFolder>
+  <TemplateDescription>Create a truck engine mod</TemplateDescription>
+  <TemplateDisplayPattern>[[Engine |]] {{Truck}} {{EngineName}}</TemplateDisplayPattern>
+  <TemplateGroup>Truck Technology</TemplateGroup>
+  <TemplateName>Truck engine</TemplateName>
+  <Variables>
+    <Variable xsi:type="ScsVehicleVariable">
+      <ChildVariables />
+      <Group>truck</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>Truck</Name>
+      <Text>Truck</Text>
+      <Validators>
+        <Validator xsi:type="NotEmptyValidator">
+          <AdviceMessage>Please select a value.</AdviceMessage>
+        </Validator>
+      </Validators>
+      <XmlSource>All</XmlSource>
+      <Game>ETS2</Game>
+      <VehicleType>AllTrucks</VehicleType>
+      <DateUpdated xsi:nil="true" />
+    </Variable>
+    <Variable xsi:type="StringVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <HelpSource>/tutorials/simple-engine-mod#basic</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>InternalName</Name>
+      <Text>Engine Internal Name</Text>
+      <Validators>
+        <Validator xsi:type="NotEmptyValidator">
+          <AdviceMessage>Please enter a value.</AdviceMessage>
+        </Validator>
+        <Validator xsi:type="ScsExtendedInternalNameValidator" />
+        <Validator xsi:type="ScsDuplicatedInternalNameValidator">
+          <RegisterScope>InternalName</RegisterScope>
+        </Validator>
+      </Validators>
+    </Variable>
+    <Variable xsi:type="StringVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <HelpSource>/tutorials/simple-engine-mod#basic</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineName</Name>
+      <Text>Engine Name</Text>
+      <Validators>
+        <Validator xsi:type="NotEmptyValidator">
+          <AdviceMessage>Please enter a value.</AdviceMessage>
+        </Validator>
+        <Validator xsi:type="ScsValidStringValidator" />
+      </Validators>
+    </Variable>
+    <Variable xsi:type="IntegerVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <HelpSource>/tutorials/simple-engine-mod#basic</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>EnginePrice</Name>
+      <Text>Engine Price</Text>
+      <Validators>
+        <Validator xsi:type="NumberRangeValidator">
+          <MaxValue xsi:nil="true" />
+          <MinValue>1</MinValue>
+        </Validator>
+      </Validators>
+      <Value>15000</Value>
+    </Variable>
+    <Variable xsi:type="IntegerVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <HelpSource>/tutorials/simple-engine-mod#basic</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineUnlock</Name>
+      <Text>Unlock At Level</Text>
+      <Validators>
+        <Validator xsi:type="NumberRangeValidator">
+          <MaxValue xsi:nil="true" />
+          <MinValue>1</MinValue>
+        </Validator>
+      </Validators>
+      <Value>1</Value>
+    </Variable>
+    <Variable xsi:type="FloatVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineConsumptionCoef</Name>
+      <QuickHelp>This is used to scale the fuel consumption of the engine relative to the game's calculated value.</QuickHelp>
+      <Text>Consumption Coefficient</Text>
+      <FormatString>f2</FormatString>
+      <Step>0.1</Step>
+      <Value>1</Value>
+    </Variable>
+    <Variable xsi:type="FloatVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineAdblueConsumption</Name>
+      <QuickHelp>This is used to scale the fuel consumption of the engine relative to the game's calculated value.
+      For petrol, electic, and older diesel engines which do not use AdBlue, this attribute should be set to 0.</QuickHelp>
+      <Text>AdBlue Consumption</Text>
+      <FormatString>f2</FormatString>
+      <Step>0.1</Step>
+      <Value>0.05</Value>
+    </Variable>
+    <Variable xsi:type="ListItemVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineAspiration</Name>
+      <Text>Engine Aspiration</Text>
+      <QuickHelp>Type of engine aspiration. Acceptable values are natural, turbocharger, or supercharger. Ignored (forced to natural) for electric engines</QuickHelp>
+      <PredefinedValues>
+        <anyType xsi:type="ListItemVariable">
+          <Value>turbocharger</Value>
+          <Text>Turbocharger</Text>
+          <Group>Aspiration</Group>
+        </anyType>
+        <anyType xsi:type="ListItemVariable">
+          <Value>supercharger</Value>
+          <Text>Supercharger</Text>
+          <Group>Aspiration</Group>
+        </anyType>
+        <anyType xsi:type="ListItemVariable">
+          <Value>natural</Value>
+          <Text>Natural</Text>
+          <Group>Aspiration</Group>
+        </anyType>
+      </PredefinedValues>
+      <PredefinedValuesSelected>true</PredefinedValuesSelected>
+      <Value>turbocharger</Value>
+    </Variable>
+    <Variable xsi:type="ListItemVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>PartType</Name>
+      <Text>Part Type</Text>
+      <QuickHelp>Drives the icon badge and tooltip shown on the accessory. Added in game version 1.44.</QuickHelp>
+      <PredefinedValues>
+        <anyType xsi:type="ListItemVariable">
+          <Value>unknown</Value>
+          <Text>Unknown</Text>
+          <Group>Types</Group>
+        </anyType>
+        <anyType xsi:type="ListItemVariable">
+          <Value>factory</Value>
+          <Text>Factory</Text>
+          <Group>Types</Group>
+        </anyType>
+        <anyType xsi:type="ListItemVariable">
+          <Value>aftermarket</Value>
+          <Text>Aftermarket</Text>
+          <Group>Types</Group>
+        </anyType>
+        <anyType xsi:type="ListItemVariable">
+          <Value>licensed</Value>
+          <Text>Licensed</Text>
+          <Group>Types</Group>
+        </anyType>
+      </PredefinedValues>
+      <PredefinedValuesSelected>true</PredefinedValuesSelected>
+      <Value>unknown</Value>
+    </Variable>
+    <Variable xsi:type="ListItemVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineType</Name>
+      <Text>Engine Type</Text>
+      <QuickHelp>This defines type and behavior of engine, powertrain, and few other aspects of the vehicle. Acceptable values are diesel, electric, or petrol. Any other (or unset) value defaults to diesel. (Added in 1.50, petrol added in 1.61)</QuickHelp>
+      <PredefinedValues>
+        <anyType xsi:type="ListItemVariable">
+          <Value>diesel</Value>
+          <Text>Diesel</Text>
+          <Group>FuelType</Group>
+        </anyType>
+        <anyType xsi:type="ListItemVariable">
+          <Value>petrol</Value>
+          <Text>Petrol</Text>
+          <Group>FuelType</Group>
+        </anyType>
+        <anyType xsi:type="ListItemVariable">
+          <Value>electric</Value>
+          <Text>Electric</Text>
+          <Group>FuelType</Group>
+        </anyType>
+      </PredefinedValues>
+      <PredefinedValuesSelected>true</PredefinedValuesSelected>
+      <Value>diesel</Value>
+    </Variable>
+    <Variable xsi:type="ListItemVariable">
+      <ChildVariables />
+      <Group>sounds</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineSound</Name>
+      <Text>Engine Sound</Text>
+      <PredefinedValueSource>[Truck.SoundItems]</PredefinedValueSource>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </Variable>
+    <Variable xsi:type="ScsStringArrayVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <HelpSource>/tutorials/simple-engine-mod#basic</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineOverrides</Name>
+      <Text>Engine Overrides</Text>
+      <AllowEditing>false</AllowEditing>
+      <DisplayMode>Auto</DisplayMode>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </Variable>
+    <Variable xsi:type="FloatVariable">
+      <ChildVariables />
+      <Group>torque</Group>
+      <HelpSource>/tutorials/simple-engine-mod#power</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineTorque</Name>
+      <Text>Engine Torque</Text>
+      <FormatString>f2</FormatString>
+      <Step>1</Step>
+      <Value>2500</Value>
+    </Variable>
+    <Variable xsi:type="FloatVariable">
+      <ChildVariables />
+      <Group>torque</Group>
+      <HelpSource>/tutorials/simple-engine-mod#power</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineResistanceTorque</Name>
+      <QuickHelp>This is the resistive torque in N·m at 2000rpm, used for passive engine braking and consumption.
+When set to any negative value, it is calculated as (volume × 20).</QuickHelp>
+      <Text>Resistance Torque</Text>
+      <FormatString>f2</FormatString>
+      <Step>0.1</Step>
+      <Value>-1</Value>
+    </Variable>
+    <Variable xsi:type="ScsTorqueCurveVariable">
+      <ChildVariables />
+      <Group>torque</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineTorqueCurve</Name>
+      <Text>Torque curve</Text>
+      <AllowEditing>false</AllowEditing>
+      <DisplayMode>Auto</DisplayMode>
+      <Value>
+        <TorquePair>
+          <Effectiveness>0</Effectiveness>
+          <Rpm>300</Rpm>
+        </TorquePair>
+        <TorquePair>
+          <Effectiveness>0.5</Effectiveness>
+          <Rpm>440</Rpm>
+        </TorquePair>
+        <TorquePair>
+          <Effectiveness>1</Effectiveness>
+          <Rpm>1000</Rpm>
+        </TorquePair>
+        <TorquePair>
+          <Effectiveness>1</Effectiveness>
+          <Rpm>1300</Rpm>
+        </TorquePair>
+        <TorquePair>
+          <Effectiveness>0.77</Effectiveness>
+          <Rpm>1900</Rpm>
+        </TorquePair>
+        <TorquePair>
+          <Effectiveness>0.4</Effectiveness>
+          <Rpm>2400</Rpm>
+        </TorquePair>
+        <TorquePair>
+          <Effectiveness>0</Effectiveness>
+          <Rpm>2600</Rpm>
+        </TorquePair>
+      </Value>
+      <TorqueBase>2500</TorqueBase>
+      <TorqueBaseSource>[EngineTorque]</TorqueBaseSource>
+    </Variable>
+    <Variable xsi:type="FloatVariable">
+      <ChildVariables />
+      <Group>secondaryTorque</Group>
+      <HelpSource>/tutorials/simple-engine-mod#power</HelpSource>
+      <QuickHelp>If positive and greater than zero, this defines the secondary maximum torque output of the engine in N·m for multi-torque engines. (Added in 1.30)</QuickHelp>
+      <IsEnabled>true</IsEnabled>
+      <Name>SecondaryTorque</Name>
+      <Text>Secondary Engine Torque</Text>
+      <FormatString>f2</FormatString>
+      <Step>0.1</Step>
+      <Value>0</Value>
+    </Variable>
+    <Variable xsi:type="FloatVariable">
+      <ChildVariables />
+      <Group>secondaryTorque</Group>
+      <HelpSource>/tutorials/simple-engine-mod#power</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>SecondaryTorqueGearRatio</Name>
+      <QuickHelp>This defines the transmission gear ratio below which secondary_torque is used on multi-torque engines. (Added in 1.30)</QuickHelp>
+      <Text>Secondary Torque Gear Ratio</Text>
+      <FormatString>f2</FormatString>
+      <Step>0.1</Step>
+      <Value>1.0</Value>
+    </Variable>
+    <Variable xsi:type="ScsTorqueCurveVariable">
+      <ChildVariables />
+      <Group>secondaryTorque</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>SecondaryTorqueCurve</Name>
+      <Text>Secondary torque curve</Text>
+      <QuickHelp>This defines the secondary torque output of a multi-torque engine at various engine speeds, relative to the maximum torque defined in secondary_torque. If unset, torque_curve is used instead. The syntax is the same as torque_curve. (Added in 1.30)</QuickHelp>
+      <AllowEditing>false</AllowEditing>
+      <DisplayMode>Auto</DisplayMode>
+      <Value>
+        
+      </Value>
+      <TorqueBase>0</TorqueBase>
+      <TorqueBaseSource>[SecondaryTorque]</TorqueBaseSource>
+    </Variable>
+    <Variable xsi:type="FloatVariable">
+      <ChildVariables />
+      <Group>power</Group>
+      <HelpSource>/tutorials/simple-engine-mod#power</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineVolume</Name>
+      <Text>Engine Volume (liters)</Text>
+      <QuickHelp>The volumetric displacement of the engine in liters. It is used in base fuel consumption calculation, engine mass and inertia calculations, and also default resistance_torque calculations. Minimum acceptable engine volume is 0.8. </QuickHelp>
+      <FormatString>f2</FormatString>
+      <Step>0.1</Step>
+      <Validators>
+        <Validator xsi:type="NumberRangeValidator">
+          <MaxValue xsi:nil="true" />
+          <MinValue>0.8</MinValue>
+        </Validator>
+      </Validators>
+      <Value>0.8</Value>
+    </Variable>
+    <Variable xsi:type="FloatVariable">
+      <ChildVariables />
+      <Group>power</Group>
+      <HelpSource>/tutorials/simple-engine-mod#power</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>FlywheelInertia</Name>
+      <QuickHelp>Inertia of the engine flywheel, in kg·m². If unset (negative), it is estimated from volume. (Added in 1.61)</QuickHelp>
+      <Text>Flywheel Inertia </Text>
+      <Step>0.01</Step>
+      <Value>-1</Value>
+    </Variable>
+    <Variable xsi:type="FloatVariable">
+      <ChildVariables />
+      <Group>power</Group>
+      <HelpSource>/tutorials/simple-engine-mod#power</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineAdbluePowerLimit</Name>
+      <Text>Engine AdBlue Power Limit</Text>
+      <FormatString>f2</FormatString>
+      <Step>0.1</Step>
+      <Value>1</Value>
+    </Variable>
+    <Variable xsi:type="IntegerVariable">
+      <ChildVariables />
+      <Group>power</Group>
+      <HelpSource>/tutorials/simple-engine-mod#power</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineRpmLimit</Name>
+      <QuickHelp>This is the maximum engine speed the virtual engine controller will allow except if the engine is being driven by the wheels</QuickHelp>
+      <Text>Engine RPM Limit</Text>
+      <Value>2500</Value>
+    </Variable>
+    <Variable xsi:type="IntegerVariable">
+      <ChildVariables />
+      <Group>power</Group>
+      <HelpSource>/tutorials/simple-engine-mod#power</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineRpmLimitNeutral</Name>
+      <QuickHelp>This is the maximum engine speed the virtual engine controller will allow if the transmission is in neutral</QuickHelp>
+      <Text>Neutral RPM Limit </Text>
+      <Value>2500</Value>
+    </Variable>
+    <Variable xsi:type="FloatVariable">
+      <ChildVariables />
+      <Group>power</Group>
+      <HelpSource>/tutorials/simple-engine-mod#power</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>RPMLimitHysteresis</Name>
+      <Text>RPM Limit Hysteresis</Text>
+      <QuickHelp>Hysteresis (in RPM) for the rpm_limit limiter. When greater than zero, a hard-cut style limiter is used instead of the default soft limiter. Cannot be negative. </QuickHelp>
+      <FormatString>f2</FormatString>
+      <Step>10</Step>
+      <Validators>
+        <Validator xsi:type="NumberRangeValidator">
+          <MaxValue>500</MaxValue>
+          <MinValue>0</MinValue>
+        </Validator>
+      </Validators>
+      <Value>0.0</Value>
+    </Variable>
+    <Variable xsi:type="FloatVariable">
+      <ChildVariables />
+      <Group>power</Group>
+      <HelpSource>/tutorials/simple-engine-mod#power</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>RPMLimitHysteresisNeutral</Name>
+      <Text>RPM Limit Hysteresis in Neutral</Text>
+      <QuickHelp>Hysteresis (in RPM) for the rpm_limit_neutral limiter. When greater than zero, a hard-cut style limiter is used instead of the default soft limiter. Cannot be negative. </QuickHelp>
+      <FormatString>f2</FormatString>
+      <Step>10</Step>
+      <Validators>
+        <Validator xsi:type="NumberRangeValidator">
+          <MaxValue>500</MaxValue>
+          <MinValue>0</MinValue>
+        </Validator>
+      </Validators>
+      <Value>0.0</Value>
+    </Variable>
+    <Variable xsi:type="IntegerVariable">
+      <ChildVariables />
+      <Group>power</Group>
+      <HelpSource>/tutorials/simple-engine-mod#power</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineRpmIdle</Name>
+      <QuickHelp>Normal idle RPM. Range: 500–850. Cold Start RPM must be ≥ this value or left unset (-1).</QuickHelp>
+      <Text>Engine RPM Idle</Text>
+      <Validators>
+        <Validator xsi:type="NumberRangeValidator">
+          <MaxValue>850</MaxValue>
+          <MinValue>500</MinValue>
+        </Validator>
+      </Validators>
+      <Value>550</Value>
+    </Variable>
+    <Variable xsi:type="IntegerVariable">
+      <ChildVariables />
+      <Group>power</Group>
+      <HelpSource>/tutorials/simple-engine-mod#power</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineRpmColdStart</Name>
+      <QuickHelp>Cold idle RPM (~20°C). Set to -1 for default (uses idle RPM). Must be ≥ idle RPM. Added in ETS2 1.61.</QuickHelp>
+      <Text>Cold Start RPM</Text>
+      <Validators>
+        <Validator xsi:type="NumberRangeValidator">
+          <MaxValue>850</MaxValue>
+          <MinValue>-1</MinValue>
+        </Validator>
+      </Validators>
+      <Value>-1</Value>
+    </Variable>
+    <Variable xsi:type="FloatVariable">
+      <ChildVariables />
+      <Group>electricPower</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>Power</Name>
+      <Text>Power</Text>
+      <QuickHelp>This is simplified definition value. It is used only for electric engines and when the torque_curve is not defined. The torque_curve is then generated to create nominal torque from 0 rpm to the point when engine output reaches given power. At higher rpm the torque is gradually lowered to keep output at given power up to the maximum rpm. (Added in 1.60)</QuickHelp>
+      <Value>0</Value>
+    </Variable>
+    <Variable xsi:type="FloatVariable">
+      <ChildVariables />
+      <Group>electricPower</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>SecondaryPower</Name>
+      <Text>Secondary Power</Text>
+      <QuickHelp>This is simplified definition value. It is used only for electric engines and when the secondary_torque_curve nor torque_curve are defined. The secondary_torque_curve is then generated to create nominal torque from 0 rpm to the point when enigne reaches given secondary_power. At higher rpm the torque is gradually lower to keep given secondary_power up to the maximum rpm. (Added in 1.60)</QuickHelp>
+      <Value>0</Value>
+    </Variable>
+    <Variable xsi:type="IntegerVariable">
+      <ChildVariables />
+      <Group>info</Group>
+      <HelpSource>/tutorials/simple-engine-mod#info</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>EnginePower</Name>
+      <QuickHelp> The info section has no effect on the engine simulation. Rather, it is used for UI display and for attaching to World of Trucks profile truck uploads.</QuickHelp>
+      <Text>Declared power (hp)</Text>
+      <Value>0</Value>
+    </Variable>
+    <Variable xsi:type="IntegerVariable">
+      <ChildVariables />
+      <Group>info</Group>
+      <HelpSource>/tutorials/simple-engine-mod#info</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineBottomRpm</Name>
+      <QuickHelp> The info section has no effect on the engine simulation. Rather, it is used for UI display and for attaching to World of Trucks profile truck uploads.</QuickHelp>
+      <Text>Optimal Rpm From</Text>
+      <Value>0</Value>
+    </Variable>
+    <Variable xsi:type="IntegerVariable">
+      <ChildVariables />
+      <Group>info</Group>
+      <HelpSource>/tutorials/simple-engine-mod#info</HelpSource>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineTopRpm</Name>
+      <QuickHelp> The info section has no effect on the engine simulation. Rather, it is used for UI display and for attaching to World of Trucks profile truck uploads.</QuickHelp>
+      <Text>Optimal Rpm To</Text>
+      <Value>0</Value>
+    </Variable>
+    <Variable xsi:type="ScsImageSourceVariable">
+      <ChildVariables />
+      <Group>info</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineIcon</Name>
+      <Text>Engine Icon</Text>
+      <Validators>
+        <Validator xsi:type="NotEmptyValidator">
+          <AdviceMessage>Please select an icon.</AdviceMessage>
+        </Validator>
+        <Validator xsi:type="ImageSizeValidator">
+          <Width>64</Width>
+          <Height>64</Height>
+        </Validator>
+        <Validator xsi:type="NPOTValidator">
+          <IsIcon>false</IsIcon>
+        </Validator>
+      </Validators>
+      <AllowedExtensions>
+        <string>png</string>
+        <string>dds</string>
+      </AllowedExtensions>
+      <PreloadDefault>true</PreloadDefault>
+      <UseDefaultOptions>
+        <string>Icons\1 - Default.png</string>
+      </UseDefaultOptions>
+      <GalleryPath>Icons\</GalleryPath>
+    </Variable>
+    <Variable xsi:type="FloatVariable">
+      <ChildVariables />
+      <Group>brake</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineBrake</Name>
+      <QuickHelp>Engine braking torque relative to a typical exhaust brake on an engine of the same volume.</QuickHelp>
+      <Text>Engine Brake</Text>
+      <FormatString>f2</FormatString>
+      <Step>0.1</Step>
+      <Value>1</Value>
+    </Variable>
+    <Variable xsi:type="BooleanVariable">
+      <ChildVariables />
+      <Group>brake</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineBrakeDownshift</Name>
+      <QuickHelp>When true, automatic transmissions will downshift upon beginning engine brake behavior. When false, the regular rpm are kept.</QuickHelp>
+      <Text>Engine Brake Downshift</Text>
+      <Value>true</Value>
+    </Variable>
+    <Variable xsi:type="IntegerVariable">
+      <ChildVariables />
+      <Group>brake</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>EngineBrakePositions</Name>
+      <QuickHelp>Defines the number of strength levels for the engine brake.</QuickHelp>
+      <Text>Engine Brake Positions</Text>
+      <Validators>
+        <Validator xsi:type="NumberRangeValidator">
+          <MaxValue>9</MaxValue>
+          <MinValue>1</MinValue>
+        </Validator>
+      </Validators>
+      <Value>3</Value>
+    </Variable>
+    <Variable xsi:type="ScsStringArrayVariable">
+      <ChildVariables />
+      <Group>info</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>SuitableFor</Name>
+      <QuickHelp>An array of accessories that need to be installed for this item to be available in store</QuickHelp>
+      <Text>Suitable for:</Text>
+      <InternalName>suitable_for</InternalName>
+      <LineFormat>{0}[]: {1}</LineFormat>
+      <AllowEditing>true</AllowEditing>
+      <DisplayMode>Auto</DisplayMode>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </Variable>
+    <Variable xsi:type="ScsStringArrayVariable">
+      <ChildVariables />
+      <Group>info</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>ConflictWith</Name>
+      <QuickHelp>An array of accessories that conflict with this item, which will be removed, once this one is applied</QuickHelp>
+      <Text>Conflicts with:</Text>
+      <InternalName>conflict_with</InternalName>
+      <LineFormat>{0}[]: {1}</LineFormat>
+      <AllowEditing>true</AllowEditing>
+      <DisplayMode>Auto</DisplayMode>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </Variable>
+  </Variables>
+</Template>
