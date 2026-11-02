@@ -233,7 +233,8 @@
       <Group>converter</Group>
       <IsEnabled>true</IsEnabled>
       <Name>StallTorqueRatio</Name>
-      <QuickHelp>Torque ratio multiplier if a torque converter is present. Any positive value multiplies lower-RPM torque. Leave at -1 for a conventional manual or automated gearbox.</QuickHelp>
+      <QuickHelp>Torque ratio multiplier if a torque converter is present. 
+      Any positive value multiplies lower-RPM torque. Leave at -1 for a conventional manual or automated gearbox.</QuickHelp>
       <Text>Stall Torque Ratio</Text>
       <FormatString>f2</FormatString>
       <Step>0.1</Step>

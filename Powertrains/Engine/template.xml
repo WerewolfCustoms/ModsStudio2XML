@@ -222,7 +222,8 @@
       <IsEnabled>true</IsEnabled>
       <Name>EngineType</Name>
       <Text>Engine Type</Text>
-      <QuickHelp>This defines type and behavior of engine, powertrain, and few other aspects of the vehicle. Acceptable values are diesel, electric, or petrol. Any other (or unset) value defaults to diesel. (Added in 1.50, petrol added in 1.61)</QuickHelp>
+      <QuickHelp>This defines type and behavior of engine, powertrain, and few other aspects of the vehicle. 
+      Acceptable values are diesel, electric, or petrol. Any other (or unset) value defaults to diesel. (Added in 1.50, petrol added in 1.61)</QuickHelp>
       <PredefinedValues>
         <anyType xsi:type="ListItemVariable">
           <Value>diesel</Value>
@@ -358,7 +359,8 @@ When set to any negative value, it is calculated as (volume × 20).</QuickHelp>
       <IsEnabled>true</IsEnabled>
       <Name>SecondaryTorqueCurve</Name>
       <Text>Secondary torque curve</Text>
-      <QuickHelp>This defines the secondary torque output of a multi-torque engine at various engine speeds, relative to the maximum torque defined in secondary_torque. If unset, torque_curve is used instead. The syntax is the same as torque_curve. (Added in 1.30)</QuickHelp>
+      <QuickHelp>This defines the secondary torque output of a multi-torque engine at various engine speeds, relative to the maximum torque defined in secondary_torque. 
+      If unset, torque_curve is used instead. The syntax is the same as torque_curve. (Added in 1.30)</QuickHelp>
       <AllowEditing>false</AllowEditing>
       <DisplayMode>Auto</DisplayMode>
       <Value>
@@ -374,7 +376,8 @@ When set to any negative value, it is calculated as (volume × 20).</QuickHelp>
       <IsEnabled>true</IsEnabled>
       <Name>EngineVolume</Name>
       <Text>Engine Volume (liters)</Text>
-      <QuickHelp>The volumetric displacement of the engine in liters. It is used in base fuel consumption calculation, engine mass and inertia calculations, and also default resistance_torque calculations. Minimum acceptable engine volume is 0.8. </QuickHelp>
+      <QuickHelp>The volumetric displacement of the engine in liters. It is used in base fuel consumption calculation, engine mass and inertia calculations, and also default resistance_torque calculations. 
+      Minimum acceptable engine volume is 0.8. </QuickHelp>
       <FormatString>f2</FormatString>
       <Step>0.1</Step>
       <Validators>
@@ -501,7 +504,9 @@ When set to any negative value, it is calculated as (volume × 20).</QuickHelp>
       <IsEnabled>true</IsEnabled>
       <Name>Power</Name>
       <Text>Power</Text>
-      <QuickHelp>This is simplified definition value. It is used only for electric engines and when the torque_curve is not defined. The torque_curve is then generated to create nominal torque from 0 rpm to the point when engine output reaches given power. At higher rpm the torque is gradually lowered to keep output at given power up to the maximum rpm. (Added in 1.60)</QuickHelp>
+      <QuickHelp>This is simplified definition value. 
+      It is used only for electric engines and when the torque_curve is not defined. The torque_curve is then generated to create nominal torque from 0 rpm to the point when engine output reaches given power. 
+      At higher rpm the torque is gradually lowered to keep output at given power up to the maximum rpm. (Added in 1.60)</QuickHelp>
       <Value>0</Value>
     </Variable>
     <Variable xsi:type="FloatVariable">
@@ -510,7 +515,9 @@ When set to any negative value, it is calculated as (volume × 20).</QuickHelp>
       <IsEnabled>true</IsEnabled>
       <Name>SecondaryPower</Name>
       <Text>Secondary Power</Text>
-      <QuickHelp>This is simplified definition value. It is used only for electric engines and when the secondary_torque_curve nor torque_curve are defined. The secondary_torque_curve is then generated to create nominal torque from 0 rpm to the point when enigne reaches given secondary_power. At higher rpm the torque is gradually lower to keep given secondary_power up to the maximum rpm. (Added in 1.60)</QuickHelp>
+      <QuickHelp>This is simplified definition value. 
+      It is used only for electric engines and when the secondary_torque_curve nor torque_curve are defined. The secondary_torque_curve is then generated to create nominal torque from 0 rpm to the point when enigne reaches given secondary_power. 
+      At higher rpm the torque is gradually lower to keep given secondary_power up to the maximum rpm. (Added in 1.60)</QuickHelp>
       <Value>0</Value>
     </Variable>
     <Variable xsi:type="IntegerVariable">
