@@ -367,7 +367,7 @@
       <QuickHelp>One ratio per entry, negative values, ordered by decreasing gear reduction.</QuickHelp>
       <Text>Reverse Ratios</Text>
       <InternalName>ratios_reverse</InternalName>
-      <LineFormat>{0}[]: "{1}"</LineFormat>
+      <LineFormat>{0}[]: {1}</LineFormat>
       <AllowEditing>true</AllowEditing>
       <DisplayMode>Auto</DisplayMode>
       <Validators>
