@@ -367,7 +367,7 @@
       <QuickHelp>One ratio per entry, negative values, ordered by decreasing gear reduction.</QuickHelp>
       <Text>Reverse Ratios</Text>
       <InternalName>ratios_reverse</InternalName>
-      <LineFormat>{0}[]: {1}</LineFormat>
+      <LineFormat>{0}[]: "{1}"</LineFormat>
       <AllowEditing>true</AllowEditing>
       <DisplayMode>Auto</DisplayMode>
       <Validators>
@@ -464,7 +464,7 @@
       <QuickHelp>An array of accessories that need to be installed for this item to be available in store</QuickHelp>
       <Text>Suitable for:</Text>
       <InternalName>suitable_for</InternalName>
-      <LineFormat>{0}[]: {1}</LineFormat>
+      <LineFormat>{0}[]: "{1}"</LineFormat>
       <AllowEditing>true</AllowEditing>
       <DisplayMode>Auto</DisplayMode>
       <PredefinedValuesSelected>false</PredefinedValuesSelected>
@@ -477,7 +477,7 @@
       <QuickHelp>An array of accessories that conflict with this item, which will be removed, once this one is applied</QuickHelp>
       <Text>Conflicts with:</Text>
       <InternalName>conflict_with</InternalName>
-      <LineFormat>{0}[]: {1}</LineFormat>
+      <LineFormat>{0}[]: "{1}"</LineFormat>
       <AllowEditing>true</AllowEditing>
       <DisplayMode>Auto</DisplayMode>
       <PredefinedValuesSelected>false</PredefinedValuesSelected>

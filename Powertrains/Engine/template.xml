@@ -621,7 +621,7 @@ When set to any negative value, it is calculated as (volume × 20).</QuickHelp>
       <QuickHelp>An array of accessories that need to be installed for this item to be available in store</QuickHelp>
       <Text>Suitable for:</Text>
       <InternalName>suitable_for</InternalName>
-      <LineFormat>{0}[]: {1}</LineFormat>
+      <LineFormat>{0}[]: "{1}"</LineFormat>
       <AllowEditing>true</AllowEditing>
       <DisplayMode>Auto</DisplayMode>
       <PredefinedValuesSelected>false</PredefinedValuesSelected>
@@ -634,7 +634,7 @@ When set to any negative value, it is calculated as (volume × 20).</QuickHelp>
       <QuickHelp>An array of accessories that conflict with this item, which will be removed, once this one is applied</QuickHelp>
       <Text>Conflicts with:</Text>
       <InternalName>conflict_with</InternalName>
-      <LineFormat>{0}[]: {1}</LineFormat>
+      <LineFormat>{0}[]: "{1}"</LineFormat>
       <AllowEditing>true</AllowEditing>
       <DisplayMode>Auto</DisplayMode>
       <PredefinedValuesSelected>false</PredefinedValuesSelected>
