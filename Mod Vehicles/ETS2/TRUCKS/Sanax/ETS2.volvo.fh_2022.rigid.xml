@@ -7242,11 +7242,6 @@
     </Variant>
 	<Variant>
       <AccessoryDependencies />
-      <InternalName>fh16_xl_w.volvo.fh_2022.cabin</InternalName>
-      <Name>FH16 Globetrotter XL</Name>
-    </Variant>
-	<Variant>
-      <AccessoryDependencies />
       <InternalName>fh_xl_w.volvo.fh_2022.cabin</InternalName>
       <Name>FH Globetrotter XL side window</Name>
     </Variant>
