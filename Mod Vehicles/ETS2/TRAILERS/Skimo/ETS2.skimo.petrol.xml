@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Text>Cage and Box @@metal@@</Text>
+      <Value>chs_f_l.cage_m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cage @@metal@@</Text>
+      <Value>chs_f_l.cage_mo</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cage and Box @@paint@@</Text>
+      <Value>chs_f_l.cage_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cage @@paint@@</Text>
+      <Value>chs_f_l.cage_po</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Box @@paint@@</Text>
+      <Value>chs_f_l.cusbox_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pumpbox @@metal@@</Text>
+      <Value>chs_f_l.pump_m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pumpbox @@paint@@</Text>
+      <Value>chs_f_l.pump_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cage and Box @@metal@@</Text>
+      <Value>chs_f_r.cage_m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cage @@metal@@</Text>
+      <Value>chs_f_r.cage_mo</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cage and Box @@paint@@</Text>
+      <Value>chs_f_r.cage_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Cage @@paint@@</Text>
+      <Value>chs_f_r.cage_po</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Box @@paint@@</Text>
+      <Value>chs_f_r.cusbox_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pumpbox @@metal@@</Text>
+      <Value>chs_f_r.pump_m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Pumpbox @@paint@@</Text>
+      <Value>chs_f_r.pump_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Box @@paint@@</Text>
+      <Value>chs_r_l.cusbox_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Feuerloescher</Text>
+      <Value>chs_r_l.fire_ext</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Keile</Text>
+      <Value>chs_r_l.keile</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Custom Box @@paint@@</Text>
+      <Value>chs_r_r.cusbox_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Feuerloescher</Text>
+      <Value>chs_r_r.fire_ext</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Keile</Text>
+      <Value>chs_r_r.keile</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slots</Text>
+      <Value>marker.slots</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Marker and Slots</Text>
+      <Value>marker.slots_marker</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Euro 3 @@metal@@</Text>
+      <Value>r_bumper.bumpeu3_m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Euro 3 @@paint@@</Text>
+      <Value>r_bumper.bumpeu3_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slots Box @@chrome@@ @@paint@@</Text>
+      <Value>r_bumper.bump_slot_cb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slots @@metal@@</Text>
+      <Value>r_bumper.bump_slot_m</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slots Box @@metal@@ @@paint@@</Text>
+      <Value>r_bumper.bump_slot_mb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slots @@paint@@</Text>
+      <Value>r_bumper.bump_slot_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Slots Box @@paint@@</Text>
+      <Value>r_bumper.bump_slot_pb</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>r_fender.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@paint@@</Text>
+      <Value>r_fender.paint_dolly</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>r_mudflap.nrm</Value>
+    </ListItem>
+    <ListItem>
+      <Text>@@stock@@</Text>
+      <Value>r_mudflap.nrm_dolly</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Scania</Text>
+      <Value>r_mudflap.scania</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Scania</Text>
+      <Value>r_mudflap.scania_dolly</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stiholt</Text>
+      <Value>r_mudflap.stiholt</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Stiholt</Text>
+      <Value>r_mudflap.stih_dolly</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Text</Text>
+      <Value>r_mudflap.yourtext</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Your Text</Text>
+      <Value>r_mudflap.yt_dolly</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sidebar 1 @@paint@@</Text>
+      <Value>sidebar_l.bar1_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sidebar 2 @@paint@@</Text>
+      <Value>sidebar_l.bar2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sidebar 1 @@paint@@</Text>
+      <Value>sidebar_r.bar1_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sidebar 2 @@paint@@</Text>
+      <Value>sidebar_r.bar2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sidebar 1 @@paint@@</Text>
+      <Value>sidebar_r_l.bar1_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sidebar 2 @@paint@@</Text>
+      <Value>sidebar_r_l.bar2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sidebar 1 @@paint@@</Text>
+      <Value>sidebar_r_r.bar1_p</Value>
+    </ListItem>
+    <ListItem>
+      <Text>Sidebar 2 @@paint@@</Text>
+      <Value>sidebar_r_r.bar2_p</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>D:\doks\Mods Studio 2\UserVehicles\Mod Vehicles\Skimo\ETS2.skimo.petrol.xml</FilePath>
+  <XmlSource>User</XmlSource>
+  <Game>ETS2</Game>
+  <InternalName>skimo.petrol</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Skimo</VehicleAuthor>
+  <VehicleName>Skimo Fueltank</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.body</InternalName>
+      <Name>Fueltank</Name>
+    </Variant>
+  </VehicleVariants>
+  <DateUpdated xsi:nil="true" />
+</Variable>

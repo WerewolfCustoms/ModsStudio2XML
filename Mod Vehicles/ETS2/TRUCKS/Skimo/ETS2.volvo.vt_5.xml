@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 1 @@paint@@</Text>
+      <Value>air_bar.bar_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 1 Black Glossy @@paint@@</Text>
+      <Value>air_bar.bar_1_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 2 @@paint@@</Text>
+      <Value>air_bar.bar_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 2 Black Glossy @@paint@@</Text>
+      <Value>air_bar.bar_2_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 1 FH Black Glossy @@paint@@</Text>
+      <Value>air_bar.bar_3_bg_fh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 1 Volvo Black Glossy @@paint@@</Text>
+      <Value>air_bar.bar_3_bg_vo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 1 FH @@paint@@</Text>
+      <Value>air_bar.bar_3_fh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 1 Volvo @@paint@@</Text>
+      <Value>air_bar.bar_3_vo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 4 @@paint@@</Text>
+      <Value>air_bar.bar_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 4 FH @@paint@@</Text>
+      <Value>air_bar.bar_4fh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 4 Volvo @@paint@@</Text>
+      <Value>air_bar.bar_4vo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 5 @@paint@@</Text>
+      <Value>air_bar.bar_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 5 Black Glossy</Text>
+      <Value>air_bar.bar_5_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 5 @@chrome@@</Text>
+      <Value>air_bar.bar_5_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 5 Black Glossy @@paint@@</Text>
+      <Value>air_bar.bar_5_pbg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 5 @@paint@@ @@chrome@@</Text>
+      <Value>air_bar.bar_5_pc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 6 @@paint@@</Text>
+      <Value>air_bar.bar_6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 6 FH @@paint@@</Text>
+      <Value>air_bar.bar_6_fh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>Airbar 6 Volvo @@paint@@</Text>
+      <Value>air_bar.bar_6_vo</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>@@stock@@ @@paint@@</Text>
+      <Value>air_bar.stock_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Aufbauten (Template Aufbauten)</Group>
+      <Text>BDF Aufbau</Text>
+      <Value>aufbauten.box_tnk</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Aufbauten (Template Aufbauten)</Group>
+      <Text>Fishtank</Text>
+      <Value>aufbauten.fsh_tnk</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Aufbauten (Template Aufbauten)</Group>
+      <Text>Oiltank</Text>
+      <Value>aufbauten.oil_tnk</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bottomgrills (Template Bottomgrill)</Group>
+      <Text>3 Part @@paint@@</Text>
+      <Value>b_grill.grill_1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bottomgrills (Template Bottomgrill)</Group>
+      <Text>3 Part Sidemarker @@paint@@</Text>
+      <Value>b_grill.grill_1pm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bottomgrills (Template Bottomgrill)</Group>
+      <Text>3 Part @@paint@@</Text>
+      <Value>b_grill.grill_2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bottomgrills (Template Bottomgrill)</Group>
+      <Text>3 Part Sidemarker @@paint@@</Text>
+      <Value>b_grill.grill_2pm</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bottomgrills (Template Bottomgrill)</Group>
+      <Text>1 Part @@paint@@</Text>
+      <Value>b_grill.grill_3p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bottomgrills (Template Bottomgrill)</Group>
+      <Text>1 Part @@paint@@</Text>
+      <Value>b_grill.grill_4p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Skirt Box SWP FSH(Template Skirts 8x HKL SWP TNK)</Group>
+      <Text>Custom Box</Text>
+      <Value>chs_lr.box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Skirt Box SWP FSH(Template Skirts 8x HKL SWP TNK)</Group>
+      <Text>Custom Box</Text>
+      <Value>chs_lr.box_fsh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Skirt Box SWP FSH(Template Skirts 8x HKL SWP TNK)</Group>
+      <Text>Custom Box</Text>
+      <Value>chs_rr.box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Skirt Box SWP FSH(Template Skirts 8x HKL SWP TNK)</Group>
+      <Text>Custom Box</Text>
+      <Value>chs_rr.box_fsh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Highpipes (Template airbars)</Group>
+      <Text>Pipe Curved 2 @@paint@@</Text>
+      <Value>exhaust_m.curv_2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Highpipes (Template airbars)</Group>
+      <Text>Pipe Curved @@paint@@</Text>
+      <Value>exhaust_m.curv_8x4p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Highpipes (Template airbars)</Group>
+      <Text>Pipe Curved @@paint@@</Text>
+      <Value>exhaust_m.curv_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Highpipes (Template airbars)</Group>
+      <Text>Pipe Flat 2 @@paint@@</Text>
+      <Value>exhaust_m.flat_2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Highpipes (Template airbars)</Group>
+      <Text>Pipe Flat @@paint@@</Text>
+      <Value>exhaust_m.flat_8x4p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Highpipes (Template airbars)</Group>
+      <Text>Pipe Flat @@paint@@</Text>
+      <Value>exhaust_m.flat_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Highpipes (Template airbars)</Group>
+      <Text>Pipe Oldschool @@paint@@</Text>
+      <Value>exhaust_m.old_8x4_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Highpipes (Template airbars)</Group>
+      <Text>Pipe Oldschool @@paint@@</Text>
+      <Value>exhaust_m.old_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Badge (Template Front Badge)</Group>
+      <Text>FH16 @@paint@@</Text>
+      <Value>f_badge.fh16_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Badge (Template Front Badge)</Group>
+      <Text>FH @@paint@@</Text>
+      <Value>f_badge.fh_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bullbars (Template Frontgrills)</Group>
+      <Text>City @@paint@@</Text>
+      <Value>f_grill.grill_1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bullbars (Template Frontgrills)</Group>
+      <Text>Highway @@paint@@</Text>
+      <Value>f_grill.grill_2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bullbars (Template Frontgrills)</Group>
+      <Text>Offroad @@paint@@</Text>
+      <Value>f_grill.grill_3p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bullbars (Template Frontgrills)</Group>
+      <Text>Offroad 2 @@paint@@</Text>
+      <Value>f_grill.grill_4p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bullbars (Template Frontgrills)</Group>
+      <Text>Freeway @@paint@@</Text>
+      <Value>f_grill.grill_5p</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>4x2 @@paint@@</Text>
+      <Value>chassis.4x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>6x2 Steering Taglift @@paint@@</Text>
+      <Value>chassis.6x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>6x4 @@paint@@</Text>
+      <Value>chassis.6x4_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>8x4/4 @@paint@@</Text>
+      <Value>chassis.8x4_p</Value>
+    </ListItem>	
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Custom bumper @@paint@@</Text>
+      <Value>r_bumper.custom_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Custom bumper Slots @@paint@@</Text>
+      <Value>r_bumper.custom_1ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Custom bumper Slots @@paint@@</Text>
+      <Value>r_bumper.custom_1s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Custom bumper 2 @@paint@@</Text>
+      <Value>r_bumper.custom_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>@@stock@@</Text>
+      <Value>r_bumper.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Euro 3 @@paint@@</Text>
+      <Value>r_bumper.swp_eu3_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Slots @@paint@@</Text>
+      <Value>r_bumper.swp_slot_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Cover (Template Custom Cover6x)</Group>
+      <Text>Custom @@paint@@</Text>
+      <Value>r_chs_cover.painted</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Cover (Template Custom Cover4x2)</Group>
+      <Text>Custom @@paint@@</Text>
+      <Value>r_chs_cover.painted_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Cover (Template Custom Cover4x2)</Group>
+      <Text>Custom Checkerplate @@paint@@</Text>
+      <Value>r_chs_cover.painted_4x2r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Cover (Template Custom Cover8x)</Group>
+      <Text>Custom @@paint@@</Text>
+      <Value>r_chs_cover.painted_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Cover (Template Custom Cover8x)</Group>
+      <Text>Custom Checkerplate @@paint@@</Text>
+      <Value>r_chs_cover.painted_8x4r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Cover (Template Custom Cover Hooklift)</Group>
+      <Text>Custom @@paint@@</Text>
+      <Value>r_chs_cover.painted_hkl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Cover (Template Custom Cover Hooklift)</Group>
+      <Text>Custom Checkerplate @@paint@@</Text>
+      <Value>r_chs_cover.painted_hklr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Cover (Template Custom Cover Oiltank)</Group>
+      <Text>Custom @@paint@@</Text>
+      <Value>r_chs_cover.painted_oil</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Cover (Template Custom Cover Oiltank)</Group>
+      <Text>Custom Checkerplate @@paint@@</Text>
+      <Value>r_chs_cover.painted_oilr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Cover (Template Custom Cover6x)</Group>
+      <Text>Custom Checkerplate @@paint@@</Text>
+      <Value>r_chs_cover.painted_r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Cover (Template Custom Cover Swapbody)</Group>
+      <Text>Custom @@paint@@</Text>
+      <Value>r_chs_cover.painted_swp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Cover (Template Custom Cover Swapbody)</Group>
+      <Text>Custom Checkerplate @@paint@@</Text>
+      <Value>r_chs_cover.painted_swpr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Cover (Template Custom Cover Oiltank)</Group>
+      <Text>Custom @@paint@@</Text>
+      <Value>r_chs_cover.painted_tnk</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Cover (Template Custom Cover Oiltank)</Group>
+      <Text>Custom Checkerplate @@paint@@</Text>
+      <Value>r_chs_cover.painted_tnkr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Cover (Template Chassicover Stock)</Group>
+      <Text>@@stock@@ @@paint@@</Text>
+      <Value>r_chs_cover.stock_8x4p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassi Cover (Template Chassicover Stock)</Group>
+      <Text>@@stock@@ @@paint@@</Text>
+      <Value>r_chs_cover.stock_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender HKL 8x 4x)</Group>
+      <Text>@@paint@@</Text>
+      <Value>r_fender.4x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender SWP 6x)</Group>
+      <Text>@@paint@@</Text>
+      <Value>r_fender.6x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender SWP 6x)</Group>
+      <Text>@@paint@@</Text>
+      <Value>r_fender.6x4_swp_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender HKL 8x 4x)</Group>
+      <Text>@@paint@@</Text>
+      <Value>r_fender.8x4_hkl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender HKL 8x 4x)</Group>
+      <Text>@@paint@@</Text>
+      <Value>r_fender.8x4_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender HKL 8x 4x)</Group>
+      <Text>@@paint@@</Text>
+      <Value>r_fender_cov.4x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender SWP 6x)</Group>
+      <Text>@@paint@@</Text>
+      <Value>r_fender_cov.6x2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender SWP 6x)</Group>
+      <Text>Box @@paint@@</Text>
+      <Value>r_fender_cov.6x2_p1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender SWP 6x)</Group>
+      <Text>Box @@paint@@ @@chrome@@</Text>
+      <Value>r_fender_cov.6x2_p1c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender SWP 6x)</Group>
+      <Text>Box Checkerplate @@paint@@ @@chrome@@</Text>
+      <Value>r_fender_cov.6x2_p1cr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender SWP 6x)</Group>
+      <Text>Box Checkerplate @@paint@@</Text>
+      <Value>r_fender_cov.6x2_p1r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender HKL 8x 4x)</Group>
+      <Text>Box @@chrome@@</Text>
+      <Value>r_fender_cov.8x4_hkl_c1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender HKL 8x 4x)</Group>
+      <Text>Box Checkerplate @@chrome@@</Text>
+      <Value>r_fender_cov.8x4_hkl_c1r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender HKL 8x 4x)</Group>
+      <Text>@@paint@@</Text>
+      <Value>r_fender_cov.8x4_hkl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender HKL 8x 4x)</Group>
+      <Text>Box @@paint@@</Text>
+      <Value>r_fender_cov.8x4_hkl_p1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender HKL 8x 4x)</Group>
+      <Text>Box Checkerplate @@paint@@</Text>
+      <Value>r_fender_cov.8x4_hkl_p1r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender HKL 8x 4x)</Group>
+      <Text>@@paint@@</Text>
+      <Value>r_fender_cov.8x4_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender HKL 8x 4x)</Group>
+      <Text>Box @@paint@@</Text>
+      <Value>r_fender_cov.8x4_p1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender HKL 8x 4x)</Group>
+      <Text>Box @@paint@@ @@chrome@@</Text>
+      <Value>r_fender_cov.8x4_p1c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender HKL 8x 4x)</Group>
+      <Text>Box Checkerplate @@paint@@ @@chrome@@</Text>
+      <Value>r_fender_cov.8x4_p1cr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearfender (Template Rearfender HKL 8x 4x)</Group>
+      <Text>Box Checkerplate @@paint@@</Text>
+      <Value>r_fender_cov.8x4_p1r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Stiholt</Text>
+      <Value>r_mudflap.cus_1_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Stiholt</Text>
+      <Value>r_mudflap.cus_1_4x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Stiholt</Text>
+      <Value>r_mudflap.cus_1_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Stiholt</Text>
+      <Value>r_mudflap.cus_1_6x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Stiholt</Text>
+      <Value>r_mudflap.cus_1_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Stiholt</Text>
+      <Value>r_mudflap.cus_1_8x4ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Truckjunkie</Text>
+      <Value>r_mudflap.cus_2_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Truckjunkie</Text>
+      <Value>r_mudflap.cus_2_4x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Truckjunkie</Text>
+      <Value>r_mudflap.cus_2_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Truckjunkie</Text>
+      <Value>r_mudflap.cus_2_6x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Truckjunkie</Text>
+      <Value>r_mudflap.cus_2_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Truckjunkie</Text>
+      <Value>r_mudflap.cus_2_8x4ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>King of the Road</Text>
+      <Value>r_mudflap.cus_3_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>King of the Road</Text>
+      <Value>r_mudflap.cus_3_4x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>King of the Road</Text>
+      <Value>r_mudflap.cus_3_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>King of the Road</Text>
+      <Value>r_mudflap.cus_3_6x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>King of the Road</Text>
+      <Value>r_mudflap.cus_3_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>King of the Road</Text>
+      <Value>r_mudflap.cus_3_8x4ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>No Friends</Text>
+      <Value>r_mudflap.cus_4_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>No Friends</Text>
+      <Value>r_mudflap.cus_4_4x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>No Friends</Text>
+      <Value>r_mudflap.cus_4_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>No Friends</Text>
+      <Value>r_mudflap.cus_4_6x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>No Friends</Text>
+      <Value>r_mudflap.cus_4_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>No Friends</Text>
+      <Value>r_mudflap.cus_4_8x4ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Volvo</Text>
+      <Value>r_mudflap.cus_5_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Volvo</Text>
+      <Value>r_mudflap.cus_5_4x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Volvo</Text>
+      <Value>r_mudflap.cus_5_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Volvo</Text>
+      <Value>r_mudflap.cus_5_6x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Volvo</Text>
+      <Value>r_mudflap.cus_5_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Volvo</Text>
+      <Value>r_mudflap.cus_5_8x4ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Your Text</Text>
+      <Value>r_mudflap.cus_6_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Your Text</Text>
+      <Value>r_mudflap.cus_6_4x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Your Text</Text>
+      <Value>r_mudflap.cus_6_6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Your Text</Text>
+      <Value>r_mudflap.cus_6_6x2ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Your Text</Text>
+      <Value>r_mudflap.cus_6_8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Your Text</Text>
+      <Value>r_mudflap.cus_6_8x4ex</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rearbumper (Template Rearbumper)</Group>
+      <Text>Volvo @@stock@@</Text>
+      <Value>r_mudflap.stck_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tanks</Group>
+      <Text>4x2</Text>
+      <Value>tank.4x2_paint</Value>
+    </ListItem>	
+    <ListItem>
+      <Group>Tanks</Group>
+      <Text>6x2</Text>
+      <Value>tank.6x2_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tanks</Group>
+      <Text>8x2</Text>
+      <Value>tank.8x4_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 4x 6x)</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.cus4xp_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 4x 6x)</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.cus4x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 4x 6x)</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.cus6xp_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 4x 6x)</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.cus6x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 8x HKL SWP TNK)</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.cus8x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 8x HKL SWP TNK)</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.cus_hkl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 8x HKL SWP TNK)</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.cus_swp_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 8x HKL SWP TNK)</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.cus_tnk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 4x 6x)</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_cus4xp_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 4x 6x)</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_cus4x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 4x 6x)</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_cus6xp_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 4x 6x)</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_cus6x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 8x HKL SWP TNK)</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_cus8x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 8x HKL SWP TNK)</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_cus_hkl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 8x HKL SWP TNK)</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_cus_swp_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 8x HKL SWP TNK)</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_cus_tnk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 4x 6x)</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_stk4x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 4x 6x)</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_stk6x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 8x HKL SWP TNK)</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_stk8x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 8x HKL SWP TNK)</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_stk_hkl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 8x HKL SWP TNK)</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_stk_swp_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 8x HKL SWP TNK)</Group>
+      <Text>Pipe @@paint@@</Text>
+      <Value>sidebar.pi_stk_tnk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 4x 6x)</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.stk4x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 4x 6x)</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.stk6x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 8x HKL SWP TNK)</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.stk8x_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 8x HKL SWP TNK)</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.stk_hkl_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 8x HKL SWP TNK)</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.stk_swp_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sidebars (Template Sidebars 8x HKL SWP TNK)</Group>
+      <Text>Cube @@paint@@</Text>
+      <Value>sidebar.stk_tnk_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Flat</Text>
+      <Value>sideskirt.custom_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Flat and Pipe</Text>
+      <Value>sideskirt.custom_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Boxes</Text>
+      <Value>sideskirt.custom_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Boxes and Pipe</Text>
+      <Value>sideskirt.custom_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Stripes</Text>
+      <Value>sideskirt.custom_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Stripes Black Glossy</Text>
+      <Value>sideskirt.custom_5bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Stripes @@chrome@@</Text>
+      <Value>sideskirt.custom_5c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Stripes and Pipe</Text>
+      <Value>sideskirt.custom_6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Stripes Black Glossy and Pipe</Text>
+      <Value>sideskirt.custom_6bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Stripes @@chrome@@ and Pipe</Text>
+      <Value>sideskirt.custom_6c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 8x HKL SWP TNK)</Group>
+      <Text>Boxes</Text>
+      <Value>sideskirt.custom_8x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Flat</Text>
+      <Value>sideskirt.cus_1_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Flat and Pipe</Text>
+      <Value>sideskirt.cus_2_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Boxes</Text>
+      <Value>sideskirt.cus_3_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Boxes and Pipe</Text>
+      <Value>sideskirt.cus_4_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Stripes Black Glossy</Text>
+      <Value>sideskirt.cus_5bg_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Stripes @@chrome@@</Text>
+      <Value>sideskirt.cus_5c_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Stripes</Text>
+      <Value>sideskirt.cus_5_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Stripes Black Glossy and Pipe</Text>
+      <Value>sideskirt.cus_6bg_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Stripes @@chrome@@ and Pipe</Text>
+      <Value>sideskirt.cus_6c_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Stripes and Pipe</Text>
+      <Value>sideskirt.cus_6_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 8x HKL SWP TNK)</Group>
+      <Text>Custom Boxes</Text>
+      <Value>sideskirt.cus_fsh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 8x HKL SWP TNK)</Group>
+      <Text>Custom Boxes</Text>
+      <Value>sideskirt.cus_hkl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 8x HKL SWP TNK)</Group>
+      <Text>Custom Boxes</Text>
+      <Value>sideskirt.cus_oil</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 8x HKL SWP TNK)</Group>
+      <Text>Custom Boxes</Text>
+      <Value>sideskirt.cus_swp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>@@stock@@</Text>
+      <Value>sideskirt.stock_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>@@stock@@</Text>
+      <Value>sideskirt.stock_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 4x 6x)</Group>
+      <Text>Black Glossy @@stock@@</Text>
+      <Value>sideskirt.stock_6x_bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 8x HKL SWP TNK)</Group>
+      <Text>@@stock@@</Text>
+      <Value>sideskirt.stock_8x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 8x HKL SWP TNK)</Group>
+      <Text>@@stock@@</Text>
+      <Value>sideskirt.stock_fsh</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 8x HKL SWP TNK)</Group>
+      <Text>@@stock@@</Text>
+      <Value>sideskirt.stock_hkl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 8x HKL SWP TNK)</Group>
+      <Text>@@stock@@</Text>
+      <Value>sideskirt.stock_oil</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirts (Template Skirts 8x HKL SWP TNK)</Group>
+      <Text>@@stock@@</Text>
+      <Value>sideskirt.stock_swp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield (Template Sunvisors)</Group>
+      <Text>@@paint@@</Text>
+      <Value>sunshld.sun_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield (Template Sunvisors)</Group>
+      <Text>Antenna @@paint@@</Text>
+      <Value>sunshld.sun_1a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield (Template Sunvisors)</Group>
+      <Text>Extended @@paint@@</Text>
+      <Value>sunshld.sun_1e</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield (Template Sunvisors)</Group>
+      <Text>Extended Antenna @@paint@@</Text>
+      <Value>sunshld.sun_1ea</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield (Template Sunvisors)</Group>
+      <Text>Oldschool @@paint@@</Text>
+      <Value>sunshld.sun_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield (Template Sunvisors)</Group>
+      <Text>Oldschool Antenna @@paint@@</Text>
+      <Value>sunshld.sun_2a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield (Template Sunvisors)</Group>
+      <Text>Orange Marker @@paint@@</Text>
+      <Value>sunshld.sun_3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield (Template Sunvisors)</Group>
+      <Text>Orange Marker Antenna @@paint@@</Text>
+      <Value>sunshld.sun_3a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield (Template Sunvisors)</Group>
+      <Text>White Marker @@paint@@</Text>
+      <Value>sunshld.sun_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield (Template Sunvisors)</Group>
+      <Text>White Marker Antenna @@paint@@</Text>
+      <Value>sunshld.sun_4a</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Stoneguard (Template Stoneguards)</Group>
+      <Text>@@paint@@</Text>
+      <Value>s_guard.guard_1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Stoneguard (Template Stoneguards)</Group>
+      <Text>@@paint@@</Text>
+      <Value>s_guard.guard_2p</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>Roof Grill</Group>
+      <Text>Grill 1</Text>
+      <Value>r_grill.grill_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Grill</Group>
+      <Text>Grill 2</Text>
+      <Value>r_grill.grill_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Roof Grill</Group>
+      <Text>Grill 3</Text>
+      <Value>r_grill.grill_3</Value>
+    </ListItem>
+	
+    <ListItem>
+      <Group>Deflector</Group>
+      <Text>Stock</Text>
+      <Value>s_deflector.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Deflector</Group>
+      <Text>Backbar Chrome</Text>
+      <Value>s_deflector.blackbar_c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Deflector</Group>
+      <Text>Backbar</Text>
+      <Value>s_deflector.blackbar</Value>
+    </ListItem>	
+	
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.4x2_1_bob</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.4x2_1_cov</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.4x2_1bg_cov</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.4x2_1bg_bob</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.4x2_2_bob</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.4x2_2_cov</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.4x2_4_cov</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.4x2_4_bob</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.4x2_5_bob</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.4x2_5_cov</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.4x2_6_cov</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.4x2_6_bob</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.bar_1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.bar_1_bob</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.bar_1_cov</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.bar_1bg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.bar_1bg_bob</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.bar_1bg_cov</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.bar_2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.bar_2_bob</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.bar_2_cov</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.bar_4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.bar_4_bob</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.bar_4_cov</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.bar_5_cov</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.bar_5_bob</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.bar_5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.bar_6</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.bar_6_bob</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.stock_bob</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.stock_cov</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.bar_6_cov</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.stock_bob_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Airbars (Template Airbars)</Group>
+      <Text>5th wheel cover @@paint@@</Text>
+      <Value>trlr_cables.stock_cov_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main mirror</Group>
+      <Text>Mirror full @@paint@@</Text>
+      <Value>f_intake_cab.shape1_fp</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main mirror</Group>
+      <Text>Mirror Crome @@paint@@</Text>
+      <Value>f_intake_cab.shape1_fpc</Value>
+    </ListItem>	
+    <ListItem>
+      <Group>Main mirror</Group>
+      <Text>Mirror @@paint@@</Text>
+      <Value>f_intake_cab.shape</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Main mirror</Group>
+      <Text>Mirror Camera @@paint@@</Text>
+      <Value>f_intake_cab.cam_digi</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Side mirror</Group>
+      <Text>Side Mirror @@paint@@</Text>
+      <Value>s_mirror.shape1_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Filter</Group>
+      <Text>Filter @@paint@@</Text>
+      <Value>filter.paint</Value>
+    </ListItem>	
+    <ListItem>
+      <Group>Front Mask</Group>
+      <Text>Front Mask @@paint@@</Text>
+      <Value>f_intake_cab.inlay_1</Value>
+    </ListItem>	
+    <ListItem>
+      <Group>Front Mask</Group>
+      <Text>Front Mask @@paint@@</Text>
+      <Value>f_intake_cab.inlay_1pg</Value>
+    </ListItem>	
+    <ListItem>
+      <Group>Inlays Chassis (Maintemplate)</Group>
+      <Text>Inlay Chassis @@paint@@</Text>
+      <Value>f_intake_chs.inlay_1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Inlays Chassis (Maintemplate)</Group>
+      <Text>Inlay Chassis @@paint@@ Black Glossy</Text>
+      <Value>f_intake_chs.inlay_1pg</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Inlays Chassis (Maintemplate)</Group>
+      <Text>Inlay Chassis @@paint@@ Black Glossy</Text>
+      <Value>f_intake_chs.inlay_1pg1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Inlays Chassis (Maintemplate)</Group>
+      <Text>Inlay Chassis @@paint@@ @@chrome@@</Text>
+      <Value>f_intake_chs.inlay_1c</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Horns (Template Horns)</Group>
+      <Text>Left Horn @@paint@@</Text>
+      <Value>l_horn.horn_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Horns (Template Horns)</Group>
+      <Text>Left Double Horn @@paint@@</Text>
+      <Value>l_horn.horn_2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Horns (Template Horns)</Group>
+      <Text>Right Double Horn @@paint@@</Text>
+      <Value>r_horn.horn_2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Horns (Template Horns)</Group>
+      <Text>Right Horn @@paint@@</Text>
+      <Value>r_horn.horn_p</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>D:\doks\Mods Studio 2\UserVehicles\Mod Vehicles\Skimo\ETS2.volvo.vt_5.xml</FilePath>
+  <XmlSource>User</XmlSource>
+  <Game>ETS2</Game>
+  <InternalName>volvo.vt_5</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Skimo</VehicleAuthor>
+  <VehicleName>SKIMO|Volvo VT 5</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>vt_8x4.volvo.vt_5.cabin</InternalName>
+      <Name>High Roof</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>vt_xl.volvo.vt_5.cabin</InternalName>
+      <Name>High Roof</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Skimo</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
+</Variable>

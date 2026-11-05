@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Rear Accessorie</Group>
+      <Text>Left Box</Text>
+      <Value>acc_l.box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Accessorie</Group>
+      <Text>Left Spare Wheel</Text>
+      <Value>acc_l.sos</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Accessorie</Group>
+      <Text>Right Box</Text>
+      <Value>acc_r.box</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Accessorie</Group>
+      <Text>Right Spare Wheel</Text>
+      <Value>acc_r.sos</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tarpaulin Support</Group>
+      <Text>Paint</Text>
+      <Value>f_acc.support</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tarpaulin support</Group>
+      <Text>Aluminium</Text>
+      <Value>f_acc.supportalu</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tarpaulin support</Group>
+      <Text>Thermoking</Text>
+      <Value>f_acc.tk</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>C163 Light</Text>
+      <Value>r_bumper.c163</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>C163 Light low desk</Text>
+      <Value>r_bumper.c1632</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>C163 Light low desk 2</Text>
+      <Value>r_bumper.c1633</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>C163 Light</Text>
+      <Value>r_bumper.c163fb</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>C163 Light low desk</Text>
+      <Value>r_bumper.c163fb2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>C163 Light low desk 2</Text>
+      <Value>r_bumper.c163fb3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>LA38 Light</Text>
+      <Value>r_bumper.la38</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>LA38 Light low desk</Text>
+      <Value>r_bumper.la382</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>LA38 Light low desk 2</Text>
+      <Value>r_bumper.la383</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>LA38 Light</Text>
+      <Value>r_bumper.la38fb</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>LA38 Light low desk</Text>
+      <Value>r_bumper.la38fb2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>LA38 Light low desk 2</Text>
+      <Value>r_bumper.la38fb3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>free slot</Text>
+      <Value>r_bumper.slot</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>free slot low desk</Text>
+      <Value>r_bumper.slot2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>free slot low desk 2</Text>
+      <Value>r_bumper.slot3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>free slot</Text>
+      <Value>r_bumper.slotfb</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>free slot low desk</Text>
+      <Value>r_bumper.slotfb2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear bumper</Group>
+      <Text>free slot low desk 2</Text>
+      <Value>r_bumper.slotfb3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear fender</Group>
+      <Text>tole long</Text>
+      <Value>r_fender.double</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear fender</Group>
+      <Text>metal</Text>
+      <Value>r_fender.metalch3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear fender</Group>
+      <Text>metal</Text>
+      <Value>r_fender.metalr</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear fender</Group>
+      <Text>tole</Text>
+      <Value>r_fender.simple</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>metal</Text>
+      <Value>sideskirt.shape1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>metal</Text>
+      <Value>sideskirt.shape2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>metal</Text>
+      <Value>sideskirt.shape3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>metal</Text>
+      <Value>sideskirt.shape4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>metal</Text>
+      <Value>sideskirt.shape5</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Suspension</Group>
+      <Text>Suspension</Text>
+      <Value>suspension.x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Chassis</Group>
+      <Text>Double axel</Text>
+      <Value>chassis.ch1r</Value>
+    </ListItem>
+    <ListItem>
+      <Group>chassis</Group>
+      <Text>Triple axel</Text>
+      <Value>chassis.ch10</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Dolly</Group>
+      <Text>Bumper</Text>
+      <Value>r_bumper.slot_dolly</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Dolly</Group>
+      <Text>Chassis</Text>
+      <Value>chassis.ch2d</Value>
+    </ListItem>	
+    <ListItem>
+      <Group>Dolly</Group>
+      <Text>Fender</Text>
+      <Value>f_fender.paint</Value>
+    </ListItem>
+  </AccessoryItems>
+  <FilePath>D:\doks\Mods Studio 2\UserVehicles\Mod Vehicles\Truck Access Simulator\ETS2.transport_access_simulator.semidolly.xml</FilePath>
+  <XmlSource>User</XmlSource>
+  <Game>ETS2</Game>
+  <InternalName>trailertas.semidolly</InternalName>
+  <SoundItems />
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>TAS|Trailer Semi Dolly Tandem</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.curtain</InternalName>
+      <Name>Curtain</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.curtain2</InternalName>
+      <Name>Curtain New</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.dolly</InternalName>
+      <Name>dolly body</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.dryvan</InternalName>
+      <Name>Dryvan</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.reefer</InternalName>
+      <Name>Refrigerated</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.woodbedb</InternalName>
+      <Name>Flat bed blue</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.woodbedr</InternalName>
+      <Name>Flat bed red</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.woodbedy</InternalName>
+      <Name>Flat bed yellow</Name>
+    </Variant>
+  </VehicleVariants>
+  <DateUpdated xsi:nil="true" />
+</Variable>

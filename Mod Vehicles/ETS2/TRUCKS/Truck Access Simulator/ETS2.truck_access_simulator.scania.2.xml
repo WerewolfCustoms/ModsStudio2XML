@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Tandem</Group>
+      <Text>Benne</Text>
+      <Value>body.benne</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tandem</Group>
+      <Text>Citerne</Text>
+      <Value>body.cistern</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tandem</Group>
+      <Text>Curtain</Text>
+      <Value>body.curtain</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tandem</Group>
+      <Text>Curtain</Text>
+      <Value>body.curtain2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tandem</Group>
+      <Text>Dry Van</Text>
+      <Value>body.dryvan</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B-Grill</Group>
+      <Text>Paint</Text>
+      <Value>b_grill.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>B-Grill</Group>
+      <Text>paint</Text>
+      <Value>b_grill.visiere_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Corner Deflector</Group>
+      <Text>deflecteur paint</Text>
+      <Value>cor_def.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Corner Deflector</Group>
+      <Text>deflecteur paint</Text>
+      <Value>cor_def.paint_inter</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Exhaust</Group>
+      <Text>stock paint</Text>
+      <Value>exhaust.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Custom Paint</Text>
+      <Value>f_bumper.custom_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>Custom Paint with light</Text>
+      <Value>f_bumper.custom_pl</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>stock paint</Text>
+      <Value>f_bumper.stock_p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>stock paint with light</Text>
+      <Value>f_bumper.stock_p_l</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Bullbar</Group>
+      <Text>paint bullbar 01</Text>
+      <Value>f_grill.bullbar01p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Grill</Group>
+      <Text>paint ramp 01</Text>
+      <Value>f_grill.paint_01</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Intake</Group>
+      <Text>paint</Text>
+      <Value>f_intake_cab.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Intake</Group>
+      <Text>paint</Text>
+      <Value>f_intake_cab.paint_inter</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Logo</Group>
+      <Text>paint</Text>
+      <Value>logo.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Logo</Group>
+      <Text>paint</Text>
+      <Value>logo.paint_inter</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>custom</Text>
+      <Value>r_bumper.custom</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>custom double</Text>
+      <Value>r_bumper.customx2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>custom</Text>
+      <Value>r_bumper.custom_4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>custom 02</Text>
+      <Value>r_bumper.custom_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>stock</Text>
+      <Value>r_bumper.la38</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>stock</Text>
+      <Value>r_bumper.la38t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>paint fender</Text>
+      <Value>r_fender.paint4x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>paint fender</Text>
+      <Value>r_fender.paint6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fender</Group>
+      <Text>paint fender</Text>
+      <Value>r_fender.paint6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Paint sideskirt</Text>
+      <Value>sideskirt.paint5200t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Paint sideskirt</Text>
+      <Value>sideskirt.paint5600t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Paint sideskirt</Text>
+      <Value>sideskirt.paint5600t2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Paint sideskirt</Text>
+      <Value>sideskirt.paint6200t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sideskirt</Group>
+      <Text>Paint sideskirt</Text>
+      <Value>sideskirt.paint6200t2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Paint Sunshield</Text>
+      <Value>sunshield.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Sunshield</Group>
+      <Text>Plastic Sunshield</Text>
+      <Value>sunshield.plastic</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Paint</Text>
+      <Value>tank.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Paint dual</Text>
+      <Value>tank.paintx2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Tank</Group>
+      <Text>Paint</Text>
+      <Value>tank.paint_s</Value>
+    </ListItem>
+	
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>3400 4x2</Text>
+      <Value>chassis.3400_4x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>3400 4x2 long</Text>
+      <Value>chassis.3400_4x2_l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>3400 4x2 short</Text>
+      <Value>chassis.3400_4x2_s</Value>
+    </ListItem>	
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>5600 4x2 streamline</Text>
+      <Value>chassis.chassis.5600_4x2_st</Value>
+    </ListItem>	
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>6200 4x2 Tandem</Text>
+      <Value>chassis.6200_4x2_t</Value>
+    </ListItem>	
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>3400 6x4</Text>
+      <Value>chassis.3400_6x4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>3400 6x4 Tandem</Text>
+      <Value>chassis.3400_6x4_t</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>4600 6x4</Text>
+      <Value>chassis.4600_6x4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>4600 6x4 Tandem</Text>
+      <Value>chassis.4600_6x4_t</Value>
+    </ListItem>	
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>5200 6x4</Text>
+      <Value>chassis.5200_6x4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>Chassis</Group>
+      <Text>5200 6x4 Tandem</Text>
+      <Value>chassis.5200_6x4_t</Value>
+    </ListItem>
+	<ListItem>
+      <Group>suspension</Group>
+      <Text>4x2</Text>
+      <Value>suspension.4x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>suspension</Group>
+      <Text>6x2</Text>
+      <Value>suspension.6x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>suspension</Group>
+      <Text>6x4</Text>
+      <Value>suspension.6x4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>5th wheel</Group>
+      <Text>6x4</Text>
+      <Value>trlr_cables.6x4</Value>
+    </ListItem>
+	<ListItem>
+      <Group>5th wheel</Group>
+      <Text>3400 4x2 long</Text>
+      <Value>trlr_cables.3400_4x2_l</Value>
+    </ListItem>
+	<ListItem>
+      <Group>5th wheel</Group>
+      <Text>3400 4x2 short</Text>
+      <Value>trlr_cables.3400_4x2_s</Value>
+    </ListItem>
+	<ListItem>
+      <Group>5th wheel</Group>
+      <Text>3800 4x2</Text>
+      <Value>trlr_cables.3800_4x2</Value>
+    </ListItem>
+	<ListItem>
+      <Group>5th wheel</Group>
+      <Text>Tandem</Text>
+      <Value>trlr_cables.tandems</Value>
+    </ListItem>
+	
+	
+	
+	
+  </AccessoryItems>
+  <FilePath>D:\doks\Mods Studio 2\UserVehicles\TAS\ETS2.scania.2.xml</FilePath>
+  <Game>ETS2</Game>
+  <InternalName>scania.2</InternalName>
+  <SoundItems />
+  <VehicleAuthor>TAS</VehicleAuthor>
+  <VehicleName>TAS|Scania serie 2</VehicleName>
+  <VehicleType>AllTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>hr.scania.2.cabin</InternalName>
+      <Name>Small cabin sleeper</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>longtol.scania.2.cabin</InternalName>
+      <Name>Long cabin</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>longwin.scania.2.cabin</InternalName>
+      <Name>Long with window</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>smalltol.scania.2.cabin</InternalName>
+      <Name>Small cabin</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>smallwin.scania.2.cabin</InternalName>
+      <Name>Small with window</Name>
+    </Variant>
+  </VehicleVariants>
+  <DateUpdated xsi:nil="true" />
+</Variable>
