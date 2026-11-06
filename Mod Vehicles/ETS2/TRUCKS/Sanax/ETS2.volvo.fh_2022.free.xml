@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Handle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\doorhndl.jpg</Image>
+      <Text>chrom paint</Text>
+      <Value>doorhndl.chrom_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Handle</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\doorhndl.jpg</Image>
+      <Text>paint</Text>
+      <Value>doorhndl.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Door Aero kit</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\door_aero.jpg</Image>
+      <Text>Aero 2022 paint</Text>
+      <Value>doorstep.aero_2022_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Filter</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\filter.jpg</Image>
+      <Description>filter paint</Description>
+      <Text>filter paint</Text>
+      <Value>filter.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Filter</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\filter.jpg</Image>
+      <Description>filter paint 2</Description>
+      <Text>filter paint 2</Text>
+      <Value>filter.paint_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_bumper.jpg</Image>
+      <Text>Stock paint</Text>
+      <Value>f_bumper.stock_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_bumper.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_bumper.stock_p_f</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_bumper.jpg</Image>
+      <Text>Paint v2</Text>
+      <Value>f_bumper.stock_p_f_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_bumper.jpg</Image>
+      <Text>Paint v3</Text>
+      <Value>f_bumper.stock_p_f_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_bumper.jpg</Image>
+      <Text>High bumper paint</Text>
+      <Value>f_bumper.stock_p_h</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_bumper.jpg</Image>
+      <Text>High bumper paint v2</Text>
+      <Value>f_bumper.stock_p_h_f</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_bumper.jpg</Image>
+      <Text>High bumper paint v3</Text>
+      <Value>f_bumper.stock_p_h_f2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_bumper.jpg</Image>
+      <Text>High Paint + FUP v3</Text>
+      <Value>f_bumper.stock_p_hf2r</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_bumper.jpg</Image>
+      <Text>High Paint + FUP v2</Text>
+      <Value>f_bumper.stock_p_h_fr</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front bumper</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_bumper.jpg</Image>
+      <Text>High Paint + FUP</Text>
+      <Value>f_bumper.stock_p_h_r</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Botom grill bars</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\b_grill.jpg</Image>
+      <Text>Metec F-LINER</Text>
+      <Value>b_grill.metec_f_l_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Botom grill bars</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\b_grill.jpg</Image>
+      <Text>Metec K-LINER</Text>
+      <Value>b_grill.metec_k_l_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Botom grill bars</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\b_grill.jpg</Image>
+      <Text>Metec K-LINER HIGH Bumper</Text>
+      <Value>b_grill.metec_k_l_ph</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front fender csb</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_fender_cab.jpg</Image>
+      <Text>Aero 2022 paint</Text>
+      <Value>f_fender_cab.aero_2022_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front fender cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_fender_cab.jpg</Image>
+      <Text>Light paint</Text>
+      <Value>f_fender_cab.light_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front fender cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_fender_cab.jpg</Image>
+      <Text>Stock paint</Text>
+      <Value>f_fender_cab.stock_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front fender chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_fender_chs.jpg</Image>
+      <Text>Light paint</Text>
+      <Value>f_fender_chs.light_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front fender chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_fender_chs.jpg</Image>
+      <Text>Stock paint</Text>
+      <Value>f_fender_chs.stock_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_bar.jpg</Image>
+      <Text>Without logo v1 paint</Text>
+      <Value>f_intake_bar.clear_1_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_bar.jpg</Image>
+      <Text>Without logo v1 paint 2</Text>
+      <Value>f_intake_bar.clear_1_p_f</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_bar.jpg</Image>
+      <Text>Without logo v2 paint</Text>
+      <Value>f_intake_bar.clear_2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_bar.jpg</Image>
+      <Text>Without logo v2 paint 2</Text>
+      <Value>f_intake_bar.clear_2_p_f</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_bar.jpg</Image>
+      <Text>Without logo v3 paint</Text>
+      <Value>f_intake_bar.clear_3_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_bar.jpg</Image>
+      <Text>Without logo v3 paint 2</Text>
+      <Value>f_intake_bar.clear_3_p_f</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_bar.jpg</Image>
+      <Text>Stock paint</Text>
+      <Value>f_intake_bar.stock_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_bar.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_intake_bar.stock_p_f</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_bar.jpg</Image>
+      <Text>Without Logo v.1 Paint</Text>
+      <Value>f_ikebar_int.clear_1_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_bar.jpg</Image>
+      <Text>Without Logo v.1 Paint 2</Text>
+      <Value>f_ikebar_int.clear_1_p_f</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_bar.jpg</Image>
+      <Text>Without Logo v.2 Paint</Text>
+      <Value>f_ikebar_int.clear_2_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_bar.jpg</Image>
+      <Text>Without Logo v.2 Paint 2</Text>
+      <Value>f_ikebar_int.clear_2_p_f</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_bar.jpg</Image>
+      <Text>Without Logo v.3 Paint</Text>
+      <Value>f_ikebar_int.clear_3_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_bar.jpg</Image>
+      <Text>Without Logo v.3 Paint 2</Text>
+      <Value>f_ikebar_int.clear_3_p_f</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_bar.jpg</Image>
+      <Text>Stock Paint</Text>
+      <Value>f_ikebar_int.stock_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake bar</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_bar.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_ikebar_int.stock_p_f</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_cab.jpg</Image>
+      <Text>FH 16 paint</Text>
+      <Value>f_intake_cab.fh16_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_cab.jpg</Image>
+      <Text>FH 16 paint v2</Text>
+      <Value>f_intake_cab.fh16_p2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_cab.jpg</Image>
+      <Text>FH 16 exclusive paint III</Text>
+      <Value>f_intake_cab.fh16_p2_e</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_cab.jpg</Image>
+      <Text>FH 16 paint v3</Text>
+      <Value>f_intake_cab.fh16_p3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_cab.jpg</Image>
+      <Text>FH 16 paint v4</Text>
+      <Value>f_intake_cab.fh16_p4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_cab.jpg</Image>
+      <Text>FH 16 paint v5</Text>
+      <Value>f_intake_cab.fh16_p5</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_cab.jpg</Image>
+      <Text>FH 16 paint v6</Text>
+      <Value>f_intake_cab.fh16_p6</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_cab.jpg</Image>
+      <Text>FH 16 stock paint</Text>
+      <Value>f_intake_cab.fh16_p7</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_cab.jpg</Image>
+      <Text>FH 16 exclusive paint</Text>
+      <Value>f_intake_cab.fh16_p7_e</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_cab.jpg</Image>
+      <Text>FH 16 exclusive paint II</Text>
+      <Value>f_intake_cab.fh16_p_e</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_cab.jpg</Image>
+      <Text>FH stock paint</Text>
+      <Value>f_intake_cab.fh_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_cab.jpg</Image>
+      <Text>FH stock paint premium</Text>
+      <Value>f_intake_cab.fh_paint_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_cab.jpg</Image>
+      <Text>FH paint exclusive</Text>
+      <Value>f_intake_cab.fh_paint_e</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_cab.jpg</Image>
+      <Text>FH paint exclusive II</Text>
+      <Value>f_intake_cab.fh_paint_e2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_cab.jpg</Image>
+      <Text>FH paint chrom</Text>
+      <Value>f_intake_cab.fh_paint_f</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_cab.jpg</Image>
+      <Text>FH paint</Text>
+      <Value>f_intake_cab.fh_paint_f2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake cab</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_cab.jpg</Image>
+      <Text>FH stock paint chrom</Text>
+      <Value>f_intake_cab.fh_stock_pc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_chs.jpg</Image>
+      <Text>FH16 p</Text>
+      <Value>f_intake_chs.fh16_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_chs.jpg</Image>
+      <Text>FH16 p2</Text>
+      <Value>f_intake_chs.fh16_p2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_chs.jpg</Image>
+      <Text>FH16 p2_e</Text>
+      <Value>f_intake_chs.fh16_p2_e</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_chs.jpg</Image>
+      <Text>FH16 p3</Text>
+      <Value>f_intake_chs.fh16_p3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_chs.jpg</Image>
+      <Text>FH16 p4</Text>
+      <Value>f_intake_chs.fh16_p4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_chs.jpg</Image>
+      <Text>FH16 p7</Text>
+      <Value>f_intake_chs.fh16_p7</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_chs.jpg</Image>
+      <Text>FH16 p7_e</Text>
+      <Value>f_intake_chs.fh16_p7_e</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_chs.jpg</Image>
+      <Text>FH16 p_e</Text>
+      <Value>f_intake_chs.fh16_p_e</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_chs.jpg</Image>
+      <Text>FH16 stock</Text>
+      <Value>f_intake_chs.fh16_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_chs.jpg</Image>
+      <Text>FH16 stock_e</Text>
+      <Value>f_intake_chs.fh16_stock_e</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_chs.jpg</Image>
+      <Text>FH paint_ch</Text>
+      <Value>f_intake_chs.fh_paint_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_chs.jpg</Image>
+      <Text>FH paint_e</Text>
+      <Value>f_intake_chs.fh_paint_e</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_chs.jpg</Image>
+      <Text>FH paint_e2</Text>
+      <Value>f_intake_chs.fh_paint_e2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_chs.jpg</Image>
+      <Text>FH paint_f</Text>
+      <Value>f_intake_chs.fh_paint_f</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_chs.jpg</Image>
+      <Text>FH paint_f2</Text>
+      <Value>f_intake_chs.fh_paint_f2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_chs.jpg</Image>
+      <Text>FH stock</Text>
+      <Value>f_intake_chs.fh_stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_chs.jpg</Image>
+      <Text>FH stock_p</Text>
+      <Value>f_intake_chs.fh_stock_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front intake chs</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_intake_chs.jpg</Image>
+      <Text>FH stock_pc</Text>
+      <Value>f_intake_chs.fh_stock_pc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front grill bars</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_grill.jpg</Image>
+      <Text>Bragan Paint</Text>
+      <Value>f_grill.bragan1p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front grill bars</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_grill.jpg</Image>
+      <Text>Metec City Paint</Text>
+      <Value>f_grill.metec1p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front grill bars</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_grill.jpg</Image>
+      <Text>Metec I Paint</Text>
+      <Value>f_grill.metec2p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front grill bars</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_grill.jpg</Image>
+      <Text>Metec II Paint</Text>
+      <Value>f_grill.metec2_2p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front headlights</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_light_chs.jpg</Image>
+      <Text>FH16 paint</Text>
+      <Value>f_light_chs.fh16_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front headlights</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_light_chs.jpg</Image>
+      <Text>FH16 paint orange drl</Text>
+      <Value>f_light_chs.fh16_p_o</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front headlights</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_light_chs.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_light_chs.fh_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front headlights</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_light_chs.jpg</Image>
+      <Text>Paint orange drl</Text>
+      <Value>f_light_chs.fh_p_o</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front panel on the roof</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_light_top.jpg</Image>
+      <Text>Stock paint</Text>
+      <Value>f_light_top.glob3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front panel on the roof</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_light_top.jpg</Image>
+      <Text>Paint orange drl</Text>
+      <Value>f_light_top.glob3_o</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front panel on the roof</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_light_top.jpg</Image>
+      <Text>Stock paint SkyLight</Text>
+      <Value>f_light_top.glob4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front panel on the roof</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_light_top.jpg</Image>
+      <Text>Stock paint LED SkyLight</Text>
+      <Value>f_light_top.glob4n</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front panel on the roof</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_light_top.jpg</Image>
+      <Text>Paint LED SkyLight orange drl</Text>
+      <Value>f_light_top.glob4n_o</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front panel on the roof</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_light_top.jpg</Image>
+      <Text>Paint SkyLight orange drl</Text>
+      <Value>f_light_top.glob4_o</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_mirror.jpg</Image>
+      <Text>Stock paint</Text>
+      <Value>fr_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_mirror.jpg</Image>
+      <Text>Paint chrom</Text>
+      <Value>fr_mirror.paint_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Front mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_mirror.jpg</Image>
+      <Text>Paint</Text>
+      <Value>fr_mirror.fpaint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Windshield Frame</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\f_wnd_frame.jpg</Image>
+      <Text>Paint</Text>
+      <Value>f_wnd_frame.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\mirror.jpg</Image>
+      <Text>Paint chrom</Text>
+      <Value>mirror.chrom_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\mirror.jpg</Image>
+      <Text>Paint chrom, sensor</Text>
+      <Value>mirror.chrom_p_bs</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\mirror.jpg</Image>
+      <Text>Paint</Text>
+      <Value>mirror.f_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\mirror.jpg</Image>
+      <Text>Paint, sensor</Text>
+      <Value>mirror.f_paint_bs</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\mirror.jpg</Image>
+      <Text>Paint, sensor</Text>
+      <Value>mirror.f_paint_b</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\mirror.jpg</Image>
+      <Text>Paint, sensor</Text>
+      <Value>mirror.f_paint_bsb</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\mirror.jpg</Image>
+      <Text>Stock paint</Text>
+      <Value>mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\mirror.jpg</Image>
+      <Text>Stock paint, sensor</Text>
+      <Value>mirror.paint_bs</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Position lights on the roof</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\park_lights.jpg</Image>
+      <Text>Paint LED</Text>
+      <Value>park_lights.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Position lights on the roof</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\park_lights.jpg</Image>
+      <Text>Paint LED yellow</Text>
+      <Value>park_lights.paint_o</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_deflector.jpg</Image>
+      <Text>Low</Text>
+      <Value>r_deflector.defl_flat</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_deflector.jpg</Image>
+      <Text>Low + lights</Text>
+      <Value>r_deflector.defl_flat_l</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_deflector.jpg</Image>
+      <Text>Stock AERO</Text>
+      <Value>r_deflector.defl_rub</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof deflector</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_deflector.jpg</Image>
+      <Text>Stock AERO + lights</Text>
+      <Value>r_deflector.defl_rub_l</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fender.jpg</Image>
+      <Text>Paint 4x</Text>
+      <Value>r_fender.paint_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fender.jpg</Image>
+      <Text>Paint 6x</Text>
+      <Value>r_fender.paint_6x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fender.jpg</Image>
+      <Text>Paint 6x4</Text>
+      <Value>r_fender.paint_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fender.jpg</Image>
+      <Text>Paint 6x4p</Text>
+      <Value>r_fender.paint_6x4p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fender.jpg</Image>
+      <Text>Paint 8x4</Text>
+      <Value>r_fender.paint_8x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fendr_top.jpg</Image>
+      <Text>Paint 4x</Text>
+      <Value>r_fendr_top.paint_4x</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fendr_top.jpg</Image>
+      <Text>Paint 6x4 x2</Text>
+      <Value>r_fendr_top.paint_6x4_1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fendr_top.jpg</Image>
+      <Text>Paint 6x4 x2</Text>
+      <Value>r_fendr_top.paint_6x4_1p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fendr_top.jpg</Image>
+      <Text>Paint 6x4 x2</Text>
+      <Value>r_fendr_top.paint_6x4_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fendr_top.jpg</Image>
+      <Text>Paint 6x4 x2</Text>
+      <Value>r_fendr_top.paint_6x4_2p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fendr_top.jpg</Image>
+      <Text>Paint 6x4 x4</Text>
+      <Value>r_fendr_top.paint_6x4_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fendr_top.jpg</Image>
+      <Text>Paint 6x4 x4</Text>
+      <Value>r_fendr_top.paint_6x4_3p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fendr_top.jpg</Image>
+      <Text>Paint 6x x2</Text>
+      <Value>r_fendr_top.paint_6x_1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fendr_top.jpg</Image>
+      <Text>Paint 6x x2</Text>
+      <Value>r_fendr_top.paint_6x_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fendr_top.jpg</Image>
+      <Text>Paint 6x x4</Text>
+      <Value>r_fendr_top.paint_6x_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fendr_top.jpg</Image>
+      <Text>Paint 8x x2</Text>
+      <Value>r_fendr_top.paint_8x_4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fendr_top.jpg</Image>
+      <Text>Paint 8x x4</Text>
+      <Value>r_fendr_top.paint_8x_1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fendr_top.jpg</Image>
+      <Text>Paint 8x x4</Text>
+      <Value>r_fendr_top.paint_8x_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Rear Fender Top</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_fendr_top.jpg</Image>
+      <Text>Paint 8x x6</Text>
+      <Value>r_fendr_top.paint_8x_3</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Grill</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_grill.jpg</Image>
+      <Text>Paint</Text>
+      <Value>r_grill.glob_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Grill</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_grill.jpg</Image>
+      <Text>Paint v2</Text>
+      <Value>r_grill.glob_p2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Grill</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_grill_m.jpg</Image>
+      <Text>Paint M</Text>
+      <Value>r_grill.glob_m_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Grill</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_grill_m.jpg</Image>
+      <Text>Paint M 2</Text>
+      <Value>r_grill.glob_m_p2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Grill</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_grill_fm.jpg</Image>
+      <Text>Paint FM</Text>
+      <Value>r_grill.glob_fm_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Roof Grill</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\r_grill_fm.jpg</Image>
+      <Text>Paint FM 2</Text>
+      <Value>r_grill.glob_fm_p2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\6x2.jpg</Image>
+      <Text>Stock 6x2</Text>
+      <Value>sideskirt.6x2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\short_r.jpg</Image>
+      <Text>Stock 6x2 + Radar</Text>
+      <Value>sideskirt.6x2_r</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\short_r.jpg</Image>
+      <Text>Stock 6x2 + Radar Paint</Text>
+      <Value>sideskirt.6x2_rp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\6x2_2.jpg</Image>
+      <Text>Stock 6x2 v2</Text>
+      <Value>sideskirt.6x2_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\6x2_v.jpg</Image>
+      <Text>Stock 6x2 v3</Text>
+      <Value>sideskirt.6x2_v</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\6x2_v.jpg</Image>
+      <Text>Stock 8x4</Text>
+      <Value>sideskirt.8x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\long_2.jpg</Image>
+      <Text>Stock var. 2</Text>
+      <Value>sideskirt.long_2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\long_flat.jpg</Image>
+      <Text>Stock</Text>
+      <Value>sideskirt.long_flat</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\short_r.jpg</Image>
+      <Text>Stock + Radar</Text>
+      <Value>sideskirt.long_r</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\short_r.jpg</Image>
+      <Text>Stock + Radar paint</Text>
+      <Value>sideskirt.long_rp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\short.jpg</Image>
+      <Text>Stock short</Text>
+      <Value>sideskirt.short</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\short_6x4.jpg</Image>
+      <Text>Stock 6x4</Text>
+      <Value>sideskirt.short_6x4</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\short_r.jpg</Image>
+      <Text>Stock 6x4 + Radar</Text>
+      <Value>sideskirt.6x4_r</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\short_r.jpg</Image>
+      <Text>Stock 6x4 + Radar Paint</Text>
+      <Value>sideskirt.6x4_rp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\short_r.jpg</Image>
+      <Text>Stock short + Radar</Text>
+      <Value>sideskirt.short_r</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\short_r.jpg</Image>
+      <Text>Stock short + Radar Paint</Text>
+      <Value>sideskirt.short_rp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt bars</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\sideskrt_bar.jpg</Image>
+      <Text>Metec S-LINER Paint 6x4</Text>
+      <Value>sideskrt_bar.metec_s_l64p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sideskirt bars</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\sideskrt_bar.jpg</Image>
+      <Text>Metec S-LINER Paint 4x2</Text>
+      <Value>sideskrt_bar.metec_s_lp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Store box</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\store_box.jpg</Image>
+      <Text>Store box left + right</Text>
+      <Value>store_box.2_storage</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Store box</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\store_box.jpg</Image>
+      <Text>Without store box</Text>
+      <Value>store_box.empty</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Store box</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\store_box.jpg</Image>
+      <Text>Store box left</Text>
+      <Value>store_box.storage_l</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Visor</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\sunshld.jpg</Image>
+      <Text>Paint</Text>
+      <Value>sunshld.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Visor</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\sunshld.jpg</Image>
+      <Text>Paint chrom</Text>
+      <Value>sunshld.paint_c</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Sun Visor</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\sunshld.jpg</Image>
+      <Text>Stock paint</Text>
+      <Value>sunshld.stock_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\s_deflector.jpg</Image>
+      <Text>Stock 1</Text>
+      <Value>s_deflector.globe</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\s_deflector.jpg</Image>
+      <Text>Stock 2</Text>
+      <Value>s_deflector.globe_door</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\s_deflector.jpg</Image>
+      <Text>Stock 1 AERO</Text>
+      <Value>s_deflector.globe_rub</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\s_deflector.jpg</Image>
+      <Text>Stock 2 AERO</Text>
+      <Value>s_deflector.globe_rub_d</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\s_deflector.jpg</Image>
+      <Text>8x4 POPP logo paint</Text>
+      <Value>sidecover.s_def_popp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\s_deflector.jpg</Image>
+      <Text>8x4 POPP logo white</Text>
+      <Value>sidecover.s_def_popp1</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\s_deflector.jpg</Image>
+      <Text>8x4 POPP logo black</Text>
+      <Value>sidecover.s_def_popp2</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\s_mirror.jpg</Image>
+      <Text>Paint</Text>
+      <Value>s_mirror.f_paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\s_mirror.jpg</Image>
+      <Text>Stock paint</Text>
+      <Value>s_mirror.paint</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Side Mirror</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\s_mirror.jpg</Image>
+      <Text>Paint chrom</Text>
+      <Value>s_mirror.paint_ch</Value>
+    </ListItem>
+    <ListItem>
+      <Description>See screenshot for location.</Description>
+      <Group>Corner Deflectors</Group>
+      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\cor_def.jpg</Image>
+      <Text>Stock</Text>
+      <Value>cor_def.stock</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Accessory category: Front Grille.</Description>
+      <Group>Front Grille</Group>
+      <Image></Image>
+      <Text>Accessory Slot + Front Lamp Holder Paint</Text>
+      <Value>f_inlay_cab.slot_hp</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Accessory category: Front Grille.</Description>
+      <Group>Front Grille</Group>
+      <Image></Image>
+      <Text>Accessory Slot + Front Lamp Holder Paint + Chrome</Text>
+      <Value>f_inlay_cab.slot_hpc</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Accessory category: Roof Lamp Holder.</Description>
+      <Group>Roof Lamp Holder</Group>
+      <Image></Image>
+      <Text>Roof Lamp Holder Paint</Text>
+      <Value>lamp_holder.r_g_plug_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Accessory category: Secondary lights.</Description>
+      <Group>Secondary lights</Group>
+      <Image></Image>
+      <Text>Paint</Text>
+      <Value>r_s_lights.glob_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Accessory category: Secondary lights.</Description>
+      <Group>Secondary lights</Group>
+      <Image></Image>
+      <Text>Paint Orange DRL</Text>
+      <Value>r_s_lights.glob_p_o</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Accessory category: Side indicators.</Description>
+      <Group>Side indicators</Group>
+      <Image></Image>
+      <Text>FH16 Paint</Text>
+      <Value>s_blink.fh16_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Accessory category: Side indicators.</Description>
+      <Group>Side indicators</Group>
+      <Image></Image>
+      <Text>FH16 Paint Orange DRL</Text>
+      <Value>s_blink.fh16_p_o</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Accessory category: Side indicators.</Description>
+      <Group>Side indicators</Group>
+      <Image></Image>
+      <Text>Paint</Text>
+      <Value>s_blink.fh_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Accessory category: Side indicators.</Description>
+      <Group>Side indicators</Group>
+      <Image></Image>
+      <Text>Paint Orange DRL</Text>
+      <Value>s_blink.fh_p_o</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Accessory category: Stoneguard.</Description>
+      <Group>Stoneguard</Group>
+      <Image></Image>
+      <Text>Extra Paint</Text>
+      <Value>s_guard.extra_p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Accessory category: Stoneguard.</Description>
+      <Group>Stoneguard</Group>
+      <Image></Image>
+      <Text>Razor Paint</Text>
+      <Value>s_guard.razor_p</Value>
+    </ListItem>
+  </AccessoryItems>
+  <XmlSource>All</XmlSource>
+  <Game>ETS2</Game>
+  <InternalName>volvo.fh_2022</InternalName>
+  <SoundItems />
+  <VehicleAuthor>Sanax</VehicleAuthor>
+  <VehicleName>Volvo|Volvo FH 2022 - Free</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>globe_cab.volvo.fh_2022.cabin</InternalName>
+      <Name>Globetrotter</Name>
+    </Variant>
+    <Variant>
+      <InternalName>globe_cab_w.volvo.fh_2022.cabin</InternalName>
+      <Name>Globetrotter side window</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Sanax</XmlDefinitionAuthor>
+  <DateUpdated>2026-11-06T00:00:00</DateUpdated>
+</Variable>
