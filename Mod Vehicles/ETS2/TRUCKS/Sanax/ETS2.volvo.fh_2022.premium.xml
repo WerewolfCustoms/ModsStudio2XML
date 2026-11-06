@@ -5461,6 +5461,16 @@
       <InternalName>fh16_xl_w.volvo.fh_2022.cabin</InternalName>
       <Name>FH16 Globetrotter XL side window</Name>
     </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>globe_cab.volvo.fh_2022.cabin</InternalName>
+      <Name>Globetrotter</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>globe_cab_w.volvo.fh_2022.cabin</InternalName>
+      <Name>Globetrotter side window</Name>
+    </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>Sanax</XmlDefinitionAuthor>
   <DateUpdated>2026-11-06T00:00:00</DateUpdated>
