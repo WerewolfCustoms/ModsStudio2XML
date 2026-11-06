@@ -1147,62 +1147,6 @@
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
-      <Group>Lower mirror mount</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\mirror.jpg</Image>
-      <Text>Paint</Text>
-      <Value>f_intake_bar.clear_1_p</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.</Description>
-      <Group>Lower mirror mount</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\mirror.jpg</Image>
-      <Text>Paint</Text>
-      <Value>f_intake_bar.clear_1_p_f</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.</Description>
-      <Group>Lower mirror mount</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\mirror.jpg</Image>
-      <Text>Paint</Text>
-      <Value>f_intake_bar.clear_2_p</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.</Description>
-      <Group>Lower mirror mount</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\mirror.jpg</Image>
-      <Text>Paint</Text>
-      <Value>f_intake_bar.clear_2_p_f</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.</Description>
-      <Group>Lower mirror mount</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\mirror.jpg</Image>
-      <Text>Paint</Text>
-      <Value>f_intake_bar.clear_3_p</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.</Description>
-      <Group>Lower mirror mount</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\mirror.jpg</Image>
-      <Text>Paint</Text>
-      <Value>f_intake_bar.clear_3_p_f</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.</Description>
-      <Group>Lower mirror mount</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\mirror.jpg</Image>
-      <Text>Paint</Text>
-      <Value>f_intake_bar.stock_p</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.</Description>
-      <Group>Lower mirror mount</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\mirror.jpg</Image>
-      <Text>Paint</Text>
-      <Value>f_intake_bar.stock_p_f</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.</Description>
       <Group>Position lights on the roof</Group>
       <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\park_lights.jpg</Image>
       <Text>Paint LED</Text>
@@ -2096,13 +2040,6 @@
       <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\short_r.jpg</Image>
       <Text>Duty 6x2 +Radar WB4000</Text>
       <Value>sideskirt.duty_6x2_brc</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.</Description>
-      <Group>Sideskirt</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\short_r.jpg</Image>
-      <Text>Duty 6x2 v2 +Radar WB4000</Text>
-      <Value>sideskirt.duty_6x2brcp</Value>
     </ListItem>
     <ListItem>
       <Description>See screenshot for location.</Description>
@@ -4250,13 +4187,6 @@
       <Description>See screenshot for location.</Description>
       <Group>Sun Visor</Group>
       <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\sunshld.jpg</Image>
-      <Text>SG Extended</Text>
-      <Value>sunshld.paint_ext</Value>
-    </ListItem>
-    <ListItem>
-      <Description>See screenshot for location.</Description>
-      <Group>Sun Visor</Group>
-      <Image>\Data\ModData\SCS\Vehicles\Images\Trucks\Sanax\VolvoFH2022\sunshld.jpg</Image>
       <Text>Stock Paint + LAZER LED</Text>
       <Value>sunshld.st_p_lazer</Value>
     </ListItem>
@@ -5533,5 +5463,5 @@
     </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>Sanax</XmlDefinitionAuthor>
-   <DateUpdated>2026-11-06T00:00:00</DateUpdated>
+  <DateUpdated>2026-11-06T00:00:00</DateUpdated>
 </Variable>
