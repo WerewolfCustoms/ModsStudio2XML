@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Mods Studio 2 project template: Truck transmission
+  Place this file and Transmission.sii in:
+    <MS2 install>\Data\ModProjects\ETS2\Templates\Transmission\
+  Save as UTF-8.
+
+  NOTES
+   - xsi:type="ScsTemplate" - no transmission template class exists in the
+     library (confirmed against ScsTemplate's XmlInclude list), so the
+     generic base is used.
+   - ratios_forward[] / ratios_reverse[] use bracketed array syntax per the
+     SCS wiki. Verified working in game.
+   - transmission_names is an OWNER POINTER, not an inline array. It refers
+     to a separate transmission_names unit declared in the same SiiNunit
+     block. The two array variables below feed that second unit.
+   - If you do not want custom gear names, delete the two
+     TransmissionNames* variables AND the "transmission_names:" line plus
+     the second unit block in Transmission.sii.
+-->
+<Template xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsTemplate">
+  <BuildActions>
+    <Action xsi:type="CreateDirectory">
+      <Paths>
+        <string>\def\vehicle\truck\{{Truck}}\transmission\</string>
+        <string>\material\ui\accessory\transmission\ms2\</string>
+      </Paths>
+    </Action>
+    <Action xsi:type="CopyFile">
+      <Paths>
+        <CopyPair>
+          <From>Transmission.sii</From>
+          <To>\def\vehicle\truck\{{Truck}}\transmission\{{InternalName}}.sii</To>
+        </CopyPair>
+      </Paths>
+    </Action>
+    <Action xsi:type="UpdateTextVariables">
+      <Paths>
+        <string>\def\vehicle\truck\{{Truck}}\transmission\{{InternalName}}.sii</string>
+      </Paths>
+    </Action>
+    <Action xsi:type="ImportImage">
+      <Destination>\material\ui\accessory\transmission\ms2\{{InternalName}}.dds</Destination>
+      <OutputFormat>
+        <Format>Dds</Format>
+        <Preset>ScsIconImage</Preset>
+      </OutputFormat>
+      <Source>{{TransmissionIcon}}</Source>
+    </Action>
+    <Action xsi:type="GenerateTobjFile">
+      <Content>/material/ui/accessory/transmission/ms2/{{InternalName}}.dds</Content>
+      <FileName>\material\ui\accessory\transmission\ms2\{{InternalName}}.tobj</FileName>
+      <TobjType>UIIcon</TobjType>
+    </Action>
+    <Action xsi:type="WriteTextFile">
+      <FileName>\material\ui\accessory\transmission\ms2\{{InternalName}}.mat</FileName>
+      <TextLines>
+        <string>effect : "ui.rfx" {</string>
+        <string>	texture : "texture" {</string>
+        <string>		source : "{{InternalName}}.tobj"</string>
+        <string>		u_address : clamp</string>
+        <string>		v_address : clamp</string>
+        <string>		mip_filter : none</string>
+        <string>	}</string>
+        <string>}</string>
+      </TextLines>
+    </Action>
+  </BuildActions>
+  <MS2LibraryVersion>
+    <Major>2026</Major>
+    <Minor>1</Minor>
+  </MS2LibraryVersion>
+  <TemplateBaseFolder>\Data\ModProjects\ETS2\Templates\Transmission\</TemplateBaseFolder>
+  <TemplateDescription>Create a truck transmission mod</TemplateDescription>
+  <TemplateDisplayPattern>[[Transmission |]] {{Truck}} {{TransmissionName}}</TemplateDisplayPattern>
+  <TemplateGroup>Truck Technology</TemplateGroup>
+  <TemplateName>Truck transmission</TemplateName>
+  <Variables>
+    <Variable xsi:type="ScsVehicleVariable">
+      <ChildVariables />
+      <Group>truck</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>Truck</Name>
+      <Text>Truck</Text>
+      <Validators>
+        <Validator xsi:type="NotEmptyValidator">
+          <AdviceMessage>Please select a value.</AdviceMessage>
+        </Validator>
+      </Validators>
+      <XmlSource>All</XmlSource>
+      <Game>ETS2</Game>
+      <VehicleType>AllTrucks</VehicleType>
+      <DateUpdated xsi:nil="true" />
+    </Variable>
+    <Variable xsi:type="StringVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>InternalName</Name>
+      <Text>Transmission Internal Name</Text>
+      <QuickHelp>Unique identifier. Used for the def unit name, the .sii filename and the icon path. Avoid putting "InternalName" in any other variable's name.</QuickHelp>
+      <Validators>
+        <Validator xsi:type="NotEmptyValidator">
+          <AdviceMessage>Please enter a value.</AdviceMessage>
+        </Validator>
+        <Validator xsi:type="ScsExtendedInternalNameValidator" />
+        <Validator xsi:type="ScsDuplicatedInternalNameValidator">
+          <RegisterScope>InternalName</RegisterScope>
+        </Validator>
+      </Validators>
+    </Variable>
+    <Variable xsi:type="StringVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>TransmissionName</Name>
+      <Text>Transmission Name</Text>
+      <QuickHelp>Full name shown in the shop and garage UI.</QuickHelp>
+      <Validators>
+        <Validator xsi:type="NotEmptyValidator">
+          <AdviceMessage>Please enter a value.</AdviceMessage>
+        </Validator>
+        <Validator xsi:type="ScsValidStringValidator" />
+      </Validators>
+    </Variable>
+    <Variable xsi:type="IntegerVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>TransmissionPrice</Name>
+      <Text>Transmission Price</Text>
+      <QuickHelp>Price in EUR. The game hides the accessory from the shop if this is 0.</QuickHelp>
+      <Validators>
+        <Validator xsi:type="NumberRangeValidator">
+          <MaxValue xsi:nil="true" />
+          <MinValue>1</MinValue>
+        </Validator>
+      </Validators>
+      <Value>11000</Value>
+    </Variable>
+    <Variable xsi:type="IntegerVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>TransmissionUnlock</Name>
+      <Text>Unlock At Level</Text>
+      <Validators>
+        <Validator xsi:type="NumberRangeValidator">
+          <MaxValue xsi:nil="true" />
+          <MinValue>0</MinValue>
+        </Validator>
+      </Validators>
+      <Value>0</Value>
+    </Variable>
+    <Variable xsi:type="ListItemVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>PartType</Name>
+      <Text>Part Type</Text>
+      <QuickHelp>Drives the icon badge and tooltip shown on the accessory. Added in game version 1.44.</QuickHelp>
+      <PredefinedValues>
+        <anyType xsi:type="ListItemVariable">
+          <Value>unknown</Value>
+          <Text>Unknown</Text>
+          <Group>Types</Group>
+        </anyType>
+        <anyType xsi:type="ListItemVariable">
+          <Value>factory</Value>
+          <Text>Factory</Text>
+          <Group>Types</Group>
+        </anyType>
+        <anyType xsi:type="ListItemVariable">
+          <Value>aftermarket</Value>
+          <Text>Aftermarket</Text>
+          <Group>Types</Group>
+        </anyType>
+        <anyType xsi:type="ListItemVariable">
+          <Value>licensed</Value>
+          <Text>Licensed</Text>
+          <Group>Types</Group>
+        </anyType>
+      </PredefinedValues>
+      <PredefinedValuesSelected>true</PredefinedValuesSelected>
+      <Value>unknown</Value>
+    </Variable>
+    <Variable xsi:type="ListItemVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>TransmissionClass</Name>
+      <Text>Transmission Class</Text>
+      <QuickHelp>Used for shifting behaviour and sound selection. Any value other than heavy or standard falls back to heavy.</QuickHelp>
+      <PredefinedValues>
+        <anyType xsi:type="ListItemVariable">
+          <Value>heavy</Value>
+          <Text>Heavy</Text>
+          <Group>Classes</Group>
+        </anyType>
+        <anyType xsi:type="ListItemVariable">
+          <Value>standard</Value>
+          <Text>Standard</Text>
+          <Group>Classes</Group>
+        </anyType>
+      </PredefinedValues>
+      <PredefinedValuesSelected>true</PredefinedValuesSelected>
+      <Value>heavy</Value>
+    </Variable>
+    <Variable xsi:type="FloatVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>DifferentialRatio</Name>
+      <QuickHelp>Final drive ratio between the transmission output shaft and the wheels. Default 1.0.</QuickHelp>
+      <Text>Differential Ratio</Text>
+      <FormatString>f2</FormatString>
+      <Step>0.01</Step>
+      <Value>1</Value>
+    </Variable>
+    <Variable xsi:type="FloatVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>ShiftTime</Name>
+      <QuickHelp>The time, in seconds, it takes to shift gears in automatic shifting. Default 1.0.</QuickHelp>
+      <Text>Shift Time (seconds)</Text>
+      <FormatString>f2</FormatString>
+      <Step>0.1</Step>
+      <Value>1</Value>
+    </Variable>
+    <Variable xsi:type="FloatVariable">
+      <ChildVariables />
+      <Group>converter</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>StallTorqueRatio</Name>
+      <QuickHelp>Torque ratio multiplier if a torque converter is present. 
+      Any positive value multiplies lower-RPM torque. Leave at -1 for a conventional manual or automated gearbox.</QuickHelp>
+      <Text>Stall Torque Ratio</Text>
+      <FormatString>f2</FormatString>
+      <Step>0.1</Step>
+      <Value>-1</Value>
+    </Variable>
+    <Variable xsi:type="IntegerVariable">
+      <ChildVariables />
+      <Group>converter</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>TorqueConverterLockGear</Name>
+      <QuickHelp>The gear (1-based) from which the torque converter is locked. Zero means it is never locked. Default 2.</QuickHelp>
+      <Text>Torque Converter Lock Gear</Text>
+      <Validators>
+        <Validator xsi:type="NumberRangeValidator">
+          <MaxValue xsi:nil="true" />
+          <MinValue>0</MinValue>
+        </Validator>
+      </Validators>
+      <Value>2</Value>
+    </Variable>
+    <Variable xsi:type="ListItemVariable">
+      <ChildVariables />
+      <Group>converter</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>TorqueConverterCrawl</Name>
+      <Text>Torque Converter Crawl</Text>
+      <QuickHelp>When true, allows crawling on the torque converter without the throttle engaged. Default false.</QuickHelp>
+      <PredefinedValues>
+        <anyType xsi:type="ListItemVariable">
+          <Value>false</Value>
+          <Text>False</Text>
+          <Group>Crawl</Group>
+        </anyType>
+        <anyType xsi:type="ListItemVariable">
+          <Value>true</Value>
+          <Text>True</Text>
+          <Group>Crawl</Group>
+        </anyType>
+      </PredefinedValues>
+      <PredefinedValuesSelected>true</PredefinedValuesSelected>
+      <Value>false</Value>
+    </Variable>
+    <Variable xsi:type="IntegerVariable">
+      <ChildVariables />
+      <Group>crawls</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>ForwardCrawls</Name>
+      <QuickHelp>The number of ratios_forward to handle as crawler gears. Affects UI display only - it does not change the actual ratios. Added in ETS2 1.27.2.</QuickHelp>
+      <Text>Forward Crawler Gears</Text>
+      <Validators>
+        <Validator xsi:type="NumberRangeValidator">
+          <MaxValue xsi:nil="true" />
+          <MinValue>0</MinValue>
+        </Validator>
+      </Validators>
+      <Value>0</Value>
+    </Variable>
+    <Variable xsi:type="IntegerVariable">
+      <ChildVariables />
+      <Group>crawls</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>ReverseCrawls</Name>
+      <QuickHelp>The number of ratios_reverse to handle as crawler gears. Affects UI display only. Added in game version 1.60.</QuickHelp>
+      <Text>Reverse Crawler Gears</Text>
+      <Validators>
+        <Validator xsi:type="NumberRangeValidator">
+          <MaxValue xsi:nil="true" />
+          <MinValue>0</MinValue>
+        </Validator>
+      </Validators>
+      <Value>0</Value>
+    </Variable>
+    <Variable xsi:type="IntegerVariable">
+      <ChildVariables />
+      <Group>basic</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>Retarder</Name>
+      <QuickHelp>Number of output levels for the retarder. Zero disables retarder behaviour for this transmission.</QuickHelp>
+      <Text>Retarder Levels</Text>
+      <Validators>
+        <Validator xsi:type="NumberRangeValidator">
+          <MaxValue xsi:nil="true" />
+          <MinValue>0</MinValue>
+        </Validator>
+      </Validators>
+      <Value>0</Value>
+    </Variable>
+    <Variable xsi:type="StringVariable">
+      <ChildVariables />
+      <Group>display</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>AutoModeName</Name>
+      <Text>Auto Mode Prefix</Text>
+      <QuickHelp>Prefix for the gear number on the dashboard during automatic mode. Default "A". Added in game version 1.35.</QuickHelp>
+      <Value>A</Value>
+    </Variable>
+    <Variable xsi:type="StringVariable">
+      <ChildVariables />
+      <Group>display</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>ManualModeName</Name>
+      <Text>Manual Mode Prefix</Text>
+      <QuickHelp>Prefix for the gear number on the dashboard during manual mode. Default "M". Added in game version 1.35.</QuickHelp>
+      <Value>M</Value>
+    </Variable>
+    <Variable xsi:type="ScsStringArrayVariable">
+      <ChildVariables />
+      <Group>ratios</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>RatiosForward</Name>
+      <QuickHelp>One ratio per entry, positive, ordered by decreasing gear reduction. The number of entries defines the number of forward gears.</QuickHelp>
+      <Text>Forward Ratios</Text>
+      <InternalName>ratios_forward</InternalName>
+      <LineFormat>{0}[]: {1}</LineFormat>
+      <AllowEditing>true</AllowEditing>
+      <DisplayMode>Auto</DisplayMode>
+      <Validators>
+        <Validator xsi:type="NotEmptyValidator">
+          <AdviceMessage>Please enter a value.</AdviceMessage>
+        </Validator>
+        <Validator xsi:type="ScsValidStringValidator" />
+      </Validators>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </Variable>
+    <Variable xsi:type="ScsStringArrayVariable">
+      <ChildVariables />
+      <Group>ratios</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>RatiosReverse</Name>
+      <QuickHelp>One ratio per entry, negative values, ordered by decreasing gear reduction.</QuickHelp>
+      <Text>Reverse Ratios</Text>
+      <InternalName>ratios_reverse</InternalName>
+      <LineFormat>{0}[]: {1}</LineFormat>
+      <AllowEditing>true</AllowEditing>
+      <DisplayMode>Auto</DisplayMode>
+      <Validators>
+        <Validator xsi:type="NotEmptyValidator">
+          <AdviceMessage>Please enter a value.</AdviceMessage>
+        </Validator>
+        <Validator xsi:type="ScsValidStringValidator" />
+      </Validators>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </Variable>
+    <Variable xsi:type="ListItemVariable">
+      <ChildVariables />
+      <Group>sounds</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>TransmissionSounds</Name>
+      <Text>Transmission Sounds</Text>
+      <PredefinedValueSource>[Truck.SoundItems]</PredefinedValueSource>
+      <!-- 
+      <QuickHelp>Each entry assigns an FMOD event to a function, in "sound_name|sound_path" format. Expected names: air_gear, retarder, gear_grind, gear_wrong. Leave empty to use defaults. Added in game version 1.39.</QuickHelp>
+      <InternalName>sounds</InternalName>
+      <AllowEditing>true</AllowEditing>
+      <DisplayMode>Auto</DisplayMode> -->
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </Variable>
+    <Variable xsi:type="ScsStringArrayVariable">
+      <ChildVariables />
+      <Group>names</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>TransmissionNamesForward</Name>
+      <QuickHelp>Custom labels for forward gears, e.g. 1L, 1H, 2L. One per forward ratio, in the same order. Leave empty to omit custom names.</QuickHelp>
+      <Text>Forward Gear Names</Text>
+      <InternalName>forward</InternalName>
+      <AllowEditing>true</AllowEditing>
+      <Validators>
+        <Validator xsi:type="NotEmptyValidator">
+          <AdviceMessage>Please enter a value.</AdviceMessage>
+        </Validator>
+        <Validator xsi:type="ScsValidStringValidator" />
+      </Validators>
+      <DisplayMode>Auto</DisplayMode>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </Variable>
+    <Variable xsi:type="ScsStringArrayVariable">
+      <ChildVariables />
+      <Group>names</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>TransmissionNamesReverse</Name>
+      <QuickHelp>Custom labels for reverse gears. One per reverse ratio, in the same order. Leave empty to omit custom names.</QuickHelp>
+      <Text>Reverse Gear Names</Text>
+      <InternalName>reverse</InternalName>
+      <AllowEditing>true</AllowEditing>
+      <Validators>
+        <Validator xsi:type="NotEmptyValidator">
+          <AdviceMessage>Please enter a value.</AdviceMessage>
+        </Validator>
+        <Validator xsi:type="ScsValidStringValidator" />
+      </Validators>
+      <DisplayMode>Auto</DisplayMode>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </Variable>
+    <Variable xsi:type="ScsImageSourceVariable">
+      <ChildVariables />
+      <Group>info</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>TransmissionIcon</Name>
+      <Text>Transmission Icon</Text>
+      <Validators>
+        <Validator xsi:type="NotEmptyValidator">
+          <AdviceMessage>Please select an icon.</AdviceMessage>
+        </Validator>
+        <Validator xsi:type="ImageSizeValidator">
+          <Width>64</Width>
+          <Height>64</Height>
+        </Validator>
+        <Validator xsi:type="NPOTValidator">
+          <IsIcon>false</IsIcon>
+        </Validator>
+      </Validators>
+      <AllowedExtensions>
+        <string>png</string>
+        <string>dds</string>
+      </AllowedExtensions>
+      <PreloadDefault>true</PreloadDefault>
+      <UseDefaultOptions>
+        <string>Icons\1 - Default.png</string>
+      </UseDefaultOptions>
+      <GalleryPath>Icons\</GalleryPath>
+    </Variable>
+    <Variable xsi:type="ScsStringArrayVariable">
+      <ChildVariables />
+      <Group>info</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>SuitableFor</Name>
+      <QuickHelp>An array of accessories that need to be installed for this item to be available in store</QuickHelp>
+      <Text>Suitable for:</Text>
+      <InternalName>suitable_for</InternalName>
+      <LineFormat>{0}[]: "{1}"</LineFormat>
+      <AllowEditing>true</AllowEditing>
+      <DisplayMode>Auto</DisplayMode>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </Variable>
+    <Variable xsi:type="ScsStringArrayVariable">
+      <ChildVariables />
+      <Group>info</Group>
+      <IsEnabled>true</IsEnabled>
+      <Name>ConflictWith</Name>
+      <QuickHelp>An array of accessories that conflict with this item, which will be removed, once this one is applied</QuickHelp>
+      <Text>Conflicts with:</Text>
+      <InternalName>conflict_with</InternalName>
+      <LineFormat>{0}[]: "{1}"</LineFormat>
+      <AllowEditing>true</AllowEditing>
+      <DisplayMode>Auto</DisplayMode>
+      <PredefinedValuesSelected>false</PredefinedValuesSelected>
+    </Variable>
+  </Variables>
+</Template>
