@@ -7884,71 +7884,85 @@
   <VehicleVariants>
     <Variant>
       <AccessoryDependencies />
+      <Group>FH - PREMIUM VERSION</Group>
       <InternalName>fh_g_n.volvo.fh_2022.cabin</InternalName>
       <Name>FH Globetrotter</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
+      <Group>FH16 - PREMIUM VERSION</Group>
       <InternalName>fh16_g_n.volvo.fh_2022.cabin</InternalName>
       <Name>FH16 Globetrotter</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
+      <Group>FH - PREMIUM VERSION</Group>
       <InternalName>fh_g_w.volvo.fh_2022.cabin</InternalName>
       <Name>FH Globetrotter side window</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
+      <Group>FH16 - PREMIUM VERSION</Group>
       <InternalName>fh16_g_w.volvo.fh_2022.cabin</InternalName>
       <Name>FH16 Globetrotter side window</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
+      <Group>FH - PREMIUM VERSION</Group>
       <InternalName>fh_sl_n.volvo.fh_2022.cabin</InternalName>
       <Name>FH Sleeper</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
+      <Group>FH16 - PREMIUM VERSION</Group>
       <InternalName>fh16_sl_n.volvo.fh_2022.cabin</InternalName>
       <Name>FH16 Sleeper</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
+      <Group>FH - PREMIUM VERSION</Group>
       <InternalName>fh_sl_w.volvo.fh_2022.cabin</InternalName>
       <Name>FH Sleeper side window</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
+      <Group>FH16 - PREMIUM VERSION</Group>
       <InternalName>fh16_sl_w.volvo.fh_2022.cabin</InternalName>
       <Name>FH16 Sleeper side window</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
+      <Group>FH - PREMIUM VERSION</Group>
       <InternalName>fh_xl_n.volvo.fh_2022.cabin</InternalName>
       <Name>FH Globetrotter XL</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
+      <Group>FH16 - PREMIUM VERSION</Group>
       <InternalName>fh16_xl_n.volvo.fh_2022.cabin</InternalName>
       <Name>FH16 Globetrotter XL</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
+      <Group>FH - PREMIUM VERSION</Group>
       <InternalName>fh_xl_w.volvo.fh_2022.cabin</InternalName>
       <Name>FH Globetrotter XL side window</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
+      <Group>FH16 - PREMIUM VERSION</Group>
       <InternalName>fh16_xl_w.volvo.fh_2022.cabin</InternalName>
       <Name>FH16 Globetrotter XL side window</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
+      <Group>FREE VERSION</Group>
       <InternalName>globe_cab.volvo.fh_2022.cabin</InternalName>
       <Name>Globetrotter</Name>
     </Variant>
     <Variant>
       <AccessoryDependencies />
+      <Group>FREE VERSION</Group>
       <InternalName>globe_cab_w.volvo.fh_2022.cabin</InternalName>
       <Name>Globetrotter side window</Name>
     </Variant>
