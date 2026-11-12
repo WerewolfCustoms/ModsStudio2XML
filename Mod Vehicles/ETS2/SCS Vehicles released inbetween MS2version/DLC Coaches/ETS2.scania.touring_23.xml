@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>bumper_standard_painted</Text>
+      <Value>f_bumper.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Front Intake</Group>
+      <Text>f_intake_standard_painted</Text>
+      <Value>f_intake.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>mirror_standard_fully_painted</Text>
+      <Value>mirror.std_pnf</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>mirror_standard_painted</Text>
+      <Value>mirror.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>bumper_standard_painted</Text>
+      <Value>r_bumper.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Panel</Group>
+      <Text>r_panel_standard_painted</Text>
+      <Value>r_panel.std_pnt</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>scania.touring_23</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>Scania|Scania Touring 2023</VehicleName>
+  <VehicleType>All</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>129h4.scania.touring_23.cabin</InternalName>
+      <Name>busbody_hd_129m_4x2</Name>
+    </Variant>
+    <Variant>
+      <InternalName>137h6.scania.touring_23.cabin</InternalName>
+      <Name>busbody_hd_137m_6x2_4</Name>
+    </Variant>
+  </VehicleVariants>
+  <DateUpdated>2026-11-12T00:00:00</DateUpdated>
+</Variable>
