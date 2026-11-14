@@ -79,16 +79,18 @@
       <Value>s_strip.std_pnc</Value>
     </ListItem>
   </AccessoryItems>
+  <XmlSource>All</XmlSource>
   <Game>ATS</Game>
   <InternalName>ford.victoria_06</InternalName>
   <SoundItems />
   <VehicleAuthor>SCS Software</VehicleAuthor>
   <VehicleName>Ford|2006 Ford Crown Victoria</VehicleName>
-  <VehicleType>All</VehicleType>
+  <VehicleType>Cars</VehicleType>
   <VehicleVariants>
     <Variant>
       <InternalName>sedan.ford.victoria_06.cabin</InternalName>
       <Name>Sedan</Name>
     </Variant>
   </VehicleVariants>
+  <DateUpdated xsi:nil="true" />
 </Variable>

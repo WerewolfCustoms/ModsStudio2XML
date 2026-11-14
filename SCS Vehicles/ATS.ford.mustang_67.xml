@@ -15,12 +15,13 @@
       <Value>hood.std_pnt</Value>
     </ListItem>
   </AccessoryItems>
+  <XmlSource>All</XmlSource>
   <Game>ATS</Game>
   <InternalName>ford.mustang_67</InternalName>
   <SoundItems />
   <VehicleAuthor>SCS Software</VehicleAuthor>
   <VehicleName>Ford|1967 Ford Mustang Fastback</VehicleName>
-  <VehicleType>All</VehicleType>
+  <VehicleType>Cars</VehicleType>
   <VehicleVariants>
     <Variant>
       <AccessoryDependencies />
@@ -28,4 +29,5 @@
       <Name>Fastback</Name>
     </Variant>
   </VehicleVariants>
+  <DateUpdated xsi:nil="true" />
 </Variable>
