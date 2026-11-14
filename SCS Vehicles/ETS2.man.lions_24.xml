@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <XmlSource>All</XmlSource>
+  <Game>ETS2</Game>
+  <InternalName>man.lions_24</InternalName>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>MAN|Lion’s Coach</VehicleName>
+  <VehicleType>Coaches</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>121h4.man.lions_24.cabin</InternalName>
+      <Name>12.1 m (4x2)</Name>
+    </Variant>
+    <Variant>
+      <InternalName>139h6.man.lions_24.cabin</InternalName>
+      <Name>13.9 m (6x2/4)</Name>
+    </Variant>
+  </VehicleVariants>
+  <DateUpdated xsi:nil="true" />
+</Variable>
