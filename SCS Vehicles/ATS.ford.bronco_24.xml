@@ -50,5 +50,6 @@
       <Name>Badlands 4-Door</Name>
     </Variant>
   </VehicleVariants>
+  <XmlDefinitionAuthor>m1keY</XmlDefinitionAuthor>
   <DateUpdated xsi:nil="true" />
 </Variable>
