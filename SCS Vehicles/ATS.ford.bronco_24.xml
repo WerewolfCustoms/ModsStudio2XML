@@ -30,6 +30,7 @@
       <Value>doorhndl.std_pnt</Value>
     </ListItem>
   </AccessoryItems>
+  <XmlSource>All</XmlSource>
   <Game>ATS</Game>
   <InternalName>ford.bronco_24</InternalName>
   <SoundItems>
@@ -41,7 +42,7 @@
   </SoundItems>
   <VehicleAuthor>SCS Software</VehicleAuthor>
   <VehicleName>Ford|2024 Ford Bronco Badlands</VehicleName>
-  <VehicleType>All</VehicleType>
+  <VehicleType>Cars</VehicleType>
   <VehicleVariants>
     <Variant>
       <AccessoryDependencies />
@@ -49,4 +50,5 @@
       <Name>Badlands 4-Door</Name>
     </Variant>
   </VehicleVariants>
+  <DateUpdated xsi:nil="true" />
 </Variable>

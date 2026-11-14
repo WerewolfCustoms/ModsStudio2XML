@@ -40,6 +40,7 @@
       <Value>r_bumper.std_pnt</Value>
     </ListItem>
   </AccessoryItems>
+  <XmlSource>All</XmlSource>
   <Game>ATS</Game>
   <InternalName>ford.f150_23</InternalName>
   <SoundItems>
@@ -51,7 +52,7 @@
   </SoundItems>
   <VehicleAuthor>SCS Software</VehicleAuthor>
   <VehicleName>Ford|2023 Ford F-150</VehicleName>
-  <VehicleType>All</VehicleType>
+  <VehicleType>Cars</VehicleType>
   <VehicleVariants>
     <Variant>
       <AccessoryDependencies />
@@ -59,4 +60,5 @@
       <Name>Lariat SuperCrew</Name>
     </Variant>
   </VehicleVariants>
+  <DateUpdated xsi:nil="true" />
 </Variable>
