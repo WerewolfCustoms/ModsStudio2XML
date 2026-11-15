@@ -28,7 +28,7 @@ jobs:
             $names = (& git diff --name-only --diff-filter=ACMRT -z "$env:BASE_SHA...$env:HEAD_SHA") -join "`n"
             if ($LASTEXITCODE -ne 0) { throw 'Could not determine changed files.' }
             $files = @($names.Split([char]0, [StringSplitOptions]::RemoveEmptyEntries) | Where-Object {
-              ($_.StartsWith('SCS Vehicles/') -or $_.StartsWith('Mod Vehicles/')) -and $_.EndsWith('.xml', [StringComparison]::OrdinalIgnoreCase)
+              $_.EndsWith('.xml', [StringComparison]::OrdinalIgnoreCase)
             })
           } else {
             $files = @(Get-ChildItem -LiteralPath 'SCS Vehicles', 'Mod Vehicles' -Recurse -File -Filter '*.xml' | ForEach-Object FullName)
