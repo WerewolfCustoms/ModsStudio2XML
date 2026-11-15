@@ -31,7 +31,7 @@ jobs:
               $_.EndsWith('.xml', [StringComparison]::OrdinalIgnoreCase)
             })
           } else {
-            $files = @(Get-ChildItem -LiteralPath 'SCS Vehicles', 'Mod Vehicles' -Recurse -File -Filter '*.xml' | ForEach-Object FullName)
+            $files = @(Get-ChildItem -LiteralPath . -Recurse -File -Filter '*.xml' | ForEach-Object FullName)
           }
           if ($files.Count -eq 0) { Write-Host 'No vehicle XML files to validate.'; exit 0 }
           $archive = "$env:RUNNER_TEMP/xml-validator.zip"
