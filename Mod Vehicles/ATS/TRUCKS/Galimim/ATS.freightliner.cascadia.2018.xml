@@ -230,7 +230,7 @@
   <InternalName>freightliner.cascadia.2018</InternalName>
   <VehicleAuthor>galimim, Felipe Conbar</VehicleAuthor>
   <VehicleName>Freightliner Cascadia 2018</VehicleName>
-  <VehicleType>Oldtrucks</VehicleType>
+  <VehicleType>OldTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
       <InternalName>day_cab.freightliner.cascadia.2018.cabin</InternalName>
