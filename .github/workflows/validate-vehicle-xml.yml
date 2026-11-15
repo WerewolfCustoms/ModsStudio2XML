@@ -19,6 +19,7 @@ jobs:
         with:
           dotnet-version: 8.0.x
       - name: Validate vehicle XML
+        id: validation
         shell: pwsh
         env:
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
@@ -33,6 +34,8 @@ jobs:
           } else {
             $files = @(Get-ChildItem -LiteralPath . -Recurse -File -Filter '*.xml' | ForEach-Object FullName)
           }
+          "selected=$($files.Count)" >> $env:GITHUB_OUTPUT
+          $files | Set-Content "$env:RUNNER_TEMP/xml-validation-files.txt"
           if ($files.Count -eq 0) { Write-Host 'No vehicle XML files to validate.'; exit 0 }
           $archive = "$env:RUNNER_TEMP/xml-validator.zip"
           Invoke-WebRequest 'https://github.com/WerewolfCustoms/ModsStudio2XML/releases/download/xml-validator/ModsStudio2Core-xml-validator-win-x64.zip' -OutFile $archive
@@ -43,7 +46,7 @@ jobs:
           $length = 0
           foreach ($file in $files) {
             if ($batch.Count -gt 0 -and $length + $file.Length + 3 -gt 12000) {
-              & "$env:RUNNER_TEMP/xml-validator/ModsStudio2Core.exe" xml validate --type vehicle @batch
+              & "$env:RUNNER_TEMP/xml-validator/ModsStudio2Core.exe" xml validate --type vehicle @batch 2>&1 | Tee-Object -FilePath "$env:RUNNER_TEMP/xml-validation.log" -Append
               if ($LASTEXITCODE -ne 0) { $result = 1 }
               $batch = @()
               $length = 0
@@ -52,7 +55,44 @@ jobs:
             $length += $file.Length + 3
           }
           if ($batch.Count -gt 0) {
-            & "$env:RUNNER_TEMP/xml-validator/ModsStudio2Core.exe" xml validate --type vehicle @batch
+            & "$env:RUNNER_TEMP/xml-validator/ModsStudio2Core.exe" xml validate --type vehicle @batch 2>&1 | Tee-Object -FilePath "$env:RUNNER_TEMP/xml-validation.log" -Append
             if ($LASTEXITCODE -ne 0) { $result = 1 }
           }
           exit $result
+      - name: Run summary
+        if: always()
+        shell: pwsh
+        env:
+          SOURCE_REF: ${{ github.head_ref || github.ref_name }}
+          SOURCE_COMMIT: ${{ github.sha }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          SELECTED: ${{ steps.validation.outputs.selected }}
+          VALIDATION_RESULT: ${{ steps.validation.outcome }}
+        run: |
+          $mode = if ($env:GITHUB_EVENT_NAME -eq 'pull_request') { 'Changed XML files in PR' } else { 'All repository XML files' }
+          $pr = if ($env:PR_NUMBER) { "#$env:PR_NUMBER" } else { 'Not applicable' }
+          @"
+          ## Inputs
+          - Trigger: $env:GITHUB_EVENT_NAME
+          - Mode: $mode
+          - Branch/ref: $env:SOURCE_REF
+          - Checked-out revision: $env:SOURCE_COMMIT
+          - PR: $pr
+          - XML files selected: $env:SELECTED
+
+          ## Results
+          - Validation step: $env:VALIDATION_RESULT
+          "@ >> $env:GITHUB_STEP_SUMMARY
+          if ($env:SELECTED -eq '0') { '- Skipped: no XML files to validate.' >> $env:GITHUB_STEP_SUMMARY }
+          if (Test-Path "$env:RUNNER_TEMP/xml-validation.log") {
+            $lines = @(Get-Content "$env:RUNNER_TEMP/xml-validation.log")
+            "- File results: $(@($lines -match '^PASS:').Count) passed, $(@($lines -match '^FAIL:').Count) failed, $(@($lines -match '^WARN:').Count) warning(s)." >> $env:GITHUB_STEP_SUMMARY
+            $lines -match '^XML validation using' | Select-Object -Unique | Add-Content $env:GITHUB_STEP_SUMMARY
+            $details = @($lines -match '^FAIL:|^WARN:')
+            if ($details.Count) { @('~~~text') + $details + @('~~~') | Add-Content $env:GITHUB_STEP_SUMMARY }
+          } elseif ($env:SELECTED -ne '0') {
+            '- No file results were produced; see the failed step in the log.' >> $env:GITHUB_STEP_SUMMARY
+          }
+          if (Test-Path "$env:RUNNER_TEMP/xml-validation-files.txt") {
+            @('<details><summary>Selected XML files</summary>', '', '~~~text') + @(Get-Content "$env:RUNNER_TEMP/xml-validation-files.txt") + @('~~~', '</details>') | Add-Content $env:GITHUB_STEP_SUMMARY
+          }
