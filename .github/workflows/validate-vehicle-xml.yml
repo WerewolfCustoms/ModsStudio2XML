@@ -1,0 +1,58 @@
+name: Validate vehicle XML
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-dotnet@v6
+        with:
+          dotnet-version: 8.0.x
+      - name: Validate vehicle XML
+        shell: pwsh
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          if ($env:GITHUB_EVENT_NAME -eq 'pull_request') {
+            $names = (& git diff --name-only --diff-filter=ACMRT -z "$env:BASE_SHA...$env:HEAD_SHA") -join "`n"
+            if ($LASTEXITCODE -ne 0) { throw 'Could not determine changed files.' }
+            $files = @($names.Split([char]0, [StringSplitOptions]::RemoveEmptyEntries) | Where-Object {
+              ($_.StartsWith('SCS Vehicles/') -or $_.StartsWith('Mod Vehicles/')) -and $_.EndsWith('.xml', [StringComparison]::OrdinalIgnoreCase)
+            })
+          } else {
+            $files = @(Get-ChildItem -LiteralPath 'SCS Vehicles', 'Mod Vehicles' -Recurse -File -Filter '*.xml' | ForEach-Object FullName)
+          }
+          if ($files.Count -eq 0) { Write-Host 'No vehicle XML files to validate.'; exit 0 }
+          $archive = "$env:RUNNER_TEMP/xml-validator.zip"
+          Invoke-WebRequest 'https://github.com/WerewolfCustoms/ModsStudio2XML/releases/download/xml-validator/ModsStudio2Core-xml-validator-win-x64.zip' -OutFile $archive
+          Expand-Archive -LiteralPath $archive -DestinationPath "$env:RUNNER_TEMP/xml-validator"
+          $PSNativeCommandUseErrorActionPreference = $false
+          $result = 0
+          $batch = @()
+          $length = 0
+          foreach ($file in $files) {
+            if ($batch.Count -gt 0 -and $length + $file.Length + 3 -gt 12000) {
+              & "$env:RUNNER_TEMP/xml-validator/ModsStudio2Core.exe" xml validate --type vehicle @batch
+              if ($LASTEXITCODE -ne 0) { $result = 1 }
+              $batch = @()
+              $length = 0
+            }
+            $batch += $file
+            $length += $file.Length + 3
+          }
+          if ($batch.Count -gt 0) {
+            & "$env:RUNNER_TEMP/xml-validator/ModsStudio2Core.exe" xml validate --type vehicle @batch
+            if ($LASTEXITCODE -ne 0) { $result = 1 }
+          }
+          exit $result
