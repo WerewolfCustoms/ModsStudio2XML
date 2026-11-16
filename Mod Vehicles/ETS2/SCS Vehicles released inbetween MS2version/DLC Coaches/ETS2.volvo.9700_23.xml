@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <AccessoryItems>
+    <ListItem>
+      <Group>Front Bumper</Group>
+      <Text>bumper_standard_painted</Text>
+      <Value>f_bumper.std_pnt_d</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>mirror_standard_painted</Text>
+      <Value>mirror.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>bumper_standard_painted</Text>
+      <Value>r_bumper.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Panel</Group>
+      <Text>r_panel_standard_painted</Text>
+      <Value>r_panel.std_pnt_d</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>volvo.9700_23</InternalName>
+  <SoundItems>
+    <ListItem>
+      <Group>SCS Software</Group>
+      <Text>Default Sound</Text>
+      <Value>sound</Value>
+    </ListItem>
+  </SoundItems>
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>Volvo|Volvo 9700 DD 2023  (DoubleDecker)</VehicleName>
+  <VehicleType>All</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <InternalName>143d6.volvo.9700_23.cabin</InternalName>
+      <Name>busbody_dd_40m</Name>
+    </Variant>
+  </VehicleVariants>
+  <DateUpdated>2026-11-12T00:00:00</DateUpdated>
+</Variable>
