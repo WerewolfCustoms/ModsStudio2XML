@@ -305,6 +305,60 @@
       <Text>3 Axles, Long</Text>
       <Value>chassis.ch_3_15</Value>
     </ListItem>
+    <ListItem>
+      <Description>Requires Unit to be added via Thermo King Template!</Description>
+      <Group>Thermo King (Read Description)</Group>
+      <Text>A 360</Text>
+      <Value>f_body.tka360p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Requires Unit to be added via Thermo King Template!</Description>
+      <Group>Thermo King (Read Description)</Group>
+      <Text>A 360 - No Decal</Text>
+      <Value>f_body.tka360pnd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Requires Unit to be added via Thermo King Template!</Description>
+      <Group>Thermo King (Read Description)</Group>
+      <Text>A 400 - No Decal</Text>
+      <Value>f_body.tka400pnd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Requires Unit to be added via Thermo King Template!</Description>
+      <Group>Thermo King (Read Description)</Group>
+      <Text>A 400</Text>
+      <Value>f_body.tka400p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Requires Unit to be added via Thermo King Template!</Description>
+      <Group>Thermo King (Read Description)</Group>
+      <Text>A 500 - No Decal</Text>
+      <Value>f_body.tka500pnd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Requires Unit to be added via Thermo King Template!</Description>
+      <Group>Thermo King (Read Description)</Group>
+      <Text>A 500</Text>
+      <Value>f_body.tka500p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Requires Unit to be added via Thermo King Template!</Description>
+      <Group>Thermo King (Read Description)</Group>
+      <Text>SLXi 300</Text>
+      <Value>f_body.tks300p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Requires Unit to be added via Thermo King Template!</Description>
+      <Group>Thermo King (Read Description)</Group>
+      <Text>SLXi 300 - No Decal</Text>
+      <Value>f_body.tks300pnd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Requires Unit to be added via Thermo King Template!</Description>
+      <Group>Thermo King (Read Description)</Group>
+      <Text>SLXi 400</Text>
+      <Value>f_body.tks400p</Value>
+    </ListItem>
   </AccessoryItems>
   <FilePath>C:\Users\Jaime\Documents\Mods Studio 2\UserVehicles\ETS2.kogel.cool.xml</FilePath>
   <Game>ETS2</Game>
