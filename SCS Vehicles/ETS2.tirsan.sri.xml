@@ -333,6 +333,60 @@
       <Text>Paint</Text>
       <Value>r_bumper.paint</Value>
     </ListItem>
+    <ListItem>
+      <Description>Requires Unit to be added via Thermo King Template!</Description>
+      <Group>Thermo King (Read Description)</Group>
+      <Text>A 360</Text>
+      <Value>f_body.tka360p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Requires Unit to be added via Thermo King Template!</Description>
+      <Group>Thermo King (Read Description)</Group>
+      <Text>A 360 - No Decal</Text>
+      <Value>f_body.tka360pnd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Requires Unit to be added via Thermo King Template!</Description>
+      <Group>Thermo King (Read Description)</Group>
+      <Text>A 400 - No Decal</Text>
+      <Value>f_body.tka400pnd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Requires Unit to be added via Thermo King Template!</Description>
+      <Group>Thermo King (Read Description)</Group>
+      <Text>A 400</Text>
+      <Value>f_body.tka400p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Requires Unit to be added via Thermo King Template!</Description>
+      <Group>Thermo King (Read Description)</Group>
+      <Text>A 500 - No Decal</Text>
+      <Value>f_body.tka500pnd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Requires Unit to be added via Thermo King Template!</Description>
+      <Group>Thermo King (Read Description)</Group>
+      <Text>A 500</Text>
+      <Value>f_body.tka500p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Requires Unit to be added via Thermo King Template!</Description>
+      <Group>Thermo King (Read Description)</Group>
+      <Text>SLXi 300</Text>
+      <Value>f_body.tks300p</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Requires Unit to be added via Thermo King Template!</Description>
+      <Group>Thermo King (Read Description)</Group>
+      <Text>SLXi 300 - No Decal</Text>
+      <Value>f_body.tks300pnd</Value>
+    </ListItem>
+    <ListItem>
+      <Description>Requires Unit to be added via Thermo King Template!</Description>
+      <Group>Thermo King (Read Description)</Group>
+      <Text>SLXi 400</Text>
+      <Value>f_body.tks400p</Value>
+    </ListItem>
   </AccessoryItems>
   <Game>ETS2</Game>
   <InternalName>tirsan.sri</InternalName>
