@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
   <ChildVariables />
-  <Id>fef17f89-a906-4d05-bdaf-c49da83910f3</Id>
   <IsEnabled>true</IsEnabled>
+  <Validators />
   <AccessoryItems>
     <ListItem>
       <Description>See screenshot for location.</Description>
@@ -165,6 +165,11 @@
       <Text>Duty Paint (rear of front fenders, 160gal tanks)</Text>
       <Value>sideskirt.shr16_fnd_pt</Value>
     </ListItem>
+    <ListItem>
+      <Group>Mudflaps</Group>
+      <Text>FlowBelow Painted</Text>
+      <Value>mudflaps.aero_pnt</Value>
+    </ListItem>
   </AccessoryItems>
   <Game>ATS</Game>
   <InternalName>westernstar.57x</InternalName>
@@ -181,15 +186,18 @@
   <VehicleType>NewTrucks</VehicleType>
   <VehicleVariants>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSWest57X\day.jpg</Image>
       <InternalName>day.westernstar.57x.cabin</InternalName>
       <Name>Day Cab</Name>
     </Variant>
     <Variant>
+      <AccessoryDependencies />
       <Image>Data\ModData\SCS\Vehicles\Images\TruckCabs\SCSWest57X\s72rr.jpg</Image>
       <InternalName>s72_rr.westernstar.57x.cabin</InternalName>
       <Name>72 Sleeper</Name>
     </Variant>
   </VehicleVariants>
   <XmlDefinitionAuthor>Lucasi and pete_agreatguy</XmlDefinitionAuthor>
+  <DateUpdated xsi:nil="true" />
 </Variable>
