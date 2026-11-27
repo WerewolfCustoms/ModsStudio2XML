@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Cabin Roof Deflectors</Group>
+      <Text>840 Roof Deflector</Text>
+      <Value>cabdefl.std_74m</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Rear Bumper</Group>
+      <Text>Flowbelow painted</Text>
+      <Value>r_bumper.fl_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Sideskirts</Group>
+      <Text>Day Cab Sideskirts</Text>
+      <Value>sideskirt.std_pnt_dc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Sideskirts</Group>
+      <Text>440 Sideskirts</Text>
+      <Value>sideskirt.std_pnt_42</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Painted Sideskirts</Group>
+      <Text>840/860 Painted Sideskirts</Text>
+      <Value>sideskirt.std_pnt_74</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>Front Left Mirror Painted</Text>
+      <Value>fl_mirror.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>Front Right Mirror Painted</Text>
+      <Value>fr_mirror.std_pnt</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>DayCab CAM Painted</Text>
+      <Value>mirror.cam_pnt_dc</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>CAM Painted</Text>
+      <Value>mirror.cam_pnt_s</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Mirrors</Group>
+      <Text>Std Mirrors Painted</Text>
+      <Value>mirror.std_pnt</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ATS</Game>
+  <InternalName>volvo.vnl2025</InternalName>
+  <SoundItems />
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>Volvo|VNL 2025</VehicleName>
+  <VehicleType>NewTrucks</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>dc.volvo.vnl2025.cabin</InternalName>
+      <Name>cabin_300</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>42m.volvo.vnl2025.cabin</InternalName>
+      <Name>cabin_440</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>74m.volvo.vnl2025.cabin</InternalName>
+      <Name>cabin_840</Name>
+    </Variant>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>74h.volvo.vnl2025.cabin</InternalName>
+      <Name>cabin_860</Name>
+    </Variant>
+  </VehicleVariants>
+  <XmlDefinitionAuthor>Pauly</XmlDefinitionAuthor>
+  <DateUpdated>2026-05-14T00:00:00</DateUpdated>
+</Variable>
