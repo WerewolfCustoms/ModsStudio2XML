@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Left Side</Group>
+      <Text>@@chs_acc_painted_side_skirt@@</Text>
+      <Value>chs_f_l.sp2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side</Group>
+      <Text>@@chs_acc_painted_side_skirt_painted_box@@</Text>
+      <Value>chs_f_l.sp2p_b1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side</Group>
+      <Text>@@chs_acc_painted_side_skirt_chromed_box@@</Text>
+      <Value>chs_f_l.sp2p_b1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side</Group>
+      <Text>@@chs_acc_painted_side_skirt_store_box@@</Text>
+      <Value>chs_f_l.sp2p_b2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side</Group>
+      <Text>@@chs_acc_painted_side_skirt@@</Text>
+      <Value>chs_f_r.sp2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side</Group>
+      <Text>@@chs_acc_painted_side_skirt_painted_box@@</Text>
+      <Value>chs_f_r.sp2p_b1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side</Group>
+      <Text>@@chs_acc_painted_side_skirt_chromed_box@@</Text>
+      <Value>chs_f_r.sp2p_b1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side</Group>
+      <Text>@@chs_acc_painted_side_skirt_store_box@@</Text>
+      <Value>chs_f_r.sp2p_b2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>@@bumper_exclusive@@</Text>
+      <Value>r_bumper.rbumper1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Fenders</Group>
+      <Text>@@fender_exclusive_painted@@</Text>
+      <Value>r_fender.exclusive_p</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>schwmuller.lowloader</InternalName>
+  <SoundItems />
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>DLC Schwarzmüller|Platform Low Loader</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.lowloader</InternalName>
+      <Name>@@series_schwarzmuller_lowloader@@</Name>
+    </Variant>
+  </VehicleVariants>
+  <DateUpdated xsi:nil="true" />
+</Variable>

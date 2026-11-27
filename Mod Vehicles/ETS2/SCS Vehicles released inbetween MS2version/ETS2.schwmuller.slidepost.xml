@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+  <ChildVariables />
+  <IsEnabled>true</IsEnabled>
+  <Validators />
+  <AccessoryItems>
+    <ListItem>
+      <Group>Left Side Middle</Group>
+      <Text>@@chs_acc_painted_pallet_box@@</Text>
+      <Value>chs_f_l.pallet2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle</Group>
+      <Text>@@chs_acc_simple_painted_side_skirt@@</Text>
+      <Value>chs_f_l.sp1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle</Group>
+      <Text>@@chs_acc_painted_side_skirt@@</Text>
+      <Value>chs_f_l.sp2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle</Group>
+      <Text>@@chs_acc_painted_side_skirt_spare_tyre@@</Text>
+      <Value>chs_f_l.sp2p_t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle</Group>
+      <Text>@@chs_acc_painted_side_skirt_tyre_rack@@</Text>
+      <Value>chs_f_l.sp2p_et</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle</Group>
+      <Text>@@chs_acc_painted_side_skirt_painted_box@@</Text>
+      <Value>chs_f_l.sp2p_b1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle</Group>
+      <Text>@@chs_acc_painted_side_skirt_chromed_box@@</Text>
+      <Value>chs_f_l.sp2p_b1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle</Group>
+      <Text>@@chs_acc_painted_side_skirt_store_box@@</Text>
+      <Value>chs_f_l.sp2p_b2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle</Group>
+      <Text>@@chs_acc_painted_side_skirt_stow_box@@</Text>
+      <Value>chs_f_l.sp2p_b3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle</Group>
+      <Text>@@chs_acc_painted_side_skirt_store_box@@</Text>
+      <Value>chs_f_l.sp2p_b4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Middle</Group>
+      <Text>@@chs_acc_side_skirt_painted_box@@</Text>
+      <Value>chs_f_l.sp2_b1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle</Group>
+      <Text>@@chs_acc_painted_pallet_box@@</Text>
+      <Value>chs_f_r.pallet2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle</Group>
+      <Text>@@chs_acc_simple_painted_side_skirt@@</Text>
+      <Value>chs_f_r.sp1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle</Group>
+      <Text>@@chs_acc_painted_side_skirt@@</Text>
+      <Value>chs_f_r.sp2p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle</Group>
+      <Text>@@chs_acc_painted_side_skirt_spare_tyre@@</Text>
+      <Value>chs_f_r.sp2p_t</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle</Group>
+      <Text>@@chs_acc_painted_side_skirt_tyre_rack@@</Text>
+      <Value>chs_f_r.sp2p_et</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle</Group>
+      <Text>@@chs_acc_painted_side_skirt_painted_box@@</Text>
+      <Value>chs_f_r.sp2p_b1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle</Group>
+      <Text>@@chs_acc_painted_side_skirt_chromed_box@@</Text>
+      <Value>chs_f_r.sp2p_b1</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle</Group>
+      <Text>@@chs_acc_painted_side_skirt_store_box@@</Text>
+      <Value>chs_f_r.sp2p_b2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle</Group>
+      <Text>@@chs_acc_painted_side_skirt_stow_box@@</Text>
+      <Value>chs_f_r.sp2p_b3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle</Group>
+      <Text>@@chs_acc_painted_side_skirt_store_box@@</Text>
+      <Value>chs_f_r.sp2p_b4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Middle</Group>
+      <Text>@@chs_acc_side_skirt_painted_box@@</Text>
+      <Value>chs_f_r.sp2_b1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Rear</Group>
+      <Text>@@chs_acc_painted_box_store_box@@</Text>
+      <Value>chs_r_l.b1p_b2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Rear</Group>
+      <Text>@@chs_acc_painted_box_stow_box@@</Text>
+      <Value>chs_r_l.b1p_b3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Rear</Group>
+      <Text>@@chs_acc_painted_box_store_box@@</Text>
+      <Value>chs_r_l.b1p_b4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Left Side Rear</Group>
+      <Text>@@chs_acc_painted_box@@</Text>
+      <Value>chs_r_l.b1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Rear</Group>
+      <Text>@@chs_acc_painted_box_store_box@@</Text>
+      <Value>chs_r_r.b1p_b2</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Rear</Group>
+      <Text>@@chs_acc_painted_box_stow_box@@</Text>
+      <Value>chs_r_r.b1p_b3</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Rear</Group>
+      <Text>@@chs_acc_painted_box_store_box@@</Text>
+      <Value>chs_r_r.b1p_b4</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Right Side Rear</Group>
+      <Text>@@chs_acc_painted_box@@</Text>
+      <Value>chs_r_r.b1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>@@bumper_exclusive_painted@@</Text>
+      <Value>r_bumper.rbumper1p</Value>
+    </ListItem>
+    <ListItem>
+      <Group>Rear Bumper</Group>
+      <Text>@@bumper_painted@@</Text>
+      <Value>r_bumper.rbumper2p</Value>
+    </ListItem>
+  </AccessoryItems>
+  <Game>ETS2</Game>
+  <InternalName>schwmuller.slidepost</InternalName>
+  <SoundItems />
+  <VehicleAuthor>SCS Software</VehicleAuthor>
+  <VehicleName>DLC Schwarzmüller||Platform Slidepost</VehicleName>
+  <VehicleType>Trailers</VehicleType>
+  <VehicleVariants>
+    <Variant>
+      <AccessoryDependencies />
+      <InternalName>body.slidepost</InternalName>
+      <Name>@@body_slide_post@@</Name>
+    </Variant>
+  </VehicleVariants>
+  <DateUpdated xsi:nil="true" />
+</Variable>
